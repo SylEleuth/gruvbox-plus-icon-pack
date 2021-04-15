@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 67.73 67.73">
+    <defs>
+        <linearGradient id="d" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ebdbb2"/>
+            <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
+            <stop offset=".925" stop-opacity=".098"/>
+            <stop offset="1" stop-opacity=".498"/>
+        </linearGradient>
+        <clipPath id="c">
+            <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
+        </clipPath>
+        <filter id="b" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="2.32"/>
+        </filter>
+        <filter id="a" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.16"/>
+        </filter>
+    </defs>
+    <path d="M188.969 44C261.617 44 272 54.357 272 126.938v58.124C272 257.644 261.617 268 188.969 268H115.03C42.383 268 32 257.643 32 185.062v-58.125C32 54.358 42.383 44 115.031 44z" transform="matrix(.2646 0 0 .2646 -7.197 -7.015)" opacity=".1" filter="url(#a)"/>
+    <path d="M188.969 46C261.617 46 272 56.357 272 128.938v58.125c0 72.58-10.383 82.937-83.031 82.937H115.03C42.383 270 32 259.643 32 187.062v-58.125C32 56.358 42.383 46 115.031 46z" transform="matrix(.2646 0 0 .2646 -7.197 -7.015)" opacity=".2" filter="url(#b)"/>
+    <path d="M42.805 4.628c19.223 0 21.97 2.74 21.97 21.945v15.38c0 19.205-2.747 21.946-21.97 21.946H23.24c-19.224 0-21.97-2.74-21.97-21.946v-15.38c0-19.205 2.746-21.945 21.97-21.945z" fill="#458588"/>
+    <path d="M64.743 23.392l-53.32 39.723c3.002.6 6.86.784 11.818.784h19.564c19.223 0 21.97-2.74 21.97-21.946v-15.38c0-1.117-.01-2.173-.032-3.18z" opacity=".1" fill="#ebdbb2"/>
+    <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" clip-path="url(#c)" transform="translate(-5.08 32.676) scale(.1323)" opacity=".6" fill="none" stroke="url(#d)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34.97 43.024l-7.788-8.76-13.628 8.76L29.13 25.502l7.787 9.735 15.575-9.735z" fill="#ebdbb2"/>
+</svg>

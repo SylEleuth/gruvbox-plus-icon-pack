@@ -1,0 +1,60 @@
+<svg width="256" height="256" viewBox="0 0 67.73 67.73" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="d" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ebdbb2"/>
+            <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
+            <stop offset=".925" stop-opacity=".098"/>
+            <stop offset="1" stop-opacity=".498"/>
+        </linearGradient>
+        <clipPath id="c">
+            <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
+        </clipPath>
+        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.16"/>
+        </filter>
+        <filter id="a" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="2.32"/>
+        </filter>
+        <filter id="e" x="-.06" y="-.7" width="1.118" height="2.411" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".778"/>
+        </filter>
+        <filter id="f" x="-.07" y="-.64" width="1.14" height="2.283" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="2.939"/>
+        </filter>
+        <filter id="g" y="-.06" width="1.194" height="1.119" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="2.939"/>
+        </filter>
+        <filter id="h" x="-.28" y="-.62" width="1.564" height="2.234" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".778"/>
+        </filter>
+        <filter id="i" x="-.28" y="-.7" width="1.564" height="2.411" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".778"/>
+        </filter>
+        <filter id="j" x="-.47" y="-.47" width="1.941" height="1.941" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".778"/>
+        </filter>
+        <filter id="k" x="-.28" y="-.11" width="1.564" height="1.217" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".778"/>
+        </filter>
+    </defs>
+    <path transform="matrix(.2697 0 0 .2697 -7.129 -8.706)" d="M188.969 46C261.617 46 272 56.357 272 128.938v58.125c0 72.58-10.383 82.937-83.031 82.937H115.03C42.383 270 32 259.643 32 187.062v-58.125C32 56.358 42.383 46 115.031 46z" filter="url(#a)" opacity=".02"/>
+    <path transform="matrix(.2697 0 0 .2697 -7.129 -8.706)" d="M188.969 44C261.617 44 272 54.357 272 126.938v58.124C272 257.644 261.617 268 188.969 268H115.03C42.383 268 32 257.643 32 185.062v-58.125C32 54.358 42.383 44 115.031 44z" filter="url(#b)" opacity=".1"/>
+    <path d="M43.837 3.161c19.594 0 22.395 2.793 22.395 22.369v15.677c0 19.575-2.8 22.369-22.395 22.369H23.896c-19.594 0-22.394-2.794-22.394-22.37V25.53c0-19.576 2.8-22.369 22.394-22.369z" fill="#b8bb26"/>
+    <path transform="matrix(.13485 0 0 .13485 -4.971 31.75)" d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" clip-path="url(#c)" fill="none" opacity=".4" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" stroke="url(#d)"/>
+    <path d="M23.896 63.575c-19.594 0-22.394-2.793-22.394-22.368v-7.839h64.73v7.839c0 19.575-2.8 22.368-22.395 22.368z" fill="#ebdbb2" opacity=".2"/>
+    <g transform="translate(-.53 -223.423)">
+        <path d="M19.844 277.156h29.104l1.323 2.646H18.52z" stroke-width=".265" stroke="#282828"/>
+        <path d="M21.035 273.055v2.91h26.723v-1.338a2.646 2.646 0 0 1-.56.063 2.646 2.646 0 0 1-2.443-1.635zM34.443 237.996a27.875 27.875 0 0 0-2.328.09c-1.99.15-3.617.45-3.617.45l.191 1.04s1.577-.29 3.504-.436c1.928-.145 4.219-.108 5.457.405 2.726 1.13 5.065 3.64 6.34 6.352 2.342 4.982 2.677 14.291 2.65 20.736-.004 1.026-.01 1.979-.018 2.833a2.646 2.646 0 0 1 .576-.067 2.646 2.646 0 0 1 .483.046c.007-.848.014-1.79.018-2.806.027-6.481-.216-15.8-2.752-21.193-1.378-2.932-3.855-5.622-6.89-6.88-.807-.334-1.795-.49-2.83-.546a17.42 17.42 0 0 0-.784-.024z"/>
+        <path d="M27.781 235.484v1.323h6.615v-1.323s-.747-1.084-1.323-1.323c-1.222-.506-2.747-.506-3.969 0-.576.24-1.323 1.323-1.323 1.323zM27.781 257.974v1.323h6.615v-2.646H27.78z" stroke-width=".265" stroke="#282828"/>
+        <circle cx="47.128" cy="271.866" r="1.984"/>
+        <path d="M27.781 246.73v8.598h6.615V238.13H27.78z" stroke-width=".265" stroke="#282828"/>
+        <path d="M24.342 271.313H37.57l-3.175-11.907H27.78z" fill="#ebdbb2" opacity=".2"/>
+        <path d="M19.844 277.156h29.104l1.323 2.646H18.52z" filter="url(#e)" opacity=".3" stroke-width=".265" stroke="#282828"/>
+        <path transform="matrix(.26458 0 0 .26458 0 229.267)" d="M79.504 165.498v10.998h100.998v-5.055a10 10 0 0 1-2.117.239 10 10 0 0 1-9.233-6.182z" filter="url(#f)" opacity=".3"/>
+        <path transform="matrix(.26458 0 0 .26458 0 229.267)" d="M130.18 32.992c-2.976-.026-5.979.126-8.8.34-7.52.567-13.671 1.7-13.671 1.7l.723 3.933s5.959-1.097 13.244-1.647c7.285-.549 15.943-.41 20.625 1.53 10.303 4.267 19.142 13.755 23.96 24.006 8.852 18.829 10.12 54.014 10.018 78.373-.016 3.877-.04 7.48-.07 10.707a10 10 0 0 1 2.176-.254 10 10 0 0 1 1.826.175c.029-3.205.054-6.765.07-10.607.102-24.494-.82-59.713-10.402-80.1-5.209-11.08-14.57-21.247-26.043-26-3.048-1.262-6.783-1.856-10.695-2.066a65.837 65.837 0 0 0-2.961-.09z" filter="url(#g)" opacity=".3"/>
+        <path d="M27.781 235.484v1.323h6.615v-1.323s-.747-1.084-1.323-1.323c-1.222-.506-2.747-.506-3.969 0-.576.24-1.323 1.323-1.323 1.323z" filter="url(#h)" opacity=".3" stroke-width=".265" stroke="#282828"/>
+        <path d="M27.781 257.974v1.323h6.615v-2.646H27.78z" filter="url(#i)" opacity=".3" stroke-width=".265" stroke="#282828"/>
+        <circle cx="47.128" cy="271.866" r="1.984" filter="url(#j)" opacity=".3"/>
+        <path d="M27.781 246.73v8.598h6.615V238.13H27.78z" filter="url(#k)" opacity=".3" stroke-width=".265" stroke="#282828"/>
+    </g>
+</svg>

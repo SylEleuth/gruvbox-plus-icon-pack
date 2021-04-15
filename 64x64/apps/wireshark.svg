@@ -1,0 +1,35 @@
+<svg width="256" height="256" viewBox="0 0 67.73 67.73" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="e" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ebdbb2"/>
+            <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
+            <stop offset=".925" stop-opacity=".098"/>
+            <stop offset="1" stop-opacity=".498"/>
+        </linearGradient>
+        <clipPath id="d">
+            <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
+        </clipPath>
+        <linearGradient id="c" x1="24" x2="376" y1="28" y2="380" gradientTransform="matrix(.2697 0 0 .2697 -7.129 220.56)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#458588"/>
+            <stop offset=".476" stop-color="#458588"/>
+            <stop offset=".664" stop-color="#458588"/>
+            <stop offset=".801" stop-color="#458588"/>
+            <stop offset=".913" stop-color="#458588"/>
+            <stop offset="1" stop-color="#458588"/>
+        </linearGradient>
+        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="2.32"/>
+        </filter>
+        <filter id="a" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.16"/>
+        </filter>
+    </defs>
+    <path transform="matrix(.2697 0 0 .2697 -7.129 -8.706)" d="M188.969 44C261.617 44 272 54.357 272 126.938v58.124C272 257.644 261.617 268 188.969 268H115.03C42.383 268 32 257.643 32 185.062v-58.125C32 54.358 42.383 44 115.031 44z" filter="url(#a)" opacity=".1"/>
+    <path transform="matrix(.2697 0 0 .2697 -7.129 -8.706)" d="M188.969 46C261.617 46 272 56.357 272 128.938v58.125c0 72.58-10.383 82.937-83.031 82.937H115.03C42.383 270 32 259.643 32 187.062v-58.125C32 56.358 42.383 46 115.031 46z" filter="url(#b)" opacity=".2"/>
+    <path d="M43.837 232.428c19.594 0 22.395 2.793 22.395 22.369v15.676c0 19.576-2.8 22.37-22.395 22.37H23.896c-19.594 0-22.394-2.794-22.394-22.37v-15.676c0-19.576 2.8-22.37 22.394-22.37z" fill="url(#c)" transform="translate(0 -229.267)"/>
+    <path d="M1.51 41.236h16.449S20.615 7.41 50.146 6.943c-9.526 14.91-.597 34.293-.597 34.293h16.675" fill="none" opacity=".2" stroke-linejoin="round" stroke-width="3.017" stroke="#282828"/>
+    <path d="M1.512 41.623c.005 2.261.04 4.339.148 6.165.058.975.133 1.891.23 2.752.096.86.213 1.666.355 2.42.143.754.31 1.456.504 2.109.195.653.418 1.258.672 1.818.254.56.54 1.074.86 1.547.32.473.676.905 1.07 1.298s.826.748 1.3 1.068c.473.32.988.605 1.548.86.56.253 1.167.476 1.82.67.655.195 1.357.361 2.112.503.754.142 1.56.26 2.422.356s1.78.171 2.755.228c1.952.115 4.138.158 6.588.158h19.942c2.449 0 4.636-.043 6.587-.158a52.812 52.812 0 0 0 2.755-.228 32.837 32.837 0 0 0 2.423-.356 21.088 21.088 0 0 0 2.11-.503c.655-.194 1.26-.417 1.82-.67s1.076-.54 1.55-.86c.474-.32.906-.675 1.3-1.068a8.81 8.81 0 0 0 1.069-1.298c.32-.473.606-.987.86-1.547s.477-1.165.672-1.818c.195-.653.362-1.355.504-2.109.142-.754.26-1.56.356-2.42.096-.86.172-1.777.229-2.752.114-1.94.157-4.116.158-6.548l-64.72.383z" fill="#ebdbb2" opacity=".2"/>
+    <path transform="matrix(.13485 0 0 .13485 -4.971 31.75)" d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" clip-path="url(#d)" fill="none" opacity=".6" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" stroke="url(#e)"/>
+    <path d="M1.51 41.883h16.449S20.615 8.056 50.146 7.59C40.62 22.5 49.55 41.883 49.55 41.883h16.675" fill="none" opacity=".2" stroke-linejoin="round" stroke-width="3.017" stroke="#ebdbb2"/>
+    <path d="M1.51 41.5h16.449S20.615 7.675 50.146 7.209C40.62 22.117 49.55 41.5 49.55 41.5h16.675" fill="none" stroke-linejoin="round" stroke-width="3.0164765799999995" stroke="#458588"/>
+</svg>

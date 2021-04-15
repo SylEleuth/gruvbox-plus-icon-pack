@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" version="1.0" enable-background="new">
+    <defs>
+        <filter id="b" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="2.32"/>
+        </filter>
+        <filter id="c" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.16"/>
+        </filter>
+        <linearGradient id="e" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+        <linearGradient id="a">
+            <stop offset="0" stop-color="#ebdbb2"/>
+            <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
+            <stop offset=".925" stop-opacity=".098"/>
+            <stop offset="1" stop-opacity=".498"/>
+        </linearGradient>
+        <clipPath id="d" clipPathUnits="userSpaceOnUse">
+            <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
+        </clipPath>
+    </defs>
+    <path d="M162.537 62.432c72.648 0 83.031 10.357 83.031 82.937v58.125c0 72.581-10.383 82.938-83.031 82.938H88.599c-72.648 0-83.031-10.357-83.031-82.938V145.37c0-72.58 10.383-82.937 83.031-82.937z" opacity=".2" filter="url(#b)" transform="translate(0 -44)"/>
+    <path d="M162.537 61.432c72.648 0 83.031 10.357 83.031 82.937v58.125c0 72.581-10.383 82.938-83.031 82.938H88.599c-72.648 0-83.031-10.357-83.031-82.938V144.37c0-72.58 10.383-82.937 83.031-82.937z" opacity=".1" filter="url(#c)" transform="translate(0 -44)"/>
+    <g transform="translate(0 -44)">
+        <path d="M162.537 60.228c72.648 0 83.031 10.356 83.031 82.937v58.125c0 72.58-10.383 82.938-83.031 82.938H88.599c-72.648 0-83.031-10.357-83.031-82.938v-58.125c0-72.58 10.383-82.937 83.031-82.937z" fill="#282828"/>
+        <path d="M88.6 284.432c-72.65 0-83.032-7.922-83.032-63.443v-22.232h240v22.232c0 55.52-10.383 63.443-83.031 63.443z" opacity=".1" fill="#ebdbb2"/>
+        <path d="M79.4 60.632c-5.736.081-11.677.112-16.594.4-5.44.32-9.913.974-14.427 1.626l-14.023 52.336h30.48zM192.58 61.545c-1.617-.13-2.826-.412-4.536-.513-7.381-.433-15.649-.6-24.911-.6h-.596l-14.627 54.586h30.342z" fill="#ebdbb2"/>
+        <path d="M136.121 60.432h-29.888l-14.61 54.524h29.887z" fill="#ebdbb2"/>
+        <circle cx="215.314" cy="106.899" r="11.342" fill="#ebdbb2" stroke="#ebdbb2" stroke-width="1.944"/>
+        <circle cx="215.314" cy="106.899" r="9.477" opacity=".3" fill="#ebdbb2" stroke="#ebdbb2" stroke-width="1.944"/>
+        <path d="M125.568 144.215c-30.347 0-55 24.653-55 55s24.653 55 55 55 55-24.653 55-55-24.653-55-55-55zm-16.714 33.363l41.244 21.15-41.244 21.15z" fill="#ebdbb2"/>
+        <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" clip-path="url(#d)" transform="matrix(.5 0 0 .5 -18.432 166.432)" opacity=".4" fill="none" stroke="url(#e)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+</svg>

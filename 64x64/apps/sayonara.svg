@@ -1,0 +1,65 @@
+<svg width="256" height="256" viewBox="0 0 67.73 67.73" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="d" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ebdbb2"/>
+            <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
+            <stop offset=".925" stop-opacity=".098"/>
+            <stop offset="1" stop-opacity=".498"/>
+        </linearGradient>
+        <clipPath id="c">
+            <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
+        </clipPath>
+        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.16"/>
+        </filter>
+        <filter id="a" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="2.32"/>
+        </filter>
+        <filter id="f" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".197"/>
+        </filter>
+        <filter id="h" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".197"/>
+        </filter>
+        <filter id="g" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".197"/>
+        </filter>
+        <filter id="e" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".197"/>
+        </filter>
+        <filter id="i" x="-.04" y="-.06" width="1.085" height="1.111" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation=".701"/>
+        </filter>
+    </defs>
+    <path transform="matrix(.2697 0 0 .2697 0 2.199)" d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V88.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#a)" opacity=".2"/>
+    <path d="M43.837 3.161c19.594 0 22.395 2.793 22.395 22.369v15.677c0 19.575-2.8 22.369-22.395 22.369H23.896c-19.594 0-22.394-2.794-22.394-22.37V25.53c0-19.576 2.8-22.369 22.394-22.369z" fill="none" opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.079" stroke="#282828"/>
+    <path transform="matrix(.2697 0 0 .2697 0 2.199)" d="M162.537 3.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V86.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#b)" opacity=".1"/>
+    <path d="M43.837 3.161c19.594 0 22.395 2.793 22.395 22.369v15.677c0 19.575-2.8 22.369-22.395 22.369H23.896c-19.594 0-22.394-2.794-22.394-22.37V25.53c0-19.576 2.8-22.369 22.394-22.369z" fill="#282828"/>
+    <path transform="matrix(.13485 0 0 .13485 -4.971 31.75)" d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" clip-path="url(#c)" fill="none" opacity=".4" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" stroke="url(#d)"/>
+    <path d="M42.018 8.674c16.018 0 18.307 2.283 18.307 18.286v12.816c0 16.003-2.29 18.287-18.307 18.287H25.716c-16.018 0-18.308-2.284-18.308-18.287V26.96c0-16.003 2.29-18.286 18.308-18.286z" fill-opacity="0" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width=".441" stroke="#ebdbb2"/>
+    <path d="M41.748 9.49c15.489 0 17.702 2.208 17.702 17.682v12.392c0 15.474-2.213 17.682-17.702 17.682H25.985c-15.488 0-17.702-2.208-17.702-17.682V27.172c0-15.474 2.214-17.682 17.702-17.682z" fill-opacity="0" opacity=".05" stroke-linecap="round" stroke-linejoin="round" stroke-width=".426" stroke="#ebdbb2"/>
+    <path d="M31.75 307.054v.53" fill="none" filter="url(#e)" stroke-width=".265" stroke="#282828" transform="translate(0 -229.267)"/>
+    <path d="M31.75 313.007v.53" fill="none" filter="url(#f)" stroke-width=".265" stroke="#282828" transform="translate(0 -229.267)"/>
+    <path d="M46.038 307.054v.53" fill="none" filter="url(#g)" stroke-width=".265" stroke="#282828" transform="translate(0 -229.267)"/>
+    <path d="M46.038 313.007v.53" fill="none" filter="url(#h)" stroke-width=".265" stroke="#282828" transform="translate(0 -229.267)"/>
+    <g fill="#ebdbb2">
+        <path d="M23.896 63.575c-19.594 0-22.394-2.793-22.394-22.368v-7.839h64.73v7.839c0 19.575-2.8 22.368-22.395 22.368z" opacity=".1"/>
+        <path d="M33.867 3.16v60.415h9.97c19.594 0 22.395-2.793 22.395-22.368V25.53c0-19.576-2.8-22.37-22.395-22.37z" opacity=".1"/>
+    </g>
+    <g transform="translate(.918 -227.957)" filter="url(#i)" opacity=".3">
+        <circle cx="17.202" cy="250.478" r="4.097"/>
+        <rect x="25.14" y="246.13" width="27.657" height="8.536" rx="4.097" ry="4.097"/>
+        <circle cx="17.202" cy="261.405" r="4.097"/>
+        <rect x="25.14" y="257.06" width="27.657" height="8.536" rx="4.097" ry="4.097"/>
+        <circle cx="17.202" cy="272.331" r="4.097"/>
+        <rect x="25.14" y="267.98" width="27.657" height="8.536" rx="4.097" ry="4.097"/>
+    </g>
+    <g transform="translate(.918 -227.957)">
+        <circle cx="17.202" cy="250.478" r="4.097" fill="#ebdbb2"/>
+        <rect x="25.14" y="246.13" width="27.657" height="8.536" rx="4.097" ry="4.097" fill="#ebdbb2"/>
+        <circle cx="17.202" cy="261.405" r="4.097" fill="#ebdbb2"/>
+        <rect x="25.14" y="257.06" width="27.657" height="8.536" rx="4.097" ry="4.097" fill="#ebdbb2"/>
+        <circle cx="17.202" cy="272.331" r="4.097" fill="#fe8019"/>
+        <rect x="25.14" y="267.98" width="27.657" height="8.536" rx="4.097" ry="4.097" fill="#fe8019"/>
+    </g>
+</svg>
