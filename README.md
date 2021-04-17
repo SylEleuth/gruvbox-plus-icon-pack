@@ -1,11 +1,9 @@
 # Gruvbox One Icons Pack
 
-Icon Pack for Linux (KDE, XFCE, Gnome) using icons from [OneDark](https://store.kde.org/p/1380833), [Gruvbox](https://store.kde.org/p/1380833), [GruvboxMateria](https://github.com/FilipeMCruz/dotfiles/tree/master/current/icons/.local/share/icons/MateriaGruvbox/24) and Breeze Dark.
+Icon Pack for Linux (KDE, XFCE, Gnome) based on [Suru++](https://gusbemacbe.github.io/suru-plus-site/index.html), [OneDark](https://store.kde.org/p/1380833), [Gruvbox](https://store.kde.org/p/1380833), [GruvboxMateria](https://github.com/FilipeMCruz/dotfiles/tree/master/current/icons/.local/share/icons/MateriaGruvbox/24) and Breeze Dark.
 
 
-GruvboxOne is based on the gruvbox color scheme https://github.com/morhetz/gruvbox
-
-It's a dark theme but using colors from both dark and light color palette
+GruvboxOne is using color scheme from [Gruvbox](https://github.com/morhetz/gruvbox), both dark and light color palette
 
 #### Dark palette
 
