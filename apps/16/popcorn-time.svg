@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#d79921; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#b57614; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#83a598; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#b16286; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#8ec07c; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#458588; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#458588; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#928374; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#b8bb26; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#076678; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #fe8019; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #fabd2f; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #83a598; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #83a598; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #fb4934; stop-opacity:1"/>
+   <stop offset="25%" style="stop-color: #fabd2f; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fe8019; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #689d6a; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #b16286; stop-opacity:1"/>
+   <stop offset="20%" style="stop-color: #8ec07c; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fabd2f; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #458588; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#83a598; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#b16286; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="m 9.8748959,1.37286 v 1.778e-4 a 4.9999488,4.9999488 0 0 0 -4.6239654,3.1029906 2.4999742,2.4999742 0 0 0 -1.625921,-0.6031233 2.4999742,2.4999742 0 0 0 -2.499885,2.5000891 2.4999742,2.4999742 0 0 0 0.516284,1.518569 2.1874774,2.1874774 0 0 0 -1.14142596,1.918843 2.1874774,2.1874774 0 0 0 2.18748696,2.1875008 2.1874774,2.1874774 0 0 0 0.312589,-0.02223 v 0.649411 c 0,1.038747 0.836174,1.874912 1.874916,1.874912 H 11.12503 c 1.038738,0 1.874916,-0.836165 1.874916,-1.874912 v -0.02668 a 2.1874774,2.1874774 0 0 0 0.312589,0.02668 2.1874774,2.1874774 0 0 0 2.187483,-2.187503 2.1874774,2.1874774 0 0 0 -1.119376,-1.9078598 4.9999488,4.9999488 0 0 0 0.494233,-2.154507 4.9999488,4.9999488 0 0 0 -4.9999436,-5.000135 z M 4.5625545,6.9979502 a 1.2499871,1.2499871 0 0 1 1.249943,1.249956 1.2499871,1.2499871 0 0 1 -1.249943,1.249956 1.2499871,1.2499871 0 0 1 -1.249942,-1.249956 1.2499871,1.2499871 0 0 1 1.249942,-1.249956 z m 6.8748605,0 a 1.2499871,1.2499871 0 0 1 1.249942,1.249956 1.2499871,1.2499871 0 0 1 -1.249942,1.249956 1.2499871,1.2499871 0 0 1 -1.249943,-1.249956 1.2499871,1.2499871 0 0 1 1.249943,-1.249956 z m -5.3123465,2.500045 h 3.7498274 c 0,1.0355458 -0.8393882,1.8749118 -1.8749116,1.8749118 -1.0355233,0 -1.8749158,-0.839366 -1.8749158,-1.8749118 z"/>
+</svg>

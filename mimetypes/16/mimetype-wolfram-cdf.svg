@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16" style="isolation:isolate">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop3" offset="0%" style="stop-color:#d79921"/>
+   <stop id="stop5" offset="100%" style="stop-color:#b57614"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop8" offset="0%" style="stop-color:#83a598"/>
+   <stop id="stop10" offset="100%" style="stop-color:#b16286"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop13" offset="0%" style="stop-color:#8ec07c"/>
+   <stop id="stop15" offset="100%" style="stop-color:#458588"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop18" offset="0%" style="stop-color:#458588"/>
+   <stop id="stop20" offset="100%" style="stop-color:#928374"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop23" offset="0%" style="stop-color:#b8bb26"/>
+   <stop id="stop25" offset="100%" style="stop-color:#076678"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop28" offset="0%" style="stop-color:#fe8019"/>
+   <stop id="stop30" offset="100%" style="stop-color:#fabd2f"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop33" offset="0%" style="stop-color:#83a598"/>
+   <stop id="stop35" offset="100%" style="stop-color:#83a598"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop38" offset="0%" style="stop-color:#fb4934"/>
+   <stop id="stop40" offset="25%" style="stop-color:#fabd2f"/>
+   <stop id="stop42" offset="50%" style="stop-color:#fe8019"/>
+   <stop id="stop44" offset="100%" style="stop-color:#689d6a"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop47" offset="0%" style="stop-color:#b16286"/>
+   <stop id="stop49" offset="20%" style="stop-color:#8ec07c"/>
+   <stop id="stop51" offset="50%" style="stop-color:#fabd2f"/>
+   <stop id="stop53" offset="100%" style="stop-color:#458588"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop56" offset="0" style="stop-color:#83a598"/>
+   <stop id="stop58" offset="1" style="stop-color:#b16286"/>
+  </linearGradient>
+ </defs>
+ <path fill="currentColor" class="ColorScheme-Text" d="m 6.9229335,0 c -3.594093,-3.9999802e-5 -6.389707,3.02564 -6.3896,6.583333 5.3e-5,3.5576 2.524787,6.216667 6.1188,6.216667 C 11.1828,12.506533 12.0832,5.988933 8.1312005,6.753067 8.0836005,6.908 9.2394665,7.3548 9.3218665,8.166667 9.4837335,9.762533 8.2224005,10.723733 6.6469335,10.4208 5.4957335,10.199467 4.1052805,9.226 3.8354135,8.256267 3.5858935,7.3596 3.7100265,6.283333 3.9750005,5.5688 5.2260005,2.195013 9.6430665,1.30144 11.2,1.343747 9.9820005,0.426533 8.6424005,0.00176 6.9229335,0 Z m 2.424933,3.2 C 4.8172005,3.49348 3.9168405,10.011067 7.8688005,9.246933 7.9164005,9.092 6.7605335,8.6452 6.6781335,7.833333 6.5162665,6.237467 7.7776005,5.276267 9.3530665,5.5792 10.504266,5.800533 11.894666,6.774 12.164533,7.743733 12.414133,8.6404 12.29,9.716667 12.025066,10.4312 10.774,13.804933 6.3569335,14.698533 4.8000005,14.656267 c 1.218,0.9172 2.5576,1.342 4.277066,1.343733 3.5941335,0 6.3897335,-3.0256 6.3895995,-6.583333 0,-3.5576 -2.5248,-6.216707 -6.1187995,-6.216667 z"/>
+</svg>

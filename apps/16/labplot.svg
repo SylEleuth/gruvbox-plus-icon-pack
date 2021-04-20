@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#d79921; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#b57614; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#83a598; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#b16286; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#8ec07c; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#458588; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#458588; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#928374; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#b8bb26; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#076678; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #fe8019; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #fabd2f; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #83a598; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #83a598; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #fb4934; stop-opacity:1"/>
+   <stop offset="25%" style="stop-color: #fabd2f; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fe8019; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #689d6a; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #b16286; stop-opacity:1"/>
+   <stop offset="20%" style="stop-color: #8ec07c; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fabd2f; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #458588; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#83a598; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#b16286; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(0.17500238,0,0,0.17500238,-68.374535,-80.79471)">
+  <g transform="matrix(2.2295318,0,0,2.2295318,-476.75918,-656.11502)">
+   <path style="fill:none; stroke: currentColor" class="ColorScheme-Text" d="m 389.57,524.29 c 13.01,0 15.772,14.973 21.511,15.02 5.739,0.042 5.484,-15.02 18.489,-15.02"/>
+   <path style="fill:none; stroke: currentColor" class="ColorScheme-Text" d="m 389.57,523.31 c 13.01,0 15.772,-10.274 21.511,-10.316 5.739,-0.042 5.484,10.316 18.489,10.316"/>
+  </g>
+  <path style="fill:none; stroke: currentColor" class="ColorScheme-Text" stroke-width="1.5" d="m 6.7659028,257.98498 c 17.1548972,0 20.7968502,-19.74327 28.3642582,-19.80527 7.567404,-0.0553 7.231166,19.80527 24.37947,19.80527" transform="matrix(1.6908413,0,0,1.6908413,380.35948,74.409627)"/>
+  <rect style="fill:none; stroke: currentColor" class="ColorScheme-Text" stroke-width="2.5" width="90" height="2.3" x="391.83" y="511.71"/>
+  <rect style="fill:none; stroke: currentColor" class="ColorScheme-Text" stroke-width="2.5" width="2.3" height="6.689" x="407.41" y="509.48"/>
+  <rect style="fill:none; stroke: currentColor" class="ColorScheme-Text" stroke-width="2.5" width="2.3" height="6.689" x="438.62" y="509.48"/>
+  <rect style="fill:none; stroke: currentColor" class="ColorScheme-Text" stroke-width="2.5" width="2.3" height="6.689" x="469.83" y="509.48"/>
+ </g>
+</svg>

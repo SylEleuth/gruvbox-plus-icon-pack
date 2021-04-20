@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#d79921; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#b57614; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#83a598; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#b16286; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#8ec07c; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#458588; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#458588; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#928374; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#b8bb26; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#076678; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #fe8019; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #fabd2f; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #83a598; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #83a598; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #fb4934; stop-opacity:1"/>
+   <stop offset="25%" style="stop-color: #fabd2f; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fe8019; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #689d6a; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #b16286; stop-opacity:1"/>
+   <stop offset="20%" style="stop-color: #8ec07c; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fabd2f; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #458588; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#83a598; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#b16286; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 0 0 L 0 1.333 L 1.333 1.333 L 1.333 0 L 0 0 Z M 2.667 0 L 2.667 1.333 L 4 1.333 L 4 0 L 2.667 0 Z M 5.333 0 L 5.333 1.333 L 6.667 1.333 L 6.667 0 L 5.333 0 Z M 8 0 L 8 1.333 L 9.333 1.333 L 9.333 0 L 8 0 Z M 10.667 0 L 10.667 1.333 L 12 1.333 L 12 0 L 10.667 0 Z M 13.333 0 L 13.333 1.333 L 14.667 1.333 L 14.667 0 L 13.333 0 Z M 0 2.667 L 0 4 L 1.333 4 L 1.333 2.667 L 0 2.667 Z M 13.333 2.667 L 13.333 4 L 14.667 4 L 14.667 2.667 L 13.333 2.667 Z M 0 5.333 L 0 6.667 L 1.333 6.667 L 1.333 5.333 L 0 5.333 Z M 13.333 5.333 L 13.333 6.667 L 14.667 6.667 L 14.667 5.333 L 13.333 5.333 Z M 7 6 L 6.791 6.271 L 6 7.333 L 2.667 7.333 L 2.667 16 L 16 16 L 16 7.333 L 12.667 7.333 L 11.875 6.271 L 11.667 6 L 7 6 Z M 7.667 7.333 L 11 7.333 L 11.792 8.396 L 12 8.667 L 14.667 8.667 L 14.667 14.667 L 4 14.667 L 4 8.667 L 6.667 8.667 L 6.875 8.396 L 7.667 7.333 Z M 0 8 L 0 9.333 L 1.333 9.333 L 1.333 8 L 0 8 Z M 9.333 8.667 C 7.867 8.667 6.667 9.867 6.667 11.333 C 6.667 12.8 7.867 14 9.333 14 C 10.8 14 12 12.8 12 11.333 C 12 9.867 10.8 8.667 9.333 8.667 Z M 9.333 10 C 10.078 10 10.667 10.589 10.667 11.333 C 10.667 12.078 10.078 12.667 9.333 12.667 C 8.589 12.667 8 12.078 8 11.333 C 8 10.589 8.589 10 9.333 10 Z M 0 10.667 L 0 12 L 1.333 12 L 1.333 10.667 L 0 10.667 Z"/>
+</svg>
