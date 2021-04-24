@@ -29,32 +29,32 @@
   </g>
  </g>
  <g>
-  <circle fill="#ffffff" cx="72.377" cy="103.575" r="4.078" vector-effect="non-scaling-stroke"/>
-  <circle fill="#ffffff" cx="92.764" cy="185.125" r="4.078" vector-effect="non-scaling-stroke"/>
-  <circle fill="#ffffff" cx="153.927" cy="144.35" r="4.078" vector-effect="non-scaling-stroke"/>
-  <circle fill="#ffffff" cx="174.314" cy="83.187" r="4.078" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ebdbb2" cx="72.377" cy="103.575" r="4.078" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ebdbb2" cx="92.764" cy="185.125" r="4.078" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ebdbb2" cx="153.927" cy="144.35" r="4.078" vector-effect="non-scaling-stroke"/>
+  <circle fill="#ebdbb2" cx="174.314" cy="83.187" r="4.078" vector-effect="non-scaling-stroke"/>
   <g style="opacity:0.5">
    <g opacity=".5">
-    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="2" d="M 5.098 138.234 C 73.513 89.145 155.966 81.149 249.748 79.11" vector-effect="non-scaling-stroke"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ebdbb2" stroke-width="2" d="M 5.098 138.234 C 73.513 89.145 155.966 81.149 249.748 79.11" vector-effect="non-scaling-stroke"/>
    </g>
   </g>
   <g style="opacity:0.5">
    <g opacity=".5">
-    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="2" d="M 6.67 59.789 C 27.643 74.837 48.363 89.173 71.896 103.622 C 125.13 136.306 184.715 163.133 249.748 164.546" vector-effect="non-scaling-stroke"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ebdbb2" stroke-width="2" d="M 6.67 59.789 C 27.643 74.837 48.363 89.173 71.896 103.622 C 125.13 136.306 184.715 163.133 249.748 164.546" vector-effect="non-scaling-stroke"/>
    </g>
   </g>
   <g style="opacity:0.5">
    <g opacity=".5">
-    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="2" d="M 154.436 141.292 C 174.533 98.215 186.803 62.696 181.688 12.175" vector-effect="non-scaling-stroke"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ebdbb2" stroke-width="2" d="M 154.436 141.292 C 174.533 98.215 186.803 62.696 181.688 12.175" vector-effect="non-scaling-stroke"/>
    </g>
   </g>
   <g style="opacity:0.5">
    <g opacity=".5">
-    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="2" d="M 139.475 239.827 C 69.537 187.488 63.917 114.56 75.969 12.175" vector-effect="non-scaling-stroke"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ebdbb2" stroke-width="2" d="M 139.475 239.827 C 69.537 187.488 63.917 114.56 75.969 12.175" vector-effect="non-scaling-stroke"/>
    </g>
   </g>
   <g filter="url(#VDGO0RaDmY3nMMNthTWdBZDkOxeHhn0I)">
-   <circle fill="#ffffff" cx="72.377" cy="103.575" r="4.078" vector-effect="non-scaling-stroke"/>
+   <circle fill="#ebdbb2" cx="72.377" cy="103.575" r="4.078" vector-effect="non-scaling-stroke"/>
   </g>
   <defs>
    <filter id="VDGO0RaDmY3nMMNthTWdBZDkOxeHhn0I" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -62,7 +62,7 @@
    </filter>
   </defs>
   <g filter="url(#7N7dAJZ9ZEL0pSStcKKWSkOhSPGp685S)">
-   <circle fill="#ffffff" cx="92.764" cy="185.125" r="4.078" vector-effect="non-scaling-stroke"/>
+   <circle fill="#ebdbb2" cx="92.764" cy="185.125" r="4.078" vector-effect="non-scaling-stroke"/>
   </g>
   <defs>
    <filter id="7N7dAJZ9ZEL0pSStcKKWSkOhSPGp685S" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -70,7 +70,7 @@
    </filter>
   </defs>
   <g filter="url(#mO2AHMVZEuu7qkitPbAIWkZylCYkSkKD)">
-   <circle fill="#ffffff" cx="153.927" cy="144.35" r="4.078" vector-effect="non-scaling-stroke"/>
+   <circle fill="#ebdbb2" cx="153.927" cy="144.35" r="4.078" vector-effect="non-scaling-stroke"/>
   </g>
   <defs>
    <filter id="mO2AHMVZEuu7qkitPbAIWkZylCYkSkKD" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -78,7 +78,7 @@
    </filter>
   </defs>
   <g filter="url(#W6tcWwO8t4wVHCgqmc02Vcnluu7LW0bv)">
-   <circle fill="#ffffff" cx="174.314" cy="83.187" r="4.078" vector-effect="non-scaling-stroke"/>
+   <circle fill="#ebdbb2" cx="174.314" cy="83.187" r="4.078" vector-effect="non-scaling-stroke"/>
   </g>
   <defs>
    <filter id="W6tcWwO8t4wVHCgqmc02Vcnluu7LW0bv" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -87,7 +87,7 @@
   </defs>
   <g style="opacity:0.5">
    <g opacity=".5">
-    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="2" d="M 153.355 144.159 C 108.959 199.708 17.877 201.179 6.696 194.182" vector-effect="non-scaling-stroke"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ebdbb2" stroke-width="2" d="M 153.355 144.159 C 108.959 199.708 17.877 201.179 6.696 194.182" vector-effect="non-scaling-stroke"/>
    </g>
   </g>
  </g>

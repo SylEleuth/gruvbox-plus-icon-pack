@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
  <g filter="url(#a)">
   <linearGradient id="b" x1=".233" x2=".933" y1="-.071" y2=".924" gradientTransform="matrix(244.648 0 0 228.338 5.676 11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#e8e8e8"/>
-   <stop offset="100%" stop-color="#f5f5f5"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="100%" stop-color="#ebdbb2"/>
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
@@ -15,19 +15,19 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#ffffff" opacity=".3" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
- <path fill="#ffffff" opacity=".3" d="M128 11.947v228.338h37.685c74.055 0 84.639-10.557 84.639-84.543V96.491c0-73.987-10.584-84.544-84.639-84.544H128z"/>
+ <path fill="#ebdbb2" opacity=".3" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
+ <path fill="#ebdbb2" opacity=".3" d="M128 11.947v228.338h37.685c74.055 0 84.639-10.557 84.639-84.543V96.491c0-73.987-10.584-84.544-84.639-84.544H128z"/>
  <radialGradient id="c" cx="-.5" cy=".5" r="12.672" fx="2.387" fy="-.061" gradientTransform="matrix(0 135.666 -145.357 0 54.607 58.167)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" stop-color="#919caf"/>
-  <stop offset="26.238%" stop-color="#68758e"/>
-  <stop offset="70.495%" stop-color="#485a6c"/>
-  <stop offset="100%" stop-color="#444c5c"/>
+  <stop offset="0%" stop-color="#fabd2f"/>
+  <stop offset="26.238%" stop-color="#7c6f64"/>
+  <stop offset="70.495%" stop-color="#665c54"/>
+  <stop offset="100%" stop-color="#504945"/>
  </radialGradient>
  <path fill="url(#c)" d="M100.03 167.739c13.786-14.351 26.382-29.272 27.991-33.157 1.608-3.884 7.952-11.555 14.096-17.045 16.083-14.372 25.466-13.244 33.541 4.031 2.057 4.401 4.889 8.002 6.292 8.002 3.21 0 18.014-14.41 18.014-17.535 0-4.049-7.596-11.026-12.003-11.026-4.647 0-9.097-6.673-9.097-13.641 0-5.281-14.536-19.98-25.087-25.369-5.027-2.568-13.684-3.832-26.237-3.832-18.975 0-26.906 3.144-14.762 5.852 3.649.813 10.516 4.727 15.26 8.697 12.215 10.222 11.723 17.903-2.209 34.458-5.96 7.082-12.296 12.876-14.082 12.876-3.948 0-57.14 49.454-57.14 53.125 0 2.772 16.33 20.658 18.86 20.658.824 0 12.777-11.742 26.563-26.094z"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

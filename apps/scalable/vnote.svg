@@ -24,15 +24,15 @@
    <feGaussianBlur result="effect1_foregroundBlur" stdDeviation="5"/>
   </filter>
   <linearGradient id="paint0_linear" x1="126.487" x2="127.02" y1="11.8597" y2="241.039" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#1ad6ab" offset="0"/>
-   <stop stop-color="#329db6" offset="1"/>
+   <stop stop-color="#8ec07c" offset="0"/>
+   <stop stop-color="#83a598" offset="1"/>
   </linearGradient>
   <linearGradient id="paint1_linear" x1="48" x2="48" y1="53" y2="199.087" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#e0e5e7" offset="1e-7"/>
-   <stop stop-color="#c7ced2" offset="1"/>
+   <stop stop-color="#ebdbb2" offset="1e-7"/>
+   <stop stop-color="#d5c4a1" offset="1"/>
   </linearGradient>
   <clipPath id="clip0">
-   <rect width="256" height="256" fill="#ffffff"/>
+   <rect width="256" height="256" fill="#ebdbb2"/>
   </clipPath>
  </defs>
 </svg>

@@ -15,24 +15,24 @@
 <feGaussianBlur stdDeviation="7.5611" result="effect1_foregroundBlur"/>
 </filter>
 <linearGradient id="paint0_linear" x1="39" y1="15" x2="39" y2="240.174" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#1F5DD1"/>
-<stop offset="1" stop-color="#007FFF"/>
+<stop offset="1e-07" stop-color="#076678"/>
+<stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="39" y1="15" x2="39" y2="240.174" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#FF4400"/>
-<stop offset="1" stop-color="#DC1414"/>
+<stop offset="1e-07" stop-color="#fb4934"/>
+<stop offset="1" stop-color="#cc241d"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="137.38" y1="83" x2="137.974" y2="173.147" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFEB00"/>
-<stop offset="1" stop-color="#FFA100"/>
+<stop stop-color="#fabd2f"/>
+<stop offset="1" stop-color="#d79921"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="58" y1="81.2446" x2="58" y2="174.755" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#FF4400"/>
-<stop offset="1" stop-color="#DC1414"/>
+<stop offset="1e-07" stop-color="#fb4934"/>
+<stop offset="1" stop-color="#cc241d"/>
 </linearGradient>
 <linearGradient id="paint4_linear" x1="155.608" y1="15" x2="155.608" y2="75.1605" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#FF4400"/>
-<stop offset="1" stop-color="#DC1414"/>
+<stop offset="1e-07" stop-color="#fb4934"/>
+<stop offset="1" stop-color="#cc241d"/>
 </linearGradient>
 </defs>
 </svg>

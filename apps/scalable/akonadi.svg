@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
  <g filter="url(#a)">
   <linearGradient id="b" x1=".533" x2=".533" y1="1" gradientTransform="matrix(244.648 0 0 228.338 5.676 11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#132e73"/>
-   <stop offset="100%" stop-color="#35529b"/>
+   <stop offset="0%" stop-color="#076678"/>
+   <stop offset="100%" stop-color="#458588"/>
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
@@ -15,11 +15,11 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#ecedf1" d="M127.984 53c-40.643 0-73.5 31.926-74.987 72.181 10.717 28.171 37.956 48.061 69.982 48.061 22.652 0 42.793-9.936 56.491-25.727-5.637 26.389-25.059 47.48-50.43 55.485 41.106-.513 73.963-33.732 73.963-74.988 0-41.593-33.419-74.987-74.987-74.987"/>
+ <path fill="#ebdbb2" d="M127.984 53c-40.643 0-73.5 31.926-74.987 72.181 10.717 28.171 37.956 48.061 69.982 48.061 22.652 0 42.793-9.936 56.491-25.727-5.637 26.389-25.059 47.48-50.43 55.485 41.106-.513 73.963-33.732 73.963-74.988 0-41.593-33.419-74.987-74.987-74.987"/>
  <g opacity=".4">
   <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

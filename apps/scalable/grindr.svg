@@ -52,8 +52,8 @@
    <feGaussianBlur id="feGaussianBlur215" result="effect1_foregroundBlur" stdDeviation="5"/>
   </filter>
   <linearGradient id="paint16_linear" x1="132.082" x2="132.082" y1="11.95" y2="240.29" gradientUnits="userSpaceOnUse">
-   <stop id="stop300" stop-color="#fff"/>
-   <stop id="stop302" offset=".125" stop-color="#fff" stop-opacity=".098"/>
+   <stop id="stop300" stop-color="#ebdbb2"/>
+   <stop id="stop302" offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop id="stop304" offset=".925" stop-opacity=".098"/>
    <stop id="stop306" offset="1" stop-opacity=".498"/>
   </linearGradient>
@@ -63,28 +63,28 @@
    <stop id="stop313" offset=".724"/>
   </linearGradient>
   <linearGradient id="paint18_linear" x1="238.502" x2="-46.879" y1="227.131" y2="-20.383" gradientUnits="userSpaceOnUse">
-   <stop id="stop316" stop-color="#FAF8F6"/>
+   <stop id="stop316" stop-color="#ebdbb2"/>
    <stop id="stop318" offset="1"/>
   </linearGradient>
   <linearGradient id="paint85_linear" x1="478" x2="478" y1="796" y2="846" gradientUnits="userSpaceOnUse">
-   <stop id="stop478" offset="0" stop-color="#4C5561"/>
-   <stop id="stop480" offset="1" stop-color="#2E3842"/>
+   <stop id="stop478" offset="0" stop-color="#504945"/>
+   <stop id="stop480" offset="1" stop-color="#3c3836"/>
   </linearGradient>
   <linearGradient id="paint112_linear" x1="263" x2="263" y1="1086" y2="1036" gradientUnits="userSpaceOnUse">
-   <stop id="stop645" stop-color="#FF0056"/>
-   <stop id="stop647" offset=".1" stop-color="#FF0C4E"/>
-   <stop id="stop649" offset=".2" stop-color="#FF1845"/>
-   <stop id="stop651" offset=".3" stop-color="#FF243D"/>
-   <stop id="stop653" offset=".4" stop-color="#FF3034"/>
-   <stop id="stop655" offset=".5" stop-color="#FF3C2B"/>
-   <stop id="stop657" offset=".6" stop-color="#FF4823"/>
-   <stop id="stop659" offset=".7" stop-color="#FF541A"/>
-   <stop id="stop661" offset=".8" stop-color="#FF6012"/>
-   <stop id="stop663" offset=".9" stop-color="#FF6C09"/>
-   <stop id="stop665" offset="1" stop-color="#FF7901"/>
+   <stop id="stop645" stop-color="#8ec07c"/>
+   <stop id="stop647" offset=".1" stop-color="#fb4934"/>
+   <stop id="stop649" offset=".2" stop-color="#8ec07c"/>
+   <stop id="stop651" offset=".3" stop-color="#8ec07c"/>
+   <stop id="stop653" offset=".4" stop-color="#8ec07c"/>
+   <stop id="stop655" offset=".5" stop-color="#8ec07c"/>
+   <stop id="stop657" offset=".6" stop-color="#fe8019"/>
+   <stop id="stop659" offset=".7" stop-color="#fe8019"/>
+   <stop id="stop661" offset=".8" stop-color="#fe8019"/>
+   <stop id="stop663" offset=".9" stop-color="#d65d0e"/>
+   <stop id="stop665" offset="1" stop-color="#d65d0e"/>
   </linearGradient>
   <clipPath id="clip0">
-   <rect fill="#fff" width="256" height="256"/>
+   <rect fill="#ebdbb2" width="256" height="256"/>
   </clipPath>
   <style id="style182">
    .cls-1{fill:#231f20;}

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
  <g filter="url(#a)">
   <linearGradient id="b" x1=".978" x2="-.023" y1="1.003" y2=".087" gradientTransform="matrix(244.648 0 0 228.338 5.676 11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#4ce0c6"/>
-   <stop offset="100%" stop-color="#3b85b5"/>
+   <stop offset="0%" stop-color="#8ec07c"/>
+   <stop offset="100%" stop-color="#458588"/>
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
@@ -16,14 +16,14 @@
   </filter>
  </defs>
  <radialGradient id="c" cx=".5" cy=".5" r="32.994" fx=".5" fy=".864" gradientTransform="matrix(159.97 0 0 160 48.015 48)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" stop-color="#fafafa"/>
-  <stop offset="100%" stop-color="#f0f0f0"/>
+  <stop offset="0%" stop-color="#ebdbb2"/>
+  <stop offset="100%" stop-color="#ebdbb2"/>
  </radialGradient>
  <path fill="url(#c)" fill-rule="evenodd" d="M127.985 48c-7.122 17.46-11.417 28.881-19.346 45.822 4.862 5.153 10.829 11.154 20.519 17.931-10.418-4.287-17.525-8.591-22.835-13.057C96.175 119.87 80.277 150.031 48.015 208c25.357-14.639 45.013-23.664 63.332-27.108a46.422 46.422 0 0 1-1.203-10.861l.03-.812c.402-16.246 8.853-28.739 18.864-27.891 10.011.849 17.792 14.714 17.39 30.959-.076 3.057-.42 5.998-1.023 8.725 18.12 3.545 37.566 12.547 62.58 26.988-4.932-9.081-9.335-17.266-13.539-25.062-6.622-5.133-13.53-11.813-27.619-19.045 9.684 2.517 16.618 5.42 22.023 8.665C146.105 92.974 142.643 82.399 127.985 48z"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

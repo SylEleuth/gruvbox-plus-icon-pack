@@ -28,15 +28,12 @@
 # - Alexey Varfolomeev <https://github.com/varlesh>
 # - under GPL3
 
-# Gruvbox color scheme created by Pavel Pertsev <https://github.com/morhetz/gruvbox>
-# Gruvbox implementation by SylEleuth <https://github.com/SylEleuth>
-
 # * Numberless icons are from Gravit Designer, under GPL3/MIT
 
 [Icon Theme]
 Name=Gruvbox+
 
-Inherits=Yaru,gnome,hicolor
+Inherits=Suru++, OneDark, Breeze Dark, Yaru, gnome, hicolor
 
 Example=folder
 

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
  <g filter="url(#a)">
   <linearGradient id="b" x1=".533" x2=".533" y1="-.071" y2="1.071" gradientTransform="matrix(244.648 0 0 228.338 5.676 11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#2b898f"/>
-   <stop offset="100%" stop-color="#5bdbc1"/>
+   <stop offset="0%" stop-color="#458588"/>
+   <stop offset="100%" stop-color="#83a598"/>
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
@@ -15,9 +15,9 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#ffffff" opacity=".1" d="M87.22 11.83h81.549v228.338H87.22V11.83z"/>
- <path fill="#ffffff" opacity=".1" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
- <g fill="#f2f2f2" filter="url(#c)">
+ <path fill="#ebdbb2" opacity=".1" d="M87.22 11.83h81.549v228.338H87.22V11.83z"/>
+ <path fill="#ebdbb2" opacity=".1" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
+ <g fill="#ebdbb2" filter="url(#c)">
   <path fill-rule="evenodd" d="M84.227 54c-12.015 0-21.688 9.881-21.688 22.154v66.461c0 12.274 9.673 22.154 21.688 22.154h86.751c12.016 0 21.689-9.88 21.689-22.154V76.154c0-12.273-9.673-22.154-21.689-22.154h-16.265v22.154h10.844c3.003 0 5.421 2.47 5.421 5.538v55.385c0 3.068-2.418 5.538-5.421 5.538H89.648c-3.003 0-5.421-2.47-5.421-5.538V81.692c0-3.068 2.418-5.538 5.421-5.538h10.844V54H84.227z"/>
   <path d="M67.961 198h24.4l35.242-84.738L162.846 198h24.4L138.445 87.231H116.76L67.961 198z"/>
  </g>
@@ -32,8 +32,8 @@
  </defs>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
  <g filter="url(#a)">
   <linearGradient id="b" x1=".567" x2=".567" y1="1.071" y2="-.071" gradientTransform="matrix(244.648 0 0 228.338 5.676 11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#a0a0a0"/>
-   <stop offset="100%" stop-color="#dfdfdf"/>
+   <stop offset="0%" stop-color="#fabd2f"/>
+   <stop offset="100%" stop-color="#ebdbb2"/>
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
@@ -17,17 +17,17 @@
  </defs>
  <g filter="url(#c)">
   <path opacity=".1" d="M78.72 80.773v8.214h-8.213v41.066h8.213v36.96h8.213v4.107h4.107v8.213h73.92v-8.213h4.107v-4.107h8.213v-36.96h8.213V88.987h-8.213v-8.214H78.72z"/>
-  <path fill="#789911" d="M78.72 76.667v8.213h-8.213v41.067h114.986V84.88h-8.213v-8.213H78.72z"/>
-  <path fill="#9ac011" d="M78.72 84.88v41.067h98.56V84.88H78.72z"/>
-  <path fill="#ecc593" d="M86.933 125.947v41.066h82.134v-41.066H86.933z"/>
-  <path fill="#cbaf75" d="M91.04 167.013v8.214h73.92v-8.214H91.04zM78.72 125.95h8.213v36.96H78.72v-36.96z"/>
-  <path fill="#353535" d="M95.15 125.95h16.427v16.427H95.15V125.95z"/>
-  <path fill="#e3a258" d="M119.787 125.947v12.32h16.426v-12.32h-16.426z"/>
-  <path fill="#717169" d="M115.68 150.587v8.213h16.427v-8.213H115.68z"/>
-  <path fill="#cbaf75" d="M169.07 125.95h8.213v36.96h-8.213v-36.96z"/>
-  <path fill="#353535" d="M144.43 125.95h16.427v16.427H144.43V125.95z"/>
-  <path fill="#554025" d="M136.213 146.48l-4.106 4.107v8.213h8.213l4.107-4.107h-8.214v-8.213z"/>
-  <path fill="#e6dc35" d="M136.21 146.48h8.213v8.213h-8.213v-8.213z"/>
+  <path fill="#979617" d="M78.72 76.667v8.213h-8.213v41.067h114.986V84.88h-8.213v-8.213H78.72z"/>
+  <path fill="#b8bb26" d="M78.72 84.88v41.067h98.56V84.88H78.72z"/>
+  <path fill="#fabd2f" d="M86.933 125.947v41.066h82.134v-41.066H86.933z"/>
+  <path fill="#bdae93" d="M91.04 167.013v8.214h73.92v-8.214H91.04zM78.72 125.95h8.213v36.96H78.72v-36.96z"/>
+  <path fill="#3c3836" d="M95.15 125.95h16.427v16.427H95.15V125.95z"/>
+  <path fill="#fe8019" d="M119.787 125.947v12.32h16.426v-12.32h-16.426z"/>
+  <path fill="#7c6f64" d="M115.68 150.587v8.213h16.427v-8.213H115.68z"/>
+  <path fill="#bdae93" d="M169.07 125.95h8.213v36.96h-8.213v-36.96z"/>
+  <path fill="#3c3836" d="M144.43 125.95h16.427v16.427H144.43V125.95z"/>
+  <path fill="#504945" d="M136.213 146.48l-4.106 4.107v8.213h8.213l4.107-4.107h-8.214v-8.213z"/>
+  <path fill="#fabd2f" d="M136.21 146.48h8.213v8.213h-8.213v-8.213z"/>
  </g>
  <defs>
   <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -40,8 +40,8 @@
  </defs>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

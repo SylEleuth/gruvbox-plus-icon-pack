@@ -3,7 +3,7 @@
 <g opacity="0.4" filter="url(#filter0_f)">
 <path d="M55.0839 15.5636H155.608L216.009 75.7129L216.011 224.609C216.011 233.52 208.749 240.737 199.838 240.737H55.0838C46.1734 240.737 39 233.564 39 224.654V31.6474C39 22.737 46.1734 15.5636 55.0838 15.5636H55.0839Z" fill="black"/>
 </g>
-<path d="M55.0839 15H155.608L216.009 75.1493L216.011 224.045C216.011 232.956 208.749 240.174 199.838 240.174H55.0838C46.1734 240.174 39 233 39 224.09V31.0838C39 22.1734 46.1734 15 55.0838 15H55.0839Z" fill="#ECECEC"/>
+<path d="M55.0839 15H155.608L216.009 75.1493L216.011 224.045C216.011 232.956 208.749 240.174 199.838 240.174H55.0838C46.1734 240.174 39 233 39 224.09V31.0838C39 22.1734 46.1734 15 55.0838 15H55.0839Z" fill="#ebdbb2"/>
 <path opacity="0.2" d="M199.838 240.174C208.749 240.174 216.011 232.956 216.011 224.046L216.01 186.5H39V224.09C39 233 46.1734 240.174 55.0838 240.174H199.838Z" fill="url(#paint0_linear)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M155.609 22.9787H55.0839C50.58 22.9787 46.9787 26.5799 46.9787 31.0838V224.09C46.9787 228.594 50.5799 232.195 55.0838 232.195H199.838C204.371 232.195 208.032 228.521 208.032 224.046V75.1493L155.609 22.9787ZM155.608 15H55.0839C46.1735 15 39 22.1734 39 31.0838V224.09C39 233 46.1734 240.174 55.0838 240.174H199.838C208.749 240.174 216.011 232.956 216.011 224.045L216.009 75.1493L155.608 15Z" fill="url(#paint1_linear)"/>
 <path d="M101.657 225.48C107.177 225.48 111.497 222.44 111.497 217.04C111.497 211.12 106.457 209.36 102.377 207.92C99.4569 206.96 97.0169 206.12 97.0169 204.08C97.0169 202.16 98.4969 201.08 101.017 201.08C103.657 201.08 105.257 202.32 105.977 203.96L110.297 202.52C109.297 199.08 106.217 196.52 101.337 196.52C95.4569 196.52 92.1369 199.96 92.1369 204.04C92.1369 209.36 96.6169 210.92 100.617 212.28C103.777 213.36 106.617 214.36 106.617 217.04C106.617 219.6 104.697 220.92 101.817 220.92C98.9369 220.92 96.6969 219.16 95.5369 216.6L91.0969 218.24C92.6169 222.68 96.4969 225.48 101.657 225.48ZM128.391 225.48C130.031 225.48 131.431 225.24 132.711 224.8L134.711 227.72L138.311 225.32L136.431 222.56C139.431 219.68 140.671 215.24 140.671 211C140.671 204.08 137.431 196.52 128.391 196.52C119.391 196.52 116.111 204.08 116.111 211C116.111 217.92 119.391 225.48 128.391 225.48ZM128.391 220.88C122.951 220.88 121.071 215.56 121.071 211C121.071 206.68 122.951 201.12 128.391 201.12C133.831 201.12 135.711 206.4 135.711 211C135.711 213.4 135.111 216.32 133.591 218.24L131.551 215.16L127.871 217.56L129.951 220.68C129.471 220.8 128.951 220.88 128.391 220.88ZM146.486 225H164.886V220.4H151.286V197H146.486V225Z" fill="url(#paint2_linear)"/>
@@ -18,24 +18,24 @@
 <feGaussianBlur stdDeviation="7.5611" result="effect1_foregroundBlur"/>
 </filter>
 <linearGradient id="paint0_linear" x1="39" y1="186.5" x2="39" y2="240.174" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#EDC268"/>
-<stop offset="1" stop-color="#9B7424"/>
+<stop offset="1e-07" stop-color="#fabd2f"/>
+<stop offset="1" stop-color="#b57614"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="39" y1="15" x2="39" y2="240.174" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#EDC268"/>
-<stop offset="1" stop-color="#9B7424"/>
+<stop offset="1e-07" stop-color="#fabd2f"/>
+<stop offset="1" stop-color="#b57614"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="39" y1="186" x2="39" y2="262" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#EDC268"/>
-<stop offset="1" stop-color="#9B7424"/>
+<stop offset="1e-07" stop-color="#fabd2f"/>
+<stop offset="1" stop-color="#b57614"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="72.0006" y1="95" x2="72.0006" y2="167" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#EDC268"/>
-<stop offset="1" stop-color="#9B7424"/>
+<stop offset="1e-07" stop-color="#fabd2f"/>
+<stop offset="1" stop-color="#b57614"/>
 </linearGradient>
 <linearGradient id="paint4_linear" x1="155.608" y1="15" x2="155.608" y2="75.1605" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#EDC268"/>
-<stop offset="1" stop-color="#9B7424"/>
+<stop offset="1e-07" stop-color="#fabd2f"/>
+<stop offset="1" stop-color="#b57614"/>
 </linearGradient>
 <clipPath id="clip0">
 <rect width="256" height="256" fill="white"/>

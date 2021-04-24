@@ -28,8 +28,8 @@
    <feGaussianBlur result="effect1_foregroundBlur" stdDeviation="5"/>
   </filter>
   <linearGradient id="paint0_linear" x1="5.67586" x2="5.67586" y1="11.947" y2="240.285" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#4c5561" offset="1e-7"/>
-   <stop stop-color="#2e3842" offset="1"/>
+   <stop stop-color="#504945" offset="1e-7"/>
+   <stop stop-color="#3c3836" offset="1"/>
   </linearGradient>
   <linearGradient id="paint1_linear" x1="144.365" x2="144.365" y1="48" y2="172.144" gradientUnits="userSpaceOnUse">
    <stop stop-color="#79dd00" offset="0"/>
@@ -45,8 +45,8 @@
    <stop stop-color="#00c66b" offset="1"/>
   </linearGradient>
   <linearGradient id="paint2_linear" x1="50" x2="50" y1="80.3029" y2="204.444" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#46a926" offset="1e-7"/>
-   <stop stop-color="#009a56" offset="1"/>
+   <stop stop-color="#d65d0e" offset="1e-7"/>
+   <stop stop-color="#689d6a" offset="1"/>
   </linearGradient>
   <linearGradient id="paint3_linear" x1="128.223" x2="128.223" y1="97.7778" y2="154.668" gradientUnits="userSpaceOnUse">
    <stop stop-color="#79dd00" offset="0"/>

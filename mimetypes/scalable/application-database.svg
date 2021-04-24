@@ -45,8 +45,8 @@
      objecttolerance="10"
      borderopacity="1"
      inkscape:document-rotation="0"
-     bordercolor="#666666"
-     pagecolor="#ffffff" />
+     bordercolor="#665c54"
+     pagecolor="#ebdbb2" />
   <g
      id="g4"
      filter="url(#filter0_f)"
@@ -58,7 +58,7 @@
   </g>
   <path
      id="path6"
-     fill="#ECECEC"
+     fill="#ebdbb2"
      d="M55.0839 15H155.608L216.009 75.1493L216.011 224.045C216.011 232.956 208.749 240.174 199.838 240.174H55.0838C46.1734 240.174 39 233 39 224.09V31.0838C39 22.1734 46.1734 15 55.0838 15H55.0839Z" />
   <path
      id="path8"
@@ -113,11 +113,11 @@
        id="paint0_linear">
       <stop
          id="stop25"
-         stop-color="#EDC268"
+         stop-color="#fabd2f"
          offset="1e-07" />
       <stop
          id="stop27"
-         stop-color="#9B7424"
+         stop-color="#b57614"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -129,11 +129,11 @@
        id="paint1_linear">
       <stop
          id="stop30"
-         stop-color="#EDC268"
+         stop-color="#fabd2f"
          offset="1e-07" />
       <stop
          id="stop32"
-         stop-color="#9B7424"
+         stop-color="#b57614"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -145,11 +145,11 @@
        id="paint2_linear">
       <stop
          id="stop35"
-         stop-color="#EDC268"
+         stop-color="#fabd2f"
          offset="1e-07" />
       <stop
          id="stop37"
-         stop-color="#9B7424"
+         stop-color="#b57614"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -161,11 +161,11 @@
        id="paint3_linear">
       <stop
          id="stop40"
-         stop-color="#EDC268"
+         stop-color="#fabd2f"
          offset="1e-07" />
       <stop
          id="stop42"
-         stop-color="#9B7424"
+         stop-color="#b57614"
          offset="1" />
     </linearGradient>
   </defs>

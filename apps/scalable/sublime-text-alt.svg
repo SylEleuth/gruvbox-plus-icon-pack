@@ -8,7 +8,7 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#4d4d4d" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
+ <path fill="#504945" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
  <linearGradient id="b" x1=".551" x2=".637" y1=".695" y2=".504" gradientTransform="matrix(111.495 0 0 74.32962 72.373 124.337)" gradientUnits="userSpaceOnUse">
   <stop offset="0%" stop-color="#ff9700"/>
   <stop offset="53%" stop-color="#f48e00"/>
@@ -24,8 +24,8 @@
  <path fill="#ff9800" d="M72.373 125.749c0 1.698 1.252 3.473 2.794 3.963l105.907 33.595c1.543.489 2.794-.493 2.794-2.188v-34.335c0-1.695-1.251-3.471-2.794-3.96L75.167 89.229c-1.542-.49-2.794.489-2.794 2.187v34.333z"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

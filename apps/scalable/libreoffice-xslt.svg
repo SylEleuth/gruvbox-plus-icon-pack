@@ -8,8 +8,8 @@
    <feBlend in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
   </filter>
   <linearGradient id="_lgradient_0-2" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(244.64831,0,0,228.3384,1.3527226,283.64321)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4d4d4d"/>
-   <stop offset="100%" style="stop-color:#333333"/>
+   <stop offset="0%" style="stop-color:#504945"/>
+   <stop offset="100%" style="stop-color:#3c3836"/>
   </linearGradient>
   <filter style="color-interpolation-filters:sRGB" id="a" width="4" height="4" x="-2" y="-2" filterUnits="objectBoundingBox">
    <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
@@ -26,8 +26,8 @@
    <feBlend in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
   </filter>
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>
@@ -40,17 +40,17 @@
  </defs>
  <g style="filter:url(#Tzcz4vEdmITS7wQ3AsSx9hYNK6Mdtix6)">
   <linearGradient id="_lgradient_0" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(244.64831,0,0,228.3384,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4d4d4d"/>
-   <stop offset="100%" style="stop-color:#333333"/>
+   <stop offset="0%" style="stop-color:#504945"/>
+   <stop offset="100%" style="stop-color:#3c3836"/>
   </linearGradient>
  </g>
  <path style="isolation:isolate;fill:#666666;filter:url(#a)" d="m 166.35101,13.27999 c 74.056,0 84.64,10.557 84.64,84.544 v 59.251 c 0,73.986 -10.584,84.544 -84.64,84.544 h -75.369 c -74.056,0 -84.639,-10.558 -84.639,-84.544 v -59.251 c 0,-73.987 10.583,-84.544 84.639,-84.544 z"/>
- <path style="opacity:0.05;isolation:isolate;fill:#ffffff" d="m 8.47601,55.73999 c -1.747,10.927 -2.318,24.515 -2.318,41.465 v 59.251 c 0,73.986 10.584,84.544 84.64,84.544 h 75.369 c 55.135,0 75.078,-5.874 81.675,-39.397 z"/>
- <path style="opacity:0.2;isolation:isolate;fill:#ffffff" d="m 226.49901,22.24999 -196.543,209.648 c 12.579,6.593 31.794,8.25 60.948,8.25 h 74.647 c 73.345,0 83.828,-10.456 83.828,-83.733 v -58.682 c 0,-44.15 -3.813,-65.489 -22.88,-75.483 z"/>
+ <path style="opacity:0.05;isolation:isolate;fill:#ebdbb2" d="m 8.47601,55.73999 c -1.747,10.927 -2.318,24.515 -2.318,41.465 v 59.251 c 0,73.986 10.584,84.544 84.64,84.544 h 75.369 c 55.135,0 75.078,-5.874 81.675,-39.397 z"/>
+ <path style="opacity:0.2;isolation:isolate;fill:#ebdbb2" d="m 226.49901,22.24999 -196.543,209.648 c 12.579,6.593 31.794,8.25 60.948,8.25 h 74.647 c 73.345,0 83.828,-10.456 83.828,-83.733 v -58.682 c 0,-44.15 -3.813,-65.489 -22.88,-75.483 z"/>
  <g transform="translate(1e-5,-1e-5)" style="isolation:isolate;filter:url(#b)">
   <linearGradient id="linearGradient902" x1=".181" x2=".898" y1="-.028" y2=".881" gradientTransform="matrix(200,0,0,185,28,34)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#f2f2f2"/>
-   <stop offset="100%" stop-color="#f9f9f9"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="100%" stop-color="#ebdbb2"/>
   </linearGradient>
  </g>
  <g transform="translate(1e-5,-1e-5)" style="opacity:0.4;isolation:isolate">

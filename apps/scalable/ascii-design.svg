@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
  <g filter="url(#a)">
   <linearGradient id="b" x1=".5" x2=".5" y1="-.036" y2="1.036" gradientTransform="matrix(244.648 0 0 228.338 5.676 11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#62237c"/>
-   <stop offset="98.696%" stop-color="#9b33ae"/>
+   <stop offset="0%" stop-color="#8f3f71"/>
+   <stop offset="98.696%" stop-color="#8f3f71"/>
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
@@ -15,11 +15,11 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#f9f9f9" fill-rule="evenodd" d="M56.139 94.833v66.334h5.528v-27.639h11.055v27.639h5.528V94.833H56.139zm33.167 0V128h16.583v27.639H89.306v5.528h22.111v-38.695H94.833v-22.111h16.584v-5.528H89.306zm33.166 0v66.334h22.111v-5.528H128v-55.278h16.583v-5.528h-22.111zm33.167 0v5.528h5.528v55.278h-5.528v5.528h16.583v-5.528h-5.527v-55.278h5.527v-5.528h-16.583zm27.639 0v5.528h5.528v55.278h-5.528v5.528h16.583v-5.528h-5.528v-55.278h5.528v-5.528h-16.583zm-121.611 5.528h11.055V128H61.667v-27.639z"/>
+ <path fill="#ebdbb2" fill-rule="evenodd" d="M56.139 94.833v66.334h5.528v-27.639h11.055v27.639h5.528V94.833H56.139zm33.167 0V128h16.583v27.639H89.306v5.528h22.111v-38.695H94.833v-22.111h16.584v-5.528H89.306zm33.166 0v66.334h22.111v-5.528H128v-55.278h16.583v-5.528h-22.111zm33.167 0v5.528h5.528v55.278h-5.528v5.528h16.583v-5.528h-5.527v-55.278h5.527v-5.528h-16.583zm27.639 0v5.528h5.528v55.278h-5.528v5.528h16.583v-5.528h-5.528v-55.278h5.528v-5.528h-16.583zm-121.611 5.528h11.055V128H61.667v-27.639z"/>
  <g opacity=".4">
   <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

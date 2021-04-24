@@ -18,13 +18,13 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
 <linearGradient id="paint0_linear" x1="5.67586" y1="11.947" x2="5.67586" y2="240.285" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#4C5561"/>
-<stop offset="1" stop-color="#2E3842"/>
+<stop offset="1e-07" stop-color="#504945"/>
+<stop offset="1" stop-color="#3c3836"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="5.67586" y1="11.947" x2="5.67586" y2="240.285" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#F7FF57"/>
-<stop offset="0.5" stop-color="#FFE251"/>
-<stop offset="1" stop-color="#F5CF0F"/>
+<stop offset="1e-07" stop-color="#fabd2f"/>
+<stop offset="0.5" stop-color="#fabd2f"/>
+<stop offset="1" stop-color="#fabd2f"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="132.082" y1="11.95" x2="132.082" y2="240.29" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
@@ -33,9 +33,9 @@
 <stop offset="1" stop-opacity="0.498039"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="58" y1="95.8926" x2="58" y2="160.107" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#F7FF57"/>
-<stop offset="0.5" stop-color="#FFE251"/>
-<stop offset="1" stop-color="#F5CF0F"/>
+<stop offset="1e-07" stop-color="#fabd2f"/>
+<stop offset="0.5" stop-color="#fabd2f"/>
+<stop offset="1" stop-color="#fabd2f"/>
 </linearGradient>
 <clipPath id="clip0">
 <rect width="256" height="256" fill="white"/>

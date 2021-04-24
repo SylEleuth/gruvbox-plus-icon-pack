@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
  <g filter="url(#a)">
   <linearGradient id="b" x1=".533" x2=".533" y1="1" gradientTransform="matrix(244.648 0 0 228.338 5.676 11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#325fd1"/>
-   <stop offset="100%" stop-color="#6e98ff"/>
+   <stop offset="0%" stop-color="#076678"/>
+   <stop offset="100%" stop-color="#83a598"/>
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
@@ -15,7 +15,7 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <g fill="#ffffff" filter="url(#c)">
+ <g fill="#ebdbb2" filter="url(#c)">
   <path d="M164.178 192.015L127.902 88.932 91.817 192.015H73.833l45.973-128.03h16.407l45.954 128.03h-17.984"/>
   <path d="M143.752 132.925c-5.865-1.675-12.311-1.173-17.849 1.344-5.52 2.541-10.175 7.287-11.848 13.867-1 4.017-.616 8.345 1.131 12.079 1.769 3.751 5.059 6.943 9.578 7.981a11.84 11.84 0 0 0 7.944-.98c2.481-1.231 4.653-3.613 5.248-6.789.345-1.828.08-3.694-.788-5.407-.906-1.694-2.634-3.25-4.903-3.595-1.291-.192-2.522.04-3.694.713-1.192.675-2.363 2.078-2.521 3.827l6.042.576c-.039.424-.424.867-.536.94-.134.08-.041.04-.173.021.192.039.231.059.403.403.192.345.291.979.213 1.384-.213 1.118-.868 1.886-1.98 2.442-1.132.537-2.694.715-3.924.483-2.562-.596-4.289-2.25-5.407-4.634-1.119-2.349-1.384-5.367-.749-7.903 1.191-4.673 4.328-7.903 8.485-9.809 4.155-1.906 9.252-2.31 13.694-1.04 12.886 3.655 19.894 17.95 18.175 31.088l6.023.787c2.037-15.851-6.329-33.16-22.564-37.778z"/>
  </g>
@@ -30,8 +30,8 @@
  </defs>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

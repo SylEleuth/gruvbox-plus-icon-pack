@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
  <g filter="url(#RpWGovkrLShy2tNZNJ4d2xhJafHTeKcJ)">
   <linearGradient id="_lgradient_18" x1=".5" x2=".5" y1="-.036" y2="1.036" gradientTransform="matrix(244.648,0,0,228.338,5.676,11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#4d4d4d"/>
-   <stop offset="98.696%" style="stop-color:#6c6c6c"/>
+   <stop offset="0%" style="stop-color:#504945"/>
+   <stop offset="98.696%" style="stop-color:#7c6f64"/>
   </linearGradient>
   <path fill="url(#_lgradient_18)" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 L 165.685 11.947 Z"/>
  </g>
@@ -16,7 +16,7 @@
   </filter>
  </defs>
  <g opacity=".1">
-  <path fill="#ffffff" d="M 5.676 126.116 L 5.676 155.742 C 5.676 229.728 16.26 240.285 90.315 240.285 L 165.685 240.285 C 239.74 240.285 250.324 229.728 250.324 155.742 L 250.324 126.116 L 5.676 126.116 L 5.676 126.116 Z"/>
+  <path fill="#ebdbb2" d="M 5.676 126.116 L 5.676 155.742 C 5.676 229.728 16.26 240.285 90.315 240.285 L 165.685 240.285 C 239.74 240.285 250.324 229.728 250.324 155.742 L 250.324 126.116 L 5.676 126.116 L 5.676 126.116 Z"/>
  </g>
  <g style="opacity:0.2">
   <g opacity=".2">

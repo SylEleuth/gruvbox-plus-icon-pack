@@ -10,22 +10,22 @@
  </defs>
  <g filter="url(#a)">
   <linearGradient id="b" x1=".073" x2=".939" y1=".052" y2=".865" gradientTransform="matrix(244.648 0 0 228.339 6.343 13.28)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#5441d7"/>
-   <stop offset="18.915%" stop-color="#7637c4"/>
-   <stop offset="35.865%" stop-color="#b028aa"/>
-   <stop offset="49.818%" stop-color="#ce267e"/>
-   <stop offset="64.165%" stop-color="#e62053"/>
-   <stop offset="80.781%" stop-color="#f65e45"/>
-   <stop offset="100%" stop-color="#fec053"/>
+            <stop offset="0" stop-color="#8f3f71"/>
+            <stop offset=".189" stop-color="#cc241d"/>
+            <stop offset=".359" stop-color="#cc241d"/>
+            <stop offset=".498" stop-color="#cc241d"/>
+            <stop offset=".642" stop-color="#fb4934"/>
+            <stop offset=".808" stop-color="#fb4934"/>
+            <stop offset="1" stop-color="#fe8019"/>
   </linearGradient>
   <path fill="url(#b)" d="M166.351 13.28c74.056 0 84.64 10.557 84.64 84.544v59.251c0 73.986-10.584 84.544-84.64 84.544H90.982c-74.056 0-84.639-10.558-84.639-84.544V97.824c0-73.987 10.583-84.544 84.639-84.544h75.369z"/>
  </g>
- <ellipse fill="#ffffff" cx="193.817" cy="62.173" rx="6.683" ry="6.673" vector-effect="non-scaling-stroke"/>
- <path fill="#ffffff" d="M186.453 69.52C117.511 92.721 55.5 125.651 55.5 125.651l49.946 24.908 24.964 49.852.054.053.035.036s34.592-65.213 56.13-130.943a.047.047 0 0 0-.035-.018c-.006-.006-.036.002-.054 0-.006-.006-.027.006-.036 0a.097.097 0 0 0-.035-.018l-.016-.001zM170.59 85.532c-16.363 44.686-32.059 78.83-40.198 94.872l-15.39-30.752c12.809-13.778 38.404-46.927 49.299-57.805-10.891 10.874-44.068 36.411-57.877 49.206l-30.747-15.332c15.78-7.987 49.098-23.237 94.913-40.189z"/>
+ <ellipse fill="#ebdbb2" cx="193.817" cy="62.173" rx="6.683" ry="6.673" vector-effect="non-scaling-stroke"/>
+ <path fill="#ebdbb2" d="M186.453 69.52C117.511 92.721 55.5 125.651 55.5 125.651l49.946 24.908 24.964 49.852.054.053.035.036s34.592-65.213 56.13-130.943a.047.047 0 0 0-.035-.018c-.006-.006-.036.002-.054 0-.006-.006-.027.006-.036 0a.097.097 0 0 0-.035-.018l-.016-.001zM170.59 85.532c-16.363 44.686-32.059 78.83-40.198 94.872l-15.39-30.752c12.809-13.778 38.404-46.927 49.299-57.805-10.891 10.874-44.068 36.411-57.877 49.206l-30.747-15.332c15.78-7.987 49.098-23.237 94.913-40.189z"/>
  <g opacity=".4">
   <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

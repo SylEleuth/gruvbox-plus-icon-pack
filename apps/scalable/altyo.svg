@@ -8,8 +8,8 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#d9d9d9" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
- <path fill="#808080" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v29.625H5.676V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
+ <path fill="#ebdbb2" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
+ <path fill="#928374" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v29.625H5.676V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  <defs>
   <filter id="b" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
@@ -19,11 +19,11 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#ffffff" d="M169.978 109.667V93.705h-49.645v15.962m-46.444-5.342L60.333 90.738l30.508-23.742-30.508-23.743 13.556-13.586 45.778 37.297-45.778 37.297" filter="url(#b)"/>
+ <path fill="#ebdbb2" d="M169.978 109.667V93.705h-49.645v15.962m-46.444-5.342L60.333 90.738l30.508-23.742-30.508-23.743 13.556-13.586 45.778 37.297-45.778 37.297" filter="url(#b)"/>
  <g opacity=".4">
   <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

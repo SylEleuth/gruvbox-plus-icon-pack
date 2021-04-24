@@ -10,21 +10,21 @@
  </defs>
  <g filter="url(#a)">
   <linearGradient id="b" x1=".568" x2=".567" y1="1.005" y2="-.071" gradientTransform="matrix(244.648 0 0 228.338 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#00979c"/>
-   <stop offset="100%" stop-color="#20b6bb"/>
+   <stop offset="0%" stop-color="#458588"/>
+   <stop offset="100%" stop-color="#83a598"/>
   </linearGradient>
   <path fill="url(#b)" d="M165.689 11.95c74.056 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.583 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.494c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <path fill="#ffffff" d="M119.875 55.5v16.825c-9.733 3.278-16.242 12.04-16.25 21.874.009 8.367 4.744 16.083 12.394 20.196l-11.728 41.722H95.5v7.74h6.617l-6.569 23.34 4.649 13.303 10.315-36.643h34.96l10.299 36.643 4.65-13.303-6.57-23.34h6.649v-7.74h-8.823l-11.728-41.707c7.667-4.108 12.416-11.832 12.426-20.211-.014-9.828-6.523-18.583-16.25-21.859V55.5h-16.25zm3.809 61.525c1.423.253 2.868.384 4.316.392 1.441 0 2.88-.12 4.301-.363l10.981 39.062h-30.596l10.998-39.091z"/>
+ <path fill="#ebdbb2" d="M119.875 55.5v16.825c-9.733 3.278-16.242 12.04-16.25 21.874.009 8.367 4.744 16.083 12.394 20.196l-11.728 41.722H95.5v7.74h6.617l-6.569 23.34 4.649 13.303 10.315-36.643h34.96l10.299 36.643 4.65-13.303-6.57-23.34h6.649v-7.74h-8.823l-11.728-41.707c7.667-4.108 12.416-11.832 12.426-20.211-.014-9.828-6.523-18.583-16.25-21.859V55.5h-16.25zm3.809 61.525c1.423.253 2.868.384 4.316.392 1.441 0 2.88-.12 4.301-.363l10.981 39.062h-30.596l10.998-39.091z"/>
  <linearGradient id="c" x1="-199.786" x2="-199.786" y2="1" gradientTransform="matrix(16.25 0 0 15.48 119.875 86.457)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" stop-color="#2a2c2f"/>
-  <stop offset="100%" stop-color="#424649"/>
+  <stop offset="0%" stop-color="#282828"/>
+  <stop offset="100%" stop-color="#504945"/>
  </linearGradient>
  <ellipse fill="url(#c)" cx="128" cy="94.197" rx="8.125" ry="7.74" vector-effect="non-scaling-stroke"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

@@ -8,15 +8,15 @@
    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
- <path fill="#37a6e6" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
- <path fill="#fdc92b" d="M35.68 59.056l150.296-30.672 34.407 168.593L70.086 227.65 35.68 59.056z"/>
- <path fill="#ececec" d="M51.32 41.46h153.333v172H51.32v-172z"/>
- <path fill="#ffffff" fill-opacity=".5" d="M250.324 126.116v29.626c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543v-29.626h244.648z"/>
- <path fill="#37a6e6" fill-opacity=".5" d="M250.324 126.116v29.626c-71.824-.242-169.824-.242-244.648 0v-29.626h244.648z"/>
+ <path fill="#83a598" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
+ <path fill="#fabd2f" d="M35.68 59.056l150.296-30.672 34.407 168.593L70.086 227.65 35.68 59.056z"/>
+ <path fill="#ebdbb2" d="M51.32 41.46h153.333v172H51.32v-172z"/>
+ <path fill="#ebdbb2" fill-opacity=".5" d="M250.324 126.116v29.626c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543v-29.626h244.648z"/>
+ <path fill="#83a598" fill-opacity=".5" d="M250.324 126.116v29.626c-71.824-.242-169.824-.242-244.648 0v-29.626h244.648z"/>
  <g opacity=".4">
   <linearGradient id="b" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

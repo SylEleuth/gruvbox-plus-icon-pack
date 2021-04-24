@@ -19,12 +19,12 @@
 <feGaussianBlur stdDeviation="7.5611" result="effect1_foregroundBlur"/>
 </filter>
 <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(99.3447 35.4704) scale(140.804 102.534)">
-<stop stop-color="#50DBB5"/>
-<stop offset="1" stop-color="#4A86CF"/>
+<stop stop-color="#8ec07c"/>
+<stop offset="1" stop-color="#458588"/>
 </radialGradient>
 <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(183.827 240.174) scale(322.563 234.89)">
-<stop stop-color="#F6D123"/>
-<stop offset="1" stop-color="#2DC0AF" stop-opacity="0.137795"/>
+<stop stop-color="#fabd2f"/>
+<stop offset="1" stop-color="#83a598" stop-opacity="0.137795"/>
 </radialGradient>
 </defs>
 </svg>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
  <g filter="url(#a)">
   <linearGradient id="b" x1=".5" x2=".5" y1="-.036" y2="1.036" gradientTransform="matrix(244.648 0 0 228.338 5.676 11.947)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#454f6f"/>
-   <stop offset="100%" stop-color="#5f6888"/>
+   <stop offset="0%" stop-color="#504945"/>
+   <stop offset="100%" stop-color="#665c54"/>
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
@@ -16,9 +16,9 @@
   </filter>
  </defs>
  <g filter="url(#c)">
-  <path fill="#e1d393" d="M70.167 84.681c0-19.547 15.869-35.417 35.416-35.417 19.547 0 35.417 15.87 35.417 35.417 0 19.547-15.87 35.416-35.417 35.416-19.547 0-35.416-15.869-35.416-35.416z"/>
-  <path fill="#cd6975" d="M70.167 167.32c0-19.547 15.869-35.417 35.416-35.417 19.547 0 35.417 15.87 35.417 35.417 0 19.547-15.87 35.416-35.417 35.416-19.547 0-35.416-15.869-35.416-35.416z"/>
-  <path fill="#967c8e" d="M141 126c0-19.547 15.87-35.417 35.417-35.417 19.547 0 35.416 15.87 35.416 35.417 0 19.547-15.869 35.417-35.416 35.417C156.87 161.417 141 145.547 141 126z"/>
+  <path fill="#ebdbb2" d="M70.167 84.681c0-19.547 15.869-35.417 35.416-35.417 19.547 0 35.417 15.87 35.417 35.417 0 19.547-15.87 35.416-35.417 35.416-19.547 0-35.416-15.869-35.416-35.416z"/>
+  <path fill="#665c54" d="M70.167 167.32c0-19.547 15.869-35.417 35.416-35.417 19.547 0 35.417 15.87 35.417 35.417 0 19.547-15.87 35.416-35.417 35.416-19.547 0-35.416-15.869-35.416-35.416z"/>
+  <path fill="#b16286" d="M141 126c0-19.547 15.87-35.417 35.417-35.417 19.547 0 35.416 15.87 35.416 35.417 0 19.547-15.869 35.417-35.416 35.417C156.87 161.417 141 145.547 141 126z"/>
  </g>
  <defs>
   <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -31,8 +31,8 @@
  </defs>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

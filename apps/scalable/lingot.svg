@@ -48,13 +48,13 @@
    <stop stop-color="#00c66b" offset="1"/>
   </linearGradient>
   <linearGradient id="paint1_linear" x1="48" x2="48" y1="76" y2="145.273" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ffec57" offset="1e-7"/>
-   <stop stop-color="#ffc551" offset=".5"/>
-   <stop stop-color="#f5a90f" offset="1"/>
+   <stop stop-color="#fabd2f" offset="1e-7"/>
+   <stop stop-color="#fabd2f" offset=".5"/>
+   <stop stop-color="#d79921" offset="1"/>
   </linearGradient>
   <linearGradient id="paint2_linear" x1="141.602" x2="141.602" y1="91.2953" y2="175.982" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#49535e" offset="0"/>
-   <stop stop-color="#2f3943" offset="1"/>
+   <stop stop-color="#504945" offset="0"/>
+   <stop stop-color="#3c3836" offset="1"/>
   </linearGradient>
   <linearGradient id="paint3_linear" x1="132.082" x2="132.082" y1="11.95" y2="240.29" gradientUnits="userSpaceOnUse">
    <stop stop-color="white" offset="0"/>

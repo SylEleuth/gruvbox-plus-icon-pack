@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
  <g filter="url(#a)">
   <linearGradient id="b" x1=".818" x2=".212" y1="-.071" y2="1.059" gradientTransform="matrix(244.648 0 0 228.338 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#f2f2f2"/>
-   <stop offset="100%" stop-color="#f9f9f9"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="100%" stop-color="#ebdbb2"/>
   </linearGradient>
   <path fill="url(#b)" d="M165.689 11.95c74.056 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.583 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.494c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
@@ -29,8 +29,8 @@
  <path fill="url(#d)" fill-rule="evenodd" d="M151.778 126.828l55.972 72.689h-25.833l-42.638-56.458 12.499-16.231z"/>
  <g opacity=".4">
   <linearGradient id="e" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

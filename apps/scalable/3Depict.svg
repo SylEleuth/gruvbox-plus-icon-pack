@@ -2,7 +2,7 @@
  <g filter="url(#a)">
   <linearGradient id="b" x1=".5" x2=".5" y1="-.036" y2="1.036" gradientTransform="matrix(244.648 0 0 228.338 5.676 11.947)" gradientUnits="userSpaceOnUse">
    <stop offset="0%"/>
-   <stop offset="100%" stop-color="#333333"/>
+   <stop offset="100%" stop-color="#3c3836"/>
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
@@ -16,24 +16,24 @@
   </filter>
  </defs>
  <radialGradient id="c" cx=".468" cy=".34" r=".5" fx=".312" fy=".121" gradientTransform="matrix(88.26863 13.95796 .71319 90.58858 111.635 65.5)" gradientUnits="userSpaceOnUse">
-  <stop offset="1.739%" stop-color="#fa9381"/>
-  <stop offset="51.834%" stop-color="#bc1938"/>
+  <stop offset="1.739%" stop-color="#665c54"/>
+  <stop offset="51.834%" stop-color="#cc241d"/>
  </radialGradient>
  <path fill="url(#c)" d="M114.231 95.199c8.27-23.229 33.843-35.373 57.071-27.103 23.228 8.271 35.372 33.843 27.102 57.071-8.27 23.228-33.843 35.372-57.071 27.102-23.228-8.27-35.372-33.842-27.102-57.07z"/>
  <radialGradient id="d" cx=".414" cy=".27" r=".5" fx=".41" fy=".254" gradientTransform="matrix(88.88171 9.11638 4.51309 90.28064 55 65.872)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" stop-color="#cbe667"/>
-  <stop offset="100%" stop-color="#46a926"/>
+  <stop offset="0%" stop-color="#b8bb26"/>
+  <stop offset="100%" stop-color="#d65d0e"/>
  </radialGradient>
  <path fill="url(#d)" d="M55 110.547c0-24.657 20.018-44.675 44.674-44.675s44.674 20.018 44.674 44.675c0 24.656-20.018 44.674-44.674 44.674S55 135.203 55 110.547z"/>
  <radialGradient id="e" cx=".414" cy=".27" r=".5" fx=".41" fy=".254" gradientTransform="matrix(88.88171 9.11638 4.51309 90.28064 83.326 101.151)" gradientUnits="userSpaceOnUse">
-  <stop offset="1.739%" stop-color="#aee3f8"/>
-  <stop offset="100%" stop-color="#1463a5"/>
+  <stop offset="1.739%" stop-color="#83a598"/>
+  <stop offset="100%" stop-color="#076678"/>
  </radialGradient>
  <path fill="url(#e)" d="M83.326 145.825c0-24.656 20.018-44.674 44.674-44.674s44.674 20.018 44.674 44.674c0 24.657-20.018 44.675-44.674 44.675s-44.674-20.018-44.674-44.675z"/>
  <g opacity=".4">
   <linearGradient id="f" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-color="#ffffff"/>
-   <stop offset="12.5%" stop-color="#ffffff" stop-opacity=".098"/>
+   <stop offset="0%" stop-color="#ebdbb2"/>
+   <stop offset="12.5%" stop-color="#ebdbb2" stop-opacity=".098"/>
    <stop offset="92.5%" stop-opacity=".098"/>
    <stop offset="100%" stop-opacity=".498"/>
   </linearGradient>

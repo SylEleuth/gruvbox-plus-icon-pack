@@ -1,0 +1,39 @@
+<svg width="256" height="256" viewBox="0 0 67.73 67.73" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="f" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ebdbb2"/>
+            <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
+            <stop offset=".925" stop-opacity=".098"/>
+            <stop offset="1" stop-opacity=".498"/>
+        </linearGradient>
+        <clipPath id="e">
+            <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
+        </clipPath>
+        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="2.32"/>
+        </filter>
+        <filter id="a" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
+            <feGaussianBlur stdDeviation="1.16"/>
+        </filter>
+        <linearGradient id="c" x1="11.067" x2="57.501" y1="231.037" y2="295.613" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ebdbb2"/>
+            <stop offset="1" stop-color="#ebdbb2"/>
+        </linearGradient>
+        <linearGradient id="d" x1="1.755" x2="64.694" y1="246.889" y2="246.889" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-opacity="0"/>
+            <stop offset=".5" stop-opacity=".892"/>
+            <stop offset="1" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <path transform="matrix(.26458 0 0 .26458 0 3.404)" d="M162.537 3.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V86.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#a)" opacity=".1"/>
+    <path transform="matrix(.26458 0 0 .26458 0 3.404)" d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V88.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#b)" opacity=".2"/>
+    <path d="M23.442 292.881c-19.222 0-21.969-2.74-21.969-21.944v-15.379c0-3.644.1-6.692.392-9.244h62.716c.292 2.552.392 5.6.392 9.244v15.38c0 19.203-2.747 21.943-21.968 21.943z" fill="url(#c)" transform="translate(0 -229.267)"/>
+    <path d="M1.878 246.246s14.08-.053 31.3-.053l31.378-.018.097.772.041.656c-21.926-.153-42.109-.125-62.94-.185.05-.504.124-1.172.124-1.172z" fill="url(#d)" opacity=".6" paint-order="markers fill stroke" transform="translate(0 -229.267)"/>
+    <path d="M1.872 17.048c1.247-10.887 6.002-12.7 21.57-12.7h19.563c15.568 0 20.322 1.813 21.57 12.7z" fill="#665c54"/>
+    <path d="M64.973 43.769L44.884 63.614c16.852-.184 19.88-3.135 20.09-19.845z" fill="#ebdbb2" opacity=".8"/>
+    <path d="M1.473 33.981v7.69c0 19.203 2.747 21.943 21.969 21.943h19.563c19.221 0 21.968-2.74 21.968-21.944v-7.689z" fill="#ebdbb2" opacity=".1"/>
+    <path d="M32.612 63.614h9.97c9.762 0 15.154-.823 18.292-3.707 3.138-2.885 4.017-7.826 4.017-16.797V24.852c0-8.97-.879-13.972-4.017-16.857-3.138-2.884-8.53-3.647-18.292-3.647h-9.97z" fill="#ebdbb2" opacity=".1"/>
+    <path transform="matrix(.1323 0 0 .1323 -4.877 32.393)" d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" clip-path="url(#e)" fill="none" opacity=".4" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" stroke="url(#f)"/>
+    <path d="M18.56 24.475l-5.22 13.759h-1.283v1.058h3.704v-1.058h-1.186l1.237-3.177h6.139l1.235 3.177h-1.602v1.058h5.314v-1.058h-1.466l-5.223-13.759zm.321 2.382l2.703 7.146h-5.36z" font-size="13.717" font-weight="400" letter-spacing="0" overflow="visible" word-spacing="0" fill="#282828"/>
+    <path d="M28.99 25.534v1.058h25.4v-1.058zm0 4.233v1.059h25.4v-1.059zm0 4.214v1.058h25.4v-1.058zm0 4.233v1.059h25.4v-1.059zm-16.933 4.234v1.058l42.333.02v-1.059zm0 4.233v1.058H54.39v-1.058zm0 4.233v1.059h31.75v-1.059z" fill-opacity=".996" fill="#282828"/>
+</svg>
