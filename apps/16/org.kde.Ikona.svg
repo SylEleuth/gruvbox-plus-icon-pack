@@ -7,15 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   style="enable-background:new"
+   style="isolation:isolate"
    width="16"
    height="16"
+   viewBox="0 0 16 16"
    version="1.1"
-   id="svg67"
-   sodipodi:docname="dropbox.svg"
+   id="svg68"
+   sodipodi:docname="org.kde.Ikona.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
   <metadata
-     id="metadata71">
+     id="metadata72">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,23 +36,22 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1260"
-     inkscape:window-height="716"
-     id="namedview69"
+     inkscape:window-height="397"
+     id="namedview70"
      showgrid="false"
-     inkscape:zoom="29.43332"
-     inkscape:cx="6.8926814"
-     inkscape:cy="8.2535678"
+     inkscape:zoom="44.6875"
+     inkscape:cx="8"
+     inkscape:cy="8"
      inkscape:window-x="0"
-     inkscape:window-y="364"
+     inkscape:window-y="683"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg67"
-     inkscape:document-rotation="0">
+     inkscape:current-layer="svg68">
     <inkscape:grid
        type="xygrid"
-       id="grid73" />
+       id="grid74" />
   </sodipodi:namedview>
   <defs
-     id="defs61">
+     id="defs64">
     <style
        id="current-color-scheme"
        type="text/css">
@@ -223,14 +223,17 @@
          style="stop-color:#b16286; stop-opacity:1"
          id="stop58" />
     </linearGradient>
+    <clipPath
+       id="_clipPath_5GocJQdCsxjpG2gmNIuHdF5aGyML2XSs">
+      <rect
+         width="16"
+         height="16"
+         id="rect61" />
+    </clipPath>
   </defs>
-  <g
-     transform="matrix(0.93046036,0,0,0.93046036,-126.00784,-129.94675)"
-     id="g65">
-    <path
-       d="M 140.78571,141.07143 136.5,143.75 139.71429,145.89286 144,143.21429 Z m 3.21429,2.14286 4.28571,2.67857 3.21429,-2.14286 -4.28571,-2.67857 z m 4.28571,2.67857 -4.28571,2.67857 3.21429,2.14286 4.28571,-2.67858 z M 144,148.57143 l -4.28571,-2.67857 -3.21429,2.14285 4.28571,2.67858 z m 0,1.28697 -3.19545,2.1303 -1.09026,-0.6822 v 0.15486 0.9647 l 4.29408,2.57394 4.27734,-2.56557 v -0.96261 -0.16532 l -1.09026,0.6822 z"
-       style="fill:currentColor"
-       class="ColorScheme-Text"
-       id="path63" />
-  </g>
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.16717"
+     d="M 2,1 V 2.1671732 13.838906 15.006079 H 7.8358661 9.0030394 10.170213 V 13.838906 H 9.0030394 7.8358661 3.1671732 V 2.1671732 h 2.3343465 1.1671732 2.3343465 2.3343456 1.167174 v 7.0030394 h 1.167173 V 1 H 12.504559 9.0030394 6.6686929 5.5015197 Z m 5.8358661,3.5015197 c -1.9398419,0 -3.5015197,1.5616778 -3.5015197,3.5015197 0,1.9398419 1.5616778,3.5015196 3.5015197,3.5015196 0.7579507,0 1.4706733,-0.250359 2.0425532,-0.656535 L 12.832826,13.838906 13.671732,13 10.68085,10.045593 c 0.406236,-0.5717986 0.656535,-1.2845913 0.656535,-2.0425536 0,-1.9398419 -1.561677,-3.5015197 -3.5015189,-3.5015197 z m 0,1.1671732 c 1.293228,0 2.3343469,1.0411186 2.3343469,2.3343465 0,1.2932279 -1.0411189,2.3343466 -2.3343469,2.3343466 -1.2932279,0 -2.3343464,-1.0411187 -2.3343464,-2.3343466 0,-1.2932279 1.0411185,-2.3343465 2.3343464,-2.3343465 z"
+     class="ColorScheme-Text"
+     id="path66" />
 </svg>
