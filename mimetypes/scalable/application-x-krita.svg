@@ -64,12 +64,12 @@
 <stop offset="1"/>
 </radialGradient>
 <linearGradient id="paint8_linear" x1="39" y1="15" x2="39" y2="240.174" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#FF57DB"/>
+<stop offset="1e-07" stop-color="#d3869b"/>
 <stop offset="0.5" stop-color="#b16286"/>
 <stop offset="1" stop-color="#8f3f71"/>
 </linearGradient>
 <linearGradient id="paint9_linear" x1="155.608" y1="15" x2="155.608" y2="75.1605" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#FF57DB"/>
+<stop offset="1e-07" stop-color="#d3869b"/>
 <stop offset="0.5" stop-color="#b16286"/>
 <stop offset="1" stop-color="#8f3f71"/>
 </linearGradient>

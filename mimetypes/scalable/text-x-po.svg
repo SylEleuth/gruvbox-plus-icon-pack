@@ -31,42 +31,15 @@
 <stop offset="1" stop-color="#3c3836"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="127.057" y1="46" x2="127.057" y2="209.156" gradientUnits="userSpaceOnUse">
-<stop stop-color="#b8bb26"/>
-<stop offset="0.1" stop-color="#b8bb26"/>
-<stop offset="0.2" stop-color="#b8bb26"/>
-<stop offset="0.3" stop-color="#b8bb26"/>
-<stop offset="0.4" stop-color="#b8bb26"/>
-<stop offset="0.5" stop-color="#8ec07c"/>
-<stop offset="0.6" stop-color="#8ec07c"/>
-<stop offset="0.7" stop-color="#8ec07c"/>
-<stop offset="0.8" stop-color="#8ec07c"/>
-<stop offset="0.9" stop-color="#8ec07c"/>
+<stop offset="1e-07" stop-color="#b8bb26"/>
 <stop offset="1" stop-color="#8ec07c"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="127.057" y1="46" x2="127.057" y2="209.156" gradientUnits="userSpaceOnUse">
-<stop stop-color="#b8bb26"/>
-<stop offset="0.1" stop-color="#b8bb26"/>
-<stop offset="0.2" stop-color="#b8bb26"/>
-<stop offset="0.3" stop-color="#b8bb26"/>
-<stop offset="0.4" stop-color="#b8bb26"/>
-<stop offset="0.5" stop-color="#8ec07c"/>
-<stop offset="0.6" stop-color="#8ec07c"/>
-<stop offset="0.7" stop-color="#8ec07c"/>
-<stop offset="0.8" stop-color="#8ec07c"/>
-<stop offset="0.9" stop-color="#8ec07c"/>
+<stop offset="1e-07" stop-color="#b8bb26"/>
 <stop offset="1" stop-color="#8ec07c"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="127.507" y1="15" x2="127.507" y2="240.178" gradientUnits="userSpaceOnUse">
-<stop stop-color="#b8bb26"/>
-<stop offset="0.1" stop-color="#b8bb26"/>
-<stop offset="0.2" stop-color="#b8bb26"/>
-<stop offset="0.3" stop-color="#b8bb26"/>
-<stop offset="0.4" stop-color="#b8bb26"/>
-<stop offset="0.5" stop-color="#8ec07c"/>
-<stop offset="0.6" stop-color="#8ec07c"/>
-<stop offset="0.7" stop-color="#8ec07c"/>
-<stop offset="0.8" stop-color="#8ec07c"/>
-<stop offset="0.9" stop-color="#8ec07c"/>
+<stop offset="1e-07" stop-color="#b8bb26"/>
 <stop offset="1" stop-color="#8ec07c"/>
 </linearGradient>
 <linearGradient id="paint4_linear" x1="39" y1="187" x2="39" y2="240" gradientUnits="userSpaceOnUse">
@@ -82,42 +55,15 @@
 <stop offset="1" stop-color="#3c3836"/>
 </linearGradient>
 <linearGradient id="paint7_linear" x1="102.006" y1="61" x2="102.006" y2="105.204" gradientUnits="userSpaceOnUse">
-<stop stop-color="#b8bb26"/>
-<stop offset="0.1" stop-color="#b8bb26"/>
-<stop offset="0.2" stop-color="#b8bb26"/>
-<stop offset="0.3" stop-color="#b8bb26"/>
-<stop offset="0.4" stop-color="#b8bb26"/>
-<stop offset="0.5" stop-color="#8ec07c"/>
-<stop offset="0.6" stop-color="#8ec07c"/>
-<stop offset="0.7" stop-color="#8ec07c"/>
-<stop offset="0.8" stop-color="#8ec07c"/>
-<stop offset="0.9" stop-color="#8ec07c"/>
+<stop offset="1e-07" stop-color="#b8bb26"/>
 <stop offset="1" stop-color="#8ec07c"/>
 </linearGradient>
 <linearGradient id="paint8_linear" x1="147.399" y1="119.741" x2="147.399" y2="163.945" gradientUnits="userSpaceOnUse">
-<stop stop-color="#b8bb26"/>
-<stop offset="0.1" stop-color="#b8bb26"/>
-<stop offset="0.2" stop-color="#b8bb26"/>
-<stop offset="0.3" stop-color="#b8bb26"/>
-<stop offset="0.4" stop-color="#b8bb26"/>
-<stop offset="0.5" stop-color="#8ec07c"/>
-<stop offset="0.6" stop-color="#8ec07c"/>
-<stop offset="0.7" stop-color="#8ec07c"/>
-<stop offset="0.8" stop-color="#8ec07c"/>
-<stop offset="0.9" stop-color="#8ec07c"/>
+<stop offset="1e-07" stop-color="#b8bb26"/>
 <stop offset="1" stop-color="#8ec07c"/>
 </linearGradient>
 <linearGradient id="paint9_linear" x1="185.809" y1="15" x2="185.809" y2="75.1616" gradientUnits="userSpaceOnUse">
-<stop stop-color="#b8bb26"/>
-<stop offset="0.1" stop-color="#b8bb26"/>
-<stop offset="0.2" stop-color="#b8bb26"/>
-<stop offset="0.3" stop-color="#b8bb26"/>
-<stop offset="0.4" stop-color="#b8bb26"/>
-<stop offset="0.5" stop-color="#8ec07c"/>
-<stop offset="0.6" stop-color="#8ec07c"/>
-<stop offset="0.7" stop-color="#8ec07c"/>
-<stop offset="0.8" stop-color="#8ec07c"/>
-<stop offset="0.9" stop-color="#8ec07c"/>
+<stop offset="1e-07" stop-color="#b8bb26"/>
 <stop offset="1" stop-color="#8ec07c"/>
 </linearGradient>
 </defs>

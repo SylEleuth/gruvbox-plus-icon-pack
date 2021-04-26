@@ -17,7 +17,7 @@
 <path d="M131.606 135.902C131.606 137.847 130.029 139.423 128.085 139.423C126.14 139.423 124.563 137.847 124.563 135.902V125.339C124.563 123.394 126.14 121.817 128.085 121.817C130.029 121.817 131.606 123.394 131.606 125.339V135.902Z" fill="#665c54"/>
 <path d="M131.606 132.381C131.606 134.326 130.029 135.902 128.085 135.902C126.14 135.902 124.563 134.326 124.563 132.381V125.339C124.563 123.394 126.14 121.818 128.085 121.818C130.029 121.818 131.606 123.394 131.606 125.339V132.381Z" fill="#a89984"/>
 <path d="M55.3326 175.174H107.332V207.176H55.3326V175.174Z" fill="#ebdbb2"/>
-<path d="M59.3351 183.176V199.175H67.3326V183.176H59.3351ZM71.3351 183.176V199.175H75.3339V183.176H71.3351ZM79.3327 183.176V199.175H87.334V183.176H79.3327ZM91.3327 183.176V199.175H95.3353V183.176H91.3327ZM99.334 183.176V199.175H103.333V183.176H99.334Z" fill="#ebdbb2"/>
+<path d="M59.3351 183.176V199.175H67.3326V183.176H59.3351ZM71.3351 183.176V199.175H75.3339V183.176H71.3351ZM79.3327 183.176V199.175H87.334V183.176H79.3327ZM91.3327 183.176V199.175H95.3353V183.176H91.3327ZM99.334 183.176V199.175H103.333V183.176H99.334Z" fill="#665c54"/>
 <path opacity="0.3" d="M151.333 179.177V183.176H199.333V179.177H151.333ZM151.333 187.174V191.177H191.336V187.174H151.333ZM151.333 195.176V199.175H199.333V195.176H151.333ZM151.333 203.177V207.176H183.334V203.177H151.333Z" fill="white"/>
 </g>
 <defs>
@@ -27,17 +27,8 @@
 <feGaussianBlur stdDeviation="7.5611" result="effect1_foregroundBlur"/>
 </filter>
 <linearGradient id="paint0_linear" x1="130.92" y1="17.8495" x2="130.92" y2="243.027" gradientUnits="userSpaceOnUse">
-<stop stop-color="#b8bb26"/>
-<stop offset="0.1" stop-color="#b8bb26"/>
-<stop offset="0.2" stop-color="#b8bb26"/>
-<stop offset="0.3" stop-color="#b8bb26"/>
-<stop offset="0.4" stop-color="#b8bb26"/>
-<stop offset="0.5" stop-color="#8ec07c"/>
-<stop offset="0.6" stop-color="#8ec07c"/>
-<stop offset="0.7" stop-color="#8ec07c"/>
-<stop offset="0.8" stop-color="#8ec07c"/>
-<stop offset="0.9" stop-color="#8ec07c"/>
-<stop offset="1" stop-color="#8ec07c"/>
+<stop offset="0.0217391" stop-color="#8ec07c"/>
+<stop offset="1" stop-color="#427b58"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="139.68" y1="220.858" x2="121.042" y2="167.592" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
