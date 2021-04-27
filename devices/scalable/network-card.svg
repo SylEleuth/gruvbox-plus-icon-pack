@@ -7,10 +7,10 @@
  <g clip-path="url(#_clipPath_Rs1Z4p8ER5dLGy13XAWaJ1DL92K0YftS)">
   <g filter="url(#tHYT8Z2r0CNrC35kvHWURf8yENC5ZsUf)">
    <linearGradient id="_lgradient_110" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:rgb(26,214,171)"/>
-    <stop offset="100%" style="stop-color:rgb(50,157,182)"/>
+    <stop offset="0%" style="stop-color:#83a598"/>
+    <stop offset="100%" style="stop-color:#458588"/>
    </linearGradient>
-   <path fill="#458588" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 106 240.288 L 106 199 L 60.333 199 Q 60.333 223.667 60.333 239.336 C 13.245 235.509 5.68 218.295 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 L 165.689 11.95 Z"/>
+   <path fill="url(#_lgradient_110)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 106 240.288 L 106 199 L 60.333 199 Q 60.333 223.667 60.333 239.336 C 13.245 235.509 5.68 218.295 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 L 165.689 11.95 Z"/>
   </g>
   <defs>
    <filter id="tHYT8Z2r0CNrC35kvHWURf8yENC5ZsUf" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -22,10 +22,10 @@
    </filter>
   </defs>
   <linearGradient id="_lgradient_111" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(24.109,0,0,211.849,5.68,20.626)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:rgb(230,230,230)"/>
-   <stop offset="100%" style="stop-color:rgb(174,175,179)"/>
+   <stop offset="0%" style="stop-color:#ebdbb2"/>
+   <stop offset="100%" style="stop-color:#bdae93"/>
   </linearGradient>
-  <path fill="#ebdbb2" d="M 29.789 232.476 C 9.656 222.612 5.68 201.093 5.68 155.745 L 5.68 96.494 C 5.68 52.405 9.438 30.84 28.166 20.626 L 29.789 232.476 L 29.789 232.476 L 29.789 232.476 Z"/>
+  <path fill="url(#_lgradient_111)" d="M 29.789 232.476 C 9.656 222.612 5.68 201.093 5.68 155.745 L 5.68 96.494 C 5.68 52.405 9.438 30.84 28.166 20.626 L 29.789 232.476 L 29.789 232.476 L 29.789 232.476 Z"/>
   <g>
    <path fill="#fabd2f" d="M 121 198.925 L 137.182 198.925 L 137.182 240.288 L 121 240.288 L 121 198.925 L 121 198.925 Z"/>
    <path fill="#fabd2f" d="M 145.273 198.925 L 161.455 198.925 L 161.455 240.288 L 145.273 240.288 L 145.273 198.925 L 145.273 198.925 Z"/>
