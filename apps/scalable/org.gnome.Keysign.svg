@@ -11,7 +11,7 @@
  <g filter="url(#oKl2FOakGM6YjywrNIStX1WL6wJ66UZ1)">
   <linearGradient id="_lgradient_93" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.452)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#8ec07c"/>
-   <stop offset="100%" style="stop-color:#83a598"/>
+   <stop offset="100%" style="stop-color:#458588"/>
   </linearGradient>
   <path fill="url(#_lgradient_93)" d="M 165.439 11.452 C 239.495 11.452 250.078 22.009 250.078 95.995 L 250.078 155.246 C 250.078 229.233 239.495 239.79 165.439 239.79 L 90.069 239.79 C 16.014 239.79 5.43 229.233 5.43 155.246 L 5.43 95.995 C 5.43 22.009 16.014 11.452 90.069 11.452 L 165.439 11.452 Z"/>
  </g>

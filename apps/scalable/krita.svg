@@ -21,7 +21,7 @@
         </filter>
         <linearGradient id="d" x1="132.03" x2="32.703" y1="146.005" y2="267.498" gradientTransform="matrix(1.01937 0 0 1.01937 -26.944 -32.905)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#458588" stop-opacity=".028"/>
-            <stop offset="1" stop-color="#b8bb26"/>
+            <stop offset="1" stop-color="#689d6a"/>
         </linearGradient>
         <linearGradient id="e" x1="132.03" x2="270.871" y1="146.005" y2="265.772" gradientTransform="matrix(1.01937 0 0 1.01937 -26.944 -32.905)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#fabd2f" stop-opacity="0"/>

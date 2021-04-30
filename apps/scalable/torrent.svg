@@ -19,16 +19,11 @@
         <linearGradient id="k" x1="256" x2="256" y1="-212" y2="-93.481" gradientTransform="matrix(.62409 0 0 .55 -30.946 178.363)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
         <linearGradient id="b">
             <stop offset="0" stop-color="#ebdbb2"/>
-            <stop offset=".16" stop-color="#ebdbb2"/>
-            <stop offset=".36" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#282828"/>
         </linearGradient>
         <linearGradient id="j" x1="197.5" x2="197.5" y1="-124.344" y2="-212" gradientTransform="matrix(.7356 0 0 .74074 -59.626 229.237)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
         <linearGradient id="c">
             <stop offset="0" stop-color="#fb4934"/>
-            <stop offset=".225" stop-color="#fb4934"/>
-            <stop offset=".45" stop-color="#fb4934"/>
-            <stop offset=".725" stop-color="#fb4934"/>
             <stop offset="1" stop-color="#fb4934"/>
         </linearGradient>
         <linearGradient id="i" x1="255.75" x2="255.75" y1="400" y2="208" gradientTransform="matrix(.50926 0 0 .50926 -1.684 43.681)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
@@ -39,7 +34,6 @@
         <linearGradient id="h" x1="56" x2="56" y1="-76" y2="-156" gradientTransform="matrix(.50926 0 0 .34506 2.464 156.824)" gradientUnits="userSpaceOnUse" xlink:href="#e"/>
         <linearGradient id="e">
             <stop offset="0" stop-color="#282828"/>
-            <stop offset=".762" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
     </defs>

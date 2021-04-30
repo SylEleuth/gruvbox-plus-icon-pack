@@ -21,11 +21,11 @@
    <feBlend in="SourceGraphic" in2="effect1_dropShadow" mode="normal" result="shape"/>
   </filter>
   <linearGradient id="paint0_linear" x1="5.676" x2="5.676" y1="11.947" y2="240.285" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#83a598"/>
+   <stop offset="0" stop-color="#b16286"/>
    <stop offset="1" stop-color="#8f3f71"/>
   </linearGradient>
   <linearGradient id="paint1_linear" x1="19" x2="19" y1="23" y2="126" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#665c54"/>
+   <stop offset="0" stop-color="#8f3f71"/>
    <stop offset="1" stop-color="#8f3f71"/>
   </linearGradient>
   <linearGradient id="paint2_linear" x1="5.68" x2="5.68" y1="11.952" y2="240.29" gradientUnits="userSpaceOnUse">

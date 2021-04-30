@@ -14,7 +14,7 @@
         </filter>
         <linearGradient id="c" x1="61.531" x2="232.485" y1="75.548" y2="220.783" gradientTransform="matrix(.2697 0 0 .2697 -7.129 220.56)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#458588"/>
-            <stop offset="1" stop-color="#458588"/>
+            <stop offset="1" stop-color="#83a598"/>
         </linearGradient>
         <linearGradient id="g" x1="256" x2="256" y1="375" y2="135.281" gradientTransform="matrix(.13485 0 0 .13485 -.055 228.116)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#fe8019"/>

@@ -32,34 +32,16 @@
    <stop stop-color="#3c3836" offset="1"/>
   </linearGradient>
   <linearGradient id="paint1_linear" x1="144.365" x2="144.365" y1="48" y2="172.144" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#79dd00" offset="0"/>
-   <stop stop-color="#6ddb0a" offset=".1"/>
-   <stop stop-color="#61d915" offset=".2"/>
-   <stop stop-color="#55d620" offset=".3"/>
-   <stop stop-color="#49d42b" offset=".4"/>
-   <stop stop-color="#3cd235" offset=".5"/>
-   <stop stop-color="#30cf40" offset=".6"/>
-   <stop stop-color="#24cd4b" offset=".7"/>
-   <stop stop-color="#18ca56" offset=".8"/>
-   <stop stop-color="#0cc861" offset=".9"/>
-   <stop stop-color="#00c66b" offset="1"/>
-  </linearGradient>
-  <linearGradient id="paint2_linear" x1="50" x2="50" y1="80.3029" y2="204.444" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#d65d0e" offset="1e-7"/>
+   <stop stop-color="#8ec07c" offset="1e-7"/>
    <stop stop-color="#689d6a" offset="1"/>
   </linearGradient>
+  <linearGradient id="paint2_linear" x1="50" x2="50" y1="80.3029" y2="204.444" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#689d6a" offset="1e-7"/>
+   <stop stop-color="#427b58" offset="1"/>
+  </linearGradient>
   <linearGradient id="paint3_linear" x1="128.223" x2="128.223" y1="97.7778" y2="154.668" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#79dd00" offset="0"/>
-   <stop stop-color="#6ddb0a" offset=".1"/>
-   <stop stop-color="#61d915" offset=".2"/>
-   <stop stop-color="#55d620" offset=".3"/>
-   <stop stop-color="#49d42b" offset=".4"/>
-   <stop stop-color="#3cd235" offset=".5"/>
-   <stop stop-color="#30cf40" offset=".6"/>
-   <stop stop-color="#24cd4b" offset=".7"/>
-   <stop stop-color="#18ca56" offset=".8"/>
-   <stop stop-color="#0cc861" offset=".9"/>
-   <stop stop-color="#00c66b" offset="1"/>
+   <stop stop-color="#8ec07c" offset="1e-7"/>
+   <stop stop-color="#427b58" offset="1"/>
   </linearGradient>
   <linearGradient id="paint4_linear" x1="132.082" x2="132.082" y1="11.95" y2="240.29" gradientUnits="userSpaceOnUse">
    <stop stop-color="white" offset="0"/>

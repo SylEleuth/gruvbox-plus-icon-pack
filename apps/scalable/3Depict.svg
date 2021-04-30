@@ -16,13 +16,13 @@
   </filter>
  </defs>
  <radialGradient id="c" cx=".468" cy=".34" r=".5" fx=".312" fy=".121" gradientTransform="matrix(88.26863 13.95796 .71319 90.58858 111.635 65.5)" gradientUnits="userSpaceOnUse">
-  <stop offset="1.739%" stop-color="#665c54"/>
+  <stop offset="1.739%" stop-color="#cc241d"/>
   <stop offset="51.834%" stop-color="#cc241d"/>
  </radialGradient>
  <path fill="url(#c)" d="M114.231 95.199c8.27-23.229 33.843-35.373 57.071-27.103 23.228 8.271 35.372 33.843 27.102 57.071-8.27 23.228-33.843 35.372-57.071 27.102-23.228-8.27-35.372-33.842-27.102-57.07z"/>
  <radialGradient id="d" cx=".414" cy=".27" r=".5" fx=".41" fy=".254" gradientTransform="matrix(88.88171 9.11638 4.51309 90.28064 55 65.872)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" stop-color="#b8bb26"/>
-  <stop offset="100%" stop-color="#d65d0e"/>
+  <stop offset="0%" stop-color="#8ec07c"/>
+  <stop offset="100%" stop-color="#689d6a"/>
  </radialGradient>
  <path fill="url(#d)" d="M55 110.547c0-24.657 20.018-44.675 44.674-44.675s44.674 20.018 44.674 44.675c0 24.656-20.018 44.674-44.674 44.674S55 135.203 55 110.547z"/>
  <radialGradient id="e" cx=".414" cy=".27" r=".5" fx=".41" fy=".254" gradientTransform="matrix(88.88171 9.11638 4.51309 90.28064 83.326 101.151)" gradientUnits="userSpaceOnUse">

@@ -16,7 +16,7 @@
             <feGaussianBlur stdDeviation="2.32"/>
         </filter>
         <radialGradient id="c" cx="31.272" cy="247.711" r="32.365" gradientTransform="matrix(2.40398 -.66748 .3789 1.3646 -137.76 -68.448)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#b8bb26"/>
+            <stop offset="0" stop-color="#979617"/>
             <stop offset="1" stop-color="#b8bb26"/>
         </radialGradient>
         <filter id="f" x="-.07" y="-.05" width="1.146" height="1.106" color-interpolation-filters="sRGB">

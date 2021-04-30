@@ -16,7 +16,7 @@
   <path d="m 165.628,11.952 c 74.056,0 84.639,10.557 84.639,84.543 v 59.251 c 0,73.987 -10.583,84.544 -84.639,84.544 H 90.259 c -74.056,0 -84.64,-10.557 -84.64,-84.544 V 96.495 c 0,-73.986 10.584,-84.543 84.64,-84.543 z" style="fill:url(#_lgradient_179)"/>
  </g>
  <linearGradient id="_lgradient_180" x1=".444" x2=".447" y1="1.516" y2=".018" gradientTransform="matrix(243.153,0,0,57.429,6.344,11.952)" gradientUnits="userSpaceOnUse">
-  <stop offset="0%" style="stop-color:#b16286"/>
+  <stop offset="0%" style="stop-color:#076678"/>
   <stop offset="100%" style="stop-color:#83a598"/>
  </linearGradient>
  <path fill="url(#_lgradient_180)" d="M 165.628 11.952 C 229.299 11.952 246.051 19.755 249.497 68.965 C 247.834 69.268 3.607 69.524 6.367 69.29 C 9.763 19.79 26.448 11.952 90.259 11.952 L 165.628 11.952 Z"/>

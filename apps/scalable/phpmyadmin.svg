@@ -30,19 +30,19 @@
  <g>
   <g>
    <linearGradient id="_lgradient_26" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(24.887,0,0,25.569,93.954,97.456)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#665c54"/>
+    <stop offset="0%" style="stop-color:#b16286"/>
     <stop offset="50%" style="stop-color:#b16286"/>
     <stop offset="100%" style="stop-color:#8f3f71"/>
    </linearGradient>
    <path fill="url(#_lgradient_26)" d="M 106.223 101.509 L 102.588 112.206 L 105.614 112.206 C 107.62 112.206 109.184 111.782 110.307 110.936 C 111.43 110.089 112.326 108.681 112.995 106.709 C 113.642 104.808 113.715 103.465 113.216 102.683 C 112.717 101.9 111.522 101.509 109.632 101.509 L 106.223 101.509 Z M 102.643 97.456 L 112.192 97.456 C 115.068 97.456 117.024 98.302 118.06 99.995 C 119.097 101.688 119.101 104.048 118.072 107.075 C 117.65 108.315 117.095 109.455 116.406 110.492 C 115.717 111.53 114.885 112.478 113.91 113.336 C 112.747 114.368 111.522 115.107 110.234 115.554 C 108.945 116 107.362 116.224 105.484 116.224 L 101.222 116.224 L 98.911 123.024 L 93.954 123.024 L 102.643 97.456 Z"/>
    <linearGradient id="_lgradient_27" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(21.808,0,0,25.569,118.007,90.655)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#665c54"/>
+    <stop offset="0%" style="stop-color:#b16286"/>
     <stop offset="50%" style="stop-color:#b16286"/>
     <stop offset="100%" style="stop-color:#8f3f71"/>
    </linearGradient>
    <path fill="url(#_lgradient_27)" d="M 126.696 90.655 L 131.619 90.655 L 129.307 97.456 L 133.708 97.456 C 136.468 97.456 138.281 97.998 139.147 99.082 C 140.014 100.166 140.037 101.914 139.217 104.326 L 135.174 116.224 L 130.183 116.224 L 134.031 104.9 C 134.468 103.613 134.53 102.738 134.218 102.274 C 133.906 101.81 133.118 101.578 131.854 101.578 L 127.906 101.578 L 122.929 116.224 L 118.007 116.224 L 126.696 90.655 Z"/>
    <linearGradient id="_lgradient_28" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(24.887,0,0,25.569,137.159,97.456)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#665c54"/>
+    <stop offset="0%" style="stop-color:#b16286"/>
     <stop offset="50%" style="stop-color:#b16286"/>
     <stop offset="100%" style="stop-color:#8f3f71"/>
    </linearGradient>

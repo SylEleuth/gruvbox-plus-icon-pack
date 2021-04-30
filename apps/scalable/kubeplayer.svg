@@ -54,7 +54,7 @@
    </filter>
    <linearGradient id="_lgradient_118" x1="0" x2="0" y1="0" y2="1">
     <stop offset="0%" style="stop-color:#fe8019"/>
-    <stop offset="100%" style="stop-color:#dc5714"/>
+    <stop offset="100%" style="stop-color:#d65d0e"/>
    </linearGradient>
   </defs>
   <g filter="url(#zkZah3kG8udp4HKcbcMfv2lgY8wCx2TC)">
@@ -70,7 +70,7 @@
    </filter>
   </defs>
   <g filter="url(#qblRbuNvx9ZSAngph1Yy2tqQfqcmbUb2)">
-   <circle fill="#fefdfe" cx="152" cy="206.333" r="12" vector-effect="non-scaling-stroke"/>
+   <circle fill="#ebdbb2" cx="152" cy="206.333" r="12" vector-effect="non-scaling-stroke"/>
   </g>
  </g>
  <defs>

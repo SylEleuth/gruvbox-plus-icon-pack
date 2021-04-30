@@ -30,13 +30,13 @@
             <stop offset="1"/>
         </radialGradient>
         <linearGradient id="c" x1="5.253" x2="61.509" y1="237.63" y2="288.235" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#b16286"/>
-            <stop offset=".189" stop-color="#b16286"/>
-            <stop offset=".359" stop-color="#b16286"/>
-            <stop offset=".498" stop-color="#665c54"/>
-            <stop offset=".642" stop-color="#665c54"/>
-            <stop offset=".808" stop-color="#fb4934"/>
-            <stop offset="1" stop-color="#fe8019"/>
+            <stop offset="0" stop-color="#8f3f71"/>
+            <stop offset=".189" stop-color="#8f3f71"/>
+            <stop offset=".359" stop-color="#fb4934"/>
+            <stop offset=".498" stop-color="#fb4934"/>
+            <stop offset=".642" stop-color="#cc241d"/>
+            <stop offset=".808" stop-color="#cc241d"/>
+            <stop offset="1" stop-color="#fabd2f"/>
         </linearGradient>
     </defs>
     <path transform="matrix(.26458 0 0 .26458 0 3.404)" d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V88.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#a)" opacity=".2"/>

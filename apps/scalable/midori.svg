@@ -9,8 +9,8 @@
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
         <linearGradient id="d" x1="24" x2="280" y1="28" y2="284" gradientTransform="translate(-26.432 16.432)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#b8bb26"/>
-            <stop offset="1" stop-color="#b8bb26"/>
+            <stop offset="0" stop-color="#98971a"/>
+            <stop offset="1" stop-color="#98971a"/>
         </linearGradient>
         <linearGradient id="f" x1="152" x2="152" y1="236" y2="76" gradientTransform="translate(-26.432 18.432)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
         <filter id="g" width="1.072" height="1.072" x="-.04" y="-.04" color-interpolation-filters="sRGB">

@@ -10,8 +10,8 @@
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
         <linearGradient id="c" x1="32" x2="272" y1="156" y2="156" gradientTransform="rotate(60 -153.58 146.183) scale(.26971)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#b8bb26"/>
-            <stop offset="1" stop-color="#b8bb26"/>
+   <stop offset="0%" style="stop-color:#8ec07c"/>
+   <stop offset="100%" style="stop-color:#458588"/>
         </linearGradient>
         <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="1.16"/>

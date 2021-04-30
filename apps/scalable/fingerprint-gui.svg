@@ -16,11 +16,8 @@
             <feGaussianBlur stdDeviation="2.32"/>
         </filter>
         <linearGradient id="c" x1="-67.271" x2="353.47" y1="-89.87" y2="381.47" gradientTransform="matrix(.2697 0 0 .2697 -7.129 220.56)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#282828"/>
-            <stop offset=".11" stop-color="#665c54"/>
-            <stop offset=".526" stop-color="#665c54"/>
-            <stop offset=".934" stop-color="#b16286"/>
-            <stop offset="1" stop-color="#282828" stop-opacity="0"/>
+            <stop offset="0" stop-color="#8f3f71"/>
+            <stop offset="1" stop-color="#8f3f71" stop-opacity="0"/>
         </linearGradient>
     </defs>
     <path transform="matrix(.2697 0 0 .2697 0 2.199)" d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V88.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#a)" opacity=".2"/>

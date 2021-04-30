@@ -33,7 +33,7 @@
   <path d="M 34.403999 47 L 221.596001 47 C 225.130464 47 228 49.869536 228 53.403999 L 228 129.596001 C 228 133.130464 225.130464 136 221.596001 136 L 34.403999 136 C 30.869536 136 28 133.130464 28 129.596001 L 28 53.403999 C 28 49.869536 30.869536 47 34.403999 47 Z" style="fill:#ebdbb2"/>
   <linearGradient id="_lgradient_19" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(117.688402,0,0,64.228868,69.155799,59.385566)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#fb4934"/>
-   <stop offset="50%" style="stop-color:#665c54"/>
+   <stop offset="50%" style="stop-color:#fb4934"/>
    <stop offset="100%" style="stop-color:#cc241d"/>
   </linearGradient>
   <path fill="url(#_lgradient_19)" fill-rule="evenodd" d="M 69.155799 123.614434 L 69.155799 59.385566 L 119.260016 59.385566 L 119.260016 73.301821 L 80.984915 73.301821 L 80.984915 84.541873 L 111.800892 84.541873 L 111.800892 98.458127 L 80.984915 98.458127 L 80.984915 123.614434 L 69.155799 123.614434 Z M 123.328629 71.874513 L 175.919221 71.874513 L 175.919221 71.874513 Q 180.439902 71.874513 183.642052 75.710403 L 183.642052 75.710403 L 183.642052 75.710403 Q 186.844201 79.546294 186.844201 84.809493 L 186.844201 84.809493 L 186.844201 123.614434 L 175.391808 123.614434 L 175.391808 85.523147 L 160.925628 85.523147 L 160.925628 123.614434 L 149.322547 123.614434 L 149.322547 85.523147 L 134.856367 85.523147 L 134.856367 123.614434 L 123.328629 123.614434 L 123.328629 71.874513 Z"/>
@@ -59,7 +59,7 @@
   </g>
   <linearGradient id="_lgradient_20" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(25,0,0,25,179.333333,161.666667)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#8ec07c"/>
-   <stop offset="100%" style="stop-color:#b8bb26"/>
+   <stop offset="100%" style="stop-color:#689d6a"/>
   </linearGradient>
   <circle fill="url(#_lgradient_20)" cx="191.833" cy="174.167" r="12.5" vector-effect="non-scaling-stroke"/>
  </g>

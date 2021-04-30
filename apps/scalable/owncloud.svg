@@ -16,7 +16,7 @@
         </clipPath>
         <linearGradient id="c" x1="32.4" x2="241.735" y1="-3.81" y2="255.691" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#282828"/>
-            <stop offset="1" stop-color="#282828"/>
+            <stop offset="1" stop-color="#504945"/>
         </linearGradient>
     </defs>
     <path d="M162.537 16.432c72.648 0 83.031 10.357 83.031 82.937v58.125c0 72.581-10.383 82.938-83.031 82.938H88.599c-72.648 0-83.031-10.357-83.031-82.938V99.37c0-72.58 10.383-82.937 83.031-82.937z" fill="none" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" stroke="#282828"/>

@@ -44,7 +44,7 @@
  </g>
  <g>
   <linearGradient id="_lgradient_16" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(89.333,0,0,89.333,125.667,115)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#d65d0e"/>
+   <stop offset="0%" style="stop-color:#689d6a"/>
    <stop offset="100%" style="stop-color:#689d6a"/>
   </linearGradient>
   <circle fill="url(#_lgradient_16)" cx="170.333" cy="159.667" r="44.667" vector-effect="non-scaling-stroke"/>

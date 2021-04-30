@@ -33,8 +33,8 @@
   <g>
    <defs>
     <linearGradient id="_lgradient_100" x1="0" x2="0" y1="0" y2="1">
-     <stop offset="0%" style="stop-color:#665c54"/>
-     <stop offset="50%" style="stop-color:#b16286"/>
+     <stop offset="0%" style="stop-color:#d3869b"/>
+     <stop offset="50%" style="stop-color:#d3869b"/>
      <stop offset="100%" style="stop-color:#b16286"/>
     </linearGradient>
    </defs>
@@ -43,7 +43,7 @@
     <linearGradient id="_lgradient_101" x1="0" x2="0" y1="0" y2="1">
      <stop offset="0%" style="stop-color:#fb4934"/>
      <stop offset="50%" style="stop-color:#fb4934"/>
-     <stop offset="100%" style="stop-color:#fb4934"/>
+     <stop offset="100%" style="stop-color:#cc241d"/>
     </linearGradient>
    </defs>
    <path d="M 61.5 106.854 L 91.792 106.854 C 95.103 106.854 97.792 109.543 97.792 112.854 L 97.792 143.146 C 97.792 146.457 95.103 149.146 91.792 149.146 L 61.5 149.146 C 58.189 149.146 55.5 146.457 55.5 143.146 L 55.5 112.854 C 55.5 109.543 58.189 106.854 61.5 106.854 Z" style="fill:url(#_lgradient_101)"/>
@@ -72,7 +72,7 @@
    <path d="M 61.5 158.208 L 91.792 158.208 C 95.103 158.208 97.792 160.897 97.792 164.208 L 97.792 194.5 C 97.792 197.811 95.103 200.5 91.792 200.5 L 61.5 200.5 C 58.189 200.5 55.5 197.811 55.5 194.5 L 55.5 164.208 C 55.5 160.897 58.189 158.208 61.5 158.208 Z" style="fill:url(#_lgradient_104)"/>
    <defs>
     <linearGradient id="_lgradient_105" x1="0" x2="0" y1="0" y2="1">
-     <stop offset="0%" style="stop-color:#d65d0e"/>
+     <stop offset="0%" style="stop-color:#689d6a"/>
      <stop offset="100%" style="stop-color:#689d6a"/>
     </linearGradient>
    </defs>

@@ -34,11 +34,11 @@
    <linearGradient id="_lgradient_242" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(10.357,0,0,145,55.5,54.5)" gradientUnits="userSpaceOnUse">
     <stop offset="0%" style="stop-color:#fb4934"/>
     <stop offset="50%" style="stop-color:#fb4934"/>
-    <stop offset="100%" style="stop-color:#fb4934"/>
+    <stop offset="100%" style="stop-color:#cc241d"/>
    </linearGradient>
    <path fill="url(#_lgradient_242)" d="M 62.75 54.5 C 58.733 54.5 55.5 57.733 55.5 61.75 L 55.5 127 L 55.5 192.25 C 55.5 196.267 58.733 199.5 62.75 199.5 L 65.857 199.5 L 65.857 54.5 L 62.75 54.5 Z"/>
    <linearGradient id="_lgradient_243" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(10.357,0,0,145,65.857,54.5)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#00ff44"/>
+    <stop offset="0%" style="stop-color:#8ec07c"/>
     <stop offset="100%" style="stop-color:#8ec07c"/>
    </linearGradient>
    <rect fill="url(#_lgradient_243)" width="10.357" height="145" x="65.86" y="54.5" transform="matrix(1,0,0,1,0,0)"/>

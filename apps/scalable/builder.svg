@@ -11,7 +11,7 @@
         </clipPath>
         <linearGradient id="c" x1="160" x2="160" y1="44" y2="268" gradientTransform="matrix(.2697 0 0 .2697 -7.129 220.56)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#fabd2f"/>
-            <stop offset="1" stop-color="#fabd2f"/>
+            <stop offset="1" stop-color="#fe8019"/>
         </linearGradient>
         <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="1.16"/>

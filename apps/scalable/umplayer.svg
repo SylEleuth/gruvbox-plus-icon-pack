@@ -18,8 +18,8 @@
         <linearGradient id="e" x1="12.033" x2="55.709" y1="262.631" y2="262.631" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#fe8019"/>
             <stop offset=".5" stop-color="#fabd2f" stop-opacity=".988"/>
-            <stop offset=".75" stop-color="#b8bb26" stop-opacity=".98"/>
-            <stop offset="1" stop-color="#b8bb26" stop-opacity=".976"/>
+            <stop offset=".75" stop-color="#689d6a" stop-opacity=".98"/>
+            <stop offset="1" stop-color="#689d6a" stop-opacity=".976"/>
         </linearGradient>
         <filter id="f" x="-.04" y="-.06" width="1.078" height="1.125" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation=".688"/>

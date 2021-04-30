@@ -8,7 +8,7 @@
         </filter>
         <linearGradient id="c" x1="58.397" x2="243.659" y1="19" y2="302" gradientTransform="matrix(2.0393 0 0 2.0393 -83.458 -45.327)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#fb4934"/>
-            <stop offset="1" stop-color="#b16286"/>
+            <stop offset="1" stop-color="#cc241d"/>
         </linearGradient>
         <linearGradient id="d" x1="256" x2="256" y1="24" y2="664" gradientTransform="matrix(.76474 0 0 1.01965 30.744 19.93)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>

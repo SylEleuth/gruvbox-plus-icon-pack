@@ -28,8 +28,8 @@
   <circle fill="#ebdbb2" cx="102.107" cy="85.277" r="10.357" vector-effect="non-scaling-stroke"/>
   <circle fill="#ebdbb2" cx="153.893" cy="85.277" r="10.357" vector-effect="non-scaling-stroke"/>
   <ellipse fill="#ebdbb2" cx="128" cy="142.241" rx="36.25" ry="41.429" vector-effect="non-scaling-stroke"/>
-  <circle fill="#303030" cx="107.286" cy="87.866" r="5.179" vector-effect="non-scaling-stroke"/>
-  <circle fill="#303030" cx="159.071" cy="87.866" r="5.179" vector-effect="non-scaling-stroke"/>
+  <circle fill="#3c3836" cx="107.286" cy="87.866" r="5.179" vector-effect="non-scaling-stroke"/>
+  <circle fill="#3c3836" cx="159.071" cy="87.866" r="5.179" vector-effect="non-scaling-stroke"/>
   <defs>
    <filter id="YWESEhCgvVNDujzJ45hJ9akqojXJKUqx" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>

@@ -23,7 +23,7 @@
             <stop offset="100%" stop-color="#b8bb26"/>
         </linearGradient>
         <linearGradient id="h" x1=".747" x2=".004" y1="0" y2=".964" gradientTransform="matrix(94.05 0 0 72.5001 65.619 128)" gradientUnits="userSpaceOnUse">
-            <stop offset="0%" stop-color="#665c54"/>
+            <stop offset="0%" stop-color="#fb4934"/>
             <stop offset="100%" stop-color="#fb4934"/>
         </linearGradient>
         <linearGradient id="g" x1="1.077" x2="0" y1=".5" y2=".5" gradientTransform="matrix(57.19575 0 0 48.236 135.833 103.882)" gradientUnits="userSpaceOnUse">

@@ -3,7 +3,7 @@
   <linearGradient id="_lgradient_139" x1="0" x2="1" y1=".5" y2=".5" gradientTransform="matrix(244.648,0,0,228.338,5.676,11.947)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#cc241d"/>
    <stop offset="34.838%" style="stop-color:#cc241d"/>
-   <stop offset="100%" style="stop-color:#8f3f71"/>
+   <stop offset="100%" style="stop-color:#cc241d"/>
   </linearGradient>
   <path fill="url(#_lgradient_139)" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 L 165.685 11.947 Z"/>
  </g>

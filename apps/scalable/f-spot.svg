@@ -21,7 +21,7 @@
         </clipPath>
         <linearGradient id="n" x1="282.873" x2="119.178" y1="324.609" y2="69.967" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
         <linearGradient id="b" x1="135.969" x2="41.133" y1="291.778" y2="74.766" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#458588"/>
+            <stop offset="0" stop-color="#8f3f71"/>
             <stop offset="1" stop-color="#b16286"/>
         </linearGradient>
         <linearGradient id="k" x1="282.873" x2="119.178" y1="324.609" y2="69.967" gradientTransform="matrix(.60387 0 0 .60387 21.694 65.478)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>

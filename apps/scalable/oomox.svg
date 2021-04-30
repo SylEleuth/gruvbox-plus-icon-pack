@@ -35,8 +35,8 @@
    </linearGradient>
    <path fill="url(#_lgradient_32)" d="M 96.76 240.288 L 165.689 240.288 C 199.175 240.288 219.684 238.13 232.11 228.93 L 232.11 228.93 L 129.307 126.866 L 128.892 126.971 L 96.76 240.288 L 96.76 240.288 Z"/>
    <linearGradient id="_lgradient_33" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(121.021,0,0,132.579,129.307,96.351)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#d65d0e"/>
-    <stop offset="100%" style="stop-color:#689d6a"/>
+    <stop offset="0%" style="stop-color:#689d6a"/>
+    <stop offset="100%" style="stop-color:#427b58"/>
    </linearGradient>
    <path fill="url(#_lgradient_33)" d="M 232.11 228.93 C 247.152 217.772 250.328 196.276 250.328 155.745 L 250.328 96.494 C 250.328 96.445 250.328 96.397 250.328 96.351 L 250.328 96.351 L 129.307 126.866 L 232.11 228.93 L 232.11 228.93 Z"/>
    <linearGradient id="_lgradient_34" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(123.326,0,0,135.17,5.68,22.866)" gradientUnits="userSpaceOnUse">
@@ -50,8 +50,8 @@
    </linearGradient>
    <path fill="url(#_lgradient_35)" d="M 128.892 126.971 L 129.307 126.866 L 129.307 126.866 L 129.006 126.567 L 128.892 126.971 L 128.892 126.971 Z"/>
    <linearGradient id="_lgradient_36" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(136.954,0,0,114.617,24.553,11.95)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#665c54"/>
-    <stop offset="100%" style="stop-color:#8f3f71"/>
+    <stop offset="0%" style="stop-color:#8f3f71"/>
+    <stop offset="100%" style="stop-color:#b16286"/>
    </linearGradient>
    <path fill="url(#_lgradient_36)" d="M 129.006 126.567 L 24.553 22.866 C 37.02 14.036 57.398 11.95 90.319 11.95 L 161.507 11.95 L 129.006 126.567 L 129.006 126.567 Z"/>
    <linearGradient id="_lgradient_37" x1=".187" x2=".19" y1=".005" y2=".999" gradientTransform="matrix(121.322,0,0,114.916,129.006,11.95)" gradientUnits="userSpaceOnUse">

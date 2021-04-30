@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
  <g filter="url(#P6Pad4EdURggNrJMOmt48fApjxBeLCbh)">
   <linearGradient id="_lgradient_200" x1=".538" x2=".534" y1=".975" y2="-.001" gradientTransform="matrix(244.648,0,0,228.339,6.343,13.28)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#bbbbbb"/>
+   <stop offset="0%" style="stop-color:#bdae93"/>
    <stop offset="100%" style="stop-color:#ebdbb2"/>
   </linearGradient>
   <path fill="url(#_lgradient_200)" d="M 166.351 13.28 C 240.407 13.28 250.991 23.837 250.991 97.824 L 250.991 157.075 C 250.991 231.061 240.407 241.619 166.351 241.619 L 90.982 241.619 C 16.926 241.619 6.343 231.061 6.343 157.075 L 6.343 97.824 C 6.343 23.837 16.926 13.28 90.982 13.28 L 166.351 13.28 L 166.351 13.28 Z"/>

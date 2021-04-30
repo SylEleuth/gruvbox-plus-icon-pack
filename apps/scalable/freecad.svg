@@ -39,8 +39,8 @@
    <path d="M 107.389286 204 L 79.425 204 L 79.425 59 L 176.575 59 L 176.575 85.514286 L 107.389286 85.514286 L 107.389286 115.964286 L 151.303571 115.964286 L 151.303571 142.478571 L 107.389286 142.478571 L 107.389286 204 Z"/>
   </g>
   <linearGradient id="_lgradient_57" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(97.149972,0,0,145,79.425011,55.499994)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#ff0011"/>
-   <stop offset="100%" style="stop-color:#dc1457"/>
+   <stop offset="0%" style="stop-color:#cc241d"/>
+   <stop offset="100%" style="stop-color:#fb4934"/>
   </linearGradient>
   <path fill="url(#_lgradient_57)" d="M 107.389265 200.499994 L 79.425011 200.499994 L 79.425011 55.499994 L 176.574982 55.499994 L 176.574982 82.014254 L 107.389265 82.014254 L 107.389265 112.464279 L 151.303607 112.464279 L 151.303607 138.97854 L 107.389265 138.97854 L 107.389265 200.499994 Z"/>
   <defs>

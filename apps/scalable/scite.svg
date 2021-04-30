@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" version="1.1" viewBox="0 0 256 256" style="isolation:isolate">
  <defs>
   <linearGradient id="linearGradient1920" x1=".136" x2=".652" y1=".965" y2=".018" gradientTransform="matrix(244.64831,0,0,228.3384,5.68,11.95)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
-   <stop offset="0%" style="stop-color:#6389b9"/>
-   <stop offset="100%" style="stop-color:#79acdf"/>
+   <stop offset="0%" style="stop-color:#458588"/>
+   <stop offset="100%" style="stop-color:#83a598"/>
   </linearGradient>
   <filter id="Tzcz4vEdmITS7wQ3AsSx9hYNK6Mdtix6" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
    <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
@@ -25,8 +25,8 @@
  </defs>
  <g style="filter:url(#Tzcz4vEdmITS7wQ3AsSx9hYNK6Mdtix6)">
   <linearGradient id="_lgradient_0" x1=".514" x2=".652" y1="1" y2=".018" gradientTransform="matrix(244.64831,0,0,228.3384,5.68,11.95)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
-   <stop style="stop-color:#5d7fae" offset="0%"/>
-   <stop style="stop-color:#79acdf" offset="100%"/>
+   <stop style="stop-color:#458588" offset="0%"/>
+   <stop style="stop-color:#83a598" offset="100%"/>
   </linearGradient>
   <path style="fill:url(#_lgradient_0)" d="m 165.68892,11.95 c 74.05571,0 84.63939,10.557198 84.63939,84.543859 v 59.250791 c 0,73.98626 -10.58368,84.54375 -84.63939,84.54375 H 90.319393 C 16.26369,240.2884 5.68,229.73091 5.68,155.74465 V 96.493859 C 5.68,22.507198 16.26369,11.95 90.319393,11.95 Z"/>
  </g>
@@ -53,6 +53,6 @@
    <path d="m 162.4724,-536.11942 c -4.66701,-4.76253 -8.48548,-8.92775 -8.48548,-9.25605 0,-0.3283 13.94984,-14.5413 30.99965,-31.58446 l 30.99964,-30.98755 9.24395,9.24396 9.24395,9.24395 -30.98754,30.99964 c -17.04316,17.04981 -31.33431,30.99965 -31.75812,30.99965 -0.42382,0 -4.58904,-3.89661 -9.25605,-8.65914 z" style="fill:url(#linearGradient972)"/>
    <path d="m 151.08655,-542.02463 c 5.40748,6.09079 11.11696,11.89091 16.80719,17.71387 l -26.55928,9.25144 z" style="fill:url(#linearGradient980)"/>
   </g>
-  <path style="fill:#668dbe;stroke:url(#linearGradient1004);stroke-width:6.80000019;stroke-linecap:round" d="M 54.579389,207.72223 H 202.57052"/>
+  <path style="fill:#458588;stroke:url(#linearGradient1004);stroke-width:6.80000019;stroke-linecap:round" d="M 54.579389,207.72223 H 202.57052"/>
  </g>
 </svg>

@@ -16,13 +16,7 @@
   </defs>
   <g filter="url(#pzwQqWws1QX2ljpZ4RAvNytHR9Xv6AyT)">
    <linearGradient id="_lgradient_35" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
-    <stop offset="0%" style="stop-color:#83a598"/>
-    <stop offset="14.286%" style="stop-color:#458588"/>
-    <stop offset="28.571%" style="stop-color:#458588"/>
-    <stop offset="42.857%" style="stop-color:#076678"/>
-    <stop offset="57.143%" style="stop-color:#076678"/>
-    <stop offset="71.429%" style="stop-color:#076678"/>
-    <stop offset="85.714%" style="stop-color:#8f3f71"/>
+    <stop offset="0%" style="stop-color:#b16286"/>
     <stop offset="100%" style="stop-color:#8f3f71"/>
    </linearGradient>
    <path fill="url(#_lgradient_35)" d="M 165.688919 11.95 C 239.744626 11.95 250.328309 22.507198 250.328309 96.493859 L 250.328309 155.744653 C 250.328309 229.73091 239.744626 240.288396 165.688919 240.288396 L 90.319393 240.288396 C 16.26369 240.288396 5.68 229.73091 5.68 155.744653 L 5.68 96.493859 C 5.68 22.507198 16.26369 11.95 90.319393 11.95 L 165.688919 11.95 Z"/>
@@ -61,14 +55,8 @@
    <path d="M 80.083333 74 L 128 102.75 L 175.916667 131.5 L 128 160.25 L 80.083333 189 L 80.083333 74 Z"/>
   </g>
   <linearGradient id="_lgradient_38" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(95.833333,0,0,115,80.083333,70.5)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#83a598"/>
-   <stop offset="14.286%" style="stop-color:#458588"/>
-   <stop offset="28.571%" style="stop-color:#458588"/>
-   <stop offset="42.857%" style="stop-color:#076678"/>
-   <stop offset="57.143%" style="stop-color:#076678"/>
-   <stop offset="71.429%" style="stop-color:#076678"/>
-   <stop offset="85.714%" style="stop-color:#8f3f71"/>
-   <stop offset="100%" style="stop-color:#8f3f71"/>
+    <stop offset="0%" style="stop-color:#b16286"/>
+    <stop offset="100%" style="stop-color:#8f3f71"/>
   </linearGradient>
   <path fill="url(#_lgradient_38)" d="M 80.083333 70.5 L 128 99.25 L 175.916667 128 L 128 156.75 L 80.083333 185.5 L 80.083333 70.5 Z"/>
  </g>

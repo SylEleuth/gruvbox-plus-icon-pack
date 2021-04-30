@@ -23,22 +23,22 @@
  </g>
  <g filter="url(#0RZjTeyBHySQOoyk6xSCW3TxTehU1gH1)">
   <linearGradient id="_lgradient_204" x1=".631" x2=".636" y1=".775" y2=".67" gradientTransform="matrix(163.099,0,0,89.541,45.892,100.995)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" stop-opacity=".996" style="stop-color:#f3e6d2"/>
-   <stop offset="100%" style="stop-color:#f7f4ee"/>
+   <stop offset="0%" stop-opacity=".996" style="stop-color:#ebdbb2"/>
+   <stop offset="100%" style="stop-color:#fbf1c7"/>
   </linearGradient>
   <path fill="url(#_lgradient_204)" d="M 45.892 100.995 L 45.892 154.406 C 45.892 161.568 47.244 166.721 49.882 169.862 C 52.395 172.877 57.292 174.423 64.58 174.423 L 81.887 174.423 L 104.711 190.536 L 127.537 174.423 L 190.304 174.423 C 197.592 174.423 202.488 172.877 205.001 169.862 C 207.64 166.721 208.991 161.568 208.991 154.406 L 208.991 100.995 L 45.892 100.995 L 45.892 100.995 L 45.892 100.995 L 45.892 100.995 Z"/>
   <linearGradient id="_lgradient_205" x1=".361" x2=".361" y1=".01" y2=".614" gradientTransform="matrix(163.099,0,0,122.163,45.892,68.372)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#fdfdfb"/>
+   <stop offset="0%" style="stop-color:#fbf1c7"/>
    <stop offset="100%" style="stop-color:#ebdbb2"/>
   </linearGradient>
   <path fill="url(#_lgradient_205)" d="M 64.579 68.375 C 57.293 68.284 52.396 70.003 49.883 73.019 C 47.245 76.16 45.892 81.313 45.892 88.475 L 45.892 151.893 L 81.887 174.423 L 104.712 190.535 L 127.537 174.423 L 127.537 174.423 L 208.991 112.573 L 208.991 88.475 C 208.991 81.313 207.639 76.16 205.001 73.019 C 202.488 70.003 197.592 68.375 190.304 68.375 L 178.142 68.375 L 97.669 68.375 L 64.579 68.375 L 64.579 68.375 L 64.579 68.375 L 64.579 68.375 Z"/>
-  <path fill="#fb7064" d="M 78.512 100.995 L 78.512 109.15 L 176.372 109.15 L 176.372 100.995 L 78.512 100.995 L 78.512 100.995 L 78.512 100.995 L 78.512 100.995 Z"/>
+  <path fill="#fb4934" d="M 78.512 100.995 L 78.512 109.15 L 176.372 109.15 L 176.372 100.995 L 78.512 100.995 L 78.512 100.995 L 78.512 100.995 L 78.512 100.995 Z"/>
   <g style="opacity:0.1">
    <g style="opacity:0.1">
     <g style="opacity:0.1">
      <g opacity=".1">
       <linearGradient id="_lgradient_206" x1=".612" x2=".714" y1=".365" y2=".423" gradientTransform="matrix(81.454,0,0,61.85,127.537,112.573)" gradientUnits="userSpaceOnUse">
-       <stop offset="0%" stop-opacity=".996" style="stop-color:#e6a240"/>
+       <stop offset="0%" stop-opacity=".996" style="stop-color:#d79921"/>
        <stop offset="100%" stop-opacity=".275" style="stop-color:#fabd2f"/>
       </linearGradient>
       <path fill="url(#_lgradient_206)" d="M 208.991 112.573 L 127.537 174.423 L 190.304 174.423 C 197.592 174.423 202.488 172.878 205.001 169.862 C 207.639 166.721 208.991 161.568 208.991 154.406 L 208.991 112.573 L 208.991 112.573 L 208.991 112.573 L 208.991 112.573 Z"/>
@@ -51,7 +51,7 @@
     <g style="opacity:0.1">
      <g opacity=".1">
       <linearGradient id="_lgradient_207" x1=".368" x2=".178" y1=".105" y2=".167" gradientTransform="matrix(35.995,0,0,22.704,45.892,151.893)" gradientUnits="userSpaceOnUse">
-       <stop offset="0%" stop-opacity=".996" style="stop-color:#e6a240"/>
+       <stop offset="0%" stop-opacity=".996" style="stop-color:#d79921"/>
        <stop offset="100%" stop-opacity=".275" style="stop-color:#fabd2f"/>
       </linearGradient>
       <path fill="url(#_lgradient_207)" d="M 45.892 151.893 L 45.892 154.406 C 45.892 161.568 47.245 166.721 49.883 169.862 C 52.396 172.878 57.342 175.276 64.579 174.423 L 81.887 174.423 L 45.892 151.893 L 45.892 151.893 L 45.892 151.893 L 45.892 151.893 Z"/>
@@ -59,7 +59,7 @@
     </g>
    </g>
   </g>
-  <path fill="#fb7064" d="M 78.512 125.459 L 78.512 133.614 L 127.442 133.614 L 127.442 125.459 L 78.512 125.459 L 78.512 125.459 L 78.512 125.459 L 78.512 125.459 Z"/>
+  <path fill="#fb4934" d="M 78.512 125.459 L 78.512 133.614 L 127.442 133.614 L 127.442 125.459 L 78.512 125.459 L 78.512 125.459 L 78.512 125.459 L 78.512 125.459 Z"/>
   <path fill="#ebdbb2" d="M 64.58 68.375 C 57.293 68.284 52.395 70.004 49.882 73.02 C 47.244 76.161 45.892 81.314 45.892 88.475 L 45.892 90.514 C 45.892 83.352 47.244 78.2 49.882 75.058 C 52.395 72.043 57.293 70.322 64.58 70.414 L 97.669 70.414 L 178.141 70.414 L 190.304 70.414 C 197.592 70.414 202.489 72.043 205.001 75.058 C 207.64 78.2 208.991 83.352 208.991 90.514 L 208.991 88.475 C 208.991 81.314 207.64 76.161 205.001 73.02 C 202.489 70.004 197.592 68.375 190.304 68.375 L 178.141 68.375 L 97.669 68.375 L 64.58 68.375 L 64.58 68.375 L 64.58 68.375 L 64.58 68.375 Z"/>
  </g>
  <defs>

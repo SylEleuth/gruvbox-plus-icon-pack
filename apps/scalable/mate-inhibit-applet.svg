@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#YeTt3TJ1KyceAJWjJjFg91ZdTNLbJ7vC)">
   <linearGradient id="_lgradient_27" x1="0" x2="0" y1="0" y2="1.001" gradientTransform="matrix(244.648308,0,0,228.338391,5.68,11.95)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#d65d0e"/>
-   <stop offset="100%" style="stop-color:#689d6a"/>
+   <stop offset="0%" style="stop-color:#689d6a"/>
+   <stop offset="100%" style="stop-color:#427b58"/>
   </linearGradient>
   <path fill="url(#_lgradient_27)" d="M 165.688919 11.95 C 239.744629 11.95 250.328308 22.507198 250.328308 96.493858 L 250.328308 155.744659 C 250.328308 229.730911 239.744629 240.288391 165.688919 240.288391 L 106 240.288391 L 106 199 L 60.33308 199 Q 60.333332 223.666672 60.33308 239.336426 C 13.244709 235.509216 5.68 218.294846 5.68 155.744659 L 5.68 96.493858 C 5.68 22.507198 16.263691 11.95 90.319389 11.95 L 165.688919 11.95 Z"/>
  </g>

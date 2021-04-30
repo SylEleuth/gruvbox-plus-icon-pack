@@ -25,8 +25,8 @@
         </linearGradient>
         <linearGradient id="f" x1="80.982" x2="100.732" y1="29.133" y2="56.817" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
-            <stop offset=".48" stop-color="#fabd2f"/>
-            <stop offset=".669" stop-color="#fe8019"/>
+            <stop offset=".48" stop-color="#ebdbb2"/>
+            <stop offset=".669" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2" stop-opacity=".988"/>
         </linearGradient>
         <filter id="g" x="-.05" y="-.05" width="1.096" height="1.096" color-interpolation-filters="sRGB">

@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" width="256" height="256" version="1.1">
  <defs>
   <linearGradient id="linearGradient1087">
-   <stop style="stop-color:#77a22c" offset="0"/>
-   <stop style="stop-color:#649c2f" offset="1"/>
+   <stop style="stop-color:#979617" offset="0"/>
+   <stop style="stop-color:#79740e" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1071">
-   <stop style="stop-color:#f3eb66" offset="0"/>
-   <stop style="stop-color:#f1e34c" offset="1"/>
+   <stop style="stop-color:#fabd2f" offset="0"/>
+   <stop style="stop-color:#d79921" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1013">
-   <stop style="stop-color:#f0903a" offset="0"/>
-   <stop style="stop-color:#ef7812" offset="1"/>
+   <stop style="stop-color:#fe8019" offset="0"/>
+   <stop style="stop-color:#d65d0e" offset="1"/>
   </linearGradient>
   <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
    <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
@@ -28,7 +28,7 @@
  <path d="m 133.255,52 c 60,10 59.5,10.25 116.499,20.029 0.416,7.264 0.575,15.386 0.575,24.462 v 59.251 c 0,73.986 -10.584,84.543 -84.639,84.543 H 90.32 c -74.055,0 -84.639,-10.557 -84.639,-84.543 V 96.491 c 0,-31.437 1.911,-51.423 9.79,-64.013 C 65.255,40.75 77.505,43 133.255,52 Z" style="fill:url(#linearGradient1073)"/>
  <path d="m 39.755,42.75 c 98,17.042 168,28 210.278,35.258 0.21,5.673 0.296,11.821 0.296,18.483 v 59.251 c 0,73.986 -10.584,84.543 -84.639,84.543 H 90.32 c -74.055,0 -84.639,-10.557 -84.639,-84.543 V 96.491 C 5.681,69.434 7.096,50.86 12.514,38.183 19.255,39.75 26.755,41 39.755,42.75 Z" style="fill:url(#linearGradient1089)"/>
  <path d="m 217.10845,174.25 c 13.358,-1.582 31.5,-1.874 32.119,-2.754 -1.764,59.772 -15.992,68.789 -84.434,68.789 H 89.423451 c -57.816,0 -76.945,-6.434 -82.5549996,-44.463 -4.237,-0.737 149.3939986,-14.365 210.2399986,-21.572 z" style="fill:url(#linearGradient1081)"/>
- <path d="m 210.14727,182 c 21.499,-2.218 38.726,-3.411 38.379,-4.268 -2.614,54.171 -18.206,62.553 -84.194,62.553 H 88.962266 c -54.572,0 -74.676,-5.733 -81.4779997,-38.355 -1.02,-1.153 135.4940037,-12.999 202.6630037,-19.93 z" style="fill:#91b024"/>
+ <path d="m 210.14727,182 c 21.499,-2.218 38.726,-3.411 38.379,-4.268 -2.614,54.171 -18.206,62.553 -84.194,62.553 H 88.962266 c -54.572,0 -74.676,-5.733 -81.4779997,-38.355 -1.02,-1.153 135.4940037,-12.999 202.6630037,-19.93 z" style="fill:#b8bb26"/>
  <g opacity=".4">
   <linearGradient id="b" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" stop-color="#ebdbb2"/>

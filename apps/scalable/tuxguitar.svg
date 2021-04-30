@@ -2,7 +2,7 @@
     <defs>
         <linearGradient id="d" x1="32" x2="272" y1="156" y2="156" gradientTransform="rotate(70 -120.121 147.185) scale(.26971)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#282828"/>
-            <stop offset="1" stop-color="#282828"/>
+            <stop offset="1" stop-color="#3c3836"/>
         </linearGradient>
         <filter id="c" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="2.32"/>

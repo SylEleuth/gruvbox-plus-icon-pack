@@ -28,8 +28,8 @@
   <circle fill="#ebdbb2" cx="102.107" cy="85.277" r="10.357" vector-effect="non-scaling-stroke"/>
   <circle fill="#ebdbb2" cx="153.893" cy="85.277" r="10.357" vector-effect="non-scaling-stroke"/>
   <ellipse fill="#ebdbb2" cx="128" cy="142.241" rx="36.25" ry="41.429" vector-effect="non-scaling-stroke"/>
-  <circle fill="#303030" cx="107.286" cy="87.866" r="5.179" vector-effect="non-scaling-stroke"/>
-  <circle fill="#303030" cx="159.071" cy="87.866" r="5.179" vector-effect="non-scaling-stroke"/>
+  <circle fill="#3c3836" cx="107.286" cy="87.866" r="5.179" vector-effect="non-scaling-stroke"/>
+  <circle fill="#3c3836" cx="159.071" cy="87.866" r="5.179" vector-effect="non-scaling-stroke"/>
   <g opacity=".2">
    <path d="M 137.51 140.96 C 136.82 141.77 135.84 142.26 134.78 142.35 C 133.72 142.43 132.68 142.08 131.87 141.39 C 131.06 140.7 130.57 139.72 130.48 138.66 C 130.4 137.61 130.75 136.56 131.44 135.75 L 139.73281 126.073187 C 143.324226 121.882393 146.24 122.96085 146.24 128.48 L 146.24 164.25 C 146.24 165.31 145.82 166.33 145.07 167.08 C 144.32 167.83 143.3 168.25 142.24 168.25 C 141.18 168.25 140.16 167.83 139.41 167.08 C 138.66 166.33 138.24 165.31 138.24 164.25 L 138.24 140.11 L 137.51 140.96 Z"/>
   </g>

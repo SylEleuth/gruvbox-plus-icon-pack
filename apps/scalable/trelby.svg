@@ -11,7 +11,7 @@
  <g filter="url(#8z6ZyPqV8FLDbvNDmXuWWFB0kidNB5c7)">
   <linearGradient id="_lgradient_489" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#665266"/>
-   <stop offset="100%" style="stop-color:#4e364e"/>
+   <stop offset="100%" style="stop-color:#504945"/>
   </linearGradient>
   <path fill="url(#_lgradient_489)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -42,7 +42,7 @@
    <path d="M 181.817 93.876 C 129.664 121.524 94.661 136.731 61.33 151.218 C 61.541 153.121 61.879 155.606 62.298 158.618 C 94.514 145.356 143.911 122.2 185.209 100.427 C 184.743 99.454 184.259 98.476 183.736 97.469 L 182.389 94.875 C 182.214 94.554 181.998 94.202 181.817 93.876 Z M 187.479 105.48 C 135.284 133.151 96.578 151.216 63.176 165.75 C 63.4 168.004 63.531 170.022 63.436 171.385 C 63.397 171.943 63.182 172.985 63.064 173.762 C 95.308 160.489 145.829 136.692 187.159 114.901 L 187.501 105.525 C 187.495 105.51 187.485 105.496 187.479 105.481 L 187.479 105.48 Z"/>
   </g>
   <linearGradient id="_lgradient_492" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(104.019,0,0,90.308,96.481,85.413)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#665c54"/>
+   <stop offset="0%" style="stop-color:#b16286"/>
    <stop offset="50%" style="stop-color:#b16286"/>
    <stop offset="100%" style="stop-color:#8f3f71"/>
   </linearGradient>

@@ -30,10 +30,16 @@
 
 # * Numberless icons are from Gravit Designer, under GPL3/MIT
 
+# * Gruvbox coloring by:
+# - SylEleuth <https://github.com/SylEleuth>
+#
+# * Gruvbox original colors created by:
+# - Pavel Pertsev <https://github.com/morhetz/gruvbox>
+
 [Icon Theme]
 Name=Gruvbox+
 
-Inherits=Suru++, OneDark, Breeze Dark, Yaru, gnome, hicolor
+Inherits=Suru++, Breeze Dark, OneDark, Yaru, gnome, hicolor
 
 Example=folder
 

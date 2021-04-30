@@ -17,7 +17,7 @@
         </filter>
         <linearGradient id="c" x1="33.867" x2="33.867" y1="292.769" y2="232.355" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#b16286"/>
-            <stop offset="1" stop-color="#458588"/>
+            <stop offset="1" stop-color="#8f3f71"/>
         </linearGradient>
         <filter id="f" x="-.04" y="-.06" width="1.08" height="1.12" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="2.419"/>

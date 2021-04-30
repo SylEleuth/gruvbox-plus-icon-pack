@@ -46,7 +46,7 @@
   <g opacity=".4" filter="url(#aPGtJ9ckNAoynuBwIWSYzjuw8slWTmbV)">
    <circle cx="128" cy="132" r="60" vector-effect="non-scaling-stroke"/>
   </g>
-  <circle fill="#e65829" cx="128" cy="128" r="60" vector-effect="non-scaling-stroke"/>
+  <circle fill="#d65d0e" cx="128" cy="128" r="60" vector-effect="non-scaling-stroke"/>
   <path fill="#ebdbb2" d="M 120.5 79.125 L 120.5 124.25 L 120.5 135.5 L 166.875 135.5 L 159.875 124.25 L 131.75 124.25 L 131.75 83.125 L 120.5 79.125 Z"/>
  </g>
 </svg>

@@ -17,7 +17,7 @@
  </g>
  <linearGradient id="_lgradient_794" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(145,0,0,135.333,55.5,58.333)" gradientUnits="userSpaceOnUse">
   <stop offset="0%" style="stop-color:#8ec07c"/>
-  <stop offset="100%" style="stop-color:#83a598"/>
+  <stop offset="100%" style="stop-color:#689d6a"/>
  </linearGradient>
  <path fill="url(#_lgradient_794)" d="M 150.335 58.333 C 194.227 58.333 200.5 64.59 200.5 108.441 L 200.5 143.559 C 200.5 187.409 194.227 193.667 150.335 193.667 L 105.665 193.667 C 61.773 193.667 55.5 187.409 55.5 143.559 L 55.5 108.441 C 55.5 64.59 61.773 58.333 105.665 58.333 L 150.335 58.333 Z"/>
  <g opacity=".4">
