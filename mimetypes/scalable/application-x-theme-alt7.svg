@@ -13,17 +13,17 @@
 <feGaussianBlur stdDeviation="7.5611" result="effect1_foregroundBlur"/>
 </filter>
 <linearGradient id="paint0_linear" x1="39" y1="15" x2="39" y2="240.174" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#504945"/>
-<stop offset="1" stop-color="#3c3836"/>
+<stop offset="1e-07" stop-color="#b8bb26"/>
+<stop offset="1" stop-color="#98971a"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="155.608" y1="15" x2="155.608" y2="75.1605" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#504945"/>
-<stop offset="1" stop-color="#3c3836"/>
+<stop offset="1e-07" stop-color="#b8bb26"/>
+<stop offset="1" stop-color="#98971a"/>
 </linearGradient>
 </defs>
   <path
      id="path31"
      d="M 79.185646,79.267143 V 175.90686 H 175.82535 V 79.267143 Z m 48.319844,4.39271 h 43.92714 V 96.838007 H 127.50549 Z M 83.578356,101.23072 h 21.963564 v 70.28342 H 83.578356 Z m 26.356284,0 h 61.49799 v 70.28342 h -61.49799 z"
-     fill="#504945"
+     fill="#b8bb26"
      style="stroke-width:4.39271" />
 </svg>
