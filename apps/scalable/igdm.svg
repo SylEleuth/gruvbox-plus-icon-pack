@@ -11,11 +11,7 @@
  <g filter="url(#a)">
   <linearGradient id="b" x1=".073" x2=".939" y1=".052" y2=".865" gradientTransform="matrix(244.648 0 0 228.339 6.343 13.28)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#8f3f71"/>
-            <stop offset=".189" stop-color="#cc241d"/>
-            <stop offset=".359" stop-color="#cc241d"/>
-            <stop offset=".498" stop-color="#cc241d"/>
-            <stop offset=".642" stop-color="#fb4934"/>
-            <stop offset=".808" stop-color="#fb4934"/>
+            <stop offset=".5" stop-color="#cc241d"/>
             <stop offset="1" stop-color="#fe8019"/>
   </linearGradient>
   <path fill="url(#b)" d="M166.351 13.28c74.056 0 84.64 10.557 84.64 84.544v59.251c0 73.986-10.584 84.544-84.64 84.544H90.982c-74.056 0-84.639-10.558-84.639-84.544V97.824c0-73.987 10.583-84.544 84.639-84.544h75.369z"/>

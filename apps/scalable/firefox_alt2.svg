@@ -26,9 +26,9 @@
             <stop offset=".254" stop-color="#fabd2f"/>
             <stop offset=".429" stop-color="#fe8019"/>
             <stop offset=".769" stop-color="#fb4934"/>
-            <stop offset=".872" stop-color="#665c54"/>
-            <stop offset=".953" stop-color="#665c54"/>
-            <stop offset="1" stop-color="#665c54"/>
+            <stop offset=".872" stop-color="#fb4934"/>
+            <stop offset=".953" stop-color="#fb4934"/>
+            <stop offset="1" stop-color="#fb4934"/>
         </radialGradient>
         <radialGradient id="n" cx="-7529.669" cy="-7921.608" r="791.229" gradientTransform="matrix(.22615 0 0 .22615 1865.223 1908.267)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
@@ -49,22 +49,23 @@
         <radialGradient id="p" cx="-8260.94" cy="-6516.556" r="266.886" gradientTransform="rotate(5.759 -17440.146 20144.236) scale(.22618)" gradientUnits="userSpaceOnUse">
             <stop offset=".003" stop-color="#fabd2f"/>
             <stop offset=".497" stop-color="#fb4934"/>
-            <stop offset="1" stop-color="#665c54"/>
+            <stop offset="1" stop-color="#fb4934"/>
         </radialGradient>
         <radialGradient id="q" cx="-8285.087" cy="-6772.468" r="445.678" gradientTransform="rotate(5.759 -17440.146 20144.236) scale(.22618)" gradientUnits="userSpaceOnUse">
-            <stop offset=".003" stop-color="#fabd2f"/>
-            <stop offset=".157" stop-color="#fe8019"/>
-            <stop offset=".316" stop-color="#fe8019"/>
-            <stop offset=".472" stop-color="#fb4934"/>
-            <stop offset=".621" stop-color="#fb4934"/>
-            <stop offset=".762" stop-color="#fb4934"/>
-            <stop offset=".892" stop-color="#fb4934"/>
-            <stop offset="1" stop-color="#fb4934"/>
+            <stop offset=".156" stop-color="#fabd2f"/>
+            <stop offset=".231" stop-color="#fabd2f"/>
+            <stop offset=".365" stop-color="#fabd2f"/>
+            <stop offset=".541" stop-color="#fe8019"/>
+            <stop offset=".763" stop-color="#fb4934"/>
+            <stop offset=".796" stop-color="#fb4934"/>
+            <stop offset=".841" stop-color="#fb4934"/>
+            <stop offset=".893" stop-color="#fb4934"/>
+            <stop offset=".935" stop-color="#cc241d"/>
         </radialGradient>
         <radialGradient id="r" cx="-8222.051" cy="-6359.332" r="408.958" gradientTransform="rotate(5.759 -17440.146 20144.236) scale(.22618)" gradientUnits="userSpaceOnUse">
             <stop offset=".003" stop-color="#fb4934"/>
-            <stop offset=".497" stop-color="#665c54"/>
-            <stop offset=".986" stop-color="#282828"/>
+            <stop offset=".497" stop-color="#fb4934"/>
+            <stop offset=".986" stop-color="#cc241d"/>
         </radialGradient>
         <radialGradient id="s" cx="750.189" cy="396.041" fx="778.167" fy="382.212" r="782.18" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.1846 0 0 .1846 33.539 80.803)">
             <stop offset=".156" stop-color="#fabd2f"/>
@@ -74,8 +75,8 @@
             <stop offset=".763" stop-color="#fb4934"/>
             <stop offset=".796" stop-color="#fb4934"/>
             <stop offset=".841" stop-color="#fb4934"/>
-            <stop offset=".893" stop-color="#665c54"/>
-            <stop offset=".935" stop-color="#b16286"/>
+            <stop offset=".893" stop-color="#fb4934"/>
+            <stop offset=".935" stop-color="#cc241d"/>
         </radialGradient>
         <radialGradient id="t" cx="691.339" cy="3.289" r="923.615" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.1846 0 0 .1846 33.539 80.803)">
             <stop offset=".279" stop-color="#fabd2f"/>
@@ -87,7 +88,7 @@
         </radialGradient>
         <linearGradient xlink:href="#c" id="u" gradientUnits="userSpaceOnUse" gradientTransform="rotate(5.759 -17440.146 20144.236) scale(.22618)" x1="-8944.65" y1="-6677.742" x2="-8660.289" y2="-6750.226"/>
         <linearGradient id="c" x1="-8944.65" y1="-6677.742" x2="-8660.289" y2="-6750.226" gradientTransform="rotate(5.67 -90364.99 106952.151) scale(1.225)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#665c54" stop-opacity=".5"/>
+            <stop offset="0" stop-color="#fb4934" stop-opacity=".5"/>
             <stop offset=".474" stop-color="#fb4934" stop-opacity=".5"/>
             <stop offset=".486" stop-color="#fb4934" stop-opacity=".513"/>
             <stop offset=".675" stop-color="#fe8019" stop-opacity=".72"/>
@@ -102,7 +103,7 @@
         </linearGradient>
         <linearGradient xlink:href="#e" id="w" gradientUnits="userSpaceOnUse" gradientTransform="rotate(5.735 -307.247 914.637) scale(.18461)" x1="22.04" y1="718.827" x2="116.148" y2="825.714"/>
         <linearGradient id="e" x1="22.04" y1="718.827" x2="116.148" y2="825.714" gradientTransform="rotate(5.73 2610.902 2923.845)" gradientUnits="userSpaceOnUse">
-            <stop offset=".005" stop-color="#665c54" stop-opacity=".5"/>
+            <stop offset=".005" stop-color="#fb4934" stop-opacity=".5"/>
             <stop offset=".484" stop-color="#fb4934" stop-opacity=".5"/>
             <stop offset="1" stop-color="#fb4934" stop-opacity="0"/>
         </linearGradient>

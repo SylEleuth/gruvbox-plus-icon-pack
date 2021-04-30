@@ -1,13 +1,14 @@
 <svg width="256" height="256" viewBox="0 0 67.73 67.73" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <radialGradient id="g" cx="71.144" cy="56.087" r="54.181" gradientTransform="matrix(1.36536 -.00043 0 1.39295 -20.745 -15.254)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#fabd2f"/>
-            <stop offset=".426" stop-color="#fabd2f"/>
-            <stop offset=".509" stop-color="#fe8019"/>
-            <stop offset=".588" stop-color="#fb4934"/>
-            <stop offset=".668" stop-color="#fb4934"/>
-            <stop offset=".937" stop-color="#b16286" stop-opacity=".973"/>
-            <stop offset="1" stop-color="#b16286"/>
+            <stop offset=".045" stop-color="#fabd2f"/>
+            <stop offset=".12" stop-color="#fabd2f"/>
+            <stop offset=".254" stop-color="#fabd2f"/>
+            <stop offset=".429" stop-color="#fe8019"/>
+            <stop offset=".769" stop-color="#fb4934"/>
+            <stop offset=".872" stop-color="#fb4934"/>
+            <stop offset=".953" stop-color="#fb4934"/>
+            <stop offset="1" stop-color="#fb4934"/>
         </radialGradient>
         <radialGradient id="h" cx="19.076" cy="29.852" r="5.912" gradientTransform="matrix(1.42134 3.04377 -4.31628 2.01557 121.434 -78.019)" gradientUnits="userSpaceOnUse">
             <stop stop-color="#665c54" offset="0" stop-opacity=".916"/>

@@ -28,7 +28,7 @@
         </linearGradient>
         <linearGradient id="h" x1="112.968" x2="134.33" y1="77.319" y2="102.795" gradientTransform="matrix(.63946 0 0 .63946 14.104 68.402)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#fb4934"/>
-            <stop offset="1" stop-color="#b16286"/>
+            <stop offset="1" stop-color="#cc241d"/>
         </linearGradient>
         <linearGradient id="i" x1="143.209" x2="104.608" y1="185.283" y2="222.34" gradientTransform="matrix(.63946 0 0 .63946 14.104 68.402)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#fe8019"/>

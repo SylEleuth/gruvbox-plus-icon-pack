@@ -71,17 +71,9 @@
    <stop id="stop480" offset="1" stop-color="#3c3836"/>
   </linearGradient>
   <linearGradient id="paint112_linear" x1="263" x2="263" y1="1086" y2="1036" gradientUnits="userSpaceOnUse">
-   <stop id="stop645" stop-color="#8ec07c"/>
-   <stop id="stop647" offset=".1" stop-color="#fb4934"/>
-   <stop id="stop649" offset=".2" stop-color="#8ec07c"/>
-   <stop id="stop651" offset=".3" stop-color="#8ec07c"/>
-   <stop id="stop653" offset=".4" stop-color="#8ec07c"/>
-   <stop id="stop655" offset=".5" stop-color="#8ec07c"/>
-   <stop id="stop657" offset=".6" stop-color="#fe8019"/>
-   <stop id="stop659" offset=".7" stop-color="#fe8019"/>
-   <stop id="stop661" offset=".8" stop-color="#fe8019"/>
-   <stop id="stop663" offset=".9" stop-color="#d65d0e"/>
-   <stop id="stop665" offset="1" stop-color="#d65d0e"/>
+   <stop id="stop645" stop-color="#cc241d"/>
+   <stop id="stop647" offset=".1" stop-color="#cc241d"/>
+   <stop id="stop665" offset="1" stop-color="#fe8019"/>
   </linearGradient>
   <clipPath id="clip0">
    <rect fill="#ebdbb2" width="256" height="256"/>

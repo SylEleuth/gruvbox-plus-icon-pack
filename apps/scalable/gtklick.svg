@@ -46,7 +46,7 @@
    <feGaussianBlur result="effect1_foregroundBlur" stdDeviation="5"/>
   </filter>
   <linearGradient id="paint0_linear" x1="126.487" x2="127.02" y1="11.8597" y2="241.039" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#8ec07c" offset="0"/>
+   <stop stop-color="#458588" offset="0"/>
    <stop stop-color="#83a598" offset="1"/>
   </linearGradient>
   <linearGradient id="paint1_linear" x1="128.228" x2="128.228" y1="56" y2="198.456" gradientUnits="userSpaceOnUse">
