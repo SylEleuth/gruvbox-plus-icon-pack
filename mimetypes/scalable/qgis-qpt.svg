@@ -17,10 +17,10 @@
 </filter>
 <linearGradient id="paint0_linear" x1="44" y1="20" x2="44" y2="211" gradientUnits="userSpaceOnUse">
 <stop offset="1e-07" stop-color="#ebdbb2"/>
-<stop offset="1" stop-color="#ebdbb2"/>
+<stop offset="1" stop-color="#d5c4a1"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="123.321" y1="68.5" x2="123.321" y2="206" gradientUnits="userSpaceOnUse">
-<stop offset="1e-07" stop-color="#bdae93"/>
+<stop offset="1e-07" stop-color="#d5c4a1"/>
 <stop offset="1" stop-color="#bdae93"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="45.5" y1="147.5" x2="45.5" y2="236" gradientUnits="userSpaceOnUse">
