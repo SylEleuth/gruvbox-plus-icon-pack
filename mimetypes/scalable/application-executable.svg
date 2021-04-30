@@ -210,32 +210,8 @@
          stop-color="#83a598"
          offset="1e-07" />
       <stop
-         id="stop42"
-         stop-color="#458588"
-         offset="0.142857" />
-      <stop
-         id="stop44"
-         stop-color="#458588"
-         offset="0.285714" />
-      <stop
-         id="stop46"
-         stop-color="#076678"
-         offset="0.428571" />
-      <stop
-         id="stop48"
-         stop-color="#076678"
-         offset="0.571429" />
-      <stop
-         id="stop50"
-         stop-color="#076678"
-         offset="0.714286" />
-      <stop
-         id="stop52"
-         stop-color="#8f3f71"
-         offset="0.857143" />
-      <stop
          id="stop54"
-         stop-color="#8f3f71"
+         stop-color="#458588"
          offset="1" />
     </linearGradient>
     <linearGradient

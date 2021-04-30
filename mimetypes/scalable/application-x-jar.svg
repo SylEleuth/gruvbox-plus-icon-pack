@@ -28,7 +28,7 @@
 <stop offset="1" stop-color="#cc241d"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="126.411" y1="14.914" x2="127.127" y2="240.916" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="39" y1="187" x2="39" y2="240" gradientUnits="userSpaceOnUse">
@@ -37,27 +37,27 @@
 <stop offset="1" stop-color="#cc241d"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="126.484" y1="136.797" x2="126.49" y2="146.746" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint4_linear" x1="125.733" y1="123.66" x2="125.738" y2="133.413" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint5_linear" x1="124.858" y1="145.498" x2="124.863" y2="158.307" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint6_linear" x1="123.183" y1="110.027" x2="123.188" y2="120.628" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint7_linear" x1="162.35" y1="108.885" x2="162.424" y2="132.588" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint8_linear" x1="135.487" y1="152.625" x2="135.492" y2="164.038" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint9_linear" x1="112.358" y1="44" x2="112.358" y2="109.834" gradientUnits="userSpaceOnUse">

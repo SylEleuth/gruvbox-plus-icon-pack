@@ -45,7 +45,7 @@
 </linearGradient>
 <linearGradient id="paint3_linear" x1="130.5" y1="80" x2="130.5" y2="29" gradientUnits="userSpaceOnUse">
 <stop stop-color="#689d6a"/>
-<stop offset="1" stop-color="#689d6a"/>
+<stop offset="1" stop-color="#427b58"/>
 </linearGradient>
 <clipPath id="clip0">
 <rect width="256" height="256" fill="white"/>

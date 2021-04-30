@@ -18,23 +18,23 @@
 <feGaussianBlur stdDeviation="7.5611" result="effect1_foregroundBlur"/>
 </filter>
 <linearGradient id="paint0_linear" x1="126.411" y1="14.914" x2="127.127" y2="240.916" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="107.734" y1="85.1267" x2="107.979" y2="167.28" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="146.951" y1="85.1267" x2="147.196" y2="167.281" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="107.744" y1="85.0807" x2="107.99" y2="167.25" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 <linearGradient id="paint4_linear" x1="185.435" y1="14.977" x2="185.585" y2="75.3591" gradientUnits="userSpaceOnUse">
-<stop stop-color="#8ec07c"/>
+<stop stop-color="#83a598"/>
 <stop offset="1" stop-color="#458588"/>
 </linearGradient>
 </defs>

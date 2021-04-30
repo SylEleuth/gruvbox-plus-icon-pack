@@ -15,15 +15,15 @@
 </filter>
 <linearGradient id="paint0_linear" x1="39" y1="76.5" x2="131.739" y2="239.864" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8ec07c"/>
-<stop offset="1" stop-color="#458588"/>
+<stop offset="1" stop-color="#427b58"/>
 </linearGradient>
 <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(195 81) rotate(145.181) scale(190.022 139.42)">
-<stop stop-color="#fe8019"/>
-<stop offset="1" stop-color="#d65d0e" stop-opacity="0.2"/>
+<stop stop-color="#8ec07c"/>
+<stop offset="1" stop-color="#427b58" stop-opacity="0.2"/>
 </radialGradient>
 <linearGradient id="paint2_linear" x1="114.486" y1="70.9561" x2="114.83" y2="186.379" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8ec07c"/>
-<stop offset="1" stop-color="#458588"/>
+<stop offset="1" stop-color="#427b58"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="141.886" y1="95.279" x2="141.886" y2="116.02" gradientUnits="userSpaceOnUse">
 <stop offset="1e-07" stop-color="#fabd2f"/>

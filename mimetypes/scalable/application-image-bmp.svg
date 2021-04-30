@@ -28,14 +28,6 @@
 <linearGradient id="paint2_linear" x1="127.5" y1="262.001" x2="127.5" y2="185.999" gradientUnits="userSpaceOnUse">
 <stop stop-color="#fb4934"/>
 <stop offset="0.1" stop-color="#fb4934"/>
-<stop offset="0.2" stop-color="#fb4934"/>
-<stop offset="0.3" stop-color="#fb4934"/>
-<stop offset="0.4" stop-color="#fb4934"/>
-<stop offset="0.5" stop-color="#fb4934"/>
-<stop offset="0.6" stop-color="#fb4934"/>
-<stop offset="0.7" stop-color="#fb4934"/>
-<stop offset="0.8" stop-color="#fe8019"/>
-<stop offset="0.9" stop-color="#fe8019"/>
 <stop offset="1" stop-color="#fe8019"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="73" y1="80" x2="73" y2="176.248" gradientUnits="userSpaceOnUse">
