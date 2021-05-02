@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
+ <defs>
+  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
+   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
+   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
+   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
+   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
+   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
+  </filter>
+ </defs>
+ <path fill="#3c3836" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
+ <defs>
+  <filter id="b" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
+   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
+   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
+   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
+   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
+   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
+  </filter>
+ </defs>
+   <defs id="defs13">
+    <linearGradient
+       id="white-blue">
+      <stop
+         style="stop-color:#ebdbb2;stop-opacity:1"
+         offset="0"
+         id="stop966" />
+      <stop
+         id="stop968"
+         offset="0.46000001"
+         style="stop-color:#ebdbb2;stop-opacity:1" />
+      <stop
+         style="stop-color:#458588;stop-opacity:1;"
+         offset="1"
+         id="stop970" />
+    </linearGradient>
+    <linearGradient
+       id="red-orange"
+       x1="0.025171699"
+       y1="0.079489581"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,473.895,-473.895,0,547.884,192.222)">
+      <stop
+         offset="0"
+         style="stop-color:#cc241d;stop-opacity:1"
+         id="stop926" />
+      <stop
+         offset="1"
+         style="stop-color:#fabd2f;stop-opacity:1"
+         id="stop928" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#red-orange"
+       id="linearGradient11006"
+       x1="19.0625"
+       y1="0"
+       x2="19"
+       y2="43.25"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95039318,0,0,0.91400987,29.942531,-23.16114)" />
+    <radialGradient
+       xlink:href="#white-blue"
+       id="radialGradient948"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.0888444,0,-2.2961931e-8,-3.9118274,100.20738,3.6084616)"
+       cx="47.947521"
+       cy="2.4776642"
+       fx="47.947521"
+       fy="2.4776642"
+       r="3.94893" />
+  </defs>
+
+
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;enable-background:new"
+     id="g154"
+     transform="matrix(2.4768251,0,0,2.4768251,48.741595,45.552387)">
+    <g
+       id="g4199"
+       transform="matrix(1.4804836,0,0,1.4804836,-39.063212,37.037713)">
+      <path
+         clip-path="none"
+         id="path5352"
+         d="M 44.994167,1.199154 44.05107,3.4841975 C 46.585268,11.287754 46.585268,11.287754 48,18.095103 49.414732,11.287754 49.414732,11.287754 51.94893,3.4841975 L 51.005833,1.199154 48,-6.0837323 Z"
+         style="clip-rule:evenodd;fill:url(#radialGradient948);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.182776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.41421;stroke-dasharray:none;stroke-opacity:0.433036;paint-order:stroke markers fill" />
+      <path
+         id="path5336"
+         d="m 44.673625,-23.161141 h 6.65275 L 66.05747,13.39925 H 59.879914 L 48,-14.524464 36.120086,13.39925 H 29.94253 Z"
+         style="clip-rule:evenodd;fill:url(#linearGradient11006);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient10962);stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1.41421;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
