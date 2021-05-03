@@ -18,7 +18,7 @@
  <radialGradient id="c" cx=".214" cy=".36" r=".5" fx=".218" fy=".36" gradientTransform="matrix(124.69691 83.39561 -60.43602 140.04279 52.99 51)" gradientUnits="userSpaceOnUse">
   <stop offset="2.174%" stop-color="#665c54"/>
   <stop offset="100%" stop-color="#3c3836"/>
-  <stop offset="100%" stop-color="#1d2021"/>
+  <stop offset="100%" stop-color="#282828"/>
   <stop offset="100%" stop-color="#fabd2f"/>
  </radialGradient>
  <path fill="url(#c)" d="M203.01 126.01C202.99 167.441 169.411 201 128 201c-41.411 0-74.99-33.559-75.01-74.99C52.97 84.579 86.569 51 128 51c41.431 0 75.01 33.599 75.01 75.01z"/>
