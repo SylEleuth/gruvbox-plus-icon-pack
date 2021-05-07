@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="drive-multidisk-alt-symbolic.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1060"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="15.799417"
+     inkscape:cx="2.8552799"
+     inkscape:cy="12.531557"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#ebdbb2;
+        }
+    </style>
+  <path
+     d="M 1.3544682,0.02536194 V 15.999317 H 14.666098 V 0.02536194 Z M 4.0167941,1.3565249 h 7.9869779 a 1.331163,1.331163 0 0 1 1.331163,1.3311629 c -1.774441,0 -1.774441,2.6623258 0,2.6623258 l -1.331163,1.331163 H 4.0167941 L 2.6856312,5.3500136 c 1.7744402,0 1.7744402,-2.6623258 0,-2.6623258 A 1.331163,1.331163 0 0 1 4.0167941,1.3565249 Z M 2.6856312,8.0123395 H 8.0102829 V 9.3435021 H 2.6856312 Z m 7.9869768,0 h 2.662327 V 9.3435021 H 10.672608 Z M 2.6856312,10.674665 h 5.3246517 v 1.331164 H 2.6856312 Z m 7.9869768,0 h 2.662327 v 1.331164 h -2.662327 z m -7.9869768,2.662327 h 5.3246517 v 1.331162 H 2.6856312 Z m 7.9869768,0 h 2.662327 v 1.331162 h -2.662327 z"
+     fill="currentColor"
+     class="ColorScheme-Text"
+     id="path3"
+     style="stroke-width:1.33116" />
+</svg>
