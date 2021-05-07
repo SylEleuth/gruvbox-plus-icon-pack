@@ -39,7 +39,7 @@
 [Icon Theme]
 Name=Gruvbox+
 
-Inherits= Breeze Dark, OneDark, Yaru, gnome, hicolor
+Inherits=Breeze Dark, gnome, hicolor
 
 Example=folder
 
