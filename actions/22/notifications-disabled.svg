@@ -1,8 +1,10 @@
 <svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
-    <style type="text/css" id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#ebdbb2;
-        }
-    </style>
-    <path style="fill:currentColor;opacity:0.3" d="m10.269531 17a2 2 0 0 0-0.2695312 1 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-0.271484-1zm1.7304688-13a1 1 0 0 0-1 1 1 1 0 0 0 0.0098 0.1289062 3.9999999 3.9999999 0 0 0-3.0098 3.8710938c0 3-1 4-3 6v1h14v-1c-2-2-3-3-3-6a3.9999999 3.9999999 0 0 0-3.009766-3.8710938 1 1 0 0 0 0.009766-0.1289062 1 1 0 0 0-1-1zm0 2a3 3 0 0 1 3 3c0 3 0.585938 4 2.585938 6h-11.171876c2-2 2.5859375-3 2.5859375-6a3 3 0 0 1 3-3z" class="ColorScheme-Text" fill="currentColor" fill-rule="evenodd"/>
+   <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+         color: #ebdbb2;
+      }
+   </style>
+   <path style="fill:currentColor;opacity:0.3"
+      d="M 11,2 A 1.2,1.2 0 0 1 12.1928,3.32 5.9844,5.9844 0 0 1 17,9.2 v 5.4 l 2.4,2.4 v 0.6 H 2.6 V 17 L 5,14.6 V 9.2 A 5.9856,5.9856 0 0 1 9.8072,3.32 1.2,1.2 0 0 1 11,2 Z m 2.0748,16.8 A 2.4,2.4 0 0 1 11,20 2.4,2.4 0 0 1 8.924,18.8 Z"
+      class="ColorScheme-Text" fill="currentColor" fill-rule="evenodd" />
 </svg>

@@ -1,1 +1,17 @@
-../../panel/24/notification-new-symbolic.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+   <defs>
+      <style id="current-color-scheme" type="text/css">
+         .ColorScheme-Text {
+            color: #ebdbb2;
+         }
+
+         .ColorScheme-Highlight {
+            color: #458588;
+         }
+      </style>
+   </defs>
+   <path style="fill:currentColor" class="ColorScheme-Text"
+      d="m 15.999741,5.0722476 a 1.0665974,1.0665974 0 0 1 0.331529,1.5461688 5.3191208,5.3191208 0 0 1 1.08718,6.6625266 l -2.399844,4.156652 0.780803,2.913998 -0.266649,0.461848 -12.9318042,-7.46618 0.2666485,-0.461849 2.9139981,-0.780804 2.399844,-4.1566518 A 5.3201873,5.3201873 0 0 1 14.494954,5.5582189 1.0665974,1.0665974 0 0 1 15.999741,5.0722476 Z M 10.130637,18.926125 a 2.1331945,2.1331945 0 0 1 -2.1303761,0.0016 2.1331945,2.1331945 0 0 1 -1.0647037,-1.846307 z" />
+   <circle style="color:#458588;fill:currentColor" class="ColorScheme-Highlight" cx="18.179234" cy="18.177477"
+      r="1.8266363" id="circle7" />
+</svg>
