@@ -20,10 +20,10 @@ GruvboxPlus is using color scheme from [Gruvbox](https://github.com/morhetz/gruv
 Colours of icons were created with the thought of dark backgrounds, so it's recommend to use dark themes.
 <br/><br/>
 
-### <div align="center">Applications big icons example:</div>
+### <div align="center">Applications example:</div>
 ![apps](https://user-images.githubusercontent.com/33354262/149584581-828c6035-1e30-4577-ba34-accbcdbd5d59.jpg)
 
-### <div align="center">Symbols (applications, devices, places, mimetypes, panel, status) example:</div>
+### <div align="center">Symbols example:</div>
 ![apps16](https://user-images.githubusercontent.com/33354262/149584583-7b56a96f-533e-413b-8fa7-3f5f6d1e9fe6.jpg)
 <br/><br/>
 
