@@ -10,8 +10,8 @@
     </defs>
     <g filter="url(#a)">
         <linearGradient id="b" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.6483 0 0 228.3384 5.68 11.952)" gradientUnits="userSpaceOnUse">
-            <stop offset="0%" stop-color="#10101011"/>
-            <stop offset="100%" stop-color="#282828"/>
+            <stop offset="0%" style="stop-color:#282828"/>
+            <stop offset="100%" style="stop-color:#3c3836"/>
         </linearGradient>
         <path fill="url(#b)" d="M165.689 11.952c74.056 0 84.64 10.557 84.64 84.543v59.251c0 73.987-10.584 84.544-84.64 84.544h-75.37c-74.055 0-84.639-10.557-84.639-84.544v-59.25c0-73.987 10.584-84.544 84.64-84.544h75.369z"/>
     </g>
