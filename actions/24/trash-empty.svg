@@ -10,10 +10,5 @@
             }
         </style>
     </defs>
-    <g transform="matrix(1.142533,0,0,1.142533,-484.43059,-254.20653)" id="g9">
-        <path style="fill:currentColor" class="ColorScheme-Text"
-            d="m 429,230 v 9 c 5e-5,0.52358 0.47642,0.99995 1,1 h 8 1 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 v -9 z" />
-        <path style="fill:currentColor" class="ColorScheme-Text"
-            d="m 428,228 v 1 l 13,-0.003 v -1 c 0,-1 -0.9998,-1.0034 -0.9998,-1.0034 h -3 c 0,0 0,-1 -1,-1 h -3 c -1,0 -1,1 -1,1 h -3 c 0,0 -1.0002,0.003 -1.0002,1.0034 z" />
-    </g>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 10,4 C 9,4 9,5 9,5 H 6 C 6,5 5,5 5,6 V 7 H 19 V 6 C 19,5 18,5 18,5 H 15 C 15,5 15,4 14,4 Z M 6,8 V 19 C 6,19.52 6.48,20 7,20 H 17 C 17.52,20 18,19.52 18,19 V 8 Z"/>
 </svg>
