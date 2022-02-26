@@ -1,6 +1,13 @@
 # Icon Theme Profile
 
-# The FreeDesktop Suru icon set is designed and developed by:
+# Gruvbox Plus icon set is developed by:
+# - Sylwia Ptasinska
+# - under GPL3
+#
+# Gruvbox Plus icon colors are based on gruvbox colors created by:
+# - Pavel Pertsev <https://github.com/morhetz/gruvbox>
+
+# Gruvbox Plus icons are based on The FreeDesktop Suru icons, designed by:
 # - Sam Hewitt <sam@snwh.org>
 # - under GPL3
 
@@ -30,14 +37,11 @@
 
 # * Numberless icons are from Gravit Designer, under GPL3/MIT
 
-# * Gruvbox coloring by:
-# - SylEleuth <https://github.com/SylEleuth>
-#
 # * Gruvbox original colors created by:
 # - Pavel Pertsev <https://github.com/morhetz/gruvbox>
 
 [Icon Theme]
-Name=Gruvbox+
+Name=GruvboxPlus
 
 Inherits=Breeze Dark, gnome, hicolor
 
