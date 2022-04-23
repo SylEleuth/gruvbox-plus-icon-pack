@@ -1,1 +1,16 @@
-<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"><defs><style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style></defs><path class="ColorScheme-Text" d="m4.8752 4.0002v11.79h-0.87494v1.3346h0.87494v0.87494h1.3346v-0.87494h11.79v-1.3346h-1.7499v-2.1617h-1.3346v2.1617h-2.1651v-2.1617h-1.3346v2.1617h-2.1651v-2.1617h-1.3346v2.1617h-1.7054v-11.79z" fill="currentColor" stroke-width=".87494"/></svg>
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style type="text/css">
+            .ColorScheme-Text {
+                color: #ebdbb2;
+            }
+
+            .ColorScheme-Highlight {
+                color: #458588;
+            }
+        </style>
+    </defs>
+    <path class="ColorScheme-Text"
+        d="m4.8752 4.0002v11.79h-0.87494v1.3346h0.87494v0.87494h1.3346v-0.87494h11.79v-1.3346h-1.7499v-2.1617h-1.3346v2.1617h-2.1651v-2.1617h-1.3346v2.1617h-2.1651v-2.1617h-1.3346v2.1617h-1.7054v-11.79z"
+        fill="currentColor" stroke-width=".87494" />
+</svg>
