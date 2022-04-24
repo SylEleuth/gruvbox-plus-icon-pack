@@ -1,72 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
-   version="1.1"
-   id="svg7"
-   sodipodi:docname="gnumeric-autofilter-delete.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
-  <metadata
-     id="metadata11">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1060"
-     id="namedview9"
-     showgrid="true"
-     inkscape:zoom="31.598834"
-     inkscape:cx="12.679111"
-     inkscape:cy="7.7512458"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7">
-    <inkscape:grid
-       type="xygrid"
-       id="grid344" />
-  </sodipodi:namedview>
-  <defs
-     id="defs3">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
-  </style>
-  </defs>
-  <path
-     style="fill:currentColor"
-     class="ColorScheme-Text"
-     d="m 0,2 4,4 0.019531,4 0.96875,4 L 6,10 V 6 l 4,-4 z"
-     id="path5"
-     sodipodi:nodetypes="cccccccc" />
-  <path
-     style="color:#ebdbb2;fill:currentColor"
-     class="ColorScheme-Text"
-     d="M 12.439765,6.1715734 11.025552,7.585787 9.611338,6.1715727 8.1971244,7.5857863 9.6113387,9 8.1971251,10.414214 9.6113387,11.828428 11.025552,10.414214 12.439765,11.828428 13.853979,10.414214 12.439765,9 13.853979,7.585787 Z"
-     id="path5-6"
-     sodipodi:nodetypes="ccccccccccccc" />
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style type="text/css">
+            .ColorScheme-Text {
+                color: #ebdbb2;
+            }
+
+            .ColorScheme-Highlight {
+                color: #458588;
+            }
+        </style>
+    </defs>
+    <path class="ColorScheme-Text"
+        d="m1 1 4.6667 4.6667 0.022786 4.6667 1.1302 4.6667 1.1803-4.6667v-4.6667l4.6667-4.6667z" fill="currentColor"
+        stroke-width="1.1667" />
+    <path class="ColorScheme-Text"
+        d="m13.586 5.1716-1.4142 1.4142-1.4142-1.4142-1.4142 1.4142 1.4142 1.4142-1.4142 1.4142 1.4142 1.4142 1.4142-1.4142 1.4142 1.4142 1.4142-1.4142-1.4142-1.4142 1.4142-1.4142z"
+        color="#ebdbb2" fill="currentColor" />
 </svg>
