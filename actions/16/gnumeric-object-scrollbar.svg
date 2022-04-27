@@ -1,0 +1,15 @@
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      .ColorScheme-Text {
+        color: #ebdbb2;
+      }
+    </style>
+  </defs>
+  <g transform="matrix(1.3996 0 0 1.375 -3.3938 -3.125)">
+    <path class="ColorScheme-Text"
+      d="M 6,3 V 19 H 16 V 3 Z m 5,1 0.28125,0.21875 3.71875,3 L 14.40625,8 11,5.25 7.59375,8 7,7.21875 l 3.71875,-3 z M 7.59375,14 11,16.75 14.40625,14 15,14.78125 11.28125,17.75 11,18 10.71875,17.75 7,14.78125 Z"
+      fill="currentColor" />
+    <path d="m7 10v2h8v-2z" fill="#458588" />
+  </g>
+</svg>

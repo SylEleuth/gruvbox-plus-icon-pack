@@ -1,0 +1,16 @@
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style type="text/css">
+            .ColorScheme-Text {
+                color: #ebdbb2;
+            }
+        </style>
+    </defs>
+    <g transform="matrix(.875 0 0 .875 2.375 2.375)" fill="#ebdbb2">
+        <path class="ColorScheme-Text" d="m11 3h3l4 4v4h-1v-3h-4v-4h-2zm-6 8v7h6v1h-7v-8z" />
+        <path class="ColorScheme-Text"
+            d="m13 12v1h-1v1h1v3h-1v1h1v1h1v-1h3v1h1v-1h1v-1h-1v-3h1v-1h-1v-1h-1v1h-3v-1zm1 2h3v3h-3z" />
+        <path class="ColorScheme-Text"
+            d="m4 3v1h-1v1h1v3h-1v1h1v1h1v-1h3v1h1v-1h1v-1h-1v-3h1v-1h-1v-1h-1v1h-3v-1zm1 2h3v3h-3z" />
+    </g>
+</svg>

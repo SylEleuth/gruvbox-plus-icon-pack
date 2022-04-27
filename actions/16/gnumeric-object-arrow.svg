@@ -1,0 +1,18 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style type="text/css">
+            .ColorScheme-Text {
+                color: #ebdbb2;
+            }
+
+            .ColorScheme-Highlight {
+                color: #458588;
+            }
+        </style>
+    </defs>
+    <g transform="rotate(225 39.935 -53.631)">
+        <path class="ColorScheme-Text"
+            d="m28.283-120.35 0.54963 0.54961-5.3278 5.3218-1.4576-1.4576 2.8326-2.8326-14.813 6e-3 8.64e-4 -2.0658 14.813-6e-3 -2.8302-2.8302 1.4589-1.4588 4.7738 4.7738"
+            fill="currentColor" stroke-width="1.3011" />
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style type="text/css">
+            .ColorScheme-Text {
+                color: #ebdbb2;
+            }
+
+            .ColorScheme-Highlight {
+                color: #458588;
+            }
+        </style>
+    </defs>
+    <g transform="matrix(.99044 0 0 .99044 .4791 .077655)" fill="#ebdbb2" stroke-width=".47751" aria-label="f">
+        <path
+            d="m3.299 7.4166h-1.7573v-2.1966h1.7573v-1.4325q0-1.2988 0.76402-2.0629 0.76402-0.78312 2.2539-0.78312h2.5786v2.1966h-2.1202q-0.26741 0-0.45841 0.19101-0.19101 0.19101-0.19101 0.45841v1.4325h2.1966v2.1966h-2.1966v7.6593h-2.8269z" />
+    </g>
+    <g transform="matrix(.36063 -.36063 .36063 .36063 2.5172 7.7645)" fill="#ebdbb2" aria-label="+">
+        <path d="m4.0788 24.146h3.6267v-10.24h-3.6267zm-3.328-3.392h10.24v-3.5627h-10.24z" />
+    </g>
+</svg>

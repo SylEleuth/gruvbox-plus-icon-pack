@@ -1,0 +1,14 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      .ColorScheme-Text {
+        color: #ebdbb2;
+      }
+    </style>
+  </defs>
+  <path class="ColorScheme-Text" d="m14.239 1-13.239 13.239v0.76142h0.76142l13.239-13.239v-0.76142z" color="#ebdbb2"
+    fill="#ebdbb2" />
+  <path class="ColorScheme-Text"
+    d="M 2,2 H 7.4545 V 7.4545 H 2 Z M 8.5455,2 H 14 V 7.4545 H 8.5455 Z M 2,8.5455 H 7.4545 V 14 H 2 Z m 6.5455,0 H 14 V 14 H 8.5455 Z"
+    color="#ebdbb2" fill="currentColor" fill-opacity=".3" stroke-width="1.0909" />
+</svg>

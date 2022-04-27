@@ -1,0 +1,13 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      .ColorScheme-Text {
+        color: #ebdbb2;
+      }
+    </style>
+  </defs>
+  <path class="ColorScheme-Text"
+    d="m1 1v14h14v-14zm1.0769 1.0769h5.3846v5.3846h-5.3846zm6.4615 0h5.3846v5.3846h-5.3846zm-6.4615 6.4615h5.3846v5.3846h-5.3846zm6.4615 0h5.3846v5.3846h-5.3846z"
+    fill="currentColor" />
+  <path class="ColorScheme-Text" d="m2.0769 2.0769h11.846v11.846h-11.846z" fill="currentColor" fill-opacity=".3" />
+</svg>
