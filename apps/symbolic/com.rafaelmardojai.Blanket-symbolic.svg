@@ -1,67 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
-  </style>
-  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#d79921; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#b57614; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#83a598; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#b16286; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#8ec07c; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#458588; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#458588; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#928374; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#b8bb26; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#076678; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color: #fe8019; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color: #fabd2f; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color: #83a598; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color: #83a598; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color: #fb4934; stop-opacity:1"/>
-   <stop offset="25%" style="stop-color: #fabd2f; stop-opacity:1"/>
-   <stop offset="50%" style="stop-color: #fe8019; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color: #689d6a; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color: #b16286; stop-opacity:1"/>
-   <stop offset="20%" style="stop-color: #8ec07c; stop-opacity:1"/>
-   <stop offset="50%" style="stop-color: #fabd2f; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color: #458588; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
-    <stop offset="0" style="stop-color:#83a598; stop-opacity:1"/>
-    <stop offset="1" style="stop-color:#b16286; stop-opacity:1"/>
-  </linearGradient>
- </defs>
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="1" width="4" height="4" x="0" y="0" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="0.1" width="4" height="4" x="4" y="0" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="1" width="4" height="4" x="8" y="0" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="0.1" width="4" height="4" x="12" y="0" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="0.1" width="4" height="4" x="0" y="4" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="1" width="4" height="4" x="4" y="4" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="0.1" width="4" height="4" x="8" y="4" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="1" width="4" height="4" x="12" y="4" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="1" width="4" height="4" x="0" y="8" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="0.1" width="4" height="4" x="4" y="8" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="1" width="4" height="4" x="8" y="8" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="0.1" width="4" height="4" x="12" y="8" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="0.1" width="4" height="4" x="0" y="12" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="1" width="4" height="4" x="4" y="12" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="0.1" width="4" height="4" x="8" y="12" />
-  <rect style="fill:currentColor" class="ColorScheme-Text" opacity="1" width="4" height="4" x="12" y="12"/>
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="linearGradient1362-5" x1="77" x2="77" y1="47.972" y2="56"
+            gradientTransform="translate(-176.96,-13.986)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#ebdbb2" stop-opacity=".3" offset="0" />
+            <stop stop-color="#ebdbb2" stop-opacity="0" offset="1" />
+        </linearGradient>
+        <filter id="filter1178" x="-.053115" y="-.050994" width="1.1062" height="1.102"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-color="#282828" flood-opacity=".29804" result="flood" />
+            <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+            <feGaussianBlur in="composite1" result="blur" stdDeviation="4" />
+            <feOffset dx="0" dy="0" result="offset" />
+            <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+        </filter>
+    </defs>
+    <g transform="matrix(.084984 0 0 .084984 6.0978 2.4528)">
+        <g transform="translate(121.27,-2.0423)">
+            <g transform="translate(5.7583,-1.9716)" filter="url(#filter1178)">
+                <path
+                    d="m-172.42-24.841c-12.516 0-22.592 10.076-22.592 22.592v150.61h11.296v-26.357h11.296v26.357h11.296v-24.619h11.296v-125.99c0-12.516-10.076-22.592-22.592-22.592z"
+                    fill="#3c3836" stroke-width="16.768" style="paint-order:stroke fill markers" />
+                <path
+                    d="m-83.795-24.841v0.0883c0.57575-0.04364 1.1505-0.0883 1.7378-0.0883zm1.7378 0c12.516 0 22.592 10.076 22.592 22.592v22.592h45.184v-22.592c0-12.516-10.076-22.592-22.592-22.592-0.58727 0-1.1621 0.04462-1.7378 0.0883v-0.0883z"
+                    fill="#ebdbb2" stroke-width="20.8" style="paint-order:stroke fill markers" />
+                <rect x="-59.466" y="20.343" width="45.184" height="45.184" fill="#3c3836" stroke-width="27.003"
+                    style="paint-order:stroke fill markers" />
+                <rect x="-59.466" y="65.526" width="45.184" height="45.184" fill="#ebdbb2" stroke-width="27.003"
+                    style="paint-order:stroke fill markers" />
+                <path
+                    d="m-128.97-24.841v0.0883c0.57574-0.04364 1.1505-0.0883 1.7378-0.0883zm1.7378 0c12.516 0 22.592 10.076 22.592 22.592v22.592h45.184v-22.592c0-12.516-10.076-22.592-22.592-22.592-0.58727 0-1.1621 0.04462-1.7378 0.0883v-0.0883z"
+                    fill="#3c3836" stroke-width="20.8" style="paint-order:stroke fill markers" />
+                <rect x="-104.65" y="20.343" width="45.184" height="45.184" fill="#ebdbb2" stroke-width="27.003"
+                    style="paint-order:stroke fill markers" />
+                <path
+                    d="m-174.16-24.841v0.0883c0.57576-0.04364 1.1506-0.0883 1.7378-0.0883zm1.7378 0c12.516 0 22.592 10.076 22.592 22.592v22.592h45.184v-22.592c0-12.516-10.076-22.592-22.592-22.592-0.58728 0-1.1621 0.04462-1.7378 0.0883v-0.0883z"
+                    fill="#ebdbb2" stroke-width="20.8" style="paint-order:stroke fill markers" />
+                <rect x="-149.83" y="20.343" width="45.184" height="45.184" fill="#3c3836" stroke-width="27.003"
+                    style="paint-order:stroke fill markers" />
+                <rect x="-149.83" y="65.526" width="45.184" height="45.184" fill="#ebdbb2" stroke-width="27.003"
+                    style="paint-order:stroke fill markers" />
+                <rect x="-104.65" y="65.526" width="45.184" height="45.184" fill="#3c3836" stroke-width="27.003"
+                    style="paint-order:stroke fill markers" />
+                <path d="m-59.449 110.72v52.7h11.293v-24.879h11.293v24.879h11.293v-24.879h11.293v-27.821z"
+                    fill="#3c3836" stroke-width="22.153" style="paint-order:stroke fill markers" />
+                <path d="m-104.66 110.72v52.7h11.293v-24.879h11.293v24.879h11.336v-24.879h11.293v-27.821z"
+                    fill="#ebdbb2" stroke-width="22.153" style="paint-order:stroke fill markers" />
+                <path d="m-149.83 110.72v52.7h11.293v-24.879h11.293v24.879h11.293v-24.879h11.293v-27.821z"
+                    fill="#3c3836" stroke-width="22.153" style="paint-order:stroke fill markers" />
+                <path
+                    d="m-174.16-24.841v0.08824c0.57576-0.04364 1.152-0.08824 1.7393-0.08824zm1.7393 0c12.516 0 22.592 10.076 22.592 22.592v22.592h135.55v-22.592c0-12.516-10.076-22.592-22.592-22.592-0.58727 0-1.1635 0.04457-1.7392 0.08824v-0.08824h-90.367z"
+                    fill="url(#linearGradient1362-5)" fill-opacity="0" stroke-width="20.8"
+                    style="paint-order:stroke fill markers" />
+            </g>
+        </g>
+    </g>
 </svg>
