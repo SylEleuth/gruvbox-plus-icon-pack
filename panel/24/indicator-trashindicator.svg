@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
    <defs>
-      <style id="current-color-scheme" type="text/css">
+      <style type="text/css">
          .ColorScheme-Text {
             color: #ebdbb2;
          }
@@ -10,12 +10,7 @@
          }
       </style>
    </defs>
-   <g transform="matrix(1.4615385,0,0,1.4266314,-3.8461538,-3.6934665)" id="g9">
-      <path style="fill:currentColor" class="ColorScheme-Text"
-         d="m 5,8 v 9 c 5e-5,0.52358 0.47642,0.99995 1,1 h 8 1 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 V 8 Z"
-         id="path5" />
-      <path style="fill:currentColor" class="ColorScheme-Text"
-         d="M 4,6 V 7 L 17,6.997 v -1 c 0,-1 -0.9998,-1.0034 -0.9998,-1.0034 h -3 c 0,0 0,-1 -1,-1 h -3 c -1,0 -1,1 -1,1 h -3 c 2e-4,0 -1,0.003 -1,1.0034 z"
-         id="path7" />
-   </g>
+   <path class="ColorScheme-Text"
+      d="m10 4c-1 0-1 1-1 1h-3s-1 0-1 1v1h14v-1c0-1-1-1-1-1h-3s0-1-1-1zm-4 4v11c0 0.52 0.48 1 1 1h10c0.52 0 1-0.48 1-1v-11z"
+      color="#ebdbb2" fill="currentColor" />
 </svg>

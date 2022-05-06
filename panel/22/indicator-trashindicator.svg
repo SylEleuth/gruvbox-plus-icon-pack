@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
    <defs>
-      <style id="current-color-scheme" type="text/css">
+      <style type="text/css">
          .ColorScheme-Text {
             color: #ebdbb2;
          }
@@ -10,10 +10,10 @@
          }
       </style>
    </defs>
-   <path style="fill:currentColor;stroke-width:1.39863" class="ColorScheme-Text"
-      d="M 3.3844308,6.8761045 V 19.591082 c 6.92e-5,0.739701 0.6596658,1.412705 1.3846308,1.412776 h 11.0770464 1.384631 c 0.724964,-7.1e-5 1.384561,-0.673075 1.38463,-1.412776 V 6.8761045 Z"
-      id="path5" />
-   <path style="fill:currentColor;stroke-width:1.42482" class="ColorScheme-Text"
-      d="M 1.9998,3.9611531 V 5.4273377 L 20,5.4229433 V 3.9567545 C 20,2.4905698 18.615646,2.4855848 18.615646,2.4855848 h -4.153892 c 0,0 0,-1.4661848 -1.384631,-1.4661848 H 8.9232308 C 7.5386,1.0194 7.5386,2.4855848 7.5386,2.4855848 H 3.3847077 c 2.769e-4,0 -1.3846308,0.00439 -1.3846308,1.4711697 z"
-      id="path7" />
+   <path class="ColorScheme-Text"
+      d="m4.9025 7v10.801c5.52e-5 0.62838 0.52817 1.2001 1.1086 1.2002h9.9776c0.58045-6e-5 1.1086-0.57177 1.1086-1.2002v-10.801z"
+      fill="currentColor" stroke-width="1.1534" />
+   <path class="ColorScheme-Text"
+      d="m3.7939 5.0056v0.99922l14.412-3e-3v-0.99922c0-0.99922-1.1084-1.0026-1.1084-1.0026h-3.3259s0-0.99922-1.1086-0.99922h-3.3259c-1.1086 0-1.1086 0.99922-1.1086 0.99922h-3.3259c2.216e-4 0-1.1086 0.0029877-1.1086 1.0026z"
+      fill="currentColor" stroke-width="1.0525" />
 </svg>
