@@ -1,0 +1,8 @@
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">.ColorScheme-Text {
+        color: #ebdbb2;
+      }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m17.09 17.09h-8.7715l2.6036-4.8351 0.14583-0.25521-0.14583-0.25521-2.6036-4.8351h8.7715m1.9097-1.9096h-13.927l-0.073-1.8e-4c1.3104 2.3213 2.5818 4.6644 3.8664 7-1.2887 2.3334-2.5568 4.6782-3.8664 7h14" fill="currentColor"/>
+</svg>
