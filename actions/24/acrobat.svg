@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg8"
+   sodipodi:docname="acrobat.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="9.3249707"
+     inkscape:cy="11.159029"
+     inkscape:window-width="992"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="233"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="M 7.0009759,5.0003769 C 7.0009759,5.0003769 6,5.0012045 6,6.0034058 V 18.004407 c 0,0.987777 1.0011567,0.995217 1.0011567,0.995217 H 17.004913 c 1.000368,0 0.998591,-0.995217 0.998591,-0.995217 l 0.0026,-9.0035537 -4.000726,-4.0004396 z m 5.9989761,1.9996282 0.002,3.0017539 3.00139,-10e-4 1.05e-4,6.997834 H 8.0003826 c -9.774e-4,-0.0025 0,-9.9974795 0,-9.9974795 l 4.9994764,-0.00107 z"
+     fill="currentColor"
+     id="path6"
+     style="stroke-width:1.00116"
+     sodipodi:nodetypes="csscscccccccccccc" />
+</svg>
