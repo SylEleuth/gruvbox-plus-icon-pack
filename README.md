@@ -37,3 +37,14 @@ or soft link git repository:
 
 ``` ln -s ~/Git/gruvbox-plus-icon-pack-master ~/.local/share/icons/GruvboxPlus ```
 
+## License
+
+   - CC BY-SA/GPL3 © 2018-2019 Suru Icons by Sam Hewitt.
+   - GPL3 © 2018-2019 Suru++ Ubuntu by Andrea Bonanni and Gustavo Costa.
+   - GPL3 © 2018-2019 Suru++ 25 by Gustavo Costa.
+   - GPL3 © Papirus by Alexey Varfolomeev.
+   - GPL3 © Numix by Numix Team.
+   - GPL3/MIT © 2015-2019 La Capitaine by Keefer Rourke.
+   - MIT © Icons 8 by Gravit Designer
+   - MIT © Twemoji by Twitter Team.
+
