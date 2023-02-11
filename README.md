@@ -27,17 +27,17 @@ Colours of icons were created with the thought of dark backgrounds, so it's reco
 
 You can download Icon pack from different sources:
 
-1. Go to the releases page [HERE](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases) and choose the zip file from the lastest version.
+1. Go to the releases page [HERE](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases) and choose the zip file from the latest version.
 
-2. Download the icon pack from Your system's icon manager page. For example, in KDE open Settings, Appearance/Icons and click "Get New Icons" where You can search for Gruvbox Plus.
+2. Download the icon pack from Your system's icon manager settings. For example in KDE, open Settings, Appearance/Icons and click "Get New Icons" where You can search for Gruvbox Plus.
 
 3. Download latest package from [Pling](https://www.pling.com/p/1961046/) or [KDE Store](https://store.kde.org/p/1961046)
 
 4. If You want the latest icons You have to clone the whole repository (except few additional files it doesn't contain any extra folders and is/will be similar to official release package).
 
-    **WARNING**: Do not "Download ZIP" under "Code" button. Compression applied there will remove soft links of the icons, which will ruin big part of the pack.
-
     ``` git clone https://github.com/SylEleuth/gruvbox-plus-icon-pack.git ```
+
+    **WARNING**: Do not use "Download ZIP" under "Code" button. Compression applied there will remove soft links of the icons, which will ruin big part of the pack.
 
 ## Installation
 
@@ -56,6 +56,11 @@ You could then just use
 ``` git pull ```
 
 to download files added since the latest pull.
+
+## TODO
+
+- [ ] Add icons to Arch User Repository
+- [ ] Add installation script
 
 ## Support
 
