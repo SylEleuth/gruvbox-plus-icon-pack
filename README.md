@@ -57,6 +57,15 @@ You could then just use
 
 to download files added since the latest pull.
 
+## Contribution
+
+If You'll find a missing icon, please open a new issue and give as much information as You can.
+1. If it's a program, name and link to the website or repository page.
+2. If You can, find a link to the original svg icon.
+3. Using ```xprop``` get WM_CLASS.
+
+You can also open pull request with Your own work. In apps/scalable folder there are 3 different "base" icons. You can use one of them.
+
 ## TODO
 
 - [ ] Add icons to Arch User Repository
