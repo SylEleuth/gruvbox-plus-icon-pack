@@ -70,6 +70,7 @@ You can also open pull request with Your own work. In apps/scalable folder there
 
 - [ ] Add icons to Arch User Repository
 - [ ] Add installation script
+- [ ] Add script to easily change folders/places colors
 
 ## Support
 
