@@ -3,7 +3,7 @@
 ![compilation](https://user-images.githubusercontent.com/33354262/149584585-8d793794-58b5-44b1-8464-83f125afbb62.jpg)
 <br/><br/>
 
-Icon Pack for Linux (KDE, XFCE, Gnome) based on and inspired by:
+GruvboxPlus is an icon pack for Linux (KDE, XFCE, Gnome) based on and inspired by:
 
 * [Suru++](https://github.com/gusbemacbe/suru-plus)
 * [OneDark](https://github.com/adhec/one-dark-icons)
@@ -13,7 +13,7 @@ Icon Pack for Linux (KDE, XFCE, Gnome) based on and inspired by:
 
 GruvboxPlus is using color scheme from [Gruvbox](https://github.com/morhetz/gruvbox), both dark and light color palette.
 
-Colours of icons were created with the thought of dark backgrounds, so it's recommend to use dark themes.
+Icons were created with the thought of dark backgrounds, so it's recommend to use dark themes.
 <br/><br/>
 
 ### <div align="center">Applications example:</div>
@@ -59,18 +59,20 @@ to download files added since the latest pull.
 
 ## Contribution
 
-If You'll find a missing icon, please open a new issue and give as much information as You can.
-1. If it's a program, name and link to the website or repository page.
+If You'll find a missing icon please open a new issue and give as much information as You can:
+1. If it's a program, please provide name and link to the website or repository page.
 2. If You can, find a link to the original svg icon.
-3. Using ```xprop``` get WM_CLASS.
+3. Output of the ```xprop``` and/or link to .desktop file.
 
-You can also open pull request with Your own work. In apps/scalable folder there are 3 different "base" icons. You can use one of them.
+If You have any questions, suggestions or propositions not related to a specific icon please
+use [Discussions page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/discussions) for it.
 
 ## TODO
 
 - [ ] Add icons to Arch User Repository
 - [ ] Add installation script
 - [ ] Add script to easily change folders/places colors
+- [ ] Create dark icons for bright themes
 
 ## Support
 
@@ -78,7 +80,7 @@ If You downloaded the icon pack or if You just liked it please star the reposito
 
 ## License
 
-* GPL3 © 2021-2022 Gruvbox Plus by Sylwia Ptasinska
+* GPL3 © 2021-2023 [Gruvbox Plus](https://github.com/SylEleuth/gruvbox-plus-icon-pack) by [Sylwia Ptasinska](https://github.com/SylEleuth)
 * CC BY-SA/GPL3 © 2018-2019 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](https://github.com/snwh).
 * GPL3 © 2018-2019 [Suru++ Ubuntu](https://github.com/Bonandry/suru-plus) by [Andrea Bonanni](https://github.com/Bonandry) and Gustavo Costa.
 * GPL3 © 2018-2019 Suru++ 25 by Gustavo Costa.
