@@ -27,7 +27,7 @@ Icons were created with the thought of dark backgrounds, so it's recommend to us
 
 You can download Icon pack from different sources:
 
-1. Go to the releases page [HERE](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases) and choose the zip file from the latest version.
+1. Go to the [releases page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases) and choose the zip file from the latest version.
 
 2. Download the icon pack from Your system's icon manager settings. For example in KDE, open Settings, Appearance/Icons and click "Get New Icons" where You can search for Gruvbox Plus.
 
@@ -37,7 +37,7 @@ You can download Icon pack from different sources:
 
     ``` git clone https://github.com/SylEleuth/gruvbox-plus-icon-pack.git ```
 
-    **WARNING**: Do not use "Download ZIP" under "Code" button. Compression applied there will remove soft links of the icons, which will ruin big part of the pack.
+    **WARNING**: Do not use "Download ZIP" button. Compression applied there will remove soft links of the icons, which will ruin big part of the pack.
 
 ## Installation
 
