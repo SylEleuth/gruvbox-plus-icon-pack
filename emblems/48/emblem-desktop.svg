@@ -1,0 +1,12 @@
+<svg id="svg10" width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <circle id="circle2" cx="24" cy="24" r="20" fill="#282828"/>
+ <g fill="#ebdbb2">
+  <path id="path6" d="m17 26h14v4h-14z" stroke-width=".79772"/>
+  <g stroke-width="1.0871">
+   <path id="path8" d="m11 33h26v4h-26z"/>
+   <path id="path8-3" d="m11 11h26v4h-26z"/>
+   <path id="path8-3-7" d="m15 11v26h-4v-26z"/>
+   <path id="path8-3-7-5" d="m37 11v26h-4v-26z"/>
+  </g>
+ </g>
+</svg>
