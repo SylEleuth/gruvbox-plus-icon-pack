@@ -61,14 +61,5 @@
    </linearGradient>
    <ellipse fill="url(#_lgradient_14)" cx="146.682" cy="130.406" rx="27.885" ry="27.946" vector-effect="non-scaling-stroke"/>
   </g>
-  <defs>
-   <filter id="ukb0jXVvFHxBZQ9PJHQkMoowyJqJxcnH" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-   </filter>
-  </defs>
  </g>
 </svg>
