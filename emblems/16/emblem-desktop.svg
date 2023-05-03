@@ -1,13 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color: #ebdbb2;
-      }
-    </style>
-  </defs>
-  <circle style="fill:#282828" cx="8" cy="8" r="7" />
-  <path style="fill:currentColor;fill-opacity:1;stroke:none"
-    d="m 3.3603681,3.360368 v 9.279264 H 12.639632 V 3.360368 Z M 4.1336407,4.13364 h 7.7327203 v 6.959448 0.773273 H 4.1336407 v -0.773273 z m 0.7732718,6.186176 v 0.773272 h 6.1861755 v -0.773272 z"
-    class="ColorScheme-Text" />
+<svg id="svg10" width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
+ <circle id="circle2" cx="8" cy="8" r="7" fill="#282828"/>
+ <g fill="#ebdbb2">
+  <path id="path4" d="m3.492 3.4818h9.016v1h-9.016z" stroke-width="1.0616"/>
+  <path id="path4-6" d="m5 9h6v1h-6z" stroke-width=".86602"/>
+  <path id="path6" d="m4.5 4v8h-1v-8z"/>
+  <path id="path6-3" d="m12.5 4v8h-1v-8z"/>
+  <path id="path8" d="m3.4913 11h9.0173v1h-9.0173z" stroke-width="1.0617"/>
+ </g>
 </svg>
