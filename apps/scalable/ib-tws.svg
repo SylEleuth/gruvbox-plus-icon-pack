@@ -10,8 +10,8 @@
  </defs>
  <g filter="url(#xEffzgnV88sgGJkoS3XI1cLuXc4FqlY0)">
   <linearGradient id="_lgradient_74" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.951604)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#d5c4a1"/>
-   <stop offset="100%" style="stop-color:#bdae93"/>
+   <stop offset="0%" style="stop-color:#ebdbb2"/>
+   <stop offset="100%" style="stop-color:#d5c4a1"/>
   </linearGradient>
   <path fill="url(#_lgradient_74)" d="M 165.688919 11.951604 C 239.744626 11.951604 250.328309 22.508801 250.328309 96.495462 L 250.328309 155.746257 C 250.328309 229.732514 239.744626 240.29 165.688919 240.29 L 90.319393 240.29 C 16.26369 240.29 5.68 229.732514 5.68 155.746257 L 5.68 96.495462 C 5.68 22.508801 16.26369 11.951604 90.319393 11.951604 L 165.688919 11.951604 Z"/>
  </g>
@@ -34,8 +34,8 @@
    <path d="M 90.906976 129.686051 L 154.639541 200.5 L 90.906976 200.5 L 90.906976 129.686051 Z"/>
   </g>
   <linearGradient id="_lgradient_76" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(63.732565,0,0,70.813949,90.906976,126.313957)" gradientUnits="userSpaceOnUse">
-   <stop offset="0%" style="stop-color:#ff0011"/>
-   <stop offset="100%" style="stop-color:#dc1457"/>
+   <stop offset="0%" style="stop-color:#fb4934"/>
+   <stop offset="100%" style="stop-color:#cc241d"/>
   </linearGradient>
   <path fill="url(#_lgradient_76)" d="M 90.906976 126.313957 L 154.639541 197.127907 L 90.906976 197.127907 L 90.906976 126.313957 Z"/>
   <g opacity=".1">

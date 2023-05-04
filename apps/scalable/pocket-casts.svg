@@ -22,8 +22,8 @@
 <stop offset="1" stop-color="#fb4934"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="132.082" y1="11.95" x2="132.082" y2="240.29" gradientUnits="userSpaceOnUse">
-<stop stop-color="white"/>
-<stop offset="0.125" stop-color="white" stop-opacity="0.0980392"/>
+<stop stop-color="#ebdbb2"/>
+<stop offset="0.125" stop-color="#ebdbb2" stop-opacity="0.0980392"/>
 <stop offset="0.925" stop-opacity="0.0980392"/>
 <stop offset="1" stop-opacity="0.498039"/>
 </linearGradient>
@@ -32,7 +32,7 @@
 <stop offset="1" stop-color="#ebdbb2"/>
 </linearGradient>
 <clipPath id="clip0">
-<rect width="256" height="256" fill="white"/>
+<rect width="256" height="256" fill="#ebdbb2"/>
 </clipPath>
 </defs>
 </svg>

@@ -31,7 +31,7 @@
     <g transform="translate(34.163 37.181) scale(1.42823)">
         <use class="outline-big" width="128" height="128" xlink:href="#f" fill="none" opacity=".1"/>
         <use class="outline-small" width="128" height="128" xlink:href="#f" fill="none" opacity=".2"/>
-        <use class="black" width="128" height="128" xlink:href="#f" fill="#282828"/>
+        <use class="#282828" width="128" height="128" xlink:href="#f" fill="#282828"/>
         <use class="stroke-highlight" width="128" height="128" clip-path="url(#g)" xlink:href="#f" fill="none" opacity=".2"/>
         <use class="specularity" width="128" height="128" xlink:href="#f" fill="#282828"/>
         <use class="low-specularity" width="128" height="128" xlink:href="#f" fill="#282828"/>

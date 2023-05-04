@@ -32,7 +32,7 @@
   </g>
   <linearGradient id="_lgradient_202" x1=".187" x2=".19" y1=".005" y2=".79" gradientTransform="matrix(180,0,0,160,38,39)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#83a598"/>
-   <stop offset="100%" style="stop-color:#007de8"/>
+   <stop offset="100%" style="stop-color:#076678"/>
   </linearGradient>
   <path fill="url(#_lgradient_202)" d="M 42.01 39 L 213.99 39 C 216.203 39 218 40.797 218 43.01 L 218 194.99 C 218 197.203 216.203 199 213.99 199 L 42.01 199 C 39.797 199 38 197.203 38 194.99 L 38 43.01 C 38 40.797 39.797 39 42.01 39 Z"/>
   <rect fill="#d5c4a1" width="160" height="11" x="48" y="49" transform="matrix(1,0,0,1,0,0)"/>

@@ -34,13 +34,13 @@
    <stop stop-color="#3c3836" offset="1"/>
   </linearGradient>
   <linearGradient id="paint2_linear" x1="132.082" x2="132.082" y1="11.95" y2="240.29" gradientUnits="userSpaceOnUse">
-   <stop stop-color="white" offset="0"/>
-   <stop stop-color="white" stop-opacity=".0980392" offset=".125"/>
+   <stop stop-color="#ebdbb2" offset="0"/>
+   <stop stop-color="#ebdbb2" stop-opacity=".0980392" offset=".125"/>
    <stop stop-opacity=".0980392" offset=".925"/>
    <stop stop-opacity=".498039" offset="1"/>
   </linearGradient>
   <clipPath id="clip0">
-   <rect width="256" height="256" fill="white"/>
+   <rect width="256" height="256" fill="#ebdbb2"/>
   </clipPath>
  </defs>
 </svg>

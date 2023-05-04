@@ -28,13 +28,13 @@
  </g>
  <g>
   <path fill="#504945" d="M 115.000001 64.666667 L 166.a89984 64.666667 C 176.566527 64.666667 184.333333 72.433473 184.333333 82.000001 L 184.333333 133.a89984 C 184.333333 143.566527 176.566527 151.333333 166.a89984 151.333333 L 115.000001 151.333333 C 105.433473 151.333333 97.666667 143.566527 97.666667 133.a89984 L 97.666667 82.000001 C 97.666667 72.433473 105.433473 64.666667 115.000001 64.666667 Z"/>
-  <rect fill="#b7b7b7" width="14.444" height="28.889" x="112.11" y="43" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#b7b7b7" width="14.444" height="28.889" x="155.44" y="43" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#b7b7b7" width="14.444" height="28.889" x="112.11" y="144.11" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#b7b7b7" width="14.444" height="28.889" x="155.44" y="144.11" transform="matrix(1,0,0,1,0,0)"/>
-  <rect fill="#b7b7b7" width="14.444" height="28.889" x="184.33" y="71.89" transform="matrix(0,1,-1,0,277.888889,-105.222222)"/>
-  <rect fill="#b7b7b7" width="14.444" height="28.889" x="184.33" y="115.22" transform="matrix(0,1,-1,0,321.222222,-61.888889)"/>
-  <rect fill="#b7b7b7" width="14.444" height="28.889" x="83.22" y="71.89" transform="matrix(0,1,-1,0,176.777778,-4.1d2021)"/>
-  <rect fill="#b7b7b7" width="14.444" height="28.889" x="83.22" y="115.22" transform="matrix(0,1,-1,0,220.1d2021,39.222222)"/>
+  <rect fill="#d5c4a1" width="14.444" height="28.889" x="112.11" y="43" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#d5c4a1" width="14.444" height="28.889" x="155.44" y="43" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#d5c4a1" width="14.444" height="28.889" x="112.11" y="144.11" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#d5c4a1" width="14.444" height="28.889" x="155.44" y="144.11" transform="matrix(1,0,0,1,0,0)"/>
+  <rect fill="#d5c4a1" width="14.444" height="28.889" x="184.33" y="71.89" transform="matrix(0,1,-1,0,277.888889,-105.222222)"/>
+  <rect fill="#d5c4a1" width="14.444" height="28.889" x="184.33" y="115.22" transform="matrix(0,1,-1,0,321.222222,-61.888889)"/>
+  <rect fill="#d5c4a1" width="14.444" height="28.889" x="83.22" y="71.89" transform="matrix(0,1,-1,0,176.777778,-4.1d2021)"/>
+  <rect fill="#d5c4a1" width="14.444" height="28.889" x="83.22" y="115.22" transform="matrix(0,1,-1,0,220.1d2021,39.222222)"/>
  </g>
 </svg>
