@@ -26,7 +26,7 @@
         </filter>
         <linearGradient id="b">
             <stop offset="0" stop-color="#b8bb26"/>
-            <stop offset="1" stop-color="#282828"/>
+            <stop offset="1" stop-color="#79740e"/>
         </linearGradient>
         <radialGradient id="e" cx="145.813" cy="134.498" r="120" fx="145.813" fy="134.498" gradientTransform="matrix(1.40111 -.65653 .7866 1.67868 -154.58 26.322)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
     </defs>

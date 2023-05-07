@@ -21,7 +21,7 @@
         </linearGradient>
         <linearGradient id="h" x1="29" x2="29" y1="33.133" y2="53.18" gradientTransform="matrix(1.17609 0 0 1.17609 -3.803 222.735)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#fb4934"/>
-            <stop offset="1" stop-color="#282828" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fb4934" stop-opacity="0"/>
         </linearGradient>
         <radialGradient id="g" cx="-23.531" cy="255.003" r="32.342" gradientTransform="matrix(.01768 0 0 .49607 -23.115 129.648)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#282828"/>
