@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" onload="init()" role="img" viewBox="0 0 256 256" style="isolation:isolate">
  <script type="text/ecmascript">
   <![CDATA[
-function init() 
+function init()
 {
   var time = new Date();
   var locale = "fr";
@@ -78,7 +78,7 @@ function init()
    </filter>
   </defs>
   <g filter="url(#fcf8LlHi5aVNeOUH6tZqfarRsYDj50dA)">
-   <circle id="Ellipse" fill="#665c54" cx="63.2" cy="45.2" r="15.05" vector-effect="non-scaling-stroke"/>
+   <circle id="Ellipse" fill="#d5c4a1" cx="63.2" cy="45.2" r="15.05" vector-effect="non-scaling-stroke"/>
   </g>
   <defs>
    <filter id="f4c1OiPuQIUylLY5mgcJOahFlEKsDL3x" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
@@ -91,7 +91,7 @@ function init()
    </filter>
   </defs>
   <g filter="url(#f4c1OiPuQIUylLY5mgcJOahFlEKsDL3x)">
-   <circle id="Ellipse" fill="#665c54" cx="193.2" cy="45.2" r="15.05" vector-effect="non-scaling-stroke"/>
+   <circle id="Ellipse" fill="#d5c4a1" cx="193.2" cy="45.2" r="15.05" vector-effect="non-scaling-stroke"/>
   </g>
  </g>
 </svg>
