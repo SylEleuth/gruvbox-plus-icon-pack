@@ -1,21 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
+<svg width="256" height="256" style="isolation:isolate" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <filter id="2z7RbaBrZ2dfGiwjyMq8GIxgPujBIs4h" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
+  <filter id="2z7RbaBrZ2dfGiwjyMq8GIxgPujBIs4h" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
+   <feOffset dx="0" dy="4" result="pf_100_offsetBlur"/>
+   <feFlood flood-opacity=".4"/>
+   <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
+   <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
   </filter>
  </defs>
  <g filter="url(#2z7RbaBrZ2dfGiwjyMq8GIxgPujBIs4h)">
-  <path fill="#ebdbb2" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 L 165.689 11.95 Z"/>
+  <path d="m165.69 11.95c74.056 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.583 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543v-59.251c0-73.987 10.584-84.544 84.639-84.544h75.37z" fill="#ebdbb2"/>
  </g>
- <path fill="#d5c4a1" d="M 188.417 53.5 L 67.583 53.5 C 60.91 53.5 55.5 58.91 55.5 65.583 L 55.5 198.5 L 89.958 166.278 L 188.417 166.278 C 195.09 166.278 200.5 160.868 200.5 154.194 L 200.5 65.583 C 200.5 58.91 195.09 53.5 188.417 53.5 Z"/>
- <path fill="#83a598" d="M 111.889 53.5 L 67.583 53.5 C 60.91 53.5 55.5 58.91 55.5 65.583 L 55.5 198.5 L 89.958 166.278 L 140.083 166.278 L 111.889 53.5 L 111.889 53.5 Z"/>
- <path fill="#7c6f64" d="M 144.365 126.898 C 144.615 126.769 164.488 113.929 176.333 90.189 L 183.543 93.778 C 171.125 118.951 153.504 131.208 149.271 134.056 L 144.365 126.898 L 144.365 126.898 Z"/>
- <path fill="#7c6f64" d="M 180.361 134.056 C 180.361 134.056 160.222 123.656 149.065 105.877 L 156.194 101.833 C 165.587 117.268 184.308 127.055 184.308 127.055 L 180.361 134.056 L 180.361 134.056 Z M 140.083 89.75 L 188.417 89.75 L 188.417 97.806 L 140.083 97.806 L 140.083 89.75 L 140.083 89.75 Z"/>
- <path fill="#7c6f64" d="M 160.222 81.694 L 168.278 81.694 L 168.278 97.806 L 160.222 97.806 L 160.222 81.694 L 160.222 81.694 Z"/>
- <path fill="#ebdbb2" d="M 79.667 117.944 L 103.833 117.944 L 103.833 126 L 79.667 126 L 79.667 117.944 L 79.667 117.944 Z"/>
- <path fill="#ebdbb2" d="M 80.11 134.056 L 91.75 97.806 L 103.455 134.056 L 111.953 134.056 L 95.778 85.722 L 87.722 85.722 L 71.611 134.056 L 80.11 134.056 L 80.11 134.056 Z"/>
+ <path d="m188.42 53.5h-120.83c-6.673 0-12.083 5.41-12.083 12.083v132.92l34.458-32.222h98.459c6.673 0 12.083-5.41 12.083-12.084v-88.611c0-6.673-5.41-12.083-12.083-12.083z" fill="#d5c4a1"/>
+ <path d="m111.89 53.5h-44.306c-6.673 0-12.083 5.41-12.083 12.083v132.92l34.458-32.222h50.125l-28.194-112.78z" fill="#83a598"/>
+ <g fill="#7c6f64">
+  <path d="m144.36 126.9c0.25-0.129 20.123-12.969 31.968-36.709l7.21 3.589c-12.418 25.173-30.039 37.43-34.272 40.278l-4.906-7.158z"/>
+  <path d="m180.36 134.06s-20.139-10.4-31.296-28.179l7.129-4.044c9.393 15.435 28.114 25.222 28.114 25.222l-3.947 7.001zm-40.278-44.306h48.334v8.056h-48.334v-8.056z"/>
+  <path d="m160.22 81.694h8.056v16.112h-8.056v-16.112z"/>
+ </g>
+ <path d="m79.667 117.94h24.166v8.056h-24.166v-8.056z" fill="#ebdbb2"/>
+ <path d="m80.11 134.06 11.64-36.25 11.705 36.25h8.498l-16.175-48.334h-8.056l-16.111 48.334h8.499z" fill="#ebdbb2"/>
 </svg>
