@@ -1,8 +1,5 @@
 <svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <defs>
-        <style>
-            <![CDATA[.fil5{fill:none}.fil1{fill:#196FBA}.fil0{fill:#25B2EE}.fil4{fill:#793C7C}.fil3{fill:#8C508C}.fil2{fill:white}]]>
-        </style>
         <filter id="filter939" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
             <feGaussianBlur stdDeviation="2.32"/>
         </filter>
