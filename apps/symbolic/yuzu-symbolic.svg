@@ -1,3 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
- <path fill="#ebdbb2" fill-rule="evenodd" d="M 10.182 5.091 L 10.182 13.818 C 12.592 13.818 14.545 11.864 14.545 9.455 C 14.545 7.045 12.592 5.091 10.182 5.091 L 10.182 5.091 Z M 10.182 3.636 C 13.395 3.636 16 6.241 16 9.455 C 16 12.668 13.395 15.273 10.182 15.273 L 8.727 15.273 L 8.727 15.08 L 8.727 13.564 L 8.727 5.347 L 8.727 3.825 L 8.727 3.636 L 10.182 3.636 L 10.182 3.636 Z M 5.818 2.182 L 5.818 10.909 C 3.408 10.909 1.455 8.955 1.455 6.545 C 1.455 4.136 3.408 2.182 5.818 2.182 L 5.818 2.182 Z M 5.818 0.727 C 2.605 0.727 0 3.332 0 6.545 C 0 9.759 2.605 12.364 5.818 12.364 L 7.273 12.364 L 7.273 12.17 L 7.273 10.655 L 7.273 2.438 L 7.273 0.916 L 7.273 0.727 L 5.818 0.727 L 5.818 0.727 Z"/>
+<svg id="svg67" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs61">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  <clipPath id="clip-path">
+   <rect id="rect4" class="cls-1" x="-43" y="-46.67" width="699.6" height="777.33"/>
+  </clipPath>
+ </defs>
+ <g id="g823" transform="matrix(.023524 0 0 .023524 .78287 -.045167)" fill="#ebdbb2">
+  <g id="right">
+   <g id="g14" class="cls-2" clip-path="url(#clip-path)" fill="#ebdbb2">
+    <g id="g827" fill="#ebdbb2">
+     <g id="g833" fill="#ebdbb2">
+      <path id="path835" class="cls-3" d="m340.81 138v544.08c150.26 0 272.06-121.81 272.06-272.06s-121.8-272.02-272.06-272.02m53.19 59.55a219.06 219.06 0 0 1 0 424.94v-424.94" fill="#ebdbb2"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="left">
+   <g id="g20" class="cls-2" clip-path="url(#clip-path)" fill="#ebdbb2">
+    <g id="g839" fill="#ebdbb2">
+     <g id="g845" fill="#ebdbb2">
+      <path id="path847" class="cls-4" d="m272.79 1.92c-150.26 0-272.06 121.81-272.06 272.08s121.8 272.07 272.06 272.07zm-53.14 59.59v425a219 219 0 0 1-101.65-367.33 217.51 217.51 0 0 1 101.65-57.67" fill="#ebdbb2"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
 </svg>
