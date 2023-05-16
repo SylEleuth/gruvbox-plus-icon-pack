@@ -1,10 +1,49 @@
-<svg id="svg67" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs61">
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
- </defs>
- <g id="Sketch" transform="matrix(.15035 0 0 .15035 -1.6375 -.75173)" fill="#ebdbb2">
-  <path id="red" d="m36.12 63.3 28.18-58.3h23.35z"/>
-  <path id="green" d="m60.3 65h-23.88l52.03-58.3z"/>
-  <path id="blue" d="m39.59 111.42 29.12-60.32h23.37z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg67"
+   width="16"
+   height="16"
+   version="1.1"
+   sodipodi:docname="f3d.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="49.0625"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="1110"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg67" />
+  <defs
+     id="defs61">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path
+     id="red"
+     d="M 3.7931,8.7654 8.03,0 h 3.5107 z"
+     style="fill:#ebdbb2;stroke-width:0.15035" />
+  <path
+     id="green"
+     d="M 7.4286,9.021 H 3.8382 l 7.8227,-8.7654 z"
+     style="fill:#ebdbb2;stroke-width:0.15035" />
+  <path
+     id="blue"
+     d="M 4.3149,16 8.6931,6.9309 h 3.5137 z"
+     style="fill:#ebdbb2;stroke-width:0.15035" />
 </svg>

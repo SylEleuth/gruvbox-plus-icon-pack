@@ -2,8 +2,6 @@
  <defs id="defs61">
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
  </defs>
- <g id="g1793" transform="matrix(.028241 0 0 .028241 -3.3247 -3.2866)" fill="#ebdbb2">
-  <path id="path4" d="m599.3 186.8c-93.9-93.9-246.1-93.9-340 0s-93.9 246.1 0 340z"/>
-  <path id="path6" d="m202.7 612.5c93.9 93.9 246.1 93.9 340 0s93.9-246.1 0-340"/>
- </g>
+ <path id="path4" d="m13.6 1.9888c-2.6518-2.6518-6.9501-2.6518-9.6019 0s-2.6518 6.9501 0 9.6019z" fill="#ebdbb2" stroke-width=".028241"/>
+ <path id="path6" d="m2.3998 14.011c2.6518 2.6518 6.9501 2.6518 9.6019 0 2.6518-2.6518 2.6518-6.9501 0-9.6019" fill="#ebdbb2" stroke-width=".028241"/>
 </svg>

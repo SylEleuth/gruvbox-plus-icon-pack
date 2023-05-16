@@ -5,22 +5,20 @@
    <rect id="rect4" class="cls-1" x="-43" y="-46.67" width="699.6" height="777.33"/>
   </clipPath>
  </defs>
- <g id="g823" transform="matrix(.023524 0 0 .023524 .78287 -.045167)" fill="#ebdbb2">
-  <g id="right">
-   <g id="g14" class="cls-2" clip-path="url(#clip-path)" fill="#ebdbb2">
-    <g id="g827" fill="#ebdbb2">
-     <g id="g833" fill="#ebdbb2">
-      <path id="path835" class="cls-3" d="m340.81 138v544.08c150.26 0 272.06-121.81 272.06-272.06s-121.8-272.02-272.06-272.02m53.19 59.55a219.06 219.06 0 0 1 0 424.94v-424.94" fill="#ebdbb2"/>
-     </g>
+ <g id="right" transform="matrix(.023524 0 0 .023524 .78287 -.045167)" fill="#ebdbb2">
+  <g id="g14" class="cls-2" clip-path="url(#clip-path)" fill="#ebdbb2">
+   <g id="g827" fill="#ebdbb2">
+    <g id="g833" fill="#ebdbb2">
+     <path id="path835" class="cls-3" d="m340.81 138v544.08c150.26 0 272.06-121.81 272.06-272.06s-121.8-272.02-272.06-272.02m53.19 59.55a219.06 219.06 0 0 1 0 424.94v-424.94" fill="#ebdbb2"/>
     </g>
    </g>
   </g>
-  <g id="left">
-   <g id="g20" class="cls-2" clip-path="url(#clip-path)" fill="#ebdbb2">
-    <g id="g839" fill="#ebdbb2">
-     <g id="g845" fill="#ebdbb2">
-      <path id="path847" class="cls-4" d="m272.79 1.92c-150.26 0-272.06 121.81-272.06 272.08s121.8 272.07 272.06 272.07zm-53.14 59.59v425a219 219 0 0 1-101.65-367.33 217.51 217.51 0 0 1 101.65-57.67" fill="#ebdbb2"/>
-     </g>
+ </g>
+ <g id="left" transform="matrix(.023524 0 0 .023524 .78287 -.045167)" fill="#ebdbb2">
+  <g id="g20" class="cls-2" clip-path="url(#clip-path)" fill="#ebdbb2">
+   <g id="g839" fill="#ebdbb2">
+    <g id="g845" fill="#ebdbb2">
+     <path id="path847" class="cls-4" d="m272.79 1.92c-150.26 0-272.06 121.81-272.06 272.08s121.8 272.07 272.06 272.07zm-53.14 59.59v425a219 219 0 0 1-101.65-367.33 217.51 217.51 0 0 1 101.65-57.67" fill="#ebdbb2"/>
     </g>
    </g>
   </g>
