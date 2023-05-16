@@ -1,49 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="svg67"
-   width="16"
-   height="16"
-   version="1.1"
-   sodipodi:docname="f3d.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview9"
-     pagecolor="#505050"
-     bordercolor="#ffffff"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     showgrid="false"
-     inkscape:zoom="49.0625"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1022"
-     inkscape:window-x="0"
-     inkscape:window-y="1110"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg67" />
-  <defs
-     id="defs61">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
-  </defs>
-  <path
-     id="red"
-     d="M 3.793142,8.765425 8.030005,2e-5 h 3.510673 z"
-     style="fill:#ebdbb2;stroke-width:0.15035" />
-  <path
-     id="green"
-     d="M 7.428605,9.02102 H 3.838247 l 7.822711,-8.765405 z"
-     style="fill:#ebdbb2;stroke-width:0.15035" />
-  <path
-     id="blue"
-     d="M 4.3148565,16.000267 8.6930485,6.931155 H 12.206728 Z"
-     style="fill:#ebdbb2;stroke-width:0.15035" />
+<svg id="svg67" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs61">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+ </defs>
+ <g fill="#ebdbb2" stroke-width=".15035">
+  <path id="red" d="m3.7931 8.7654 4.2369-8.7654h3.5107z"/>
+  <path id="green" d="m7.4286 9.021h-3.5904l7.8227-8.7654z"/>
+  <path id="blue" d="m4.3149 16 4.3782-9.0691h3.5137z"/>
+ </g>
 </svg>

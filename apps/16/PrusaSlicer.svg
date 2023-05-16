@@ -1,45 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="svg67"
-   width="16"
-   height="16"
-   version="1.1"
-   sodipodi:docname="PrusaSlicer.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview8"
-     pagecolor="#505050"
-     bordercolor="#ffffff"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     showgrid="false"
-     inkscape:zoom="49.0625"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1022"
-     inkscape:window-x="0"
-     inkscape:window-y="1110"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg67" />
-  <defs
-     id="defs61">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
-  </defs>
-  <path
-     id="path4"
-     d="m 13.600131,1.9888188 c -2.65183,-2.6518299 -6.9501098,-2.6518299 -9.6019397,0 -2.6518299,2.6518299 -2.6518299,6.9501101 0,9.6019402 z"
-     style="fill:#ebdbb2;stroke-width:0.028241" />
-  <path
-     id="path6"
-     d="m 2.3997507,14.011013 c 2.6518299,2.651829 6.9501101,2.651829 9.6019403,0 2.65183,-2.65183 2.65183,-6.9501106 0,-9.6019405"
-     style="fill:#ebdbb2;stroke-width:0.028241" />
+<svg id="svg67" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs61">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+ </defs>
+ <path id="path4" d="m13.6 1.9888c-2.6518-2.6518-6.9501-2.6518-9.6019 0s-2.6518 6.9501 0 9.6019z" fill="#ebdbb2" stroke-width=".028241"/>
+ <path id="path6" d="m2.3998 14.011c2.6518 2.6518 6.9501 2.6518 9.6019 0 2.6518-2.6518 2.6518-6.9501 0-9.6019" fill="#ebdbb2" stroke-width=".028241"/>
 </svg>
