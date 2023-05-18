@@ -17,7 +17,7 @@
   </defs>
   <g fill="#ebdbb2" opacity=".4">
     <path d="m87.22 11.83h81.549v228.34h-81.549z" opacity=".02" style="isolation:isolate"/>
-    <path d="m5.676 126.12v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626z" opacity=".02" style="isolation:isolate"/>
+    <path d="m5.676 126.12v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626z" opacity=".04" style="isolation:isolate"/>
   </g>
   <g opacity=".4" style="isolation:isolate">
     <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
