@@ -23,7 +23,8 @@ Icons were created with the thought of dark backgrounds, so it's recommend to us
 ![apps16](https://user-images.githubusercontent.com/33354262/149584583-7b56a96f-533e-413b-8fa7-3f5f6d1e9fe6.jpg)
 <br/><br/>
 
-## Download
+Download
+--------
 
 You can download Icon pack from different sources:
 
@@ -39,7 +40,8 @@ You can download Icon pack from different sources:
 
     **WARNING**: Do not use "Download ZIP" button. Compression applied there will remove soft links of the icons, which will ruin big part of the pack.
 
-## Installation
+Installation
+------------
 
 If You downloaded the zip file from [releases page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases).
 
@@ -57,28 +59,35 @@ You could then just use
 
 to download files added since the latest pull.
 
-## Contribution
+Contribution
+------------
 
 If You'll find a missing icon please open a new issue and give as much information as You can:
 1. If it's a program, please provide name and link to the website or repository page.
 2. If You can, find a link to the original svg icon.
-3. Output of the ```xprop``` and/or link to .desktop file.
+3. Output of the ```xprop``` and/or link to .desktop file (located in
+   .local/share/applications folder).
 
-If You have any questions, suggestions or propositions not related to a specific icon please
-use [Discussions page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/discussions) for it.
+If You want to create new icons Yourself or modify existing ones please read how to do that
+[HERE](https://github.com/SylEleuth/gruvbox-plus-icon-pack/tree/master/templates).
 
-## TODO
+If You have any questions, suggestions or propositions use [Discussions page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/discussions).
+
+TODO
+----
 
 - [ ] Add icons to Arch User Repository
 - [ ] Add installation script
 - [ ] Add script to easily change folders/places colors
 - [ ] Create dark icons for bright themes
 
-## Support
+Support
+-------
 
 If You downloaded the icon pack or if You just liked it please star the repository for visibility and as appreciation gesture.
 
-## License
+License
+-------
 
 * GPL3 © 2021-2023 [Gruvbox Plus](https://github.com/SylEleuth/gruvbox-plus-icon-pack) by [Sylwia Ptasinska](https://github.com/SylEleuth).
 * MIT © 2021-2022 [Kitty icon designe](https://github.com/DinkDonk/kitty-icon) by [Rune Warhuus](https://github.com/DinkDonk).
@@ -91,4 +100,3 @@ If You downloaded the icon pack or if You just liked it please star the reposito
 * GPL3 © [One Dark](https://github.com/adhec/one-dark-icons) by [Adhe](https://github.com/adhec)
 * MIT © Icons 8 by Gravit Designer
 * MIT © Twemoji by Twitter Team.
-
