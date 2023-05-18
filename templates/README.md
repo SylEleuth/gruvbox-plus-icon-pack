@@ -71,7 +71,7 @@ You can choose from two options:
 
 2. and pattern with gradient.
 
-![base-dark-pattern](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/9887a96c-c070-49c2-8d13-7f638da18151)
+![base-dark-pattern](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/8dc3b5ee-a876-4371-b2b5-ea1dcd0ad57f)
 
 #### Bright base
 
@@ -104,8 +104,6 @@ If You are using Inkscape please save 16 and symbolic icons as "Optimised SVG" w
 ![Screenshot_20230517_162107](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/af17399a-1057-4dcf-968a-9870bf58333e)
 ![Screenshot_20230517_162114](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/df3ee07b-0676-4c5f-8db8-46e34507df97)
 ![Screenshot_20230517_162122](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/d749eecf-7495-4a03-a2f1-90659f4ff3bc)
-
-While saving scalable "Remove unused IDs" should be disabled.
 
 If You are not using Inkscape please use [Scour](https://github.com/scour-project/scour) with above options.
 
