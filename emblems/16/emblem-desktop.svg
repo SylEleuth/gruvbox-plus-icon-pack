@@ -1,10 +1,7 @@
-<svg id="svg10" width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
- <circle id="circle2" cx="8" cy="8" r="7" fill="#282828"/>
- <g fill="#ebdbb2">
-  <path id="path4" d="m3.492 3.4818h9.016v1h-9.016z" stroke-width="1.0616"/>
-  <path id="path4-6" d="m5 9h6v1h-6z" stroke-width=".86602"/>
-  <path id="path6" d="m4.5 4v8h-1v-8z"/>
-  <path id="path6-3" d="m12.5 4v8h-1v-8z"/>
-  <path id="path8" d="m3.4913 11h9.0173v1h-9.0173z" stroke-width="1.0617"/>
- </g>
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="8" cy="8" r="7" fill="#282828"/>
+  <g fill="#ebdbb2">
+    <path d="m3.4922 3.4824v1h-0.0039063v6.5176h0.0039063v1h9.0156v-1-6.5176-1h-9.0156zm0.99609 1h7.0195v6.5176h-7.0195v-6.5176z"/>
+    <path d="m5 9h6v1h-6z" stroke-width=".86602"/>
+  </g>
 </svg>
