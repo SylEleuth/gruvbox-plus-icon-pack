@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <defs>
   <linearGradient id="linearGradient4202" x1="1" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#e81877"/>
-   <stop offset=".313" stop-color="#dd1d8c"/>
-   <stop offset=".563" stop-color="#6d57b1"/>
-   <stop offset=".75" stop-color="#2a78c1"/>
-   <stop offset="1" stop-color="#018dcb"/>
+   <stop offset="0" stop-color="#fb4934"/>
+   <stop offset=".313" stop-color="#cc241d"/>
+   <stop offset=".563" stop-color="#8f3f71"/>
+   <stop offset=".75" stop-color="#458588"/>
+   <stop offset="1" stop-color="#83a598"/>
   </linearGradient>
   <linearGradient id="linearGradient4204" x1="1" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#e51561"/>
-   <stop offset=".313" stop-color="#e4156c"/>
-   <stop offset=".563" stop-color="#e71e2c"/>
-   <stop offset=".75" stop-color="#e8301e"/>
-   <stop offset="1" stop-color="#e6320e"/>
+   <stop offset="0" stop-color="#b16286"/>
+   <stop offset=".313" stop-color="#d3869b"/>
+   <stop offset=".563" stop-color="#cc241d"/>
+   <stop offset=".75" stop-color="#fb4934"/>
+   <stop offset="1" stop-color="#fb4934"/>
   </linearGradient>
   <linearGradient id="linearGradient4206" x1="15" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#bec900"/>
-   <stop offset=".313" stop-color="#9ec80a"/>
-   <stop offset=".563" stop-color="#71b93d"/>
-   <stop offset=".75" stop-color="#35a48f"/>
-   <stop offset="1" stop-color="#018fca"/>
+   <stop offset="0" stop-color="#98971a"/>
+   <stop offset=".313" stop-color="#b8bb26"/>
+   <stop offset=".563" stop-color="#8ec07c"/>
+   <stop offset=".75" stop-color="#689d6a"/>
+   <stop offset="1" stop-color="#458588"/>
   </linearGradient>
   <linearGradient id="linearGradient4208" x1="15" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#c1cc00"/>
-   <stop offset=".313" stop-color="#dfcd00"/>
-   <stop offset=".563" stop-color="#f0cc00"/>
-   <stop offset=".75" stop-color="#fd8c08"/>
-   <stop offset="1" stop-color="#f25c13"/>
+   <stop offset="0" stop-color="#98971a"/>
+   <stop offset=".313" stop-color="#b8bb26"/>
+   <stop offset=".563" stop-color="#fabd2f"/>
+   <stop offset=".75" stop-color="#fe8019"/>
+   <stop offset="1" stop-color="#cc241d"/>
   </linearGradient>
  </defs>
  <g>

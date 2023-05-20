@@ -1,58 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
- <defs>
+<svg id="svg90" width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs46">
   <linearGradient id="linearGradient4202" x1="1" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#e81877"/>
-   <stop offset=".313" stop-color="#dd1d8c"/>
-   <stop offset=".563" stop-color="#6d57b1"/>
-   <stop offset=".75" stop-color="#2a78c1"/>
-   <stop offset="1" stop-color="#018dcb"/>
+   <stop id="stop2" stop-color="#fb4934" offset="0"/>
+   <stop id="stop4" stop-color="#cc241d" offset=".313"/>
+   <stop id="stop6" stop-color="#8f3f71" offset=".563"/>
+   <stop id="stop8" stop-color="#458588" offset=".75"/>
+   <stop id="stop10" stop-color="#83a598" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4204" x1="1" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#e51561"/>
-   <stop offset=".313" stop-color="#e4156c"/>
-   <stop offset=".563" stop-color="#e71e2c"/>
-   <stop offset=".75" stop-color="#e8301e"/>
-   <stop offset="1" stop-color="#e6320e"/>
+   <stop id="stop13" stop-color="#b16286" offset="0"/>
+   <stop id="stop15" stop-color="#d3869b" offset=".313"/>
+   <stop id="stop17" stop-color="#cc241d" offset=".563"/>
+   <stop id="stop19" stop-color="#fb4934" offset=".75"/>
+   <stop id="stop21" stop-color="#fb4934" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4206" x1="15" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#bec900"/>
-   <stop offset=".313" stop-color="#9ec80a"/>
-   <stop offset=".563" stop-color="#71b93d"/>
-   <stop offset=".75" stop-color="#35a48f"/>
-   <stop offset="1" stop-color="#018fca"/>
+   <stop id="stop24" stop-color="#98971a" offset="0"/>
+   <stop id="stop26" stop-color="#b8bb26" offset=".313"/>
+   <stop id="stop28" stop-color="#8ec07c" offset=".563"/>
+   <stop id="stop30" stop-color="#689d6a" offset=".75"/>
+   <stop id="stop32" stop-color="#458588" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4208" x1="15" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse">
-   <stop offset="0" stop-color="#c1cc00"/>
-   <stop offset=".313" stop-color="#dfcd00"/>
-   <stop offset=".563" stop-color="#f0cc00"/>
-   <stop offset=".75" stop-color="#fd8c08"/>
-   <stop offset="1" stop-color="#f25c13"/>
+   <stop id="stop35" stop-color="#98971a" offset="0"/>
+   <stop id="stop37" stop-color="#b8bb26" offset=".313"/>
+   <stop id="stop39" stop-color="#fabd2f" offset=".563"/>
+   <stop id="stop41" stop-color="#fe8019" offset=".75"/>
+   <stop id="stop43" stop-color="#cc241d" offset="1"/>
   </linearGradient>
+  <linearGradient id="linearGradient254" x1="15" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4206"/>
+  <linearGradient id="linearGradient256" x1="1" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4202"/>
+  <linearGradient id="linearGradient258" x1="15" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4208"/>
+  <linearGradient id="linearGradient260" x1="1" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4204"/>
  </defs>
- <g transform="translate(3,3)">
-  <g transform="rotate(15,8,8)">
-   <path style="fill:url(#linearGradient4206)" d="M 8,1 V 8 H 15 A 7,7 0 0 0 8,1 Z"/>
-   <path style="fill:url(#linearGradient4202)" d="M 8,1 A 7,7 0 0 0 1,8 H 8 Z"/>
-   <path style="fill:url(#linearGradient4208)" d="M 8,8 V 15 A 7,7 0 0 0 15,8 Z"/>
-   <path style="fill:url(#linearGradient4204)" d="M 1,8 A 7,7 0 0 0 8,15 V 8 Z"/>
+ <g id="g88" transform="translate(3,3)">
+  <g id="g56" transform="rotate(15,8,8)">
+   <path id="path48" d="m8 1v7h7a7 7 0 0 0-7-7z" fill="url(#linearGradient254)"/>
+   <path id="path50" d="m8 1a7 7 0 0 0-7 7h7z" fill="url(#linearGradient256)"/>
+   <path id="path52" d="m8 8v7a7 7 0 0 0 7-7z" fill="url(#linearGradient258)"/>
+   <path id="path54" d="m1 8a7 7 0 0 0 7 7v-7z" fill="url(#linearGradient260)"/>
   </g>
-  <g style="opacity:0.7">
-   <path style="fill:url(#linearGradient4206)" d="M 8,1 V 8 H 15 A 7,7 0 0 0 8,1 Z"/>
-   <path style="fill:url(#linearGradient4202)" d="M 8,1 A 7,7 0 0 0 1,8 H 8 Z"/>
-   <path style="fill:url(#linearGradient4208)" d="M 8,8 V 15 A 7,7 0 0 0 15,8 Z"/>
-   <path style="fill:url(#linearGradient4204)" d="M 1,8 A 7,7 0 0 0 8,15 V 8 Z"/>
+  <g id="g66" opacity=".7">
+   <path id="path58" d="m8 1v7h7a7 7 0 0 0-7-7z" fill="url(#linearGradient254)"/>
+   <path id="path60" d="m8 1a7 7 0 0 0-7 7h7z" fill="url(#linearGradient256)"/>
+   <path id="path62" d="m8 8v7a7 7 0 0 0 7-7z" fill="url(#linearGradient258)"/>
+   <path id="path64" d="m1 8a7 7 0 0 0 7 7v-7z" fill="url(#linearGradient260)"/>
   </g>
-  <g style="opacity:0.35" transform="rotate(45,8,8)">
-   <path style="fill:url(#linearGradient4206)" d="M 8,1 V 8 H 15 A 7,7 0 0 0 8,1 Z"/>
-   <path style="fill:url(#linearGradient4202)" d="M 8,1 A 7,7 0 0 0 1,8 H 8 Z"/>
-   <path style="fill:url(#linearGradient4208)" d="M 8,8 V 15 A 7,7 0 0 0 15,8 Z"/>
-   <path style="fill:url(#linearGradient4204)" d="M 1,8 A 7,7 0 0 0 8,15 V 8 Z"/>
+  <g id="g76" transform="rotate(45,8,8)" opacity=".35">
+   <path id="path68" d="m8 1v7h7a7 7 0 0 0-7-7z" fill="url(#linearGradient254)"/>
+   <path id="path70" d="m8 1a7 7 0 0 0-7 7h7z" fill="url(#linearGradient256)"/>
+   <path id="path72" d="m8 8v7a7 7 0 0 0 7-7z" fill="url(#linearGradient258)"/>
+   <path id="path74" d="m1 8a7 7 0 0 0 7 7v-7z" fill="url(#linearGradient260)"/>
   </g>
-  <g style="opacity:0.3" transform="rotate(60,8,8)">
-   <path style="fill:url(#linearGradient4206)" d="M 8,1 V 8 H 15 A 7,7 0 0 0 8,1 Z"/>
-   <path style="fill:url(#linearGradient4202)" d="M 8,1 A 7,7 0 0 0 1,8 H 8 Z"/>
-   <path style="fill:url(#linearGradient4208)" d="M 8,8 V 15 A 7,7 0 0 0 15,8 Z"/>
-   <path style="fill:url(#linearGradient4204)" d="M 1,8 A 7,7 0 0 0 8,15 V 8 Z"/>
+  <g id="g86" transform="rotate(60,8,8)" opacity=".3">
+   <path id="path78" d="m8 1v7h7a7 7 0 0 0-7-7z" fill="url(#linearGradient254)"/>
+   <path id="path80" d="m8 1a7 7 0 0 0-7 7h7z" fill="url(#linearGradient256)"/>
+   <path id="path82" d="m8 8v7a7 7 0 0 0 7-7z" fill="url(#linearGradient258)"/>
+   <path id="path84" d="m1 8a7 7 0 0 0 7 7v-7z" fill="url(#linearGradient260)"/>
   </g>
  </g>
 </svg>
