@@ -32,7 +32,8 @@ e.g. "icon-symbolic.svg".
 
 Scalable icons don't have specific rules how big elements should be placed or what padding
 to use. Everything depends on the specific icon. But elements shouldn't be close to the
-base edges and some padding should be used. Also icon should be centered in relation to page.
+base edges and some padding should be used. Also icon should be centered in relation to
+background.
 
 Colors
 ------
@@ -89,7 +90,7 @@ In both cases pattern is very subtle and You can modify it by changing opacity, 
 removing one of the elements or adding a new one.
 
 It's recommended to use plain base. If you want to make gradient just change color of one
-of the stops. You can add a new one (or more) and even change direction but don't remove
+of the stops. You can add a new one (or more) and even change direction but don't remnter
 it or change to solid. Also do not modify border, only the main background.
 
 If You want to make different color background You can use dark or bright base, it doesn't
