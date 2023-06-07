@@ -41,8 +41,8 @@
 # - Pavel Pertsev <https://github.com/morhetz/gruvbox>
 
 [Icon Theme]
-Name=GruvboxPlus
-Comment=Icon pack with gruvbox colors for dark theme
+Name=Gruvbox Plus Dark
+Comment=Icon pack with gruvbox colors for dark themes
 
 Inherits=Breeze Dark, gnome, hicolor
 
