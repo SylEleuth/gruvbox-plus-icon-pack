@@ -1,7 +1,8 @@
+#### <div align="center">Breaking changes. Read about it here https://github.com/SylEleuth/gruvbox-plus-icon-pack/discussions/19</div>
+
 # <div align="center">Gruvbox Plus Icon Pack</div>
 
 ![compilation](https://user-images.githubusercontent.com/33354262/149584585-8d793794-58b5-44b1-8464-83f125afbb62.jpg)
-<br/><br/>
 
 GruvboxPlus is an icon pack for Linux (KDE, XFCE, Gnome) based on and inspired by:
 
@@ -14,7 +15,6 @@ GruvboxPlus is an icon pack for Linux (KDE, XFCE, Gnome) based on and inspired b
 GruvboxPlus is using color scheme from [Gruvbox](https://github.com/morhetz/gruvbox), both dark and light color palette.
 
 Icons were created with the thought of dark backgrounds, so it's recommend to use dark themes.
-<br/><br/>
 
 ### <div align="center">Applications example:</div>
 ![apps](https://user-images.githubusercontent.com/33354262/149584581-828c6035-1e30-4577-ba34-accbcdbd5d59.jpg)
@@ -45,13 +45,13 @@ Installation
 
 If You downloaded the zip file from [releases page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases).
 
-Copy the whole folder to Your home directory.
+Unpack it and copy content of the folder to Your home/.local/share/icons/ directory.
 
-``` cp -rv gruvbox-plus-icon-pack-master ~/.local/share/icons/GruvboxPlus ```
+``` cp -rv Gruvbox-Plus-Dark ~/.local/share/icons ```
 
 or soft link git repository:
 
-``` ln -s ~/Git/gruvbox-plus-icon-pack-master ~/.local/share/icons/GruvboxPlus ```
+``` ln -s path/to/repository/Gruvbox-Plus-Dark ~/.local/share/icons/Grubox-Plus-Dark ```
 
 You could then just use
 
