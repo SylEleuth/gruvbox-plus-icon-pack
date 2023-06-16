@@ -1,3 +1,5 @@
+*(last template edit - 16th June 2023)*
+
 If you want to contribute to the project by modifing icons that has broken or outdated
 elements or just by creating a new one, You are more than welcome. You would have to clone
 repository and rename a branch to the name of the icon you want to create/modify. Then
