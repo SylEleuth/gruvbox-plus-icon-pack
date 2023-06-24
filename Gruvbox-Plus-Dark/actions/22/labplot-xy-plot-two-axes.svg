@@ -1,16 +1,1 @@
-<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <style type="text/css">
-            .ColorScheme-Text {
-                color: #ebdbb2;
-            }
-
-            .ColorScheme-Highlight {
-                color: #458588;
-            }
-        </style>
-    </defs>
-    <path class="ColorScheme-Text"
-        d="m4 4v14h14v-2.4883l-0.04785-0.04557-3.2995-3.2995-0.0046 0.0046-0.0068-0.0046-2.4769 2.4769-3.6435-3.6435h-3.3542v-7zm8.1666 0-4.6689 4.6689h-2.3288v1.1667h2.8118l4.1881-4.1881 2.4769 2.4769 0.0069-0.00456 0.0046 0.00456 3.2995-3.2995-0.82497-0.82487-2.4792 2.4792-2.4814-2.4792-0.0023 0.00228zm-7 8.1666h2.8711l4.1243 4.1243 0.0023-0.0023 0.0023 0.0023 2.4814-2.4792 2.4792 2.4792 0.56283 0.54232h-12.523v-4.6666z"
-        fill="currentColor" stroke-width="1.1667" />
-</svg>
+view-financial-account-investment-security.svg
