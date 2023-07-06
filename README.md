@@ -1,5 +1,3 @@
-#### <div align="center">Breaking changes. Read about it here https://github.com/SylEleuth/gruvbox-plus-icon-pack/discussions/19</div>
-
 # <div align="center">Gruvbox Plus Icon Pack</div>
 
 ![compilation](https://user-images.githubusercontent.com/33354262/149584585-8d793794-58b5-44b1-8464-83f125afbb62.jpg)
