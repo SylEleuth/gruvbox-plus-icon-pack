@@ -1,19 +1,6 @@
 <svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <style type="text/css">
-            .ColorScheme-Text {
-                color: #ebdbb2;
-            }
-
-            .ColorScheme-Highlight {
-                color: #458588;
-            }
-        </style>
-    </defs>
-    <g transform="matrix(.99942 0 0 .99942 -423.25 -221.86)" fill="#ebdbb2">
-        <path class="ColorScheme-Text"
-            d="m429 230v9c5e-5 0.52358 0.47642 0.99995 1 1h9c0.52358-5e-5 0.99995-0.47642 1-1v-9z" />
-        <path class="ColorScheme-Text"
-            d="m428 228v1l13-3e-3v-1c0-1-0.9998-1.0034-0.9998-1.0034h-3s0-1-1-1h-3c-1 0-1 1-1 1h-3s-1.0002 3e-3 -1.0002 1.0034z" />
-    </g>
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m9.715 5.001c-0.8568 0-0.8568 0.8568-0.8568 0.8568h-2.57s-0.8568 0.00301-0.8568 0.8601v0.8568l11.14-0.00335v-0.8534c0-0.8568-0.8568-0.8601-0.8568-0.8601h-2.57s0-0.8568-0.8568-0.8568zm-3.427 3.43v7.711c4.29e-5 0.4486 0.4082 0.8568 0.8568 0.8568h7.711c0.4486-4e-5 0.8568-0.4082 0.8568-0.8568v-7.711z" fill="currentColor"/>
 </svg>
