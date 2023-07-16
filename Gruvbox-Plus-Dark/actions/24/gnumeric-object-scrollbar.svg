@@ -1,15 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg8" version="1.1" viewBox="0 0 24 24" width="24" height="24">
-  <defs id="defs3051">
-    <style id="current-color-scheme" type="text/css">
-      .ColorScheme-Text {
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text {
         color: #ebdbb2;
-      }
-    </style>
+      }</style>
   </defs>
-  <g transform="translate(1,1)">
-    <path id="path4" class="ColorScheme-Text"
-      d="M 6,3 V 19 H 16 V 3 Z m 5,1 0.28125,0.21875 3.71875,3 L 14.40625,8 11,5.25 7.59375,8 7,7.21875 l 3.71875,-3 z M 7.59375,14 11,16.75 14.40625,14 15,14.78125 11.28125,17.75 11,18 10.71875,17.75 7,14.78125 Z"
-      fill="currentColor" />
-    <path id="path6" d="m7 10v2h8v-2z" fill="#458588" />
+  <g transform="matrix(1 0 0 .9824 1 1.334)">
+    <path class="ColorScheme-Text" d="m6 3.732v14.25h10v-14.25zm5 0.6342 3.369 3.199-1.227 1.211-2.143-1.99-2.143 1.99-1.227-1.211zm-2.143 8.573 2.143 1.99 2.143-1.99 1.227 1.211-3.369 3.199-3.369-3.199z" fill="#ebdbb2"/>
+    <path d="m7 9.839v2.036h8v-2.036z" fill="#458588" stroke-width="1.009"/>
   </g>
 </svg>
