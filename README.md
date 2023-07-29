@@ -88,7 +88,7 @@ License
 -------
 
 * GPL3 © 2021-2023 [Gruvbox Plus](https://github.com/SylEleuth/gruvbox-plus-icon-pack) by [Sylwia Ptasinska](https://github.com/SylEleuth).
-* MIT © 2021-2022 [Kitty icon designe](https://github.com/DinkDonk/kitty-icon) by [Rune Warhuus](https://github.com/DinkDonk).
+* MIT © 2021-2022 [Kitty icon design](https://github.com/DinkDonk/kitty-icon) by [Rune Warhuus](https://github.com/DinkDonk).
 * CC BY-SA/GPL3 © 2018-2019 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](https://github.com/snwh).
 * GPL3 © 2018-2019 [Suru++ Ubuntu](https://github.com/Bonandry/suru-plus) by [Andrea Bonanni](https://github.com/Bonandry) and Gustavo Costa.
 * GPL3 © 2018-2019 Suru++ 25 by Gustavo Costa.
