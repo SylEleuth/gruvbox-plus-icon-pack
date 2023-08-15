@@ -1,1 +1,6 @@
-edit-delete.svg
+<svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m13.25 5-3.555 14h1.062l3.555-14h-1.063zm-4.992 2-3.975 4.645-0.2793 0.3555 0.2793 0.3555 3.975 4.645 1.746-0.709-3.664-4.291 3.664-4.291-1.746-0.709zm7.492 0-1.746 0.709 3.664 4.291-0.8535 1h2.359l0.5508-0.6445 0.2793-0.3555-0.2793-0.3555-3.975-4.645zm-1.746 7v1.178l1.322 1.322-1.322 1.322v1.178h1.18l1.32-1.322 1.322 1.322h1.178v-1.178l-1.32-1.322 1.32-1.322v-1.178h-1.178l-1.322 1.322-1.32-1.322z" fill="currentColor"/>
+</svg>
