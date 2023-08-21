@@ -1,19 +1,7 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <style type="text/css">
-            .ColorScheme-Text {
-                color: #ebdbb2;
-            }
-
-            .ColorScheme-Highlight {
-                color: #458588;
-            }
-        </style>
-    </defs>
-    <path class="ColorScheme-Text"
-        d="m1.0002 1.0005v14h14v-1.1666h-12.833v-1.1666h3.5067v-9e-3l0.0091 9e-3 2.3333-2.3333h1.857l2.3333 2.3333h2.8004v-1.1666h-2.3173l-2.3333-2.3333h-2.8231l-2.3333 2.3333h-3.0328v-2.3378h2.3333v-0.00911l0.0091 0.00911 1.1621-1.1621h2.3287v-1.1666h-1.1666v-1.1666h-1.1666v2.3287l-0.82028-0.82028-0.82028 0.82028h-1.8593v-6.9952zm4.6665 0v2.3333h1.1666v-1.1666h1.1666v-1.1666zm4.6665 0v1.1666h1.1666v1.1666h1.1666v-2.3333h-1.1666zm-1.1666 1.8548-1.9869 1.9869 0.82484 0.82484 1.1621-1.1621 1.1621 1.1621 0.82484-0.82484zm2.3333 2.8118v1.1666h-1.1666v1.1666h2.3333v-2.3333zm3.4999 0-1.1666 1.1666h1.1666z"
-        fill="currentColor" stroke-width="1.1666" />
-    <path class="ColorScheme-Text"
-        d="m9.1665 4.5004-2.3287 2.3333h1.1621v1.1666h-2.3264l-1.1643 1.1666h-3.5113v4.6665h5.8331l2.3333-0.0092 5.8331 0.0092v-6.9998h-2.3333v1.1666h-2.3333v-1.1666h1.1666z"
-        fill="currentColor" opacity=".5" stroke-width="1.1666" />
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m1 2v13h13v-2h-11v-1h3.006v-0.0078l0.0078 0.0078 2-2h1.592l2 2h2.4v-1h-1.986l-2-2h-2.42l-2 2h-2.6v-2.004h2v-0.00781l0.0078 0.00781 0.9961-0.9961h1.996v-1h-1v-1h-1v1.996l-0.7031-0.7031-0.7031 0.7031h-1.594v-5.996zm5 0v2h1v-1h1v-1zm4 0v1h1v1h1v-2h-1zm-1 1.59-1.703 1.703 0.707 0.707 0.9961-0.9961 0.9961 0.9961 0.707-0.707zm2 2.41v1h-1v1h2v-2zm3 0-1 1h1z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m9 5-1.996 2h0.9961v1h-1.994l-0.998 1h-3.01v4h5l2-0.007812 5 0.007812v-6h-2v1h-2v-1h1l-1.998-2z" fill="currentColor" opacity=".5"/>
 </svg>
