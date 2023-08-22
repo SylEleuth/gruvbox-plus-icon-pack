@@ -1,14 +1,7 @@
 <svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style type="text/css">
-      .ColorScheme-Text {
-        color: #ebdbb2;
-      }
-    </style>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
   </defs>
-  <path class="ColorScheme-Text"
-    d="m5 5h5.4545v5.4545h-5.4545zm6.5455 0h5.4545v5.4545h-5.4545zm-6.5455 6.5455h5.4545v5.4545h-5.4545zm6.5455 0h5.4545v5.4545h-5.4545z"
-    fill="currentColor" fill-opacity=".3" stroke-width="1.0909" />
-  <path class="ColorScheme-Text"
-    d="m10.455 3.998v6.457h-6.4551v1.0898h6.4551v6.4531h1.0898v-6.4531h6.4551v-1.0898h-6.4551v-6.457z" fill="#ebdbb2" />
+  <path class="ColorScheme-Text" d="m5 5h5v5h-5zm7 0h5v5h-5zm-7 7h5v5h-5zm7 0h5v5h-5z" fill="currentColor" opacity=".3"/>
+  <path class="ColorScheme-Text" d="m9.998 4v5.998h-5.998v2.004h5.998v5.998h2.004v-5.998h5.998v-2.004h-5.998v-5.998z" fill="currentColor"/>
 </svg>
