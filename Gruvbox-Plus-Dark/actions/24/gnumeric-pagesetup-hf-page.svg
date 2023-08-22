@@ -1,12 +1,6 @@
 <svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <style type="text/css">
-            .ColorScheme-Text {
-                color: #ebdbb2;
-            }
-        </style>
-    </defs>
-    <path class="ColorScheme-Text"
-        d="m5.5833 5v14h4.6667v-1.1667h-3.5v-11.667h5.8333v3.5h3.5v1.1667h1.1667v-2.3333l-3.5-3.5zm7 7v1.1667h-1.1667v1.1667h1.1667v2.3333h-1.1667v1.1667h1.1667v1.1667h1.1667v-1.1667h2.3333v1.1667h1.1667v-1.1667h1.1667v-1.1667h-1.1667v-2.3333h1.1667v-1.1667h-1.1667v-1.1667h-1.1667v1.1667h-2.3333v-1.1667zm1.1667 2.3333h2.3333v2.3333h-2.3333z"
-        color="#ebdbb2" fill="currentColor" />
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m5 5v14h6v-2h-4v-10h6v3h3v1h2v-2l-4-4h-7zm8 7v1h-1v2h1v1h-1v2h1v1h2v-1h1v1h2v-1h1v-2h-1v-1h1v-2h-1v-1h-2v1h-1v-1zm2 3h1v1h-1z" fill="currentColor"/>
 </svg>
