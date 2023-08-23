@@ -1,4 +1,4 @@
-*(last template edit - 18th August 2023)*
+*(last template edit - 23rd August 2023)*
 
 If you want to contribute to the project by modifing icons that has broken or outdated
 elements or just by creating a new one, You are more than welcome. You would have to clone
