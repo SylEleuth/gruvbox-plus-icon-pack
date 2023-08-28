@@ -1,0 +1,6 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <path class="ColorScheme-Highlight" d="m7 2c-1.657-4e-6 -3 1.343-3 3 1.25e-5 1.657 1.343 3 3 3 1.657 4e-6 3-1.343 3-3s-1.343-3-3-3zm0 6.75c-3.049 0.0036-5.619 2.253-6 5.25h10v-3.748c-1.071-0.9375-2.476-1.5-4-1.502z" color="#458588" fill="#ebdbb2"/>
+  <path d="m13 3h2v2h-2z" fill="#ebdbb2" stroke-width="0"/>
+  <path d="m13 7h2v2h-2z" fill="#ebdbb2" stroke-width="0"/>
+  <path d="m13 11h2v2h-2z" fill="#ebdbb2" stroke-width="0"/>
+</svg>
