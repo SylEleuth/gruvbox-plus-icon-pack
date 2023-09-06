@@ -3,5 +3,5 @@
     <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NegativeText { color:#fb4934; }</style>
   </defs>
   <path class="ColorScheme-Text" d="m12 5c-1.933 0-3.5 1.567-3.5 3.5s1.567 3.5 3.5 3.5 3.5-1.567 3.5-3.5-1.567-3.5-3.5-3.5zm0 7.865c-3.524 0.0042-6.559 2.639-7 6.135h8.499c-0.905-0.7236-1.499-1.822-1.499-3.062 0-1.228 0.5822-2.327 1.471-3.05-0.6462-0.01278-1.308-0.02099-1.471-0.02222z" fill="currentColor"/>
-  <path class="ColorScheme-NegativeText" d="m15.94 12.88c-1.691 0-3.061 1.371-3.061 3.062s1.369 3.062 3.061 3.062 3.062-1.371 3.062-3.062-1.371-3.062-3.062-3.062zm-2.188 2.625h4.375v0.875h-4.375z" fill="currentColor"/>
+  <path class="ColorScheme-NegativeText" d="m16 13c-1.657 0-3 1.343-3 3s1.343 3 3 3 3-1.343 3-3-1.343-3-3-3zm2.25 2.252v1.496h-4.5v-1.496z" fill="currentColor"/>
 </svg>
