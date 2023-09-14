@@ -1,0 +1,6 @@
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path d="m10 4v4.18a3 3 0 0 0-2 2.82 3 3 0 0 0 2 2.82v4.18h2v-4.18a3 3 0 0 0 2-2.82 3 3 0 0 0-2-2.828v-4.172z" fill="#ebdbb2" stroke-dashoffset="64" stroke-linecap="square" stroke-width="15" style="paint-order:stroke fill markers"/>
+</svg>
