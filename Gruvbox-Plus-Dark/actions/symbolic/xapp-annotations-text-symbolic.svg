@@ -1,12 +1,1 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style type="text/css">.ColorScheme-Text {
-            color: #ebdbb2;
-         }
-
-         .ColorScheme-Highlight {
-            color: #458588;
-         }</style>
-  </defs>
-  <path d="m6.25 15c-0.4832 0-0.875-0.3918-0.875-0.875v-2.625h-2.625c-0.9665 0-1.75-0.7835-1.75-1.75v-7c0-0.9665 0.7835-1.75 1.75-1.75h10.5c0.9665 0 1.75 0.7835 1.75 1.75v7c0 0.9665-0.7835 1.75-1.75 1.75h-2.712l-3.238 3.246c-0.175 0.1575-0.385 0.2538-0.6125 0.2538h-0.4375m-2.625-11.38v1.75h8.75v-1.75h-8.75m0 3.5v1.75h7v-1.75z" fill="#ebdbb2" stroke-width=".875"/>
-</svg>
+comment-symbolic.svg
