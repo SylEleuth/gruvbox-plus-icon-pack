@@ -1,14 +1,6 @@
 <svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style type="text/css">
-      .ColorScheme-Text {
-        color: #ebdbb2;
-      }
-    </style>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
   </defs>
-  <g transform="matrix(.875 0 0 .875 -1.625 -1.625)">
-    <path class="ColorScheme-Text"
-      d="m9 3v7h-2v-2l-4 3 4 3v-2h2v7h4v-7h2v2l4-3-4-3v2h-2v-7h-3zm1 1h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2z"
-      fill="currentColor" />
-  </g>
+  <path class="ColorScheme-Text" d="m6 1v6h-2v-2l-4 3 4 3v-2h2v6h4v-6h2v2l4-3-4-3v2h-2v-6zm1 1h2v2h-2zm0.00836 3.331h1.992l0.00836 2h-1.992zm-0.00836 3.421h2v2h-2zm0 3.248h2v2h-2z" fill="currentColor"/>
 </svg>

@@ -1,8 +1,6 @@
 <svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style type="text/css">.ColorScheme-Text {
-        color: #ebdbb2;
-      }</style>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
   </defs>
-  <path class="ColorScheme-Text" transform="matrix(1.375,0,0,1.375,-3.125,-3.125)" d="m3 3v10.18h10.18v-10.18h-4.454zm0.7273 0.7273h5.091v8.727h-5.091zm7.273-2.73e-5 1.782 1.663-0.6484 0.6286-1.134-1.034-1.134 1.034-0.6484-0.6286zm-6.546 0.7273v0.7273h3.636v-0.7273zm5.411 5.708 1.134 1.034 1.134-1.034 0.6484 0.6286-1.782 1.663-1.782-1.663zm-5.411-3.526v0.7273h3.636v-0.7273zm0 2.182v0.7273h3.636v-0.7273zm0 2.182v0.7273h3.636v-0.7273z" fill="currentColor" stroke-width=".6364"/>
+  <path class="ColorScheme-Text" d="m1 1v14h14v-14zm1 1h7.001v12h-7.001zm10-3.75e-5 2.451 2.287-0.8917 0.8645-1.56-1.422-1.56 1.422-0.8917-0.8645zm-9.002 1v1h5v-1zm7.441 7.85 1.56 1.422 1.56-1.422 0.8917 0.8645-2.451 2.287-2.451-2.287zm-7.441-4.849v1h5v-1zm0 3.001v1h5v-1zm0 3.001v1h5v-1z" fill="currentColor"/>
 </svg>
