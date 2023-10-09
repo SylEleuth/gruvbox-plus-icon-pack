@@ -1,8 +1,6 @@
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style type="text/css">.ColorScheme-Text {
-    color:#eff0f1;
-   }</style>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
     <linearGradient id="linearGradient746" x1="15" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
       <stop stop-color="#98971a" offset="0"/>
       <stop stop-color="#b8bb26" offset=".313"/>
@@ -58,5 +56,5 @@
       <path d="m1 8a7 7 0 0 0 7 7v-7z" fill="url(#linearGradient752)"/>
     </g>
   </g>
-  <path d="m9.004 0.9961c2.972 0.002902 5.431 2.134 5.922 5.004 0.05562 0.3252 0.0803 0.581 0.07227 1 0 0-2 0-2-0.00195 0.0011-2.208-1.788-4-3.996-4.002-2.208-0.00216-4 1.793-4.004 4-3e-6 0.00131 0 4.004 0 4.004h2l-3 4-3-4h2v-4c1e-6 -0.00131-2e-6 0.00131 0 0-0.01507-0.3756 0.0238-0.6741 0.07667-0.9996 0.4636-2.855 2.957-5.007 5.929-5.004z" fill="#ebdbb2" stroke-dashoffset="64" stroke-linecap="square" stroke-width="10" style="paint-order:stroke fill markers"/>
+  <path class="ColorScheme-Text" fill="currentColor" d="m9.004 0.9961c2.972 0.002902 5.431 2.134 5.922 5.004 0.05562 0.3252 0.0803 0.581 0.07227 1 0 0-2 0-2-0.00195 0.0011-2.208-1.788-4-3.996-4.002-2.208-0.00216-4 1.793-4.004 4-3e-6 0.00131 0 4.004 0 4.004h2l-3 4-3-4h2v-4c1e-6 -0.00131-2e-6 0.00131 0 0-0.01507-0.3756 0.0238-0.6741 0.07667-0.9996 0.4636-2.855 2.957-5.007 5.929-5.004z"/>
 </svg>
