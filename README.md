@@ -57,6 +57,12 @@ You could then just use
 
 to download files added since the latest pull.
 
+#### Arch User Repository
+There is [AUR](https://aur.archlinux.org/) package, maintained by [Diaoul](https://github.com/Diaoul).
+It's a git version and release version will be added soon.
+
+```yay -S gruvbox-plus-icon-theme-git```
+
 Contribution
 ------------
 
@@ -74,7 +80,7 @@ If You have any questions, suggestions or propositions use [Discussions page](ht
 TODO
 ----
 
-- [ ] Add icons to Arch User Repository
+- [x] Add icon pack to Arch User Repository
 - [ ] Add installation script
 - [ ] Add script to easily change folders/places colors
 - [ ] Create dark icons for bright themes
