@@ -1,3 +1,6 @@
-<svg width="16px" height="16px" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-  <path d="m7 2c-3.324 0-6 2.676-6 6 0 3.324 2.676 6 6 6h5v-2h-5c-2.216 0-4-1.784-4-4 0-2.216 1.784-4 4-4h5v-2h-5zm6 0v2h2v-2h-2zm0 10v2h2v-2h-2z" fill="#ebdbb2" style="paint-order:stroke fill markers"/>
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" fill="currentColor" d="m3.828 1-2.828 2.828 2.828 2.828 2.828-2.828-2.828-2.828zm2.279 4.406-0.707 0.707 2.123 2.121-1.416 1.414 3.893 0.3516-0.3555-3.887-1.414 1.414-2.123-2.121zm6.064 3.938-2.828 2.828 2.828 2.828 2.828-2.828-2.828-2.828z"/>
 </svg>
