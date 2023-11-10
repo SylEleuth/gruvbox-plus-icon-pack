@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+ <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-PositiveText { color:#689d6a; }</style>
+ </defs>
+ <path fill="currentColor" class="ColorScheme-PositiveText" d="M 6 2 L 6 6 L 3 6 L 8 14 L 13 6 L 10 6 L 10 2 L 6 2 z"/>
+</svg>
