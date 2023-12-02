@@ -1,4 +1,4 @@
-*(last template edit - 23rd August 2023)*
+*(last template edit - 2nd December 2023)*
 
 If you want to contribute to the project by modifing icons that has broken or outdated
 elements or just by creating a new one, You are more than welcome. You would have to clone
@@ -20,7 +20,8 @@ Positioning
 -----------
 
 16 icons should have 1px padding around when the element is proportional (if it's round or
-rectangular) with the exception when the element is wider or taller. All depends on the
+rectangular) with the exception when the element is wide. Then it can touch the sides of
+the page (left and right), but only if there is large free space on top and bottom. All depends on the
 specific case. The reason behind why 16px icons are actually 14px icons is because often
 they are used in panels and just to be safe it would be better if they are a little bit
 smaller. You might notice that many icons in 16 folder are against that rule. It's because
