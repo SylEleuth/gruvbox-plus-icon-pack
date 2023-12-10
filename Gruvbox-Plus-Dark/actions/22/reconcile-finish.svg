@@ -1,6 +1,61 @@
-<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg1"
+   sodipodi:docname="reconcile-finish.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="19.82896"
+     inkscape:cx="11.019237"
+     inkscape:cy="11.246177"
+     inkscape:window-width="958"
+     inkscape:window-height="847"
+     inkscape:window-x="962"
+     inkscape:window-y="233"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
   </defs>
-  <path class="ColorScheme-Text" d="m6.5 4v1h3.5v11h-2.5v2h5.086l-1.646-1.646 1.061-1.061v-10.29h3.496v-1h-8.996zm8.996 1-2.496 6a2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5zm-8.996 0-2.496 6a2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5zm0.00195 2 1.668 4h-3.332zm8.996 0 1.668 4h-3.332zm2.088 7.051-2.121 2.121-1.414-1.414-1.414 1.414 2.828 2.828 3.535-3.535z" fill="currentColor"/>
+  <path
+     id="path1"
+     class="ColorScheme-Text"
+     d="M 6.4960938,4 V 5 H 9.9960944 V 16 L 5.828125,17 v 1 h 6.511719 l -1.828125,-1.828125 1.486328,-1.486328 V 5.0039062 h 3.492187 L 12.996094,11 c 0,1.380999 1.119001,2.5 2.499999,2.5 1.380999,0 2.5,-1.119001 2.5,-2.5 L 15.492187,5 V 4.0039062 H 6.4980469 Z m 0,1 L 4,11 c 0,1.380999 1.1190014,2.5 2.5,2.5 C 7.8809987,13.5 9,12.380999 9,11 Z m 0.00195,2 1.6679689,4 H 4.8339844 Z m 8.9960932,0 1.667969,4 h -3.332031 z m 2.087891,7.050781 -2.121094,2.121094 -1.414059,-1.414063 -1.414062,1.414063 L 15.460937,19 18.996093,15.464844 Z"
+     style="color:#ebdbb2;fill:#ebdbb2;fill-opacity:1" />
 </svg>
