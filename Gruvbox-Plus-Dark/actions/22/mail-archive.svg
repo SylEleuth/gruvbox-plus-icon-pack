@@ -1,1 +1,6 @@
-archive.svg
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m7 4v1h8v-1zm-2 1c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8c0-1.108-0.892-2-2-2h-1v9h-10v-9zm2 1v1h8v-1zm0 2v5h8v-5zm1 1 3 1.5 3-1.5v1l-3 1.5-3-1.5z" fill="currentColor"/>
+</svg>
