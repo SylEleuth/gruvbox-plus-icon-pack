@@ -1,0 +1,26 @@
+<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(.007136 -.1198)" filter="url(#a)">
+    <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12.12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#83a598" offset="0"/>
+      <stop stop-color="#458588" offset="1"/>
+    </linearGradient>
+    <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)"/>
+  </g>
+  <g transform="matrix(1.053 0 0 1.053 -6.827 -9.243)" stroke-width="9.927">
+    <path d="m88.29 66.35c-3.488 0.0022-6.719 1.833-8.511 4.826l-29.51 49.18c1.78-2.64 4.798-4.369 8.236-4.369h139c3.437 0 6.455 1.73 8.236 4.369l-29.51-49.18c-1.792-2.993-5.023-4.824-8.511-4.826zm-39.33 56.86c-0.03559 0.1238-0.0639 0.2477-0.09434 0.3718 0.02982-0.1247 0.0599-0.2491 0.09434-0.3718zm158.1 0c0.0345 0.1228 0.0645 0.2472 0.0943 0.3718-0.0304-0.1241-0.0587-0.248-0.0943-0.3718zm-158.3 1.103c-0.02858 0.173-0.06052 0.3451-0.07954 0.518 0.01881-0.1751 0.05182-0.3457 0.07954-0.518zm158.6 0c0.0278 0.1722 0.0607 0.3428 0.0796 0.518-0.019-0.1728-0.051-0.345-0.0796-0.518zm-158.7 1.041c-0.01345 0.243-0.03246 0.4856-0.02775 0.727v-0.1702c0-0.1881 0.01752-0.3713 0.02775-0.5568zm158.8 0c0.0102 0.1855 0.0277 0.3687 0.0277 0.5568v0.1702c5e-3 -0.2414-0.0143-0.484-0.0277-0.727z" fill="#3c3836" style="isolation:isolate"/>
+    <rect x="48.58" y="125" width="158.8" height="59.56" ry="9.927" fill="#504945" style="isolation:isolate"/>
+    <circle cx="177.6" cy="154.8" r="9.927" fill="#fabd2f" style="isolation:isolate"/>
+    <circle cx="147.9" cy="154.8" r="9.927" fill="#d65d0e" style="isolation:isolate"/>
+  </g>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12.12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d5c4a1" offset="0"/>
+      <stop stop-color="#d5c4a1" stop-opacity=".09804" offset=".1"/>
+      <stop stop-color="#282828" stop-opacity=".1" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".4" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(.007189 -.1198)" opacity=".5">
+    <path d="m91 12.12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
+  </g>
+</svg>
