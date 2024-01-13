@@ -1,6 +1,1 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
-  </defs>
-  <path class="ColorScheme-Text" d="m3 1c-2 0-2 2-2 2v10c0 2 2 2 2 2h10c2 0 2-2 2-2v-10s-2e-6 -2-2-2zm8 3v5.5c0 0.8284-0.6716 1.5-1.5 1.5-0.8284 0-1.5-0.6716-1.5-1.5s0.6716-1.5 1.5-1.5c0.1726 0 0.3457 0.04015 0.5 0.09375v-1.895l-3 0.6016v3.699c0 0.8284-0.6716 1.5-1.5 1.5s-1.5-0.6716-1.5-1.5 0.6716-1.5 1.5-1.5c0.1726 0 0.3457 0.04015 0.5 0.09375v-4.094z" fill="currentColor"/>
-</svg>
+device_pci-symbolic.svg
