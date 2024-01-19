@@ -93,11 +93,12 @@ If You downloaded the icon pack or if You just liked it please star the reposito
 License
 -------
 
-* GPL3 © 2021-2023 [Gruvbox Plus](https://github.com/SylEleuth/gruvbox-plus-icon-pack) by [Sylwia Ptasinska](https://github.com/SylEleuth).
+* GPL3 © 2021-2024 [Gruvbox Plus](https://github.com/SylEleuth/gruvbox-plus-icon-pack) by [Sylwia Ptasinska](https://github.com/SylEleuth).
 * MIT © 2021-2022 [Kitty icon design](https://github.com/DinkDonk/kitty-icon) by [Rune Warhuus](https://github.com/DinkDonk).
 * CC BY-SA/GPL3 © 2018-2019 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](https://github.com/snwh).
 * GPL3 © 2018-2019 [Suru++ Ubuntu](https://github.com/Bonandry/suru-plus) by [Andrea Bonanni](https://github.com/Bonandry) and Gustavo Costa.
 * GPL3 © 2018-2019 Suru++ 25 by Gustavo Costa.
+* GPL3 © [Tela](https://github.com/vinceliuice/Tela-icon-theme) by [Vince Liuice](https://github.com/vinceliuice)
 * GPL3 © [Papirus](https://github.com/PapirusDevelopmentTeam/) by [Alexey Varfolomeev](https://github.com/varlesh).
 * GPL3 © [Numix](https://github.com/numixproject/numix-icon-theme) by Numix Team.
 * GPL3/MIT © 2015-2019 [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) by [Keefer Rourke](https://github.com/keeferrourke).
