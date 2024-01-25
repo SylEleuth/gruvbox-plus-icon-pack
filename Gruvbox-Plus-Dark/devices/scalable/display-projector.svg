@@ -24,7 +24,8 @@
   <g transform="translate(9.09e-6 -.12)" opacity=".5">
     <path transform="translate(-.004996 .116)" d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
   </g>
-  <g transform="matrix(3.146 0 0 3.146 52.5 49.35)">
+  <g transform="matrix(3.146 0 0 3.146 52.5 48.13)">
+    <path d="m5.038 14.13c-2.2 0-4 1.8-4 4v14c0 2.2 1.8 4 4 4h1v1.741h6v-1.741h26v1.741h6v-1.741h1c2.2 0 4-1.8 4-4v-14c0-2.2-1.8-4-4-4z" fill="#282828" opacity=".3" style="isolation:isolate"/>
     <path d="m5 34v3h6v-3zm32 0v3h6v-3z" fill="#504945" style="isolation:isolate"/>
     <path d="m44 35h-40c-2.2 0-4-1.8-4-4v-14c0-2.2 1.8-4 4-4h40c2.2 0 4 1.8 4 4v14c0 2.2-1.8 4-4 4z" fill="#ebdbb2"/>
     <path d="m5 19v2h2v-2zm4 0v2h2v-2zm4 0v2h2v-2zm4 0v2h2v-2zm4 0v2h2v-2zm-16 4v2h2v-2zm4 0v2h2v-2zm4 0v2h2v-2zm4 0v2h2v-2zm4 0v2h2v-2zm-16 4v2h2v-2zm4 0v2h2v-2zm4 0v2h2v-2zm4 0v2h2v-2zm4 0v2h2v-2z" fill="#3c3836" style="isolation:isolate"/>
