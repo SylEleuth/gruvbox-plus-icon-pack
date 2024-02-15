@@ -29,14 +29,6 @@
       <stop stop-color="#928374" offset="0"/>
       <stop stop-color="#d5c4a1" offset="1"/>
     </linearGradient>
-    <linearGradient id="linearGradient5093" x1="7" x2="24" y1="10" y2="27" gradientTransform="translate(392.6,507.8)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#282828" offset="0"/>
-      <stop stop-color="#282828" stop-opacity="0" offset="1"/>
-    </linearGradient>
-    <linearGradient id="linearGradient5010" x2="0" y1="536.8" y2="522.8" gradientTransform="translate(8,-8)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#282828" offset="0"/>
-      <stop stop-color="#3c3836" offset="1"/>
-    </linearGradient>
   </defs>
   <g transform="translate(9.09e-6 -.12)" filter="url(#a-3-9)">
     <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b-5)"/>
@@ -56,11 +48,11 @@
     <path d="m432.6 521.8h-1v-1h1zm-1-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1z" color="#000000" fill="#282828"/>
     <rect x="391.6" y="506.8" width="34" height="34" fill="url(#linearGradient4337)"/>
     <path transform="translate(376.6,491.8)" d="m54 40v1h1v-1zm1 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1z" color="#000000" fill="#282828"/>
-    <path d="m404.6 516.9v1.5l7.217 7.184-1.217 1.217 7 7v-10l-2-2-2.533 2.533-7.467-7.434zm-2 5.4v2.199l4 3.975v2.326l7 7h4v-1.58l-14-13.92z" fill="url(#linearGradient5093)" fill-rule="evenodd" opacity=".4"/>
-    <path d="m405.1 516.8c-0.4848 0-0.875 0.3902-0.875 0.875s0.3902 0.875 0.875 0.875 0.875-0.3902 0.875-0.875-0.3902-0.875-0.875-0.875zm5.5 0-2 2 3 3-3 3 2 2 5-5-2-2zm-7.688 5.25c-0.7271 0-1.312 0.5854-1.312 1.312 0 0.7271 0.5854 1.312 1.312 1.312 0.7271 0 1.312-0.5854 1.312-1.312 0-0.7271-0.5854-1.312-1.312-1.312zm3.938 5.25c-0.9695 0-1.75 0.7805-1.75 1.75s0.7805 1.75 1.75 1.75 1.75-0.7805 1.75-1.75-0.7805-1.75-1.75-1.75z" fill="url(#linearGradient5010)"/>
     <rect x="391.6" y="539.8" width="34" height="1" fill="#665c54"/>
-    <rect x="393.6" y="535.8" width="8" height="1" fill="#504945"/>
-    <rect x="393.6" y="537.8" width="4" height="1" fill="#504945"/>
-    <path transform="translate(376.6,491.8)" d="m42 16v1h2v-1h-1zm2 1v1h-2v3h1v-2h1v2h3v-1h-1v-1h-1v-1h1v-1h-1zm2 0h1v-1h-1zm0 1v1h1v-1z" fill="#504945"/>
+    <rect x="407.1" y="528.7" width="11.42" height="1.427" fill="#504945" stroke-width="1.427" style="isolation:isolate"/>
+    <rect x="407.1" y="531.6" width="11.42" height="1.427" fill="#504945" stroke-width="1.427" style="isolation:isolate"/>
+    <rect x="407.1" y="534.4" width="6.065" height="1.427" fill="#504945" stroke-width="1.04" style="isolation:isolate"/>
+    <text x="395.77844" y="524.2876" fill="#3c3836" font-family="'Segoe UI'" font-size="13.32px" font-weight="bold" letter-spacing="0px" stroke-width=".3568" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="395.77844" y="524.2876" fill="#3c3836" font-family="'Segoe UI'" font-size="13.32px" font-weight="bold" stroke-width=".3568">CPU</tspan></text>
+    <path d="m398.9 528.7v1.427h2.854v-1.427h-1.427zm2.854 1.427v1.427h-2.854v4.281h1.427v-2.854h1.427v2.854h4.281v-1.427h-1.427v-1.427h-1.427v-1.427h1.427v-1.427h-1.427zm2.854 0h1.427v-1.427h-1.427zm0 1.427v1.427h1.427v-1.427z" fill="#504945" stroke-width="1.427" style="isolation:isolate"/>
   </g>
 </svg>
