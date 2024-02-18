@@ -20,12 +20,12 @@
     <filter id="wBb1wNSgSQ0c8DHhwpBs3sPy9gWOL0Dc" x="-.08402" y="-.09018" width="1.168" height="1.18" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="4.294"/>
     </filter>
-    <linearGradient id="b-9-6" x1=".6517" x2=".6517" y1=".5002" y2="1" gradientTransform="matrix(244,0,0,228,6.022,11.07)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="b-9-6" x1=".6517" x2=".6517" y1=".5002" y2=".9999" gradientTransform="matrix(244,0,0,228,6.01,11.07)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fabd2f" offset="0"/>
       <stop stop-color="#b57614" offset="1"/>
     </linearGradient>
   </defs>
-  <g transform="translate(9.09e-6 -.12)" filter="url(#a)" style="isolation:isolate">
+  <g transform="translate(0 -.12)" filter="url(#a)" style="isolation:isolate">
     <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)"/>
   </g>
   <g style="isolation:isolate">
@@ -37,7 +37,7 @@
     <g filter="url(#IFhwPeHn75qMBbGmBdc4frxyS2Ranois)" opacity=".4">
       <path d="m129 45.24c-46.4 0-84.02 37.62-84.02 84.02s37.62 84.02 84.02 84.02 84.02-37.62 84.02-84.02-37.62-84.02-84.02-84.02z"/>
     </g>
-    <linearGradient id="_lgradient_26" x1=".5" x2=".5" y2="1" gradientTransform="matrix(168 0 0 168 45 42.33)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="_lgradient_26" x1=".5" x2=".5" y2="1" gradientTransform="matrix(168,0,0,168,45,42.33)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#d5c4a1" offset="0"/>
       <stop stop-color="#665c54" offset="1"/>
     </linearGradient>
@@ -45,7 +45,7 @@
     <g opacity=".2">
       <path d="m129 199.9c-39.55 0-71.61-32.06-71.61-71.61s32.06-71.61 71.61-71.61 71.61 32.06 71.61 71.61-32.06 71.61-71.61 71.61z"/>
     </g>
-    <linearGradient id="_lgradient_27" x1=".565" x2=".56" y1="1" y2=".018" gradientTransform="matrix(143.2 0 0 143.2 57.41 54.74)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="_lgradient_27" x1=".565" x2=".56" y1="1" y2=".018" gradientTransform="matrix(143.2,0,0,143.2,57.41,54.74)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#a89984" offset="0"/>
       <stop stop-color="#ebdbb2" offset="1"/>
     </linearGradient>
@@ -76,10 +76,10 @@
     <g filter="url(#wBb1wNSgSQ0c8DHhwpBs3sPy9gWOL0Dc)" opacity=".4">
       <path d="m126.3 240.3-0.32-28.79c0-73.99 10.58-85.49 84.64-85.49h38.01"/>
     </g>
-    <path d="m250 125.1-28.95 0.3203c-78.35 0.8665-91.85 4.404-92.94 79.55-0.3323 11.37-0.0757 22.72 0.4277 34.08l0.01 4e-3h36.44c72 0 85-15 85-85z" fill="url(#b-9-6)" style="isolation:isolate"/>
+    <path d="m250 125.1-28.96 0.3203c-78.35 0.8665-91.85 4.404-92.94 79.55-0.3323 11.37-0.0757 22.72 0.4277 34.08 0 0 35.87 4e-3 36.47 4e-3 72 0 85-15 85-85z" fill="url(#b-9-6)" style="isolation:isolate"/>
     <path class="ColorScheme-Text" d="m158 200v10h65v-10zm65-10v-10.83l-32.5-32.5-32.5 32.5v10.83z" color="#ebdbb2" fill="currentColor" stroke-width="5.417"/>
   </g>
-  <g transform="translate(.01106 -.12)" opacity=".4" style="isolation:isolate">
+  <g transform="translate(.004996 -.116)" opacity=".4" style="isolation:isolate">
     <path transform="translate(-.004996 .116)" d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
   </g>
 </svg>

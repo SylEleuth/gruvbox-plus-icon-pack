@@ -20,7 +20,7 @@
     <filter id="wBb1wNSgSQ0c8DHhwpBs3sPy9gWOL0Dc" x="-.08402" y="-.09018" width="1.168" height="1.18" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="4.294"/>
     </filter>
-    <linearGradient id="b-9-6" x1=".6517" x2=".6517" y1=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.983,12)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="b-9-6" x1=".6517" x2=".6517" y1=".5002" y2=".9997" gradientTransform="matrix(244,0,0,228,5.983,12)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#b8bb26" offset="0"/>
       <stop stop-color="#98971a" offset="1"/>
     </linearGradient>
@@ -52,10 +52,10 @@
     <g filter="url(#wBb1wNSgSQ0c8DHhwpBs3sPy9gWOL0Dc)" opacity=".4">
       <path d="m126.3 240.3-0.32-28.79c0-73.99 10.58-85.49 84.64-85.49h38.01"/>
     </g>
-    <path d="m250 126-28.95 0.3203c-78.35 0.8665-91.85 4.404-92.94 79.55-0.3323 11.37-0.0757 22.69 0.4277 34.05l0.01 4e-3 36.44 5e-5c72 8e-5 85.01-14.97 85.01-84.97z" fill="url(#b-9-6)" style="isolation:isolate"/>
+    <path d="m250 126-28.95 0.3203c-78.35 0.8665-91.85 4.404-92.94 79.55-0.3323 11.37-0.0757 22.7 0.4277 34.06h36.46c72 0 85-14.97 85-84.97z" fill="url(#b-9-6)" style="isolation:isolate"/>
     <path class="ColorScheme-Text" d="m176.7 156.8v38.01c-2.01-0.9966-4.306-1.523-6.643-1.523-7.18 0-13 4.849-13 10.83s5.819 10.83 13 10.83 13-4.849 13-10.83v-31.05l28.31-4.723v22.13c-2.01-0.9966-4.306-1.523-6.643-1.523-7.18 0-13 4.849-13 10.83 0 5.984 5.819 10.83 13 10.83s13-4.849 13-10.83v-49.83z" color="#ebdbb2" fill="currentColor" stroke-width="4.333" style="isolation:isolate"/>
   </g>
-  <g transform="translate(9.09e-6 -.12)" opacity=".4" style="isolation:isolate">
+  <g transform="translate(.004996 -.116)" opacity=".4" style="isolation:isolate">
     <path transform="translate(-.004996 .116)" d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
   </g>
 </svg>
