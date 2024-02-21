@@ -1,1 +1,6 @@
-view-filter-rtl.svg
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m5 5v6h2v6h6v2h6v-6h-6v2h-4v-4h2v-2h2v2h6v-6h-6v2h-2v-2zm2 2h2v2h-2zm8 0h2v2h-2z" fill="currentColor"/>
+</svg>
