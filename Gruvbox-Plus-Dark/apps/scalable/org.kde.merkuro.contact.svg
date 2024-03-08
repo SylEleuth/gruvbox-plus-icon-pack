@@ -1,0 +1,21 @@
+<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(0 -.1185)" filter="url(#a)">
+    <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12.12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8ec07c" offset="0"/>
+      <stop stop-color="#689d6a" offset="1"/>
+    </linearGradient>
+    <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)"/>
+  </g>
+  <path d="m157.3 84.03a29.31 29.31 0 0 1-29.31 29.31 29.31 29.31 0 0 1-29.31-29.31 29.31 29.31 0 0 1 29.31-29.31 29.31 29.31 0 0 1 29.31 29.31zm-29.31 43.97c-58.63 0-58.63 36.06-58.63 36.06v14.66s10.85 22.57 58.63 22.57 58.63-22.57 58.63-22.57v-14.66s0-36.06-58.63-36.06z" fill="#ebdbb2" stroke-width="14.66"/>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12.12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d5c4a1" offset="0"/>
+      <stop stop-color="#d5c4a1" stop-opacity=".09804" offset=".1"/>
+      <stop stop-color="#282828" stop-opacity=".1" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".4" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(.0005039 -.1185)" opacity=".5">
+    <path d="m91 12.12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
+  </g>
+</svg>
