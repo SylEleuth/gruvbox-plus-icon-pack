@@ -1,1 +1,6 @@
-format-justify-fill.svg
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m4 3.998v6h6v-6zm8 0.0039v2h6v-2zm0 3.996v2h2.703l1.133-1.133c0.1616-0.1616 0.3276-0.2209 0.4746-0.2266 0.3235-0.0127 0.5684 0.2363 0.5684 0.2363l1.121 1.119v-1.996zm4.262 2.006c-0.08944 0.0035-0.1907 0.04034-0.2891 0.1387l-1.096 1.096 1.885 1.885 1.1-1.096c0.314-0.314-3e-6 -0.627 0-0.627l-1.254-1.254s-0.1489-0.1503-0.3457-0.1426zm-12.26 1.994v2h6.705l1.998-2zm9.936 0.1836-3.934 3.936-2e-3 1.881 1.887 2e-3 3.934-3.936zm-9.936 3.82v2h5v-2z" fill="currentColor"/>
+</svg>
