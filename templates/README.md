@@ -104,7 +104,7 @@ icons in "scalable" folder for examples how to use the background base and color
 Saving
 ------
 
-If You are using Inkscape please save 16 and symbolic icons as "Optimised SVG" with these options:
+If You are using Inkscape please save icons as "Optimised SVG" with these options:
 
 ![Screenshot_20230608_122741](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/ee83e388-bf90-4676-8660-6c6cae86013f)
 ![Screenshot_20230517_162114](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/df3ee07b-0676-4c5f-8db8-46e34507df97)
