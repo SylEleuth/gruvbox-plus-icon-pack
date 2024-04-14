@@ -1,1 +1,6 @@
-../16/mimetype-video.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" fill="currentColor" d="m1 1v14l14-1e-5v-14zm3 1h8v5.483h-8zm-2 1.489 1 1e-5v1l-1-1e-5zm11 0.00388h1v1h-1zm-11 1.996 1 1e-5v1l-1-1e-5zm11 0.00388h1v1h-1zm-11 1.996 1 1e-5v1l-1-1e-5zm11 0.00388h1v1h-1zm-9 0.9901h8v5.517h-8zm-2 1.006 1 1e-5v1l-1-1e-5zm11 0.00388h1v1h-1zm-11 1.996 1 1e-5v1l-1-1e-5zm11 0.0039h1v1h-1zm-11-10 1 1e-5v1l-1-1e-5zm11 0.00387 1 1e-5v1l-1-1e-5zm-11 11.99 1 1e-5v1l-1-1e-5zm11 0.01739h1v1h-1z"/>
+</svg>
