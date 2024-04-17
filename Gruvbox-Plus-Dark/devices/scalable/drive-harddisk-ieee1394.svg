@@ -1,30 +1,23 @@
-<svg width="256" height="256" style="isolation:isolate" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="a-3-9" x="-.04224" y="-.0452" width="1.084" height="1.108" color-interpolation-filters="sRGB">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-      <feOffset dy="4" result="pf_100_offsetBlur"/>
-      <feFlood flood-opacity=".4"/>
-      <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-      <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
-    </filter>
-    <linearGradient id="b-5" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12.12)" gradientUnits="userSpaceOnUse">
+<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(0 -.1185)" filter="url(#a)">
+    <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12.12)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#83a598" offset="0"/>
       <stop stop-color="#458588" offset="1"/>
     </linearGradient>
-    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ebdbb2" offset="0"/>
-      <stop stop-color="#ebdbb2" stop-opacity=".09804" offset=".1"/>
+    <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)"/>
+  </g>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12.12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d5c4a1" offset="0"/>
+      <stop stop-color="#d5c4a1" stop-opacity=".09804" offset=".1"/>
       <stop stop-color="#282828" stop-opacity=".1" offset=".9"/>
       <stop stop-color="#282828" stop-opacity=".4" offset="1"/>
     </linearGradient>
   </defs>
-  <g transform="translate(9.09e-6 -.12)" filter="url(#a-3-9)">
-    <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b-5)"/>
+  <g transform="translate(.0005039 -.1185)" opacity=".5">
+    <path d="m91 12.12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
   </g>
-  <g transform="translate(9.09e-6 -.12)" opacity=".5">
-    <path transform="translate(-.004996 .116)" d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
-  </g>
-  <g fill-rule="evenodd">
+  <g transform="translate(-.01655 -.006036)" fill-rule="evenodd" style="isolation:isolate">
     <path d="m86.32 58.65-25.71 25.71 9.639 9.637 25.71-25.71zm83.37 0.1309-25.71 25.71 25.71 25.71 25.71-25.71zm-67.3 15.93-25.71 25.71 9.639 9.639 25.71-25.71zm27.98 19.67a31.8 31.81 45 0 0-24.76 9.24 31.8 31.81 45 0 0-0.01 44.98 31.8 31.81 45 0 0 44.98-0.0117 31.8 31.81 45 0 0 8e-3 -44.98 31.8 31.81 45 0 0-20.22-9.23zm-2.27 13.54a18.17 18.18 45 0 1 12.85 5.322 18.17 18.18 45 0 1-2e-3 25.71 18.17 18.18 45 0 1-25.71 2e-3 18.17 18.18 45 0 1 4e-3 -25.71 18.17 18.18 45 0 1 12.85-5.326zm-18.19 59.07v13.64h36.38v-13.64zm0 22.73v13.64h36.38v-13.64z" fill="#282828" opacity=".3" stroke-width="5" style="isolation:isolate"/>
     <path d="m150.6 142.6a31.8 31.81 45 0 0 8e-3 -44.98 31.8 31.81 45 0 0-44.98 0.01 31.8 31.81 45 0 0-0.011 44.98 31.8 31.81 45 0 0 44.98-0.01zm-9.631-9.646a18.17 18.18 45 0 1-25.71 3e-3 18.17 18.18 45 0 1 4e-3 -25.71 18.17 18.18 45 0 1 25.71-4e-3 18.17 18.18 45 0 1-3e-3 25.71z" fill="#665c54" stroke-width="5"/>
     <path d="m149.8 141.8a30.8 30.8 0 0 0 1e-3 -43.56 30.8 30.8 0 0 0-43.56-1e-5 30.8 30.8 0 0 0 1e-5 43.56 30.8 30.8 0 0 0 43.56-1e-3zm-8.159-8.187a19.17 19.18 45 0 1-27.12 4e-3 19.17 19.18 45 0 1 3e-3 -27.12 19.17 19.18 45 0 1 27.12-3e-3 19.17 19.18 45 0 1-4e-3 27.12z" fill="#ebdbb1" stroke-width="5"/>
