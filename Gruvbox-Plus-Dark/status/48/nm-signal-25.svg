@@ -3,15 +3,9 @@
   <clipPath id="clipPath5078" clipPathUnits="userSpaceOnUse">
    <path fill="#458588" d="m160 247c-7.9134 0-15.037 2.8117-20.945 7.1718l20.94 22.82 20.78-22.9c-5.88-4.31-12.93-7.09-20.78-7.09z"/>
   </clipPath>
-  <filter id="filter5060" style="color-interpolation-filters:sRGB" width="1.205" height="1.288" x="-.1" y="-.14">
-   <feGaussianBlur stdDeviation="1.443"/>
-  </filter>
   <clipPath id="clipPath5085" clipPathUnits="userSpaceOnUse">
    <path fill="#458588" d="m160 247c-7.9134 0-15.037 2.8117-20.945 7.1718l20.94 22.82 20.78-22.9c-5.88-4.31-12.93-7.09-20.78-7.09z"/>
   </clipPath>
-  <filter id="filter5064" style="color-interpolation-filters:sRGB" width="1.274" height="1.385" x="-.14" y="-.19">
-   <feGaussianBlur stdDeviation="1.443"/>
-  </filter>
  </defs>
  <path style="fill:#665c54" d="m 24.082,9.0022 c -7.9134,0 -15.037,2.8117 -20.945,7.1718 L 24.082,38.994 44.863,16.093 C 38.978,11.781 31.934,9.0024 24.082,9.0024 Z"/>
  <path style="opacity:0.2;filter:url(#filter5060)" d="m 159.9,252.99 c -6.3037,0 -12.154,2.0674 -16.853,5.5589 l 16.941,18.441 16.765,-18.441 c -4.71,-3.49 -10.56,-5.56 -16.86,-5.56 z" clip-path="url(#clipPath5078)" transform="translate(-135.9,-238)"/>
