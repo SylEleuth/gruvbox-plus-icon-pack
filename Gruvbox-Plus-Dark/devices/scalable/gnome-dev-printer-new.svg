@@ -55,9 +55,6 @@
       <stop stop-color="#bdae93" offset="0"/>
       <stop stop-color="#ebdbb2" offset="1"/>
     </linearGradient>
-    <filter id="wBb1wNSgSQ0c8DHhwpBs3sPy9gWOL0Dc-1" x="-.08402" y="-.09018" width="1.168" height="1.18" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="4.294"/>
-    </filter>
     <linearGradient id="b-9-6-6" x1=".6517" x2=".6517" y1=".5002" y2=".9998" gradientTransform="matrix(244,0,0,228,5.983,12)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fabd2f" offset="0"/>
       <stop stop-color="#b57614" offset="1"/>
@@ -78,9 +75,7 @@
     <path d="m192.5 115.9h4.433c0.994 0 1.801 0.807 1.801 1.801s-0.807 1.801-1.801 1.801h-4.433c-0.994 0-1.801-0.807-1.801-1.801s0.807-1.801 1.801-1.801z" fill="#ebdbb2"/>
   </g>
   <g transform="translate(.0001125 .05111)" style="isolation:isolate">
-    <g filter="url(#wBb1wNSgSQ0c8DHhwpBs3sPy9gWOL0Dc-1)" opacity=".4">
-      <path d="m126.3 240.3-0.32-28.79c0-73.99 10.58-85.49 84.64-85.49h38.01"/>
-    </g>
+    <path d="m128.6 240h-2.225l-0.3325-27.54c0-73.99 10.58-85.49 84.64-85.49h38.01" opacity=".4" style="isolation:isolate"/>
     <path d="m250 126-28.93 0.3203c-78.35 0.8665-91.85 4.404-92.94 79.55-0.3323 11.37-0.0757 22.72 0.4277 34.08 0 0 24.3 9e-5 36.45 9e-5 72 0 85-15 85-85z" fill="url(#b-9-6-6)" style="isolation:isolate"/>
     <path transform="translate(-.5966 .8618)" d="m180.9 170.1h-24.02v21.97h24.02v24.02h21.97v-24.02h24.02v-21.97h-24.02v-24.02h-21.97z" fill="#ebdbb2" style="isolation:isolate"/>
   </g>

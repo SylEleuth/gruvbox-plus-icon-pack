@@ -13,8 +13,6 @@
       <stop stop-opacity=".09804" offset=".9"/>
       <stop stop-opacity=".498" offset="1"/>
     </linearGradient>
-    <filter id="wBb1wNSgSQ0c8DHhwpBs3sPy9gWOL0Dc-0" x="-.08402" y="-.09018" width="1.168" height="1.18" color-interpolation-filters="sRGB">
-    </filter>
     <linearGradient id="b-9-6-9" x1=".6517" x2=".6517" y1=".5002" y2=".9997" gradientTransform="matrix(244,0,0,228,5.983,12)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#b8bb26" offset="0"/>
       <stop stop-color="#98971a" offset="1"/>
@@ -32,9 +30,7 @@
     </g>
   </g>
   <g transform="translate(.0005039 .0712)" style="isolation:isolate">
-    <g filter="url(#wBb1wNSgSQ0c8DHhwpBs3sPy9gWOL0Dc-0)" opacity=".4">
-      <path d="m126.3 240.3-0.32-28.79c0-73.99 10.58-85.49 84.64-85.49h38.01"/>
-    </g>
+    <path d="m128.5 239.9h-2.225l-0.3325-27.54c0-73.99 10.58-85.49 84.64-85.49h38.01" opacity=".4" style="isolation:isolate"/>
     <path d="m250 126-28.95 0.3203c-78.35 0.8665-91.85 4.404-92.94 79.55-0.3323 11.37-0.0757 22.7 0.4277 34.06h36.46c72 0 85-14.97 85-84.97z" fill="url(#b-9-6-9)" style="isolation:isolate"/>
     <path class="ColorScheme-Text" d="m176.7 156.8v38.01c-2.01-0.9966-4.306-1.523-6.643-1.523-7.18 0-13 4.849-13 10.83s5.819 10.83 13 10.83 13-4.849 13-10.83v-31.05l28.31-4.723v22.13c-2.01-0.9966-4.306-1.523-6.643-1.523-7.18 0-13 4.849-13 10.83 0 5.984 5.819 10.83 13 10.83s13-4.849 13-10.83v-49.83z" color="#ebdbb2" fill="currentColor" stroke-width="4.333" style="isolation:isolate"/>
   </g>

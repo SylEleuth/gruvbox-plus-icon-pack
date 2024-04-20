@@ -14,11 +14,6 @@
   <g transform="translate(.005 -.16)" filter="url(#a)" style="isolation:isolate">
     <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)"/>
   </g>
-  <defs>
-    <filter id="QHfzoLBCkXpgUOGOMIoTsNCw9K0CqagE" x="-.05812" y="-.05812" width="1.116" height="1.116" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="4.294"/>
-    </filter>
-  </defs>
   <g filter="url(#QHfzoLBCkXpgUOGOMIoTsNCw9K0CqagE)" opacity=".4">
     <circle cx="131.2" cy="129.6" r="88.66" fill="#282828" vector-effect="non-scaling-stroke"/>
   </g>

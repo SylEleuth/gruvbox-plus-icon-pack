@@ -17,9 +17,6 @@
       <stop stop-color="#3c3836" offset="0"/>
       <stop stop-color="#504945" offset="1"/>
     </linearGradient>
-    <filter id="GpxTNZbA3P94JNG0hQSUHPltomTsJGyl" x="-.1105" y="-.0737" width="1.221" height="1.147" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="4.294"/>
-    </filter>
     <linearGradient id="_lgradient_37" x1="-10.85" x2="-10.85" y1="1" gradientTransform="matrix(93.22,0,0,139.8,81.39,60.68)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#282828" offset="0"/>
       <stop stop-color="#665c54" offset="1"/>

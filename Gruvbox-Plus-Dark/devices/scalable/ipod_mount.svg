@@ -1,4 +1,4 @@
-<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <g transform="translate(0 -.1185)" filter="url(#a)">
     <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12.12)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#83a598" offset="0"/>
@@ -22,9 +22,7 @@
     </g>
   </g>
   <g transform="translate(.2006 .9413)" style="isolation:isolate">
-    <g filter="url(#wBb1wNSgSQ0c8DHhwpBs3sPy9gWOL0Dc-6)" opacity=".4">
-      <path d="m126.3 240.3-0.32-28.79c0-73.99 10.58-85.49 84.64-85.49h38.01"/>
-    </g>
+    <path d="m128.3 239.1h-2.225l-0.3325-27.54c0-73.99 10.58-85.49 84.64-85.49h38.01" opacity=".4" style="isolation:isolate"/>
     <path d="m249.8 125.1-28.95 0.3203c-78.35 0.8665-91.85 4.404-92.94 79.55-0.3323 11.37-0.0757 22.73 0.4277 34.09l36.47-4e-3c72-8e-3 84.99-15 85-85z" fill="url(#b-9-6)" style="isolation:isolate"/>
     <path class="ColorScheme-Text" d="m223 162.4v-10h-65v10zm-65 10v10.83l32.5 32.5 32.5-32.5v-10.83z" color="#ebdbb2" fill="currentColor" stroke-width="5.417"/>
   </g>
@@ -39,9 +37,6 @@
       <stop stop-color="#3c3836" offset="0"/>
       <stop stop-color="#504945" offset="1"/>
     </linearGradient>
-    <filter id="27t8KmzsYZflADo3lR8xQiQgmDSzxi7N" x="-.09043" y="-.07105" width="1.181" height="1.142" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="4.294"/>
-    </filter>
     <linearGradient id="_lgradient_60" x2="0" y2="1" gradientTransform="matrix(-114,0,0,145,185,53.5)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#665c54" offset="0"/>
       <stop stop-color="#3c3836" offset="1"/>
@@ -54,9 +49,6 @@
       <stop stop-color="#665c54" offset="0"/>
       <stop stop-color="#3c3836" offset="1"/>
     </linearGradient>
-    <filter id="wBb1wNSgSQ0c8DHhwpBs3sPy9gWOL0Dc-6" x="-.08402" y="-.09018" width="1.168" height="1.18" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="4.294"/>
-    </filter>
     <linearGradient id="b-9-6" x1=".6517" x2=".6517" y1=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.79,11.04)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#b57614" offset="0"/>
       <stop stop-color="#fabd2f" offset="1"/>
