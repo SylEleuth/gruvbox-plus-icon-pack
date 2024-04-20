@@ -5,15 +5,6 @@
   </clipPath>
  </defs>
  <g clip-path="url(#_clipPath_Bbh0feSwUwVjVQw0SYDxCsIbb352U4oV)">
-  <defs>
-   <filter id="mIdqqQQ8jSCIhbVNvKaxYBI4hbWbYBFj" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-   </filter>
-  </defs>
   <g filter="url(#mIdqqQQ8jSCIhbVNvKaxYBI4hbWbYBFj)">
    <linearGradient id="_lgradient_90" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
     <stop offset="0%" style="stop-color:#427b58"/>
@@ -51,11 +42,6 @@
      <path d="M 128.155776 144.146619 C 127.453432 144.169475 126.76456 144.329633 126.135417 144.616337 L 103.148191 155.1379 C 101.478167 155.901131 100.422786 157.46284 100.422305 159.171555 L 100.422305 166.686962 C 100.422018 168.305548 101.36931 169.800138 102.904463 170.60319 L 125.891689 182.627835 C 127.405965 183.419754 129.264767 183.419754 130.779043 182.627835 L 153.766269 170.60319 C 155.301422 169.800138 156.248713 168.305548 156.248426 166.686962 L 156.248426 159.171555 C 156.247945 157.46284 155.192564 155.901131 153.52254 155.1379 L 130.535314 144.616337 C 129.797545 144.280012 128.97939 144.118509 128.155776 144.146619 Z"/>
     </g>
    </g>
-   <defs>
-    <filter id="GRIwLl8OOVJPsP8f47xJaEnmCJSaNzic" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-    </filter>
-   </defs>
    <line stroke="#3c3836" stroke-width="3" x1="52.97" x2="83.674" y1="91.109" y2="105.065" vector-effect="non-scaling-stroke"/>
    <line stroke="#3c3836" stroke-width="3" x1="203.701" x2="172.996" y1="91.109" y2="105.065" vector-effect="non-scaling-stroke"/>
    <path d="M 186.456724 105.932948 L 178.977419 92.978413 C 177.946011 91.191962 175.658269 90.578964 173.871819 91.610371 L 160.917283 99.089676 C 159.130833 100.121083 158.517834 102.408826 159.549242 104.195276 L 167.028546 117.149811 C 168.059954 118.936262 170.347696 119.54926 172.134147 118.517853 L 185.088682 111.038548 C 186.875132 110.007141 187.488131 107.719398 186.456724 105.932948 Z" style="fill:#fabd2f"/>

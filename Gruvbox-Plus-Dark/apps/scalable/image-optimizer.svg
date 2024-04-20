@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="t6t0EhtxLuC9B0ySvsRZojS5OajTZqd5" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#t6t0EhtxLuC9B0ySvsRZojS5OajTZqd5)">
   <path fill="#ebdbb2" d="M 165.709 11.9 C 239.765 11.9 250.348 22.457 250.348 96.444 L 250.348 155.695 C 250.348 229.681 239.765 240.238 165.709 240.238 L 90.339 240.238 C 16.284 240.238 5.7 229.681 5.7 155.695 L 5.7 96.444 C 5.7 22.457 16.284 11.9 90.339 11.9 L 165.709 11.9 Z"/>
  </g>
@@ -33,11 +24,6 @@
  </linearGradient>
  <path fill="url(#_lgradient_30)" fill-rule="evenodd" d="M 151.778 126.828 L 207.75 199.517 L 181.917 199.517 L 139.279 143.059 L 151.778 126.828 Z"/>
  <g>
-  <defs>
-   <filter id="JWgHh8wv7tMRHzcabTGW2405mKepoVqg" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#JWgHh8wv7tMRHzcabTGW2405mKepoVqg)">
    <circle cx="182.333" cy="175" r="50" vector-effect="non-scaling-stroke"/>
   </g>

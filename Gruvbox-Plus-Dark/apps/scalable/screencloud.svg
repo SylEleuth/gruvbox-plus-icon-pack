@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="b1GlWX0zkaHvgL5QpMA8NCOadRkxMxbq" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#b1GlWX0zkaHvgL5QpMA8NCOadRkxMxbq)">
   <linearGradient id="_lgradient_68" x1=".187" x2=".19" y1=".005" y2=".999" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.577)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#83a598"/>
@@ -44,11 +35,6 @@
   <g opacity=".2">
    <path fill="#ebdbb2" d="M 116.752 60.625 C 101.833 60.623 87.524 66.417 76.973 76.732 C 66.423 87.046 60.496 101.037 60.496 115.625 C 60.512 115.999 60.531 116.373 60.555 116.747 C 61.455 87.029 86.345 63.39 116.751 63.375 C 131.558 63.394 145.76 69.12 156.276 79.312 C 159.274 78.475 162.377 78.048 165.494 78.044 C 183.647 78.063 198.534 92.118 199.187 109.856 C 199.219 109.335 199.238 108.815 199.245 108.294 C 199.245 99.542 195.689 91.148 189.36 84.959 C 183.03 78.771 174.446 75.294 165.494 75.294 C 162.377 75.298 159.274 75.725 156.276 76.562 C 145.76 66.37 131.558 60.644 116.751 60.625 L 116.752 60.625 Z M 193.397 129.51 C 192.916 130.22 192.408 130.912 191.873 131.583 C 202.815 136 210.499 146.612 210.499 159.083 L 210.499 156.333 C 210.499 144.453 203.519 134.267 193.397 129.51 Z M 61.796 129.922 C 52.118 134.834 45.501 144.775 45.501 156.333 L 45.501 159.083 C 45.501 147.291 52.381 137.168 62.382 132.367 C 62.168 131.557 61.972 130.741 61.796 129.922 L 61.796 129.922 Z"/>
   </g>
-  <defs>
-   <filter id="dJ85Ty0bGsG1iSOyHApQtoSa3x3HTZDi" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#dJ85Ty0bGsG1iSOyHApQtoSa3x3HTZDi)">
    <path d="M 199.188 109.856 C 198.847 116.775 196.288 123.414 191.873 128.832 C 192.39 129.041 192.895 129.272 193.398 129.508 C 197.189 124.062 199.226 117.631 199.247 111.043 C 199.235 110.647 199.215 110.251 199.188 109.856 L 199.188 109.856 Z M 60.556 116.747 C 60.528 117.289 60.509 117.832 60.497 118.375 C 60.512 122.258 60.948 126.129 61.797 129.922 C 61.994 129.822 62.183 129.712 62.382 129.616 C 61.256 125.412 60.643 121.092 60.556 116.746 L 60.556 116.747 Z M 45.501 162.917 L 45.501 165.666 C 45.501 182.122 58.869 195.375 75.47 195.375 L 180.531 195.375 C 197.13 195.375 210.5 182.122 210.5 165.666 L 210.5 162.917 C 210.5 179.372 197.13 192.625 180.531 192.625 L 75.47 192.625 C 58.869 192.625 45.501 179.372 45.501 162.917 Z"/>
   </g>

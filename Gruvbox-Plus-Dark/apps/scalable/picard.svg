@@ -1,11 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256">
     <defs>
-        <filter id="b" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="c" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
         <linearGradient id="d" x1="44.099" x2="272.489" y1="251.822" y2="44.86" gradientTransform="matrix(1.01937 0 0 1.01937 -26.944 -32.905)" gradientUnits="userSpaceOnUse" xlink:href="#a">
             <stop offset="0" stop-color="#b16286"/>
             <stop offset="1" stop-color="#b16286"/>
@@ -36,9 +30,6 @@
             <stop offset="0" stop-color="#b16286" stop-opacity=".03"/>
             <stop offset="1" stop-color="#b16286"/>
         </linearGradient>
-        <filter id="e" width="1.027" height="1.021" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".658"/>
-        </filter>
     </defs>
     <path d="M90.314 11.947c-74.055 0-84.638 10.557-84.638 84.543v59.252c0 73.987 10.583 84.543 84.638 84.543h75.372c74.055 0 84.638-10.556 84.638-84.543V96.49c0-73.986-10.583-84.543-84.638-84.543zm36.82 13.864a14.285 14.693 0 0 1 14.286 14.693 14.285 14.693 0 0 1-14.285 14.693 14.285 14.693 0 0 1-14.285-14.693 14.285 14.693 0 0 1 14.285-14.693z" opacity=".1" filter="url(#b)"/>
     <path d="M90.314 13.986c-74.055 0-84.638 10.557-84.638 84.543v59.252c0 73.987 10.583 84.543 84.638 84.543h75.372c74.055 0 84.638-10.556 84.638-84.543V98.53c0-73.986-10.583-84.543-84.638-84.543zm37.127 12.846A14.999 14.489 0 0 1 142.44 41.32a14.999 14.489 0 0 1-14.998 14.489 14.999 14.489 0 0 1-15-14.489 14.999 14.489 0 0 1 15-14.488z" opacity=".2" filter="url(#c)"/>

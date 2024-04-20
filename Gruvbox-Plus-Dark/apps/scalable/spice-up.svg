@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="eXeIHjF2zYgjhzB2lq1zdbb2yao9UKvY" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#eXeIHjF2zYgjhzB2lq1zdbb2yao9UKvY)">
   <linearGradient id="_lgradient_186" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#427b58"/>
@@ -28,11 +19,6 @@
    </linearGradient>
   </defs>
   <path d="M 66.692308 194.641026 L 189.307692 194.641026 C 192.619182 194.641026 195.307692 191.952516 195.307692 188.641026 L 195.307692 92.948718 C 195.307692 89.637228 192.619182 86.948718 189.307692 86.948718 L 66.692308 86.948718 C 63.380818 86.948718 60.692308 89.637228 60.692308 92.948718 L 60.692308 188.641026 C 60.692308 191.952516 63.380818 194.641026 66.692308 194.641026 Z" style="fill:url(#_lgradient_187)"/>
-  <defs>
-   <filter id="6uxokEW1Duj9j67yjO3bS1xfsv24r7Fl" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#6uxokEW1Duj9j67yjO3bS1xfsv24r7Fl)">
    <path d="M 100.949851 106 L 100.949851 183 C 100.949851 183 140.003262 167.215489 171.915022 144.474965 C 171.915022 144.468031 171.911179 144.463412 171.907324 144.454168 C 171.902705 144.444924 171.89885 144.436451 171.892692 144.428747 C 171.885758 144.418739 171.880363 144.411805 171.87652 144.403331 C 171.871889 144.395627 171.86881 144.387159 171.86881 144.378685 C 138.20784 120.914129 100.949851 106 100.949851 106 Z"/>
   </g>

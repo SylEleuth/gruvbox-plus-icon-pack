@@ -12,19 +12,10 @@
             <stop offset="0" stop-color="#282828"/>
             <stop offset="1" stop-color="#282828"/>
         </linearGradient>
-        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="a" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="g" x1="177.557" x2="125.299" y1="39.612" y2="185.713" gradientTransform="scale(.22049) rotate(70 -586.383 674.724)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#fabd2f"/>
             <stop offset="1" stop-color="#fabd2f"/>
         </linearGradient>
-        <filter id="f" x="-.05" y="-.05" width="1.093" height="1.099" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.023"/>
-        </filter>
         <linearGradient id="h" x1="60" x2="195" y1="46" y2="96" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#458588"/>
             <stop offset="1" stop-color="#458588"/>

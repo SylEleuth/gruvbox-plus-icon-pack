@@ -9,12 +9,6 @@
         <clipPath id="c">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="b" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="a" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
     </defs>
     <path d="M165.234 20.404c72.648 0 83.03 10.356 83.03 82.937v58.125c0 72.58-10.382 82.938-83.03 82.938H91.296c-72.649 0-83.031-10.357-83.031-82.938v-58.125c0-72.58 10.382-82.937 83.031-82.937z" opacity=".2" filter="url(#a)" transform="translate(-2.697 -1.972)"/>
     <path d="M165.234 19.404c72.648 0 83.03 10.356 83.03 82.937v58.125c0 72.58-10.382 82.938-83.03 82.938H91.296c-72.649 0-83.031-10.357-83.031-82.938v-58.125c0-72.58 10.382-82.937 83.031-82.937z" opacity=".1" filter="url(#b)" transform="translate(-2.697 -1.972)"/>

@@ -18,12 +18,6 @@
             <stop offset=".529" stop-color="#b16286"/>
             <stop offset="1" stop-color="#b16286"/>
         </linearGradient>
-        <filter id="c" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <radialGradient id="i" cx="41.095" cy="272.137" r="13.175" gradientTransform="matrix(-.30644 -.76788 .61418 -.24543 -110.963 371.591)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#458588" stop-opacity="0"/>
@@ -36,9 +30,6 @@
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#458588"/>
         </radialGradient>
-        <filter id="g" x="-.06" y="-.06" width="1.122" height="1.118" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.096"/>
-        </filter>
         <linearGradient id="n" x1="127.64" x2="127.299" y1="159.873" y2="140.365" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>

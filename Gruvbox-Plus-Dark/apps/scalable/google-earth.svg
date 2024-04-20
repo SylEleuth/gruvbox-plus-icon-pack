@@ -16,9 +16,6 @@
             <stop offset="0" stop-color="#458588"/>
             <stop offset="1" stop-color="#458588"/>
         </linearGradient>
-        <filter id="a" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
     </defs>
     <path transform="matrix(.2697 0 0 .2697 -7.129 -8.706)" d="M188.969 46C261.617 46 272 56.357 272 128.938v58.125c0 72.58-10.383 82.937-83.031 82.937H115.03C42.383 270 32 259.643 32 187.062v-58.125C32 56.358 42.383 46 115.031 46z" filter="url(#a)" opacity=".2"/>
     <path d="M43.837 232.428c19.594 0 22.395 2.793 22.395 22.369v15.676c0 19.576-2.8 22.37-22.395 22.37H23.896c-19.594 0-22.394-2.794-22.394-22.37v-15.676c0-19.576 2.8-22.37 22.394-22.37z" fill="url(#b)" transform="translate(0 -229.267)"/>

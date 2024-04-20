@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="CFwUof8oeXrJzBhCsvnDtP9BrIbeFUiM" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#CFwUof8oeXrJzBhCsvnDtP9BrIbeFUiM)">
   <linearGradient id="_lgradient_9" x1=".567" x2=".567" y1="1.071" y2="-.742" gradientTransform="matrix(244.648,0,0,228.338,5.619,11.952)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#3c3836"/>
@@ -36,16 +27,6 @@
   <g opacity=".2">
    <path d="M 127.667 99.081 C 144.525 99.081 158.192 112.747 158.192 129.606 C 158.192 146.465 144.525 160.132 127.667 160.132 C 110.808 160.132 97.141 146.465 97.141 129.606 C 97.141 112.747 110.808 99.081 127.667 99.081 Z"/>
   </g>
-  <defs>
-   <filter id="v0Lnt9e0cJRQNwUPU9iLx4zbbfKcbRLo" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" in="SourceGraphic"/>
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" result="pf_100_offsetBlur" stdDeviation="0"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_offsetBlur" operator="out" result="pf_100_inverse"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".2" result="pf_100_color"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in="pf_100_color" in2="pf_100_inverse" operator="in" result="pf_100_shadow"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in="pf_100_shadow" in2="SourceGraphic" operator="over"/>
-   </filter>
-  </defs>
   <g filter="url(#v0Lnt9e0cJRQNwUPU9iLx4zbbfKcbRLo)">
    <path fill="#3c3836" d="M 127.67 96.537 C 144.529 96.537 158.196 110.204 158.196 127.063 C 158.196 143.922 144.529 157.589 127.67 157.589 C 110.811 157.589 97.144 143.922 97.144 127.063 C 97.144 110.204 110.811 96.537 127.67 96.537 Z"/>
   </g>

@@ -6,15 +6,6 @@
   </linearGradient>
   <path fill="url(#b)" d="M165.689 11.95c74.056 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.583 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.494c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <g filter="url(#c)">
   <path fill="#fb4934" d="M137.974 89.198c-6.793 6.71-19.335 10.845-32.912 10.853a65.115 65.115 0 0 1-10.496-.861c-14.324 10.42-22.784 26.901-22.809 44.429 0 30.567 25.181 55.346 56.243 55.346s56.243-24.779 56.243-55.346c-.024-26.763-19.504-49.675-46.269-54.421z"/>
   <path fill="#fb4934" d="M83.445 90.607c.763.26 1.537.506 2.321.737 1.4.389 2.828.732 4.28 1.027 1.452.295 2.926.543 4.416.741 4.069.541 8.178.716 12.278.521 1.512-.07 3.02-.19 4.524-.36a66.146 66.146 0 0 0 8.769-1.6c1.4-.356 2.787-.764 4.158-1.222a54.963 54.963 0 0 0 3.952-1.49 50.3 50.3 0 0 0 3.706-1.742 45.34 45.34 0 0 0 3.424-1.976 39.98 39.98 0 0 0 3.104-2.19c.979-.763 1.9-1.559 2.758-2.383.76-.736 1.482-1.51 2.163-2.32-2.973-13.958-15.448-23.957-29.908-23.975-8.116 0-15.899 3.18-21.638 8.84-5.738 5.66-8.962 13.337-8.962 21.341.011 2.034.231 4.061.655 6.051z"/>
@@ -51,15 +42,6 @@
   <path fill="#ebdbb2" opacity=".3" d="M129.122 79.523a.312.312 0 1 1 .559.144.308.308 0 0 1-.206.118.312.312 0 0 1-.353-.262zm-.626.793a.103.103 0 0 1 .089-.116.104.104 0 0 1 .117.087.104.104 0 0 1-.206.029z"/>
   <ellipse fill="#ebdbb2" opacity=".2" cx="130.368" cy="78.556" rx="1.249" ry="1.232" vector-effect="non-scaling-stroke"/>
  </g>
- <defs>
-  <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <g opacity=".4">
   <linearGradient id="f" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" stop-color="#ebdbb2"/>

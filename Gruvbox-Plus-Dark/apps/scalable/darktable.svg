@@ -1,11 +1,5 @@
 <svg id="svg54" width="256" height="256" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
  <defs id="defs20">
-  <filter id="a" x="-.0232" y="-.024857" width="1.0464" height="1.0497" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur2" stdDeviation="2.32"/>
-  </filter>
-  <filter id="b" x="-.0116" y="-.012429" width="1.0232" height="1.0249" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur5" stdDeviation="1.16"/>
-  </filter>
   <linearGradient id="d" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
    <stop id="stop8" stop-color="#ebdbb2" offset="0"/>
    <stop id="stop10" stop-color="#ebdbb2" stop-opacity=".098" offset=".125"/>

@@ -9,30 +9,6 @@
         <clipPath id="c">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="b" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="a" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="e" width="1.24" height="1.96" x="-.12" y="-.48" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".444"/>
-        </filter>
-        <filter id="f" width="1.24" height="1.96" x="-.12" y="-.48" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".444"/>
-        </filter>
-        <filter id="g" width="1.24" height="1.96" x="-.12" y="-.48" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".444"/>
-        </filter>
-        <filter id="h" width="1.24" height="1.24" x="-.12" y="-.12" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".444"/>
-        </filter>
-        <filter id="i" width="1.24" height="1.24" x="-.12" y="-.12" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".444"/>
-        </filter>
-        <filter id="j" width="1.091" height="1.101" x="-.05" y="-.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".845"/>
-        </filter>
     </defs>
     <path d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V88.506c0-72.581 10.383-82.938 83.031-82.938z" transform="matrix(.2646 0 0 .2646 -.203 3.683)" opacity=".2" filter="url(#a)"/>
     <path d="M162.537 3.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V86.506c0-72.581 10.383-82.938 83.031-82.938z" transform="matrix(.2646 0 0 .2646 -.203 3.683)" opacity=".1" filter="url(#b)"/>

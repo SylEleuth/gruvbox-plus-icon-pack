@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="3oYMbPMjeoQRawR0xBDVDI1q8TVMQU9L" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#3oYMbPMjeoQRawR0xBDVDI1q8TVMQU9L)">
   <linearGradient id="_lgradient_9" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.676,11.952)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#504945"/>
@@ -37,11 +28,6 @@
   <g opacity=".4">
    <path d="M 220.946 99.4 L 233.054 99.4 C 235.784 99.4 238 101.616 238 104.346 L 238 116.454 C 238 119.184 235.784 121.4 233.054 121.4 L 220.946 121.4 C 218.216 121.4 216 119.184 216 116.454 L 216 104.346 C 216 101.616 218.216 99.4 220.946 99.4 Z"/>
   </g>
-  <defs>
-   <filter id="EOWoSxCHr3ZQ1Sp1IZhj1Z2iaik6pIzC" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#EOWoSxCHr3ZQ1Sp1IZhj1Z2iaik6pIzC)">
    <path d="M 92.002 86.201 C 88.75 86.139 88.19 90.184 88.459 93.104 C 88.483 120.43 88.417 147.761 88.489 175.087 C 88.775 178.354 92.404 179.659 94.467 177.633 C 116.518 163.643 148.594 149.748 170.612 135.697 C 173.014 133.763 172.094 129.259 169.413 128.323 C 147.361 114.388 115.368 100.377 93.298 86.489 C 92.886 86.299 92.443 86.201 91.999 86.201 L 92.002 86.201 Z"/>
   </g>

@@ -54,28 +54,6 @@
          fill="#b16286"
          id="path2" />
     </clipPath>
-    <filter
-       id="b"
-       width="1.023"
-       height="1.025"
-       x="-.01"
-       y="-.01"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.16"
-         id="feGaussianBlur5" />
-    </filter>
-    <filter
-       id="a"
-       width="1.046"
-       height="1.05"
-       x="-.02"
-       y="-.03"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="2.32"
-         id="feGaussianBlur8" />
-    </filter>
     <linearGradient
        id="d"
        x1="296"

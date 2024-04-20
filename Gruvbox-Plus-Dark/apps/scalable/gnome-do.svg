@@ -10,9 +10,6 @@
             <stop offset=".5"/>
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
-        <filter id="g" width="1.048" height="1.048" x="-.02" y="-.02" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.5"/>
-        </filter>
         <clipPath id="f">
             <path d="M152 68c-48.601 0-88 39.399-88 88s39.399 88 88 88 88-39.399 88-88-39.399-88-88-88z" fill="#282828"/>
         </clipPath>
@@ -25,12 +22,6 @@
         <clipPath id="d">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="c" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="b" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
     </defs>
     <g transform="translate(0 -229.267)">
         <path d="M162.537 3.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V86.506c0-72.581 10.383-82.938 83.031-82.938z" transform="matrix(.26458 0 0 .26458 0 232.67)" filter="url(#b)" opacity=".1"/>

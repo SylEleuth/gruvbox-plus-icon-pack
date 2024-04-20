@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="4DmWanjJij89n6eCK14vBwPr7AoUYWke" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#4DmWanjJij89n6eCK14vBwPr7AoUYWke)">
   <linearGradient id="_lgradient_24" x1="0" x2=".001" y1="0" y2="1.301" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.951604)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#8ec07c"/>
@@ -30,19 +21,9 @@
    <stop offset="100%" style="stop-color:#3c3836"/>
   </linearGradient>
   <rect fill="url(#_lgradient_26)" width="17.4" height="139.2" x="119.3" y="56.95" transform="matrix(1,0,0,1,0,0)"/>
-  <defs>
-   <filter id="Fqas2AHMS2kQ1NaQSsLJBe6bHSzEQcgk" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#Fqas2AHMS2kQ1NaQSsLJBe6bHSzEQcgk)">
    <path d="M 210.5 130.4 C 205.223328 137.856672 197.520004 143.686663 187.3 147.8 L 187.3 136.2 L 155.100004 136.2 L 164.1 124.6 L 187.3 124.6 L 187.3 113 C 195.63406 117.574687 203.387398 123.394689 210.5 130.4 Z"/>
   </g>
-  <defs>
-   <filter id="cF5HTu1vcldVIERU4sqUz6aq01VuoTtd" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#cF5HTu1vcldVIERU4sqUz6aq01VuoTtd)">
    <path d="M 45.5 130.4 C 51.433332 137.866661 59.176667 143.676662 68.7 147.8 L 68.7 136.2 L 91.9 136.2 L 100.900002 124.6 L 68.7 124.6 L 68.7 113 C 60.166667 116.666667 52.443333 122.476668 45.5 130.4 Z"/>
   </g>

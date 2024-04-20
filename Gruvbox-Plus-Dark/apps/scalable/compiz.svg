@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="xzPlLhh0EEiJ74rLGNTzMLQdSxc7lEmO" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#xzPlLhh0EEiJ74rLGNTzMLQdSxc7lEmO)">
   <linearGradient id="_lgradient_19" x1="-.109" x2="-.109" y1="1.031" y2=".039" gradientTransform="matrix(244.648309,0,0,228.338396,5.681691,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#8f3f71"/>
@@ -15,15 +6,6 @@
   </linearGradient>
   <path fill="url(#_lgradient_19)" d="M 165.690609 11.95 C 239.746317 11.95 250.33 22.507198 250.33 96.493859 L 250.33 155.744653 C 250.33 229.73091 239.746317 240.288396 165.690609 240.288396 L 90.321084 240.288396 C 16.26538 240.288396 5.681691 229.73091 5.681691 155.744653 L 5.681691 96.493859 C 5.681691 22.507198 16.26538 11.95 90.321084 11.95 L 165.690609 11.95 Z"/>
  </g>
- <defs>
-  <filter id="hiH4XWLoa5ekCDHscgEWazZe9kdJPtq7" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="0"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="4" dy="0" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#hiH4XWLoa5ekCDHscgEWazZe9kdJPtq7)">
   <path fill="#ebdbb2" d="M 132.045838 240.234417 L 149.639631 240.296749 C 157.630686 240.296749 164.720892 240.296749 171.28125 240.25051 L 101.959723 134.201078 L 158.226901 134.201078 L 56.03125 53.316258 L 56.03125 183.532899 L 90.207396 140.771485 L 132.045838 240.234417 Z"/>
  </g>

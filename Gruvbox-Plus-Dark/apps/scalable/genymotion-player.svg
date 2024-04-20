@@ -13,15 +13,6 @@
         <clipPath id="f">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="c" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="b" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="e" width="1.075" height="1.134" x="-.04" y="-.07" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".743"/>
-        </filter>
         <linearGradient id="d" x1="60.995" x2="19.066" y1="289.635" y2="242.664" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
     </defs>
     <path d="M188.969 44C261.617 44 272 54.357 272 126.938v58.124C272 257.644 261.617 268 188.969 268H115.03C42.383 268 32 257.643 32 185.062v-58.125C32 54.358 42.383 44 115.031 44z" transform="matrix(.2697 0 0 .2697 -7.129 -8.706)" opacity=".1" filter="url(#b)"/>

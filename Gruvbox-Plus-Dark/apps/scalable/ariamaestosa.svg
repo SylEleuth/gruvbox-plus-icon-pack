@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#928374" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
  <path opacity=".1" d="M102.759 11.85l-3.548 44.308h7.057l-3.082 64.52h-2.482v4.964h2.482l8.249 59.556h-6.264c0 15.699 7.956 40.281 11.336 54.952h18.755c1.42-.154 2.854-.263 4.254-.462 3.315-14.462 10.819-38.99 10.819-54.49h-5.767l8.249-59.556h2.481v-4.964h-2.481l-3.082-64.52h7.057l-3.548-44.308h-50.485zm8.462 44.308h7.981l-1.147 64.52h-9.926l3.092-64.52zm12.944 0h7.673l1.126 64.52h-9.926l1.127-64.52zm12.626 0h7.981l3.062 64.52h-9.926l-1.117-64.52zm-28.642 69.484h9.926l2.745 59.556h-4.422l-8.249-59.556zm14.879 0h9.936l-3.201 59.556h-3.98l-2.755-59.556zm14.89 0h9.926l-8.239 59.556h-4.884l3.197-59.556zm-25.793 69.483h4.963v.948a3.723 3.723 0 1 1-4.963 0v-.948zm8.928 0h4.963v.938c.79.71 1.24 1.722 1.241 2.784a3.723 3.723 0 0 1-7.445 0c0-1.057.457-2.06 1.241-2.765v-.957zm8.442 0h4.963v.948a3.723 3.723 0 1 1-4.963 0v-.948zm9.41 0h4.963v.938c.79.71 1.24 1.722 1.241 2.784a3.723 3.723 0 0 1-7.444 0c0-1.057.456-2.06 1.24-2.765v-.957z"/>
  <path fill="#bdae93" d="M108.15 185.2h39.705v4.963H108.15V185.2z"/>

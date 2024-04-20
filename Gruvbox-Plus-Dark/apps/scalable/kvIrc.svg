@@ -25,35 +25,6 @@
   </metadata>
   <defs
      id="defs13">
-    <filter
-       id="a"
-       width="400%"
-       height="400%"
-       x="-200%"
-       y="-200%"
-       color-interpolation-filters="sRGB"
-       filterUnits="objectBoundingBox">
-      <feGaussianBlur
-         in="SourceGraphic"
-         stdDeviation="4.294"
-         id="feGaussianBlur2" />
-      <feOffset
-         dy="4"
-         result="pf_100_offsetBlur"
-         id="feOffset4" />
-      <feFlood
-         flood-opacity=".4"
-         id="feFlood6" />
-      <feComposite
-         in2="pf_100_offsetBlur"
-         operator="in"
-         result="pf_100_dropShadow"
-         id="feComposite8" />
-      <feBlend
-         in="SourceGraphic"
-         in2="pf_100_dropShadow"
-         id="feBlend10" />
-    </filter>
     <radialGradient
        cx="278.40094"
        cy="382.30725"

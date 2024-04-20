@@ -6,15 +6,6 @@
   </linearGradient>
   <path id="path7" d="m165.69 11.95c74.056 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.583 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543v-59.251c0-73.987 10.584-84.544 84.639-84.544h75.37z" fill="url(#_lgradient_159)"/>
  </g>
- <defs id="defs22">
-  <filter id="CsWpQJzC6vGFybF6HatLlsSEwM9E7ufO" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur11" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset id="feOffset13" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood id="feFlood15" flood-opacity=".4"/>
-   <feComposite id="feComposite17" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend id="feBlend19" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <g id="g50" filter="url(#ZDGUn6rzdX5EFNbaSOcseYvGXuRZYggi)">
   <path id="path24" d="m106 167.25q2 3.125-0.5 4c-9-1.437-5.615-15.927 6.375-10.875 10.375 3 7.75 25.75-3.875 26.5-21.75 5.938-36.062-29.687-32.125-54.812l-6.437 1.312c-0.5 4.875-0.143 11.844 0.187 15.125 2.75 26.875 18.375 46 39.875 43.375 19.125-4.25 18.037-30.879 4.375-36.25-9.61-3.465-18 1.375-18.875 9.5-0.375 6.75 5.957 11.883 10.5 10.875 6.75-0.5 6.75-8.5 0.5-8.75z" fill="#b8bb26"/>
   <path id="path26" d="m196 67c11.375 10.5 2.75 31.625-21.125 39.75-26.301-10.675-0.666-53.04 21.125-39.75z" fill="#fbf1c7"/>
@@ -30,15 +21,6 @@
   <path id="path46" d="m153.75 104.75c-23.625 0-27.75-40.875-8.875-46.625q20.25-2.625 22.5 23 0.375 23.25-13.625 23.625z" fill="#fbf1c7"/>
   <ellipse id="ellipse48" cx="145.06" cy="84.313" rx="5.188" ry="5.688" fill="#282828" vector-effect="non-scaling-stroke"/>
  </g>
- <defs id="defs63">
-  <filter id="ZDGUn6rzdX5EFNbaSOcseYvGXuRZYggi" x="-.060315" y="-.076773" width="1.1206" height="1.1833" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur52" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset id="feOffset54" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood id="feFlood56" flood-opacity=".4"/>
-   <feComposite id="feComposite58" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend id="feBlend60" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <g id="g76" opacity=".4">
   <linearGradient id="_lgradient_160" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop id="stop65" stop-color="#ebdbb2" offset="0"/>

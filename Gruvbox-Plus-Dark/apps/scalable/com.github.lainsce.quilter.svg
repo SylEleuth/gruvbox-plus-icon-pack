@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="1Phjw0SISmZprFR6LWDAX7BVRQGTzz1f" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#1Phjw0SISmZprFR6LWDAX7BVRQGTzz1f)">
   <linearGradient id="_lgradient_128" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#b16286"/>
@@ -16,11 +7,6 @@
   <path fill="url(#_lgradient_128)" d="M 165.688919 11.95 C 239.744626 11.95 250.328309 22.507198 250.328309 96.493859 L 250.328309 155.744653 C 250.328309 229.73091 239.744626 240.288396 165.688919 240.288396 L 90.319393 240.288396 C 16.26369 240.288396 5.68 229.73091 5.68 155.744653 L 5.68 96.493859 C 5.68 22.507198 16.26369 11.95 90.319393 11.95 L 165.688919 11.95 Z"/>
  </g>
  <g>
-  <defs>
-   <filter id="jz3IjSXr1k907tLms9va3b9slKeIV0dg" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#jz3IjSXr1k907tLms9va3b9slKeIV0dg)">
    <path d="M 72.035088 186.780702 L 72.035088 191.868421 C 72.035088 196.096316 75.438772 199.5 79.666667 199.5 L 176.333333 199.5 C 180.561228 199.5 183.964912 196.096316 183.964912 191.868421 L 183.964912 186.780702 C 183.964912 191.008596 180.561228 194.412281 176.333333 194.412281 L 79.666667 194.412281 C 75.438772 194.412281 72.035088 191.008596 72.035088 186.780702 Z"/>
   </g>

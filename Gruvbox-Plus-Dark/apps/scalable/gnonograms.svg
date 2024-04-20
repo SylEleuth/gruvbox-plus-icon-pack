@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="Bn6g4XkRyXPXo0YFvo7UZ3DR6okKnMW5" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#Bn6g4XkRyXPXo0YFvo7UZ3DR6okKnMW5)">
   <linearGradient id="_lgradient_35" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.7,11.9)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#458588"/>
@@ -15,15 +6,6 @@
   </linearGradient>
   <path fill="url(#_lgradient_35)" d="M 165.709 11.9 C 239.765 11.9 250.348 22.457 250.348 96.444 L 250.348 155.695 C 250.348 229.681 239.765 240.238 165.709 240.238 L 90.339 240.238 C 16.284 240.238 5.7 229.681 5.7 155.695 L 5.7 96.444 C 5.7 22.457 16.284 11.9 90.339 11.9 L 165.709 11.9 Z"/>
  </g>
- <defs>
-  <filter id="GDSIKdNpyZDwieMjgDmwcl508TemMe8M" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="0" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#GDSIKdNpyZDwieMjgDmwcl508TemMe8M)">
   <path fill="#ebdbb2" d="M 159.423 30.8 C 221.175 30.8 230 39.603 230 101.297 L 230 150.703 C 230 212.397 221.175 221.2 159.423 221.2 L 96.577 221.2 C 34.825 221.2 26 212.397 26 150.703 L 26 101.297 C 26 39.603 34.825 30.8 96.577 30.8 L 159.423 30.8 Z"/>
  </g>

@@ -5,15 +5,6 @@
   </clipPath>
  </defs>
  <g clip-path="url(#_clipPath_8CP7tTOJlTUfV0NmRCg8CMB86CiS1Rpa)">
-  <defs>
-   <filter id="GrgenmiQearnyirFRQVBQFTJpNImYM2I" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-   </filter>
-  </defs>
   <g filter="url(#GrgenmiQearnyirFRQVBQFTJpNImYM2I)">
    <linearGradient id="_lgradient_194" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
     <stop offset="0%" style="stop-color:#504945"/>
@@ -35,11 +26,6 @@
     <path d="M 128 39.334 L 139.922 39.334 L 193.569 39.334 L 211.451 39.334 C 221.358 39.334 229.333 47.243 229.333 57.068 L 229.333 198.934 C 229.333 208.759 221.358 216.668 211.451 216.668 L 193.569 216.668 L 139.922 216.668 L 128 216.668 L 116.078 216.668 L 62.431 216.668 L 44.549 216.668 C 34.642 216.668 26.667 208.759 26.667 198.934 L 26.667 57.068 C 26.667 47.243 34.642 39.334 44.549 39.334 L 62.431 39.334 L 116.078 39.334 L 128 39.334 Z"/>
    </g>
   </g>
-  <defs>
-   <filter id="F2szMZQnNyeiIm3lEIbfuP5nbkPPYT84" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <path fill="#d5c4a1" d="M 128 39.333 L 128 57.067 L 128 198.933 L 128 216.667 L 139.922 216.667 L 193.569 216.667 L 211.451 216.667 C 221.358 216.667 229.333 208.758 229.333 198.933 L 229.333 57.067 C 229.333 47.242 221.358 39.333 211.451 39.333 L 193.569 39.333 L 139.922 39.333 L 128 39.333 Z"/>
   <path fill="#ebdbb2" d="M 128 39.333 L 128 57.067 L 128 198.933 L 128 216.667 L 116.078 216.667 L 62.431 216.667 L 44.549 216.667 C 34.642 216.667 26.667 208.758 26.667 198.933 L 26.667 57.067 C 26.667 47.242 34.642 39.333 44.549 39.333 L 62.431 39.333 L 116.078 39.333 L 128 39.333 Z"/>
   <linearGradient id="_lgradient_196" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(33.778,0,0,92.889,128,26.667)" gradientUnits="userSpaceOnUse">

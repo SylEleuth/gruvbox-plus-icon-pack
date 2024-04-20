@@ -7,13 +7,6 @@
   <path d="m165.68 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543v-59.251c0-73.987 10.584-84.544 84.639-84.544h75.37z" fill="url(#b)"/>
  </g>
  <defs>
-  <filter id="a" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-   <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset dy="4" result="pf_100_offsetBlur"/>
-   <feFlood flood-opacity=".4"/>
-   <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
   <radialGradient id="radialGradient948" cx="47.948" cy="2.4777" r="3.9489" gradientTransform="matrix(-1.0888 0 -2.2962e-8 -3.9118 100.21 3.6085)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#ebdbb2" offset="0"/>
    <stop stop-color="#ebdbb2" offset=".46"/>

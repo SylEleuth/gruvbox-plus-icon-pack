@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="mfbl6TYWDwax8x40BZ5O8DMg5jPjzrim" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#mfbl6TYWDwax8x40BZ5O8DMg5jPjzrim)">
   <path fill="#fb4934" d="M 166.351 13.28 C 240.407 13.28 250.991 23.837 250.991 97.824 L 250.991 157.075 C 250.991 231.061 240.407 241.619 166.351 241.619 L 90.982 241.619 C 16.926 241.619 6.343 231.061 6.343 157.075 L 6.343 97.824 C 6.343 23.837 16.926 13.28 90.982 13.28 L 166.351 13.28 L 166.351 13.28 Z"/>
  </g>

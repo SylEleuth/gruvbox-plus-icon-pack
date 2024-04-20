@@ -17,18 +17,9 @@
             <stop offset="0"/>
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
-        <filter id="d" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="c" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
         <linearGradient id="f" x1="58.569" x2="59.047" y1="263.304" y2="263.305" gradientUnits="userSpaceOnUse" spreadMethod="pad" xlink:href="#a"/>
         <linearGradient id="i" x1="58.569" x2="59.047" y1="263.304" y2="263.305" gradientTransform="matrix(1 0 0 1.04255 -46.5 -11.264)" gradientUnits="userSpaceOnUse" spreadMethod="pad" xlink:href="#a"/>
         <linearGradient id="e" x1="58.569" x2="9.841" y1="290.914" y2="233.124" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-        <filter id="j" width="1.106" height="1.088" x="-.05" y="-.04" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".514"/>
-        </filter>
     </defs>
     <path d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V88.506c0-72.581 10.383-82.938 83.031-82.938z" transform="matrix(.26458 0 0 .26458 0 3.404)" opacity=".2" filter="url(#c)"/>
     <path d="M162.537 3.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V86.506c0-72.581 10.383-82.938 83.031-82.938z" transform="matrix(.26458 0 0 .26458 0 3.404)" opacity=".1" filter="url(#d)"/>

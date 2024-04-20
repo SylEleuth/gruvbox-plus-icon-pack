@@ -13,20 +13,11 @@
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="a" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
         <linearGradient id="f" x1="256" x2="256" y1="138" y2="375" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-opacity="0"/>
             <stop offset=".505"/>
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
-        <filter id="g" x="-.01" y="-.01" width="1.026" height="1.023" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.133"/>
-        </filter>
         <linearGradient id="h" x1="256" x2="256" y1="375" y2="135.281" gradientTransform="matrix(.09333 0 0 .09333 12.415 238.731)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>

@@ -1,11 +1,5 @@
 <svg width="256" height="256" viewBox="0 0 67.73 67.73" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <filter id="a" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="c" x1="58.397" x2="243.659" y1="19" y2="302" gradientTransform="matrix(2.0393 0 0 2.0393 -83.458 -45.327)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#fb4934"/>
             <stop offset="1" stop-color="#cc241d"/>
@@ -26,9 +20,6 @@
         <clipPath id="f">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="h" x="-.02" y="-.02" width="1.048" height="1.048" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.28"/>
-        </filter>
     </defs>
     <g transform="translate(3.834 -1.413) scale(.12974)">
         <path transform="matrix(2.0393 0 0 2.0393 -29.555 37.126)" d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.124c0 72.581-10.383 82.938-83.031 82.938H88.599c-72.648 0-83.031-10.357-83.031-82.938V88.505c0-72.58 10.383-82.937 83.031-82.937z" filter="url(#a)" opacity=".2"/>

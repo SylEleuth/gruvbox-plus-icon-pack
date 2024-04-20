@@ -6,15 +6,6 @@
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#ebdbb2" fill-rule="evenodd" opacity=".2" d="M132.097 137.709c2.96 0 5.36-2.816 5.36-6.289 0-3.474-2.4-6.289-5.36-6.289h-52.17c-2.96 0-5.36 2.815-5.36 6.289 0 3.473 2.4 6.289 5.36 6.289h52.17z"/>
  <path fill="#ebdbb2" fill-rule="evenodd" d="M131.053 135.193c2.842 0 6.404-2.816 6.404-6.289s-3.562-6.289-6.404-6.289H80.97c-2.841 0-6.403 2.816-6.403 6.289s3.562 6.289 6.403 6.289h50.083z"/>
  <path fill="#ebdbb2" fill-rule="evenodd" d="M137.457 128.904c0-3.473-3.329-6.289-6.289-6.289H80.856c-2.96 0-6.289 2.816-6.289 6.289 0 0 1.258-3.773 6.289-3.773h50.312c5.031 0 6.289 3.773 6.289 3.773z"/>

@@ -6,15 +6,6 @@
   </linearGradient>
   <path id="path7" d="m165.68 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543v-59.251c0-73.987 10.584-84.544 84.639-84.544h75.37z" fill="url(#b)"/>
  </g>
- <defs id="defs22">
-  <filter id="a" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur11" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset id="feOffset13" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood id="feFlood15" flood-opacity=".4"/>
-   <feComposite id="feComposite17" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend id="feBlend19" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <radialGradient id="c" cx=".468" cy=".34" r=".5" fx=".312" fy=".121" gradientTransform="matrix(88.269 13.958 .71319 90.589 111.64 65.5)" gradientUnits="userSpaceOnUse">
   <stop id="stop24" stop-color="#cc241d" offset=".01739"/>
   <stop id="stop26" stop-color="#cc241d" offset=".51834"/>

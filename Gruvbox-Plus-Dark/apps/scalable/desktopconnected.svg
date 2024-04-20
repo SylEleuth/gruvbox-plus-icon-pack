@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="BQyyTrgfC5unzfeHhyyUtzbXZuuQ2Pk8" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#BQyyTrgfC5unzfeHhyyUtzbXZuuQ2Pk8)">
   <linearGradient id="_lgradient_22" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#83a598"/>
@@ -60,35 +51,15 @@
   <g filter="url(#SHcebhc7hSmjNaeGyPcTCMIEsHLguHFT)">
    <circle fill="#ebdbb2" cx="72.377" cy="103.575" r="4.078" vector-effect="non-scaling-stroke"/>
   </g>
-  <defs>
-   <filter id="SHcebhc7hSmjNaeGyPcTCMIEsHLguHFT" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="2.7"/>
-   </filter>
-  </defs>
   <g filter="url(#hOcjlDy3Fjj41tPjZEPONDZ7YGzi3oNx)">
    <circle fill="#ebdbb2" cx="92.764" cy="185.125" r="4.078" vector-effect="non-scaling-stroke"/>
   </g>
-  <defs>
-   <filter id="hOcjlDy3Fjj41tPjZEPONDZ7YGzi3oNx" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="2.7"/>
-   </filter>
-  </defs>
   <g filter="url(#c8uvL5RC2lovtDYAHJs0MQSfDwkuqRQF)">
    <circle fill="#ebdbb2" cx="153.927" cy="144.35" r="4.078" vector-effect="non-scaling-stroke"/>
   </g>
-  <defs>
-   <filter id="c8uvL5RC2lovtDYAHJs0MQSfDwkuqRQF" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="2.7"/>
-   </filter>
-  </defs>
   <g filter="url(#32TEDrqTZ94KhAw3xKbVmcVhkM0YdaaX)">
    <circle fill="#ebdbb2" cx="174.314" cy="83.187" r="4.078" vector-effect="non-scaling-stroke"/>
   </g>
-  <defs>
-   <filter id="32TEDrqTZ94KhAw3xKbVmcVhkM0YdaaX" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="2.7"/>
-   </filter>
-  </defs>
   <g style="opacity:0.5">
    <g opacity=".5">
     <path fill="none" fill-rule="evenodd" stroke="#ebdbb2" stroke-width="2" d="M 153.355 144.159003 C 108.959004 199.707999 17.877003 201.179007 6.696003 194.181998" vector-effect="non-scaling-stroke"/>

@@ -4,12 +4,6 @@
             <stop offset="0" stop-color="#8f3f71"/>
             <stop offset="1" stop-color="#b16286"/>
         </linearGradient>
-        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="a" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="e" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
@@ -23,9 +17,6 @@
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="f" x="-.04" y="-.06" width="1.083" height="1.115" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".728"/>
-        </filter>
     </defs>
     <g transform="translate(0 -229.267)">
         <path d="M43.837 232.428c19.594 0 22.395 2.793 22.395 22.369v15.676c0 19.576-2.8 22.37-22.395 22.37H23.896c-19.594 0-22.394-2.794-22.394-22.37v-15.676c0-19.576 2.8-22.37 22.394-22.37z" fill="none" opacity=".115" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.079" stroke="#282828"/>

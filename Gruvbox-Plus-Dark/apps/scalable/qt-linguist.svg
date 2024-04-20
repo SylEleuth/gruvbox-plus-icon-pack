@@ -17,15 +17,6 @@
    <stop offset="0%" style="stop-color:#8ec07c"/>
    <stop offset="100%" style="stop-color:#458588"/>
         </linearGradient>
-        <filter id="c" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="g" x="-.05" y="-.05" width="1.092" height="1.1" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.682"/>
-        </filter>
         <linearGradient id="l" x1="121.976" x2="108.56" y1="330.553" y2="348.038" gradientTransform="translate(27.086 257.215) scale(.08096)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
         <linearGradient id="k" x1="354.037" x2="370.342" y1="292.996" y2="314.245" gradientTransform="translate(27.086 257.215) scale(.08096)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
         <linearGradient id="j" x1="211.404" x2="211.404" y1="344.742" y2="375.678" gradientTransform="translate(-82.65 63.666) scale(.60004)" gradientUnits="userSpaceOnUse">
@@ -36,9 +27,6 @@
             <stop offset="0" stop-color="#ebdbb2" stop-opacity=".996"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="h" x="-.01" y="-.01" width="1.021" height="1.028" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.346"/>
-        </filter>
     </defs>
     <path transform="matrix(.2697 0 0 .2697 -7.129 -8.706)" d="M188.969 46C261.617 46 272 56.357 272 128.938v58.125c0 72.58-10.383 82.937-83.031 82.937H115.03C42.383 270 32 259.643 32 187.062v-58.125C32 56.358 42.383 46 115.031 46z" filter="url(#b)" opacity=".2"/>
     <path transform="matrix(.2697 0 0 .2697 -7.129 -8.706)" d="M188.969 44C261.617 44 272 54.357 272 126.938v58.124C272 257.644 261.617 268 188.969 268H115.03C42.383 268 32 257.643 32 185.062v-58.125C32 54.358 42.383 44 115.031 44z" filter="url(#c)" opacity=".1"/>

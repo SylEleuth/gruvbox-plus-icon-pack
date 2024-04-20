@@ -6,39 +6,12 @@
   </linearGradient>
   <path fill="url(#_lgradient_453)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 L 165.689 11.95 Z"/>
  </g>
- <defs>
-  <filter id="fwiF1dhfURP28w7Y2V0V9a6ATYooPqEA" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g opacity=".5">
   <path fill="#bdae93" d="M 55.5 60.5 L 55.5 67.605 L 200.052 67.605 L 200.052 60.5 L 55.5 60.5 L 55.5 60.5 Z M 55.5 81.816 L 55.5 88.921 L 200.052 88.921 L 200.052 81.816 L 55.5 81.816 L 55.5 81.816 Z M 55.5 103.132 L 55.5 110.237 L 200.052 110.237 L 200.052 103.132 L 55.5 103.132 L 55.5 103.132 Z M 55.5 124.447 L 55.5 131.553 L 200.052 131.553 L 200.052 124.447 L 55.5 124.447 L 55.5 124.447 Z M 55.5 145.763 L 55.5 152.868 L 200.052 152.868 L 200.052 145.763 L 55.5 145.763 L 55.5 145.763 Z M 55.5 167.079 L 55.5 174.184 L 200.052 174.184 L 200.052 167.079 L 55.5 167.079 L 55.5 167.079 Z M 55.5 188.395 L 55.5 195.5 L 127.877 195.5 L 127.877 188.395 L 55.5 188.395 L 55.5 188.395 Z"/>
  </g>
- <defs>
-  <filter id="HkT1CMPtquHF8JDxpHKfKhHwCuKwsX1X" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#HkT1CMPtquHF8JDxpHKfKhHwCuKwsX1X)">
   <path fill="#8f3f71" d="M 123.706 102.558 L 76.578 126.503 L 109.559 144.886 C 111.244 145.825 112.611 148.153 112.611 150.082 L 112.611 162.325 C 112.611 164.253 111.244 165.056 109.56 164.117 L 58.552 135.669 C 56.867 134.73 55.5 132.402 55.5 130.473 L 55.5 122.124 C 55.5 120.195 56.89 117.909 58.602 117.022 L 123.719 83.273 C 125.431 82.386 126.821 83.231 126.821 85.16 L 126.821 97.481 C 126.821 99.409 125.425 101.684 123.706 102.558 L 123.706 102.558 Z"/>
  </g>
- <defs>
-  <filter id="U1Lz8IKaR5zaFzYmVKBk1KngwQGTNfDC" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#U1Lz8IKaR5zaFzYmVKBk1KngwQGTNfDC)">
   <path fill="#d3869b" d="M 132.294 156.763 L 179.422 132.818 L 146.44 114.426 C 144.756 113.487 143.389 111.159 143.389 109.23 L 143.389 96.996 C 143.389 95.068 144.756 94.265 146.44 95.204 L 197.448 123.652 C 199.133 124.591 200.5 126.919 200.5 128.847 L 200.5 137.197 C 200.5 139.126 199.11 141.412 197.398 142.299 L 132.281 176.047 C 130.569 176.935 129.179 176.089 129.179 174.161 L 129.179 161.84 C 129.179 159.911 130.575 157.636 132.294 156.763 Z"/>
  </g>

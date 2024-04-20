@@ -4,16 +4,6 @@
    <stop offset="0" style="stop-color:#297fb1"/>
    <stop offset="1" style="stop-color:#50a6d6"/>
   </linearGradient>
-  <filter id="PRh9GpSU0KQ7wGBnViXGgcpdUgvmoXdE" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood flood-opacity=".4"/>
-   <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
-  <filter style="color-interpolation-filters:sRGB" id="filter4699" width="1.089" height="1.094" x="-.04" y="-.05">
-   <feGaussianBlur stdDeviation="3.219"/>
-  </filter>
   <linearGradient id="linearGradient838" x1="132.556" x2="132.556" y1="13.174" y2="233.864" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient836"/>
  </defs>
  <g filter="url(#PRh9GpSU0KQ7wGBnViXGgcpdUgvmoXdE)">

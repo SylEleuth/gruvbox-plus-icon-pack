@@ -1,11 +1,5 @@
 <svg width="256" height="256" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new">
     <defs>
-        <filter id="d" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="e" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="C" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
@@ -30,9 +24,6 @@
             <stop offset="1" stop-color="#ebdbb2" stop-opacity="0"/>
         </linearGradient>
         <linearGradient id="h" x1="58.663" x2="3.612" y1="224.971" y2="301.548" gradientTransform="matrix(2.83677 0 0 2.83465 31.39 -573.782)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-        <filter id="g" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".87"/>
-        </filter>
         <linearGradient id="f" x1="120.551" x2="120.468" y1="104.433" y2="238.961" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-opacity="0"/>
             <stop offset=".505"/>
@@ -122,7 +113,7 @@
         <path fill="url(#x)" opacity=".35" d="M412.89-1556.36h10.909v26.182H412.89z"/>
         <path fill="url(#y)" opacity=".35" d="M393.25-1547.63h10.909v17.455H393.25z"/>
         <path id="A" transform="scale(-1)" fill="url(#z)" opacity=".25" d="M-429.25 1580.36h80.727v1.091h-80.727z"/>
-        
+
     </g>
     <path transform="matrix(.5 0 0 .5 -18.432 122.432)" d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" clip-path="url(#B)" fill="none" opacity=".4" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" stroke="url(#C)"/>
 </svg>

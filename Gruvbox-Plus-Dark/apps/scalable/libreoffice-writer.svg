@@ -48,28 +48,6 @@
      inkscape:current-layer="svg226" />
   <defs
      id="defs124">
-    <filter
-       id="g"
-       x="-.02"
-       y="-.03"
-       width="1.046"
-       height="1.05"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="2.32"
-         id="feGaussianBlur2" />
-    </filter>
-    <filter
-       id="h"
-       x="-.01"
-       y="-.01"
-       width="1.023"
-       height="1.025"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.16"
-         id="feGaussianBlur5" />
-    </filter>
     <linearGradient
        id="L"
        x1="296"
@@ -133,17 +111,6 @@
          stop-color="#ebdbb2"
          id="stop29" />
     </linearGradient>
-    <filter
-       id="j"
-       x="-.01"
-       y="-.01"
-       width="1.023"
-       height="1.025"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation=".87"
-         id="feGaussianBlur32" />
-    </filter>
     <linearGradient
        id="i"
        x1="120.551"

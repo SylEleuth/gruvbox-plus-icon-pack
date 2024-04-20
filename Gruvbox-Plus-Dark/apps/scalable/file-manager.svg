@@ -13,34 +13,18 @@
       <stop stop-color="#282828" stop-opacity=".1" offset=".9"/>
       <stop stop-color="#282828" stop-opacity=".4" offset="1"/>
     </linearGradient>
-    <filter id="j" x="-.01136" y="-.01272" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="1.06"/>
-    </filter>
-    <filter id="k" x="-.01136" y="-.01223" width="1.023" height="1.024" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="1.06"/>
-    </filter>
     <linearGradient id="l" x1="264" x2="48" y1="252" y2="52" gradientTransform="translate(-27.28 -38.77)" gradientUnits="userSpaceOnUse">
       <stop offset="0"/>
       <stop stop-opacity=".433" offset=".159"/>
       <stop stop-opacity=".1" offset=".194"/>
       <stop stop-opacity="0" offset="1"/>
     </linearGradient>
-    <filter id="m" x="-.05679" y="-.06114" width="1.114" height="1.122" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="5.3"/>
-    </filter>
     <linearGradient id="linearGradient30" x1="9.555" x2="57.66" y1="21.71" y2="21.71" gradientUnits="userSpaceOnUse" xlink:href="#n"/>
     <linearGradient id="n" x1="9.555" x2="57.66" y1="21.71" y2="21.71" gradientUnits="userSpaceOnUse">
       <stop stop-color="#458588" offset="0"/>
       <stop stop-color="#458588" offset="1"/>
     </linearGradient>
     <linearGradient id="linearGradient28" x1="9.555" x2="57.66" y1="21.71" y2="21.71" gradientTransform="translate(-.0002289 .8175)" gradientUnits="userSpaceOnUse" xlink:href="#n"/>
-    <filter id="b-3" x="17.33" y="43.67" width="223" height="130.3" filterUnits="userSpaceOnUse">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-      <feOffset result="pf_100_offsetBlur"/>
-      <feFlood flood-opacity=".4"/>
-      <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-      <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
-    </filter>
     <radialGradient id="radialGradient28" cx="31.3" cy="15.7" r="24.05" gradientTransform="matrix(1 0 0 .2635 1.391 24.25)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient27"/>
     <linearGradient id="linearGradient27">
       <stop stop-color="#ebdbb2" offset="0"/>

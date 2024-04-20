@@ -21,20 +21,11 @@
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
         <linearGradient id="h" x1="297.987" x2="299.397" y1="344.067" y2="141.4" gradientTransform="matrix(.1323 0 0 .1323 -.643 229.381)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-        <filter id="g" width="1.021" height="1.028" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.346"/>
-        </filter>
         <linearGradient id="f" x1="211.404" x2="232.776" y1="344.742" y2="375.408" gradientTransform="matrix(7.41138 0 0 7.41138 -1355.39 -2406.617)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-opacity="0"/>
             <stop offset=".67"/>
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
-        <filter id="e" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="d" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="n" x1="28" x2="40" y1="220" y2="220" gradientTransform="translate(186 -254)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
         <linearGradient id="c">
             <stop offset="0" stop-color="#458588"/>

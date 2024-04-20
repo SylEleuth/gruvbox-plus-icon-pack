@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="EdEMnrvkdYtyac7wI3eMLG1WynSKvg6q" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#EdEMnrvkdYtyac7wI3eMLG1WynSKvg6q)">
   <linearGradient id="_lgradient_17" x1=".022" x2="1.023" y1="-.003" y2=".978" gradientTransform="matrix(244.648,0,0,228.338,5.676,11.947)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#8ec07c"/>
@@ -15,11 +6,6 @@
   </linearGradient>
   <path fill="url(#_lgradient_17)" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 L 165.685 11.947 L 165.685 11.947 Z"/>
  </g>
- <defs>
-  <filter id="l8eRjSYLEHz0pE7MxSkztHiloYasJQiC" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-  </filter>
- </defs>
  <g opacity=".4" filter="url(#l8eRjSYLEHz0pE7MxSkztHiloYasJQiC)">
   <linearGradient id="_lgradient_18" x1=".011" x2=".551" y1=".4" y2=".835" gradientTransform="matrix(89.857,0,0,80.767,160.29,16.116)" gradientUnits="userSpaceOnUse">
    <stop offset="18.439%" style="stop-color:#282828"/>

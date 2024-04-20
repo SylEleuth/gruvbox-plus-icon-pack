@@ -47,28 +47,6 @@
      inkscape:current-layer="g146" />
   <defs
      id="defs94">
-    <filter
-       id="a"
-       x="-.02"
-       y="-.03"
-       width="1.046"
-       height="1.05"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="2.32"
-         id="feGaussianBlur2" />
-    </filter>
-    <filter
-       id="b"
-       x="-.01"
-       y="-.01"
-       width="1.023"
-       height="1.025"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.16"
-         id="feGaussianBlur5" />
-    </filter>
     <linearGradient
        id="d"
        x1="296"
@@ -101,17 +79,6 @@
          fill="#b16286"
          id="path17" />
     </clipPath>
-    <filter
-       id="e"
-       x="-.05"
-       y="-.05"
-       width="1.096"
-       height="1.096"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation=".926"
-         id="feGaussianBlur20" />
-    </filter>
     <linearGradient
        id="f"
        x1="12.274"
@@ -161,17 +128,6 @@
          stop-opacity="0"
          id="stop36" />
     </linearGradient>
-    <filter
-       id="h"
-       x="-.05"
-       y="-.05"
-       width="1.1"
-       height="1.092"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation=".256"
-         id="feGaussianBlur39" />
-    </filter>
     <linearGradient
        id="i"
        x1="36.137"
@@ -193,17 +149,6 @@
          offset="1"
          id="stop46" />
     </linearGradient>
-    <filter
-       id="j"
-       x="-.05"
-       y="-.05"
-       width="1.106"
-       height="1.093"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation=".256"
-         id="feGaussianBlur49" />
-    </filter>
     <linearGradient
        id="k"
        x1="39.422"
@@ -221,17 +166,6 @@
          offset="1"
          id="stop54" />
     </linearGradient>
-    <filter
-       id="l"
-       x="-.07"
-       y="-.05"
-       width="1.137"
-       height="1.093"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation=".256"
-         id="feGaussianBlur57" />
-    </filter>
     <linearGradient
        id="m"
        x1="44.19"
@@ -249,17 +183,6 @@
          offset="1"
          id="stop62" />
     </linearGradient>
-    <filter
-       id="n"
-       x="-.13"
-       y="-.06"
-       width="1.252"
-       height="1.117"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation=".256"
-         id="feGaussianBlur65" />
-    </filter>
     <linearGradient
        id="o"
        x1="37.892"
@@ -277,17 +200,6 @@
          offset="1"
          id="stop70" />
     </linearGradient>
-    <filter
-       id="p"
-       x="-.14"
-       y="-.11"
-       width="1.286"
-       height="1.212"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation=".256"
-         id="feGaussianBlur73" />
-    </filter>
     <linearGradient
        id="q"
        x1="61.291"
@@ -305,17 +217,6 @@
          offset="1"
          id="stop78" />
     </linearGradient>
-    <filter
-       id="r"
-       x="-.06"
-       y="-.04"
-       width="1.12"
-       height="1.08"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation=".122"
-         id="feGaussianBlur81" />
-    </filter>
     <linearGradient
        id="s"
        x1="48.484"

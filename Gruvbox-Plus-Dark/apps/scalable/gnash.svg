@@ -6,15 +6,6 @@
   </linearGradient>
   <path fill="url(#_lgradient_112)" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 L 165.685 11.947 Z"/>
  </g>
- <defs>
-  <filter id="v7DZcg1PJwWXhpI4dYJxuAkfVR8Hsf1T" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <path fill="#fe8019" d="M 154.139 70.639 C 154.139 85.075 128 109.557 128 109.557 C 128 109.557 101.861 85.075 101.861 70.639 C 101.861 56.203 113.564 44.5 128 44.5 C 142.436 44.5 154.139 56.203 154.139 70.639 Z M 71.639 100.861 C 86.075 100.861 110.557 127 110.557 127 C 110.557 127 86.075 153.139 71.639 153.139 C 57.203 153.139 45.5 141.436 45.5 127 C 45.5 112.564 57.203 100.861 71.639 100.861 L 71.639 100.861 Z M 154.139 183.361 C 154.139 168.925 128 144.443 128 144.443 C 128 144.443 101.861 168.925 101.861 183.361 C 101.861 197.797 113.564 209.5 128 209.5 C 142.436 209.5 154.139 197.797 154.139 183.361 Z M 184.361 100.861 C 169.925 100.861 145.443 127 145.443 127 C 145.443 127 169.925 153.139 184.361 153.139 C 198.797 153.139 210.5 141.436 210.5 127 C 210.5 112.564 198.797 100.861 184.361 100.861 L 184.361 100.861 Z"/>
  <g opacity=".4">
   <linearGradient id="_lgradient_113" x1=".517" x2=".517" y1="0" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">

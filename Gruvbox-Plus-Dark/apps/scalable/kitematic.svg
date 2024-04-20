@@ -8,15 +8,6 @@
   <path fill="#ebdbb2" fill-rule="evenodd" d="M89.1108 145.862V175.471C89.1108 178.478 86.7899 180.916 83.927 180.916H63.1838C60.3209 180.916 58 178.478 58 175.471V77.4723C58 74.4654 60.3209 72.0279 63.1838 72.0279H83.927C86.7899 72.0279 89.1108 74.4654 89.1108 77.4723V97.2687L108.583 75.8218C108.756 75.6317 108.919 75.451 109.074 75.2793L109.074 75.2786C111.77 72.2899 112.006 72.0279 117.923 72.0279H149.203C149.203 72.0279 155.383 71.4551 151.396 75.4999L127.095 103.175L149.42 175.425C149.51 175.716 149.596 175.992 149.678 176.255C150.421 178.637 150.807 179.874 150.352 180.485C149.861 181.144 148.39 181.073 145.33 180.926L145.122 180.916H122.768C117.588 180.916 117.22 180.881 116.027 175.485L102.362 131.268L89.1108 145.862ZM165.334 72.0279H192.556C195.572 72.0279 198 74.4561 198 77.4723V175.471C198 178.487 195.572 180.916 192.556 180.916H165.334C162.317 180.916 159.889 178.487 159.889 175.471L181.667 103.175L159.889 77.4723C157.939 75.171 162.317 72.0279 165.334 72.0279Z" clip-rule="evenodd"/>
  </g>
  <defs>
-  <filter id="filter0_d" width="264.648" height="248.338" x="-4.32" y="5.95" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-   <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-   <feOffset dy="4"/>
-   <feGaussianBlur stdDeviation="5"/>
-   <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
-   <feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow"/>
-   <feBlend in="SourceGraphic" in2="effect1_dropShadow" mode="normal" result="shape"/>
-  </filter>
   <linearGradient id="paint0_linear" x1="51.474" x2="52.096" y1="12.995" y2="239.997" gradientUnits="userSpaceOnUse">
    <stop stop-color="#83a598"/>
    <stop offset="1" stop-color="#458588"/>

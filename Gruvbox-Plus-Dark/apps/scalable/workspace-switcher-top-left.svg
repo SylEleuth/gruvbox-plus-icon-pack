@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="uevg82AW4uNs952BvJT1VD4HZfYdkYSR" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#uevg82AW4uNs952BvJT1VD4HZfYdkYSR)">
   <linearGradient id="_lgradient_33" x1=".187" x2=".19" y1=".005" y2=".999" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.951604)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#83a598"/>
@@ -28,11 +19,6 @@
   <path fill="#ebdbb2" d="M 61.333 53.619999 L 194.699997 53.619999 C 198.011002 53.619999 200.699997 56.308998 200.699997 59.619999 L 200.699997 193 C 200.699997 196.311005 198.011002 199 194.699997 199 L 61.333 199 C 58.021999 199 55.333 196.311005 55.333 193 L 55.333 59.619999 C 55.333 56.308998 58.021999 53.619999 61.333 53.619999 Z"/>
  </g>
  <g>
-  <defs>
-   <filter id="Am0s4U9Lw3hDn2h79RAVxINOyjYkEIaT" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#Am0s4U9Lw3hDn2h79RAVxINOyjYkEIaT)">
    <path d="M 51.117001 45.727005 L 129.634995 45.727005 C 133.955002 45.727005 137.462006 49.235001 137.462006 53.554993 L 137.462006 112.445007 C 137.462006 116.764999 133.955002 120.272995 129.634995 120.272995 L 51.117001 120.272995 C 46.797001 120.272995 43.290001 116.764999 43.290001 112.445007 L 43.290001 53.554993 C 43.290001 49.235001 46.797001 45.727005 51.117001 45.727005 Z"/>
   </g>

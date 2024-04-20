@@ -6,15 +6,6 @@
   </linearGradient>
   <path id="path7" d="m165.68 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543v-59.251c0-73.987 10.584-84.544 84.639-84.544h75.37z" fill="url(#_lgradient_3)"/>
  </g>
- <defs id="defs22">
-  <filter id="hxYJghqWEsg1wGUPIdascspcwwv1z4St" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur11" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset id="feOffset13" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood id="feFlood15" flood-color="#282828" flood-opacity=".4"/>
-   <feComposite id="feComposite17" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend id="feBlend19" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <linearGradient id="_lgradient_4" x1=".57652" x2=".57652" y1="-.0081094" y2="1.0144" gradientTransform="matrix(205.78 0 0 228.34 44.542 11.83)" gradientUnits="userSpaceOnUse">
   <stop id="stop24" stop-color="#83a598" offset="0"/>
   <stop id="stop26" stop-color="#076678" offset="1"/>

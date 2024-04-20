@@ -18,7 +18,6 @@
    <feFlood flood-opacity="0" result="BackgroundImageFix"/>
    <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
    <feOffset dy="4"/>
-   <feGaussianBlur stdDeviation="5"/>
    <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
    <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
    <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>

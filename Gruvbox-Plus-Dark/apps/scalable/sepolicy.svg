@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="2rxtbW5QxBYMca1IdwFw7m1iBQQCMh45" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#2rxtbW5QxBYMca1IdwFw7m1iBQQCMh45)">
   <linearGradient id="_lgradient_14" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.577)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#504945"/>
@@ -30,11 +21,6 @@
   <stop offset="100%" style="stop-color:#d65d0e"/>
  </linearGradient>
  <path fill="url(#_lgradient_16)" d="M 84.5 74.833 L 84.5 84.5 L 113.5 84.5 L 113.5 94.167 L 74.833 94.167 L 74.833 123.167 L 65.167 123.167 L 65.167 94.167 L 55.5 94.167 L 55.5 161.833 L 65.167 161.833 L 65.167 132.833 L 74.833 132.833 L 74.833 161.833 L 94.167 181.167 L 157 181.167 L 166.667 171.5 L 181.167 171.5 L 181.167 181.167 L 190.833 181.167 L 200.5 171.502 L 200.5 113.502 L 190.833 103.833 L 181.167 103.833 L 181.167 113.5 L 172.708 113.502 L 153.375 94.169 L 123.167 94.169 L 123.167 84.502 L 152.167 84.5 L 152.167 74.833 L 84.5 74.833 Z M 84.5 103.833 L 147.333 103.833 L 166.667 123.167 L 190.833 123.167 L 190.833 161.833 L 161.833 161.833 L 152.167 171.5 L 100.208 171.5 L 84.5 155.067 L 84.5 103.833 Z"/>
- <defs>
-  <filter id="Csbf9vCKv5rr7WIi9d2gATyDJu2toarg" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-  </filter>
- </defs>
  <g opacity=".4" filter="url(#Csbf9vCKv5rr7WIi9d2gATyDJu2toarg)">
   <path d="M 126.32 240.288 L 126 211.494 C 126 137.507 136.584 126 210.639 126 L 248.648 126"/>
  </g>

@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="hVb4qs912ZfeNmXtYQ16AN4XasNSgDa2" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#hVb4qs912ZfeNmXtYQ16AN4XasNSgDa2)">
   <linearGradient id="_lgradient_151" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.452)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#427b58"/>
@@ -21,15 +12,6 @@
   <stop offset="100%" style="stop-color:#1e1f1f"/>
  </linearGradient>
  <path fill="url(#_lgradient_152)" d="M 55.465 238.826 C 12.706 234.2 5.68 216.025 5.68 155.745 L 5.68 96.494 C 5.68 36.419 12.658 18.163 55.03 13.461 L 55.465 238.826 L 55.465 238.826 Z"/>
- <defs>
-  <filter id="T5YRJpRKHl7hH5YhxkQXQy1YBfDqT1xm" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#T5YRJpRKHl7hH5YhxkQXQy1YBfDqT1xm)">
   <linearGradient id="_lgradient_153" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(37.149,0,0,131.4,163.938,11.901)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#fabd2f"/>

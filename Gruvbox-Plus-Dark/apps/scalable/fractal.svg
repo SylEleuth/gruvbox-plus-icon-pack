@@ -15,20 +15,11 @@
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
         <linearGradient id="f" x1="333.765" x2="336.966" y1="309.522" y2="352.066" gradientTransform="translate(-.643 229.381) scale(.1323)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-        <filter id="e" x="-.01" y="-.01" width="1.021" height="1.028" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.346"/>
-        </filter>
         <linearGradient id="d" x1="211.404" x2="232.776" y1="344.742" y2="375.408" gradientTransform="translate(-1355.39 -2406.617) scale(7.41138)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-opacity="0"/>
             <stop offset=".67"/>
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
-        <filter id="c" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="h" x1="12.057" x2="21.399" y1="273.055" y2="273.055" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2" stop-opacity="0"/>

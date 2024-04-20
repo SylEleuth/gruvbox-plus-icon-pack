@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="sY1j80aAyRz5T6uY9JGh4p4ndwTuzhAo" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#sY1j80aAyRz5T6uY9JGh4p4ndwTuzhAo)">
   <path fill="#fb4934" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 L 165.685 11.947 Z"/>
  </g>
@@ -27,11 +18,6 @@
  <circle fill="#ebdbb2" cx="183" cy="87" r="24" vector-effect="non-scaling-stroke"/>
  <path fill="#3c3836" d="M 47 183 L 94.635 91.372 L 142.27 183 L 47 183 L 47 183 Z"/>
  <path fill="#3c3836" d="M 95 183 L 131 114 L 167 183 L 95 183 L 95 183 Z"/>
- <defs>
-  <filter id="y8FJ5ukH5SfaBSApGU7Nbw5MLYuP88CP" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="1.531"/>
-  </filter>
- </defs>
  <g opacity=".2" filter="url(#y8FJ5ukH5SfaBSApGU7Nbw5MLYuP88CP)">
   <path d="M 114.875 53 C 79.577 53 50.875 81.702 50.875 117 C 50.875 152.298 79.577 181 114.875 181 C 130.327 181 144.514 175.498 155.584 166.352 L 162.475 173.242 L 161.061 174.656 L 192.561 206.156 L 203.875 194.844 L 172.375 163.344 L 170.961 164.758 L 164.08 157.877 C 173.312 146.783 178.875 132.532 178.875 117 C 178.875 81.702 150.173 53 114.875 53 L 114.875 53 Z M 114.875 61.137 C 145.776 61.137 170.738 86.099 170.738 117 C 170.738 147.901 145.776 172.865 114.875 172.865 C 83.974 172.865 59.01 147.901 59.01 117 C 59.01 86.099 83.974 61.137 114.875 61.137 Z"/>
  </g>

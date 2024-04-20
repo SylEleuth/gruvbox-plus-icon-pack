@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="6jUBPRkCJXBtgP3LXFXKMYP5kgMmLgey" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#6jUBPRkCJXBtgP3LXFXKMYP5kgMmLgey)">
   <linearGradient id="_lgradient_627" x1=".187" x2=".19" y1=".005" y2=".999" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#83a598"/>
@@ -37,13 +28,4 @@
   </linearGradient>
   <path fill="url(#_lgradient_630)" d="M 189.642 169.682 C 195.657 169.682 200.5 164.824 200.5 158.79 L 200.5 64.392 C 200.5 58.358 195.657 53.5 189.642 53.5 L 95.539 53.5 C 89.524 53.5 84.681 58.358 84.681 64.392 L 84.681 82.545 L 171.545 82.545 L 171.545 140.636 L 113.636 140.636 L 113.636 111.591 L 84.681 111.591 L 84.681 158.79 C 84.681 164.824 89.524 169.682 95.539 169.682 L 189.642 169.682 Z"/>
  </g>
- <defs>
-  <filter id="Q2qZW8HXNB1liHJjOZibWMdMWS6YdN0X" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
 </svg>

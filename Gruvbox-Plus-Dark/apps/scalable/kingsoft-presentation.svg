@@ -10,15 +10,6 @@
     <path d="m127.99 12.05v228.34h37.686c72.707 0 84.639-11.982 84.639-84.543v-59.252c0-72.491-11.932-84.543-84.639-84.543z" opacity=".2" style="isolation:isolate"/>
     <path d="m5.672 126.22v29.523c0 72.561 12.345 84.543 84.639 84.543h75.369c72.707 0 84.639-11.982 84.639-84.543v-29.523z" opacity=".2" style="isolation:isolate"/>
   </g>
-  <defs>
-    <filter id="a" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-      <feOffset dy="4" result="pf_100_offsetBlur"/>
-      <feFlood flood-opacity=".4"/>
-      <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-      <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
-    </filter>
-  </defs>
   <g opacity=".4">
     <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#ebdbb2" offset="0"/>

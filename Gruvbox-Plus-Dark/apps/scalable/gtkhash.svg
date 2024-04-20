@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="bWrUkRehOjsMUuQl33TJ9osS2R7RzJ7g" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#bWrUkRehOjsMUuQl33TJ9osS2R7RzJ7g)">
   <path fill="#83a598" d="M 166.351 13.28 C 240.407 13.28 250.991 23.837 250.991 97.824 L 250.991 157.075 C 250.991 231.061 240.407 241.619 166.351 241.619 L 90.982 241.619 C 16.926 241.619 6.343 231.061 6.343 157.075 L 6.343 97.824 C 6.343 23.837 16.926 13.28 90.982 13.28 L 166.351 13.28 L 166.351 13.28 Z"/>
  </g>
@@ -20,15 +11,6 @@
   <path fill="#ebdbb2" stroke="#ebdbb2" stroke-linecap="square" stroke-miterlimit="3" stroke-width="4" d="M 101.765 57.012 L 101.765 101.765 L 57.012 101.765 L 57.012 104.852 L 101.765 104.852 L 101.765 151.148 L 57.012 151.148 L 57.012 154.235 L 101.765 154.235 L 101.765 198.988 L 104.852 198.988 L 104.852 154.235 L 151.148 154.235 L 151.148 198.988 L 154.235 198.988 L 154.235 154.235 L 198.988 154.235 L 198.988 151.148 L 154.235 151.148 L 154.235 104.852 L 198.988 104.852 L 198.988 101.765 L 154.235 101.765 L 154.235 57.012 L 151.148 57.012 L 151.148 101.765 L 104.852 101.765 L 104.852 57.012 L 101.765 57.012 L 101.765 57.012 Z M 104.852 104.852 L 151.148 104.852 L 151.148 151.148 L 104.852 151.148 L 104.852 104.852 L 104.852 104.852 Z" vector-effect="non-scaling-stroke"/>
   <path fill="#ebdbb2" fill-rule="evenodd" d="M 106.367 55.5 L 106.367 100.25 L 149.633 100.25 L 149.633 55.5 L 155.75 55.5 L 155.75 100.25 L 200.5 100.25 L 200.5 106.367 L 155.75 106.367 L 155.75 149.633 L 200.5 149.633 L 200.5 155.75 L 155.75 155.75 L 155.75 200.5 L 149.633 200.5 L 149.633 155.75 L 106.367 155.75 L 106.367 200.5 L 100.25 200.5 L 100.25 155.75 L 55.5 155.75 L 55.5 149.633 L 100.25 149.633 L 100.25 106.367 L 55.5 106.367 L 55.5 100.25 L 100.25 100.25 L 100.25 55.5 L 106.367 55.5 L 106.367 55.5 Z M 103.339 58.528 L 103.339 103.278 L 152.661 103.278 L 152.661 58.528 L 152.722 58.528 L 152.722 103.278 L 197.472 103.278 L 197.472 103.339 L 152.722 103.339 L 152.722 152.661 L 197.472 152.661 L 197.472 152.722 L 152.722 152.722 L 152.722 197.472 L 152.661 197.472 L 152.661 152.722 L 103.339 152.722 L 103.339 197.472 L 103.278 197.472 L 103.278 152.722 L 58.528 152.722 L 58.528 152.661 L 103.278 152.661 L 103.278 103.339 L 58.528 103.339 L 58.528 103.278 L 103.278 103.278 L 103.278 58.528 L 103.339 58.528 L 103.339 58.528 Z M 103.339 103.339 L 152.661 103.339 L 152.661 152.661 L 103.339 152.661 L 103.339 103.339 L 103.339 103.339 Z M 106.367 106.367 L 149.633 106.367 L 149.633 149.633 L 106.367 149.633 L 106.367 106.367 L 106.367 106.367 Z"/>
  </g>
- <defs>
-  <filter id="Sk2eyS7nFoM24QM3wdeycX0bV0xNZFeP" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g opacity=".4">
   <linearGradient id="_lgradient_203" x1=".517" x2=".517" y1="0" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#ebdbb2"/>

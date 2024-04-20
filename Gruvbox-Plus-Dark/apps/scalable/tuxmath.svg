@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="AQFFRNfVTfUJIdmobv2Rrgahe6dgEYPy" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#AQFFRNfVTfUJIdmobv2Rrgahe6dgEYPy)">
   <linearGradient id="_lgradient_271" x1=".187" x2=".19" y1=".005" y2=".999" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#83a598"/>
@@ -16,11 +7,6 @@
   <path fill="url(#_lgradient_271)" d="M 165.688919 11.95 C 239.744626 11.95 250.328309 22.507198 250.328309 96.493859 L 250.328309 155.744653 C 250.328309 229.73091 239.744626 240.288396 165.688919 240.288396 L 90.319393 240.288396 C 16.26369 240.288396 5.68 229.73091 5.68 155.744653 L 5.68 96.493859 C 5.68 22.507198 16.26369 11.95 90.319393 11.95 L 165.688919 11.95 Z"/>
  </g>
  <g>
-  <defs>
-   <filter id="h1bUFUzqTTz0JGczDL5GqD2D31xYExpu" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#h1bUFUzqTTz0JGczDL5GqD2D31xYExpu)">
    <path d="M 176.96857 116.389643 C 178.296873 111.894643 179.029641 107.153661 179.029641 102.234019 C 179.029641 74.280091 156.192142 51.618922 128.005178 51.618922 C 99.833751 51.618922 76.985894 74.274912 76.985894 102.234019 C 76.985894 107.153661 77.72384 111.894643 79.046965 116.389643 C 72.622948 121.51125 47.686418 143.69625 57.945064 172.463213 C 57.945064 172.463213 66.623314 171.727856 73.751876 158.651963 C 75.916519 167.020535 79.948037 174.620088 85.44768 180.974195 C 77.392412 183.327856 71.929019 187.892766 71.929019 193.130891 C 71.929019 200.777052 83.56009 206.973212 97.899554 206.973212 C 107.632679 206.973212 116.107411 204.114641 120.550625 199.896694 C 122.9975 200.217766 125.465089 200.437855 127.99741 200.437855 C 130.532321 200.437855 133.005089 200.217766 135.441607 199.896694 C 139.895178 204.112051 148.364731 206.973212 158.100445 206.973212 C 172.445088 206.973212 184.081338 200.771873 184.081338 193.130891 C 184.081338 187.897945 178.612766 183.327856 170.557499 180.974195 C 176.051963 174.620088 180.093838 167.020535 182.25848 158.651963 C 189.381605 171.722677 198.047944 172.463213 198.047944 172.463213 C 208.32223 143.688482 183.387409 121.503482 176.965981 116.389643 L 176.96857 116.389643 Z"/>
   </g>
@@ -48,11 +34,6 @@
    </linearGradient>
   </defs>
   <path d="M 111.169643 142.241071 L 124.116071 142.241071 C 126.25967 142.241071 128 143.981401 128 146.124999 L 128 146.124999 C 128 148.268598 126.25967 150.008928 124.116071 150.008928 L 111.169643 150.008928 C 109.026045 150.008928 107.285715 148.268598 107.285715 146.124999 L 107.285715 146.124999 C 107.285715 143.981401 109.026045 142.241071 111.169643 142.241071 Z" style="fill:url(#_lgradient_273)"/>
-  <defs>
-   <filter id="3zz7l2VfAa7V5UpNg31jy0rTdnYWPiJQ" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#3zz7l2VfAa7V5UpNg31jy0rTdnYWPiJQ)">
    <path d="M 117.642857 93.044644 L 138.357142 93.044644 C 136.69741 109.002411 128 124.116072 128 124.116072 C 128 124.116072 117.642857 106.18009 117.642857 93.044644 Z"/>
   </g>

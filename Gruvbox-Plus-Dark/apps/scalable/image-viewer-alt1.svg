@@ -1,18 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 67.73 67.73">
     <defs>
-        <filter id="c" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="b" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="d" x1="252.436" x2="346.827" y1="260.078" y2="354.468" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
             <stop offset="0"/>
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
-        <filter id="e" width="1.024" height="1.024" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.348"/>
-        </filter>
         <linearGradient id="f" x1="140.449" x2="217.686" y1="291.433" y2="214.196" gradientTransform="matrix(1.08379 0 0 1.08379 -21.332 -37.718)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
         <linearGradient id="a">
             <stop offset="0" stop-color="#ebdbb2"/>

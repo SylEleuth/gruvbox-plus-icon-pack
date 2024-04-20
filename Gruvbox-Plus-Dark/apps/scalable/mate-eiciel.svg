@@ -6,27 +6,9 @@
   </linearGradient>
   <path fill="url(#_lgradient_50)" d="M 166.351 13.28 C 240.407 13.28 250.991 23.837 250.991 97.824 L 250.991 157.075 C 250.991 231.061 240.407 241.619 166.351 241.619 L 90.982 241.619 C 16.926 241.619 6.343 231.061 6.343 157.075 L 6.343 97.824 C 6.343 23.837 16.926 13.28 90.982 13.28 L 166.351 13.28 L 166.351 13.28 Z"/>
  </g>
- <defs>
-  <filter id="4tS3EN2I4XdS6fy2dxGT28YsJNQ5touw" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g opacity=".2">
   <path fill="#ebdbb2" d="M 128 11.947 L 128 240.285 L 165.685 240.285 C 239.74 240.285 250.324 229.728 250.324 155.742 L 250.324 96.491 C 250.324 22.504 239.74 11.947 165.685 11.947 L 128 11.947 L 128 11.947 Z"/>
  </g>
- <defs>
-  <filter id="FPqOWUXlscTAWU2NMGrxQSSxe6CuyS4E" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#FPqOWUXlscTAWU2NMGrxQSSxe6CuyS4E)">
   <path fill="#ebdbb2" fill-rule="evenodd" d="M 187 165.897 L 187 192.169 C 171.033 197.39 155.736 200 141.107 200 C 118.118 200 100.02 193.348 86.812 180.044 C 73.604 166.824 67 148.72 67 125.732 C 67 104.26 72.768 87.124 84.304 74.325 C 95.757 61.442 111.054 55 130.197 55 C 152.434 55 167.94 63.21 176.718 79.63 C 183.322 92.008 186.749 110.449 187 134.952 L 106.122 134.952 C 107.209 143.036 108.672 149.141 110.511 153.267 C 117.031 167.497 129.32 174.612 147.376 174.612 C 158.745 174.612 171.953 171.707 187 165.897 L 187 165.897 Z M 105.746 113.859 L 150.511 113.859 C 150.26 102.828 148.964 94.66 146.624 89.356 C 143.28 82.03 137.888 78.367 130.448 78.367 C 122.089 78.367 115.736 82.703 111.389 91.376 C 108.881 96.429 107 103.923 105.746 113.859"/>
  </g>

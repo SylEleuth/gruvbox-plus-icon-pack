@@ -1,11 +1,5 @@
 <svg width="256" height="256" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new">
     <defs>
-        <filter id="f" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="g" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="L" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
@@ -29,9 +23,6 @@
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="i" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".87"/>
-        </filter>
         <linearGradient id="h" x1="120.551" x2="120.468" y1="104.433" y2="238.961" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-opacity="0"/>
             <stop offset=".505"/>
@@ -168,11 +159,11 @@
         <path fill="url(#H)" opacity=".5" d="M815-1494.64h25v5h-25z"/>
         <path fill="url(#I)" opacity=".4" d="M789-1498.64h121v8H789z"/>
         <path d="M846.242-1508.638l-24.242 16h9.769l3.398-1.114L854-1508.638z" fill="#282828"/>
-        
+
         <path d="M854-1508.638l24 16H867.99l-3.086-.878L846-1508.638z" fill="#282828"/>
         <path d="M844.242-1508.638l-24.242 16h11.758l20.242-16z" fill="url(#J)"/>
         <path fill="url(#J)" d="M844-1512.64h12v6h-12z"/>
-        
+
     </g>
     <path transform="matrix(.5 0 0 .5 -18.432 122.432)" d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" clip-path="url(#K)" fill="none" opacity=".4" stroke-linecap="round" stroke-linejoin="round" stroke-width="8" stroke="url(#L)"/>
 </svg>

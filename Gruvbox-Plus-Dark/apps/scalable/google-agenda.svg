@@ -23,15 +23,6 @@ function init()
   </clipPath>
  </defs>
  <g clip-path="url(#_clipPath_DrDwyTURIVGQyiAVXW7cYpVndON1l77Y)">
-  <defs>
-   <filter id="HpeMgISJNanekQzs1PpJJWwid2tg8Vc3" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-   </filter>
-  </defs>
   <g filter="url(#HpeMgISJNanekQzs1PpJJWwid2tg8Vc3)">
    <linearGradient id="_lgradient_4" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.807,12.075)" gradientUnits="userSpaceOnUse">
     <stop offset="0%" style="stop-color:#076678"/>
@@ -67,29 +58,9 @@ function init()
    <stop offset="100%" style="stop-color:#282828"/>
   </linearGradient>
   <path id="Path" fill="url(#_lgradient_7)" d="M 250.33 150.433 C 179.777 150.729 169.563 161.918 169.563 234.247 L 169.563 240.29 L 250.33 150.433 L 250.33 150.433 L 250.33 150.433 Z"/>
-  <defs>
-   <filter id="fcf8LlHi5aVNeOUH6tZqfarRsYDj50dA" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="0" in="SourceGraphic"/>
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" result="pf_100_offsetBlur" stdDeviation="4.294"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_offsetBlur" operator="out" result="pf_100_inverse"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4" result="pf_100_color"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in="pf_100_color" in2="pf_100_inverse" operator="in" result="pf_100_shadow"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in="pf_100_shadow" in2="SourceGraphic" operator="over"/>
-   </filter>
-  </defs>
   <g filter="url(#fcf8LlHi5aVNeOUH6tZqfarRsYDj50dA)">
    <circle id="Ellipse" fill="#d5c4a1" cx="63.2" cy="45.2" r="15.05" vector-effect="non-scaling-stroke"/>
   </g>
-  <defs>
-   <filter id="f4c1OiPuQIUylLY5mgcJOahFlEKsDL3x" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="0" in="SourceGraphic"/>
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" result="pf_100_offsetBlur" stdDeviation="4.294"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_offsetBlur" operator="out" result="pf_100_inverse"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4" result="pf_100_color"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in="pf_100_color" in2="pf_100_inverse" operator="in" result="pf_100_shadow"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in="pf_100_shadow" in2="SourceGraphic" operator="over"/>
-   </filter>
-  </defs>
   <g filter="url(#f4c1OiPuQIUylLY5mgcJOahFlEKsDL3x)">
    <circle id="Ellipse" fill="#d5c4a1" cx="193.2" cy="45.2" r="15.05" vector-effect="non-scaling-stroke"/>
   </g>

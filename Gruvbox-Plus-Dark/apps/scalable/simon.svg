@@ -21,15 +21,6 @@
   <path fill="#ebdbb2" opacity=".2" d="M162.158 58C143.167 58 127.772 73.3951 127.772 92.386V94.8421C127.772 75.8513 143.167 60.4561 162.158 60.4561C180.733 60.4561 195.827 75.1942 196.481 93.6092C196.505 93.2025 196.544 92.7994 196.544 92.386C196.544 73.3951 181.149 58 162.158 58Z"/>
  </g>
  <defs>
-  <filter id="filter0_d" width="264.648" height="248.338" x="-4.32" y="5.95" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-   <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-   <feOffset dy="4"/>
-   <feGaussianBlur stdDeviation="5"/>
-   <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
-   <feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow"/>
-   <feBlend in="SourceGraphic" in2="effect1_dropShadow" mode="normal" result="shape"/>
-  </filter>
   <linearGradient id="paint0_linear" x1="5.676" x2="5.676" y1="11.947" y2="240.285" gradientUnits="userSpaceOnUse">
    <stop offset="0" stop-color="#ebdbb2"/>
    <stop offset="1" stop-color="#d5c4a1"/>

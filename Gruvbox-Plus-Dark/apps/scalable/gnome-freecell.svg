@@ -18,15 +18,6 @@
             <stop offset=".498" stop-color="#b8bb26"/>
             <stop offset="1" stop-color="#b8bb26"/>
         </linearGradient>
-        <filter id="c" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="h" x="-.02" y="-.11" width="1.043" height="1.213" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.649"/>
-        </filter>
         <linearGradient id="i" x1="84.602" x2="91.75" y1="255.485" y2="257.22" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
         <radialGradient id="n" cx="77.14" cy="253.935" r="3.307" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
         <radialGradient id="l" cx="89.098" cy="252.752" r="2.646" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
@@ -35,12 +26,6 @@
         <radialGradient id="k" cx="109.97" cy="251.198" r="2.646" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
         <linearGradient id="j" x1="103.932" x2="109.749" y1="252.499" y2="256.959" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
         <radialGradient id="m" cx="95.529" cy="265.025" r="22.571" gradientTransform="matrix(.67616 -1.60273 .65925 .27812 -142.315 351.749)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-        <filter id="q" x="-.03" width="1.064" height="1.193" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".614"/>
-        </filter>
-        <filter id="g" x="-.04" y="-.06" width="1.083" height="1.114" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".899"/>
-        </filter>
     </defs>
     <g transform="translate(0 -229.267)">
         <path transform="matrix(.26458 0 0 .26458 0 232.67)" d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V88.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#b)" opacity=".2"/>

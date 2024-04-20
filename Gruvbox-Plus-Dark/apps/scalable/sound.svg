@@ -19,11 +19,6 @@
   <g opacity=".4">
    <path d="M 127.087 199 C 87.301 199 55 166.699 55 126.913 C 55 87.127 87.301 54.826 127.087 54.826 C 166.873 54.826 199.174 87.127 199.174 126.913 C 199.174 166.699 166.873 199 127.087 199 Z"/>
   </g>
-  <defs>
-   <filter id="08inZCHwXwXyjKlZG77AfbB0rWNa57WB" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#08inZCHwXwXyjKlZG77AfbB0rWNa57WB)">
    <path d="M 127.087 186.986 C 158.031 186.986 183.155 161.862 183.155 130.918 C 183.155 99.973 158.031 74.85 127.087 74.85 C 96.142 74.85 71.019 99.973 71.019 130.918 C 71.019 161.862 96.142 186.986 127.087 186.986 Z"/>
   </g>

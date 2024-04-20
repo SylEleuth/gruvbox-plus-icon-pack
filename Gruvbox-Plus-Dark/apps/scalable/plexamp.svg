@@ -9,15 +9,6 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M86.1745 62H107.41L152.408 126.008L111.241 184H118.159L158.539 125.992L114.435 62H135.605L179.274 126L139.699 184H145.904L186.126 126H208V132H189.266L149.044 190H128.342L172.01 126L132.436 68H125.858L165.838 126.008L121.293 190H99.6231L145.062 125.992L104.294 68H97.5012L137.021 126.2H48V120.2H125.694L86.1745 62Z" fill="url(#paint3_linear)"/>
 </g>
 <defs>
-<filter id="filter0_d" x="-4.32414" y="5.94696" width="264.648" height="248.338" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="5"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-</filter>
 <linearGradient id="paint0_linear" x1="128" y1="11.947" x2="128" y2="240.285" gradientUnits="userSpaceOnUse">
 <stop stop-color="#504945"/>
 <stop offset="1" stop-color="#3c3836"/>

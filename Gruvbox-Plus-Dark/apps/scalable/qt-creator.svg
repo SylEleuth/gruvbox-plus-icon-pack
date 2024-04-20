@@ -13,27 +13,15 @@
    <stop offset="0%" style="stop-color:#8ec07c"/>
    <stop offset="100%" style="stop-color:#458588"/>
         </linearGradient>
-        <filter id="c" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
         <linearGradient id="a">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2" stop-opacity="0"/>
         </linearGradient>
-        <filter id="g" x="-.05" y="-.05" width="1.092" height="1.1" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.682"/>
-        </filter>
         <linearGradient id="i" x1="-45.877" x2="-3.85" y1="75.985" y2="22.235" gradientTransform="translate(67.667 249.41) scale(.5471)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
         <linearGradient id="j" x1="-16.228" x2="-49.582" y1="38.29" y2="66.304" gradientTransform="translate(67.667 249.41) scale(.5471)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-        <filter id="h" x="-.05" y="-.04" width="1.106" height="1.088" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".363"/>
-        </filter>
         <linearGradient id="k" x1="-16.228" x2="-49.582" y1="38.29" y2="66.304" gradientTransform="scale(-.5471 .5471) rotate(-81.447 202.938 321.051)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
     </defs>
     <path transform="matrix(.2697 0 0 .2697 -7.129 -8.706)" d="M188.969 46C261.617 46 272 56.357 272 128.938v58.125c0 72.58-10.383 82.937-83.031 82.937H115.03C42.383 270 32 259.643 32 187.062v-58.125C32 56.358 42.383 46 115.031 46z" filter="url(#b)" opacity=".2"/>

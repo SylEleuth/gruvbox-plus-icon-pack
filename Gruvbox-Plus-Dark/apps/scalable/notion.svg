@@ -1,12 +1,5 @@
 <svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <filter id="a" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-            <feGaussianBlur in="SourceGraphic" stdDeviation="4.294" />
-            <feOffset dy="4" result="pf_100_offsetBlur" />
-            <feFlood flood-opacity=".4" />
-            <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow" />
-            <feBlend in="SourceGraphic" in2="pf_100_dropShadow" />
-        </filter>
         <linearGradient id="paint3_linear" x1="58" x2="58" y1="61" y2="194.88"
             gradientTransform="translate(2e-6 .059999)" gradientUnits="userSpaceOnUse">
             <stop stop-color="#504945" offset="0" />

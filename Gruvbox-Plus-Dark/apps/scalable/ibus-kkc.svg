@@ -6,25 +6,7 @@
   </linearGradient>
   <path fill="url(#b)" d="M165.689 11.95c74.056 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.583 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.494c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#ebdbb2" opacity=".1" d="M6.357 83.58l205.409 153.03c-11.562 2.311-26.426 3.019-45.523 3.019h-75.37c-74.055 0-84.639-10.558-84.639-84.544V95.834c0-4.303.041-8.37.123-12.254z"/>
- <defs>
-  <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#ebdbb2" fill-rule="evenodd" d="M59.939 88.795l4.143-6.18q6.214 5.021 10.653 11.974L70 100.383q-5.031-6.567-10.061-11.588zM55.5 112.743l4.143-6.18q6.214 4.249 11.541 11.974l-4.439 6.18q-5.918-7.339-11.245-11.974zm13.02 22.403l5.623 3.862q-5.623 19.313-10.949 32.06l-5.623-3.863q5.919-14.678 10.949-32.059zm26.041-52.531v7.725h12.725v-7.725h6.214v7.725h10.949v7.339H113.5v6.952h-6.214v-6.952H94.561v6.952h-6.214v-6.952H77.694V90.34h10.653v-7.725h6.214zm-14.796 24.72h42.613v20.472h-18.347v5.407h18.347v7.339h-18.347v5.022h22.193v7.339h-20.122q3.551 5.407 7.842 7.725 4.291 2.317 13.76 3.862l-2.663 7.725q-16.868-2.703-23.97-14.677-4.734 10.042-23.081 14.677l-2.663-7.725q16.571-3.476 20.418-11.587H75.622v-7.339H97.52q0-.773.296-2.318v-2.704H79.765v-7.339h18.051v-5.407H79.765v-20.472zm6.215 13.906h11.836v-7.339H85.98v7.339zm30.183-7.339h-12.132v7.339h12.132v-7.339zm77.531-3.863V98.451h-50.602v11.588h-6.214V91.112h28.112v-8.497h6.214v8.497h28.704v18.927h-6.214zm-46.163 5.408v-7.339h40.54v7.339q-4.734 3.862-9.469 8.497l-6.51 6.567v4.248H200.5v7.339h-28.408v21.631q0 4.635-2.368 7.146-2.367 2.51-11.836 2.51l-2.664-8.111h5.327q3.551 0 4.439-.58.888-.579.888-4.055v-18.541H135.99v-7.339h29.888v-8.111h.887q2.368-2.704 10.653-11.201h-29.887z" filter="url(#c)"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">

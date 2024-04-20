@@ -8,15 +8,6 @@
         <clipPath id="c">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="a" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="e" x="-.06" y="-.04" width="1.119" height="1.081" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="5.92"/>
-        </filter>
         <linearGradient id="f" x1="118.322" x2="291.279" y1="112.504" y2="442.096" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#458588" stop-opacity=".996"/>
             <stop offset="1" stop-color="#458588" stop-opacity=".996"/>

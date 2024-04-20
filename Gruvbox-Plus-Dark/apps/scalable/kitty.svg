@@ -22,13 +22,6 @@
    <stop id="stop13703" stop-color="#282828" stop-opacity="0" offset=".87305"/>
    <stop id="stop9915" stop-color="#282828" stop-opacity="0" offset="1"/>
   </linearGradient>
-  <filter id="a" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur7300" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset id="feOffset7302" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood id="feFlood7304" flood-opacity=".4"/>
-   <feComposite id="feComposite7306" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend id="feBlend7308" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
   <radialGradient id="radialGradient6298" cx="33.596" cy="16.565" r="27.299" gradientTransform="matrix(1.5611 0 6.339e-5 1.538 -18.584 -6.067)" gradientUnits="userSpaceOnUse">
    <stop id="stop6837" stop-color="#ebdbb2" offset=".40757"/>
    <stop id="stop6294" stop-color="#d5c4a1" offset="1"/>

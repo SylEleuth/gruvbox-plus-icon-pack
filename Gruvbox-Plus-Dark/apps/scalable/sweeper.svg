@@ -10,17 +10,11 @@
         <clipPath id="r" clipPathUnits="userSpaceOnUse">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="q" width="1.08" height="1.241" x="-.04" y="-.12" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.321"/>
-        </filter>
         <linearGradient id="p" x1="77" x2="227" y1="156" y2="156" gradientTransform="rotate(90 152 156)" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
         <linearGradient id="b">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="o" width="1.12" height="1.12" x="-.06" y="-.06" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="3.75"/>
-        </filter>
         <linearGradient id="n" x1="152" x2="152" y1="124" y2="236" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
         <linearGradient id="c">
             <stop offset="0"/>
@@ -34,12 +28,6 @@
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="k" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="j" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="i">
             <stop offset="0" stop-color="#fe8019"/>
             <stop offset="1" stop-color="#fe8019"/>

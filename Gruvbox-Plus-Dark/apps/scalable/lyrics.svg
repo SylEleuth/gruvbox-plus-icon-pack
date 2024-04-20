@@ -17,20 +17,6 @@
   <path fill="#ebdbb2" opacity=".2" d="M114.063 101.26C113.596 101.25 113.131 101.331 112.696 101.499C112.261 101.667 111.864 101.919 111.529 102.24C111.195 102.561 110.928 102.945 110.746 103.369C110.565 103.792 110.47 104.247 110.47 104.707L110.435 126.21L110.393 147.714C110.394 147.769 110.396 147.825 110.4 147.881L110.435 129.776L110.47 108.273C110.47 107.813 110.565 107.358 110.746 106.934C110.928 106.51 111.195 106.127 111.529 105.805C111.864 105.484 112.261 105.232 112.696 105.064C113.131 104.896 113.596 104.815 114.063 104.826C114.653 104.838 115.23 104.996 115.741 105.285L134.647 116.072L153.56 126.851C154.075 127.144 154.506 127.561 154.813 128.063C155.054 127.669 155.213 127.233 155.281 126.778C155.349 126.323 155.323 125.86 155.207 125.415C155.09 124.97 154.884 124.553 154.601 124.187C154.318 123.821 153.964 123.515 153.56 123.286L134.647 112.506L115.741 101.72C115.23 101.431 114.653 101.272 114.063 101.26V101.26Z"/>
  </g>
  <defs>
-  <filter id="filter0_d" width="264.648" height="248.338" x="-4.32" y="5.95" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-   <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-   <feOffset dy="4"/>
-   <feGaussianBlur stdDeviation="5"/>
-   <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
-   <feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow"/>
-   <feBlend in="SourceGraphic" in2="effect1_dropShadow" mode="normal" result="shape"/>
-  </filter>
-  <filter id="filter1_f" width="64.922" height="69.914" x="100.39" y="94.83" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-   <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"/>
-   <feGaussianBlur result="effect1_foregroundBlur" stdDeviation="5"/>
-  </filter>
   <linearGradient id="paint0_linear" x1="5.676" x2="5.676" y1="11.947" y2="240.285" gradientUnits="userSpaceOnUse">
    <stop offset="0" stop-color="#076678"/>
    <stop offset="1" stop-color="#458588"/>

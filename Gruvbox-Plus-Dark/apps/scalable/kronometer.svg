@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="EkKdPMP8VWgvKGBLFn0xBQ52rtl9z23l" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#EkKdPMP8VWgvKGBLFn0xBQ52rtl9z23l)">
   <linearGradient id="_lgradient_0" x1=".567" x2=".563" y1="1.071" y2="-.293" gradientTransform="matrix(244.648,0,0,228.338,5.682,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#bdae93"/>
@@ -40,15 +31,6 @@
    <stop offset="100%" style="stop-color:#665c54"/>
   </linearGradient>
   <path fill="url(#_lgradient_4)" d="M 55.25 158.75 L 201.125 158.75 L 201.125 165.875 C 201.125 168.083 199.333 169.875 197.125 169.875 L 59.25 169.875 C 57.042 169.875 55.25 168.083 55.25 165.875 L 55.25 158.75 Z"/>
-  <defs>
-   <filter id="CynhsklElOakhRsLJ8FzxoeJyE4cY3GS" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-   </filter>
-  </defs>
   <g filter="url(#CynhsklElOakhRsLJ8FzxoeJyE4cY3GS)">
    <linearGradient id="_lgradient_5" x1="-.033" x2="1.033" y1="-.071" y2=".924" gradientTransform="matrix(50.75,0,0,50.75,81.25,103.5)" gradientUnits="userSpaceOnUse">
     <stop offset="0%" style="stop-color:#fb4934"/>

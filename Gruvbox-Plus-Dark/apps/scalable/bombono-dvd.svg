@@ -13,44 +13,11 @@
             <stop offset="0" stop-color="#458588"/>
             <stop offset="1" stop-color="#282828"/>
         </linearGradient>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="a" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
         <radialGradient id="g" cx="20.831" cy="307.117" r="22.761" gradientTransform="matrix(1.23817 1.35688 -1.18472 1.08107 348.48 -115.766)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset=".936" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </radialGradient>
-        <filter id="m" x="-.37" y="-.14" width="1.734" height="1.272" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".824"/>
-        </filter>
-        <filter id="k" x="-.11" y="-.34" width="1.223" height="1.68" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".518"/>
-        </filter>
-        <filter id="j" x="-.2" y="-.14" width="1.41" height="1.284" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".752"/>
-        </filter>
-        <filter id="i" x="-.28" y="-.34" width="1.558" height="1.683" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".512"/>
-        </filter>
-        <filter id="l" x="-.05" y="-.08" width="1.098" height="1.154" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".629"/>
-        </filter>
-        <filter id="n" x="-.2" y="-.15" width="1.393" height="1.293" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".372"/>
-        </filter>
-        <filter id="o" x="-.11" y="-.14" width="1.213" height="1.275" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".434"/>
-        </filter>
-        <filter id="f" x="-.06" y="-.06" width="1.115" height="1.125" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.02"/>
-        </filter>
-        <filter id="h" x="-.04" y="-.04" width="1.069" height="1.075" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".612"/>
-        </filter>
     </defs>
     <path transform="matrix(.2697 0 0 .2697 0 2.199)" d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V88.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#a)" opacity=".2"/>
     <path d="M43.837 3.161c19.594 0 22.395 2.793 22.395 22.369v15.677c0 19.575-2.8 22.369-22.395 22.369H23.896c-19.594 0-22.394-2.794-22.394-22.37V25.53c0-19.576 2.8-22.369 22.394-22.369z" fill="none" opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.079" stroke="#282828"/>

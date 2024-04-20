@@ -6,24 +6,6 @@
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
- <defs>
-  <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#ebdbb2" d="M92.719 171.6c-2.862-.385-7.953-2.042-11.349-3.677-22.126-10.6-31.174-37.299-20.276-59.788 12.449-25.714 46.419-32.269 66.86-12.901 5.912 5.592 8.537 10.364 17.437 31.521 9.29 22.125 11.007 25.604 14.018 28.554 3.225 3.137 6.214 4.194 11.932 4.194 9.395 0 16.104-5.807 16.104-13.909 0-6.857-2.41-9.054-14.706-13.418-18.724-6.753-24.789-12.857-24.811-25.114 0-6.539 1.657-10.898 5.867-15.416 6.043-6.451 16.467-8.581 25.692-5.378 3.935 1.398 12.169 8.685 12.169 10.771 0 1.013-4.772 4.106-7.419 4.838-1.398.364-2.604-.11-4.216-1.656-3.269-3.138-5.482-4.106-9.395-4.106-6.753 0-10.942 4.062-10.942 10.622 0 6.539 2.664 8.751 15.972 13.242 18.339 6.192 23.755 11.784 23.865 24.724.11 11.178-4.926 19.241-14.943 24.013-4.557 2.152-6.104 2.427-13.545 2.427-10.622-.022-15.394-1.976-21.349-8.685-4.002-4.513-8.064-12.983-21.069-43.904-5.394-12.813-12.318-19.093-23.865-21.564-5.85-1.25-13.996-.088-19.307 2.708-5.179 2.708-10.964 8.817-13.694 14.403-2.256 4.535-2.874 5.637-2.874 13.524 0 7.524.706 9.46 2.594 13.588 2.861 6.319 8.492 12.125 14.684 15.262 4.474 2.257 5.709 3.025 12.847 3.025 6.858 0 8.761-.851 12.867-2.766 4.667-2.279 10.941-7.87 13.501-12.059l1.332-2.174 2.625 5.999c1.464 3.33 2.642 6.429 2.642 7.007 0 1.656-5.933 6.99-11.371 10.43-8.256 5.096-17.739 7.006-27.866 5.63" filter="url(#c)"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">

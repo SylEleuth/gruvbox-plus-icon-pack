@@ -17,12 +17,6 @@
             <stop offset="0"/>
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
-        <filter id="d" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="c" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
         <linearGradient id="f" x1="58.569" x2="59.047" y1="263.304" y2="263.305" gradientUnits="userSpaceOnUse" spreadMethod="pad" xlink:href="#a"/>
         <linearGradient id="i" x1="58.569" x2="59.047" y1="263.304" y2="263.305" gradientTransform="matrix(1 0 0 1.04255 -46.5 -11.264)" gradientUnits="userSpaceOnUse" spreadMethod="pad" xlink:href="#a"/>
         <linearGradient id="e" x1="58.569" x2="9.841" y1="290.914" y2="233.124" gradientUnits="userSpaceOnUse" xlink:href="#b"/>

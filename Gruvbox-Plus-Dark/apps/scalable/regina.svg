@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="Niz3OLK4gypqOg7NvgibbVSPqcvPCHic" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#Niz3OLK4gypqOg7NvgibbVSPqcvPCHic)">
   <path fill="#fabd2f" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 L 165.689 11.95 Z"/>
  </g>
@@ -55,15 +46,6 @@
   <path fill="#ebdbb2" d="M 171.795 219.691 C 174.172 219.617 176.98 219.643 179.162 219.516 C 182.178 219.34 185.012 219.111 187.674 218.816 C 190.337 218.522 192.828 218.162 195.159 217.728 C 197.12293 217.357125 199.068947 216.896981 200.991 216.349 L 200.991 201.365 L 171.795 201.365 L 171.795 219.691 L 171.795 219.691 Z"/>
   <path fill="#458588" d="M 200.991 216.349 C 201.208 216.288 201.468 216.249 201.682 216.186 C 203.600754 215.629672 205.479427 214.94342 207.305 214.132 C 208.971894 213.391337 210.573252 212.511209 212.092 211.501 C 213.531271 210.541196 214.875397 209.445871 216.106 208.23 C 217.332444 207.014281 218.4392 205.683495 219.411 204.256 C 220.016 203.373 220.507 202.347 221.034 201.365 L 200.991 201.365 L 200.991 216.349 L 200.991 216.349 Z"/>
  </g>
- <defs>
-  <filter id="yMnBBhvzf8o3Hl2vOOYIikst1c2SpPfc" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="0" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g opacity=".4">
   <linearGradient id="_lgradient_319" x1=".517" x2=".517" y1="0" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#ebdbb2"/>

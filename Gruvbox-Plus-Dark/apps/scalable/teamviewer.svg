@@ -13,12 +13,6 @@
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="a" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
         <linearGradient id="g" x1="412.95" x2="412.86" y1="648.08" y2="376.45" gradientTransform="matrix(.0573 0 0 .0573 4.571 233.286)" gradientUnits="userSpaceOnUse">
             <stop stop-color="#458588" offset="0"/>
             <stop stop-color="#458588" offset="1"/>

@@ -1,11 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" version="1.0" enable-background="new">
     <defs>
-        <filter id="c" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="d" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="h" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
         <linearGradient id="a">
             <stop offset="0" stop-color="#ebdbb2"/>
@@ -20,9 +14,6 @@
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="f" width="1.048" height="1.048" x="-.02" y="-.02" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.531"/>
-        </filter>
         <linearGradient id="e" x1="11.568" x2="245.568" y1="60.432" y2="279.432" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
     </defs>
     <path d="M162.537 62.432c72.648 0 83.031 10.357 83.031 82.937v58.125c0 72.581-10.383 82.938-83.031 82.938H88.599c-72.648 0-83.031-10.357-83.031-82.938V145.37c0-72.58 10.383-82.937 83.031-82.937z" opacity=".2" filter="url(#c)" transform="translate(0 -44)"/>

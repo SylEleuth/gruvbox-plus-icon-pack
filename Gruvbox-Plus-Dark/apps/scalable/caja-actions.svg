@@ -8,12 +8,6 @@
             <stop offset="0" stop-color="#282828"/>
             <stop offset="1" stop-color="#282828"/>
         </linearGradient>
-        <filter id="d" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="e" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="l" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
         <linearGradient id="a">
             <stop offset="0" stop-color="#ebdbb2"/>
@@ -24,42 +18,7 @@
         <clipPath id="k" clipPathUnits="userSpaceOnUse">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="g" width="1.017" height="1.074" x="-.01" y="-.04" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-            <feOffset in="SourceGraphic" result="result1"/>
-            <feComposite in="SourceGraphic" in2="result1" operator="out" result="pf_100_inverse"/>
-            <feFlood flood-opacity=".4" result="pf_100_color"/>
-            <feComposite in="pf_100_color" in2="pf_100_inverse" operator="in" result="pf_100_shadow"/>
-            <feComposite in="pf_100_shadow" in2="SourceGraphic" result="fbSourceGraphic"/>
-            <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
-            <feFlood flood-opacity=".498" result="flood"/>
-            <feComposite in="flood" in2="fbSourceGraphic" operator="out" result="composite1"/>
-            <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
-            <feOffset dx="2" dy="2" result="offset"/>
-            <feComposite in="offset" in2="fbSourceGraphic" operator="atop" result="fbSourceGraphic"/>
-            <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
-            <feFlood result="flood"/>
-            <feComposite in="flood" in2="fbSourceGraphic" operator="out" result="composite1"/>
-            <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
-            <feOffset dx="2" dy="2" result="offset"/>
-            <feComposite in="offset" in2="fbSourceGraphic" operator="atop" result="fbSourceGraphic"/>
-            <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
-            <feFlood flood-opacity=".6" result="flood"/>
-            <feComposite in="flood" in2="fbSourceGraphic" operator="out" result="composite1"/>
-            <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
-            <feOffset dx="2" dy="2" result="offset"/>
-            <feComposite in="offset" in2="fbSourceGraphic" operator="atop" result="composite2"/>
-        </filter>
         <linearGradient id="f" x1="21.739" x2="232.594" y1="271.93" y2="73.646" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
-        <filter id="h" width="1.058" height="1.269" x="-.03" y="-.13" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".969"/>
-        </filter>
-        <filter id="i" color-interpolation-filters="sRGB">
-            <feFlood flood-opacity=".4" result="flood"/>
-            <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
-            <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
-            <feOffset dx="-2" dy="-2" result="offset"/>
-            <feComposite in="offset" in2="SourceGraphic" operator="out" result="composite2"/>
-        </filter>
         <linearGradient id="j" x1="123.89" x2="244.549" y1="282.928" y2="172.102" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
     </defs>
     <path d="M162.537 62.432c72.648 0 83.031 10.357 83.031 82.937v58.125c0 72.581-10.383 82.938-83.031 82.938H88.599c-72.648 0-83.031-10.357-83.031-82.938V145.37c0-72.58 10.383-82.937 83.031-82.937z" opacity=".2" filter="url(#d)" transform="translate(0 -44)"/>

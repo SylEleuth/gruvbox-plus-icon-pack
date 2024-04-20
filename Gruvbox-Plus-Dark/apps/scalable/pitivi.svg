@@ -1,11 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.0" enable-background="new">
     <defs>
-        <filter id="a" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="b" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="c" x1="47.791" x2="46.277" y1="235.363" y2="240.935" gradientTransform="matrix(3.85273 0 0 3.85273 -3.148 -883.62)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#458588"/>
             <stop offset="1" stop-color="#458588"/>

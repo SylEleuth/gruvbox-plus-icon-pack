@@ -21,12 +21,6 @@
             <stop offset="0" stop-color="#076678"/>
             <stop offset="1" stop-color="#458588"/>
         </linearGradient>
-        <filter id="c" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="p" x1="33.5" x2="27.568" y1="7" y2="5" gradientTransform="matrix(1.3527 0 0 1.3527 2.536 231.655)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#b8bb26"/>
             <stop offset="1" stop-color="#b8bb26"/>

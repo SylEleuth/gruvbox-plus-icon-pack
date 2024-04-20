@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" version="1.1" viewBox="0 0 256 256">
- <defs>
-  <filter id="1Zw2PMGaqJmUxF0cN93D3V0sW46KqpNZ" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood flood-opacity=".4"/>
-   <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g style="filter:url(#1Zw2PMGaqJmUxF0cN93D3V0sW46KqpNZ)">
   <linearGradient id="_lgradient_179" x1=".547" x2=".53" y1="1.002" y2=".003" gradientTransform="matrix(244.648,0,0,228.338,5.619,11.952)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#ebdbb2"/>

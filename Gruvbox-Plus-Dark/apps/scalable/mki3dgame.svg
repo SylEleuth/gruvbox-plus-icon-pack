@@ -5,15 +5,6 @@
   </clipPath>
  </defs>
  <g clip-path="url(#_clipPath_KbEgaU698UAhUdDUoCihwc0DyLiJs6dN)">
-  <defs>
-   <filter id="Zy8Ok3x6mlmEOxb3dNvtOQRbmTfgOuQK" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-   </filter>
-  </defs>
   <g filter="url(#Zy8Ok3x6mlmEOxb3dNvtOQRbmTfgOuQK)">
    <linearGradient id="_lgradient_162" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
     <stop offset="0%" style="stop-color:#8ec07c"/>
@@ -37,14 +28,5 @@
    <path fill="#cc241d" d="M 166.521 165.429 L 171.87 131.901 L 185.801 115.115 L 200.5 142.693 L 196 169.85 L 183.207 187.788 L 166.521 165.429 Z"/>
    <path fill="#9d0006" d="M 171.87 131.901 L 133.73 121.1 L 95.382 68.374 L 112.316 55.5 L 144.1 64.317 L 185.801 115.115 L 171.87 131.901 Z"/>
   </g>
-  <defs>
-   <filter id="ZJz1DolgUn7GLh9d8cZqoaieECxK8WXT" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-   </filter>
-  </defs>
  </g>
 </svg>

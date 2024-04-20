@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#ebdbb2" d="M166.351 13.28c74.056 0 84.64 10.557 84.64 84.544v59.251c0 73.986-10.584 84.544-84.64 84.544H90.982c-74.056 0-84.639-10.558-84.639-84.544V97.824c0-73.987 10.583-84.544 84.639-84.544h75.369z" filter="url(#a)"/>
  <path fill="#fe8019" d="M127.5 45c-21.88 0-42.865 8.769-58.336 24.377C53.692 84.985 45 106.154 45 128.228c.042 29.728 15.8 57.176 41.339 72.009l5.4-37.492c-8.811-9.292-13.732-21.656-13.739-34.517 0-13.25 5.215-25.957 14.498-35.327 9.283-9.369 21.874-14.632 35.002-14.632 13.128 0 25.719 5.263 35.002 14.632 9.283 9.37 14.498 22.077 14.498 35.327-.022 12.458-4.655 24.458-12.99 33.647l5.444 37.906c25.095-14.951 40.508-42.151 40.546-71.553 0-22.074-8.692-43.243-24.164-58.851C170.365 53.769 149.38 45 127.5 45z"/>
  <path fill="#076678" d="M126.953 105.796c-13.546 0-24.527 11.083-24.527 24.754.004 9.874 5.82 18.802 14.802 22.717L106.553 210l41.539-.278-11.445-56.464c8.991-3.904 14.821-12.83 14.833-22.708 0-13.671-10.981-24.754-24.527-24.754z"/>

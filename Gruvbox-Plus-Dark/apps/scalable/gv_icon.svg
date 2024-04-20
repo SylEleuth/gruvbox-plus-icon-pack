@@ -17,15 +17,6 @@
             <stop offset=".5" stop-opacity=".892"/>
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
-        <filter id="e" x="-.01" y="-.03" width="1.015" height="1.053" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".98"/>
-        </filter>
-        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="a" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <radialGradient id="h" cx="5.649" cy="9.957" r="12.672" fx="5.119" gradientTransform="matrix(0 4.68025 -5.74585 0 105 217.104)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset=".262" stop-color="#ebdbb2"/>

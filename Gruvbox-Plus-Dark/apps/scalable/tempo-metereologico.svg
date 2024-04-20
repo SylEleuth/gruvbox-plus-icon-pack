@@ -1,14 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 67.73 67.73">
     <defs>
-        <filter id="j" width="1.102" height="1.146" x="-.05" y="-.07" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.95"/>
-        </filter>
         <clipPath id="h">
             <path d="M545.38 104.41l-23.45 40.62h-46.9v46.9l-40.62 23.45L457.861 256l-23.45 40.62 70.353 40.616 40.617 70.354L586 384.139l40.62 23.45 40.616-70.353 70.354-40.617L714.139 256l23.45-40.62-70.353-40.616-40.617-70.354L586 127.861z" fill="#fabd2f"/>
         </clipPath>
-        <filter id="i" width="1.12" height="1.12" x="-.06" y="-.06" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="5.549"/>
-        </filter>
         <linearGradient id="g" x1="80" x2="224" y1="84" y2="228" gradientTransform="translate(-26.432 -40.432)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-opacity="0"/>
             <stop offset=".505"/>
@@ -27,12 +21,6 @@
             <stop offset="0" stop-color="#458588"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="b" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="a" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="d" x1=".483" x2=".723" y1=".427" y2=".577" gradientTransform="matrix(64.48002 0 0 31.34973 1.819 261.474)" gradientUnits="userSpaceOnUse">
             <stop offset="0%" stop-color="#ebdbb2"/>
             <stop offset="100%" stop-opacity="0" stop-color="#ebdbb2"/>

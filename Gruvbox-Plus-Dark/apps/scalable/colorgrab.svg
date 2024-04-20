@@ -1,11 +1,5 @@
 <svg width="256" height="256" viewBox="0 0 67.73 67.73" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="a" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="e" x1="181.918" x2="170.052" y1="190.647" y2="165.317" gradientTransform="matrix(.58181 0 0 .58181 -54.41 175.272)" gradientUnits="userSpaceOnUse">
             <stop stop-color="#458588" offset="0"/>
             <stop stop-color="#458588" offset="1"/>
@@ -14,9 +8,6 @@
             <stop stop-color="#ebdbb2" offset="0"/>
             <stop stop-color="#ebdbb2" offset="1"/>
         </linearGradient>
-        <filter id="c" x="-.05" y="-.05" width="1.096" height="1.096" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".582"/>
-        </filter>
         <linearGradient id="g" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>

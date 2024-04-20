@@ -5,15 +5,6 @@
   </clipPath>
  </defs>
  <g clip-path="url(#_clipPath_AkfMUbxy7boLTAr26BZqpjFiydDgBVqp)">
-  <defs>
-   <filter id="VW1AAZ7xM1QJTqkvg0ROGoI8q9gMYtl2" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-   </filter>
-  </defs>
   <g filter="url(#VW1AAZ7xM1QJTqkvg0ROGoI8q9gMYtl2)">
    <linearGradient id="_lgradient_273" x1=".5" x2=".5" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
     <stop offset="0%" style="stop-color:#8ec07c"/>
@@ -36,11 +27,6 @@
     <stop offset="100%" style="stop-color:#83a598"/>
    </linearGradient>
    <rect fill="url(#_lgradient_275)" width="79.75" height="80.946" x="88.13" y="86.23" transform="matrix(1,0,0,1,0,0)"/>
-   <defs>
-    <filter id="KsQKQCoPt5pxsDzDEbEtLV80YzO7Wcjh" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-    </filter>
-   </defs>
    <g opacity=".4" filter="url(#KsQKQCoPt5pxsDzDEbEtLV80YzO7Wcjh)">
     <path d="M 128.131 59.388 C 127.694 59.37 127.26 59.438 126.847 59.59 L 57.796 84.905 C 56.417 85.411 55.499 86.767 55.5 88.283 L 55.5 118.351 C 55.498 120.823 57.854 122.554 60.102 121.729 L 71.036 117.714 L 71.036 140.875 L 60.102 136.86 C 57.854 136.035 55.498 137.766 55.5 140.238 L 55.5 170.306 C 55.499 171.822 56.417 173.178 57.796 173.684 L 126.847 198.999 C 127.26 199.151 127.694 199.219 128.131 199.201 C 128.479 199.188 128.825 199.12 129.153 198.999 L 198.204 173.684 C 199.583 173.178 200.501 171.822 200.5 170.306 L 200.5 140.238 C 200.502 137.767 198.146 136.035 195.898 136.86 L 184.964 140.875 L 184.964 117.714 L 195.898 121.729 C 198.146 122.554 200.502 120.823 200.5 118.351 L 200.5 88.283 C 200.501 86.767 199.583 85.411 198.204 84.905 L 129.153 59.59 C 128.825 59.47 128.479 59.402 128.131 59.388 L 128.131 59.388 Z M 128 96.819 L 159.071 108.217 L 159.071 150.372 L 128 161.77 L 96.929 150.372 L 96.929 108.217 L 128 96.819 Z"/>
    </g>

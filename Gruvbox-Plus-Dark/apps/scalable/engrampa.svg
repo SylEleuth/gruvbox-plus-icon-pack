@@ -6,21 +6,7 @@
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path opacity=".1" d="M128 11.935v8.155h8.155v-8.155H128zm0 8.155h-8.155v8.155H128V20.09zm0 8.155V36.4h8.155v-8.155H128zm0 8.155h-8.155v8.155H128V36.4zm0 8.155v8.155h8.155v-8.155H128zm0 8.155h-8.155v8.155H128V52.71zm0 8.155v8.155h8.155v-8.155H128zm0 8.155h-8.155v8.155H128V69.02zm0 8.155v8.155h8.155v-8.155H128zm0 8.155h-8.155v8.155H128V85.33zm0 8.155v8.155h8.155v-8.155H128zm0 8.155h-8.155v8.155H128v-8.155zm0 8.155v8.155h8.155v-8.155H128z"/>
- <defs>
-  <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="1.85"/>
-  </filter>
- </defs>
  <path opacity=".2" d="M119.845 13.974v8.155H128v-8.155h-8.155zM128 22.129v8.155h8.155v-8.155H128zm0 8.155h-8.155v8.155H128v-8.155zm0 8.155v8.155h8.155v-8.155H128zm0 8.155h-8.155v8.155H128v-8.155zm0 8.155v8.155h8.155v-8.155H128zm0 8.155h-8.155v8.155H128v-8.155zm0 8.155v8.155h8.155v-8.155H128zm0 8.155h-8.155v8.155H128v-8.155zm0 8.155v8.155h8.155v-8.155H128zm0 8.155h-8.155v8.155H128v-8.155zm0 8.155v8.155h8.155v-8.155H128zm0 8.155h-8.155v38.736c0 1.129.909 2.038 2.039 2.038h12.232c1.13 0 2.039-.909 2.039-2.038v-30.581H128v-8.155zm-4.077 28.542h8.154v8.155h-8.154v-8.155z" filter="url(#c)"/>
  <path fill="#ebdbb2" d="M119.845 117.95v30.581c0 1.129.909 2.039 2.039 2.039h12.232c1.13 0 2.039-.91 2.039-2.039V117.95h-16.31zm4.078 20.387h8.154v8.155h-8.154v-8.155z"/>
  <path fill="#ebdbb2" d="M128 11.935v8.155h-8.155v-8.155H128zm0 8.155h8.155v8.155H128V20.09zm0 8.155V36.4h-8.155v-8.155H128zm0 8.155h8.155v8.155H128V36.4zm0 8.155v8.155h-8.155v-8.155H128zm0 8.155h8.155v8.155H128V52.71zm0 8.155v8.155h-8.155v-8.155H128zm0 8.155h8.155v8.155H128V69.02zm0 8.155v8.155h-8.155v-8.155H128zm0 8.155h8.155v8.155H128V85.33zm0 8.155v8.155h-8.155v-8.155H128zm0 8.155h8.155v8.155H128v-8.155zm0 8.155v8.155h-8.155v-8.155H128z"/>

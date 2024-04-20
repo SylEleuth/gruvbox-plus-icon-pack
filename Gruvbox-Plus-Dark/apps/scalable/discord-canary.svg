@@ -1,16 +1,4 @@
 <svg id="svg489" width="256" height="256" style="isolation:isolate" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs454">
-  <filter id="3nsXm4MkfB24a7QNhUNqxobvwPUcostB" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur443" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset id="feOffset445" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood id="feFlood447" flood-opacity=".4"/>
-   <feComposite id="feComposite449" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend id="feBlend451" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
-  <filter id="MlZIJxASH8rLCVq6nXneoorEUiQVXsU7" x="-.071073" y="-.10069" width="1.1421" height="1.2014" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur37" stdDeviation="4.294"/>
-  </filter>
- </defs>
  <g id="g463" filter="url(#3nsXm4MkfB24a7QNhUNqxobvwPUcostB)">
   <linearGradient id="_lgradient_61" x2="0" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">
    <stop id="stop456" stop-color="#fabd2f" offset="0"/>

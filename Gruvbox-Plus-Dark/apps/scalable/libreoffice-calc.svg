@@ -1,11 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" version="1.0" enable-background="new">
     <defs>
-        <filter id="u" x="-.023" width="1.046" y="-.025" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="v" x="-.012" width="1.023" y="-.012" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient xlink:href="#a" id="ak" x1="296" y1="-212" x2="296" y2="236" gradientUnits="userSpaceOnUse"/>
         <linearGradient id="a">
             <stop offset="0" stop-color="#ebdbb2"/>
@@ -114,13 +108,7 @@
             <stop offset=".505"/>
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
-        <filter id="y" x="-.012" width="1.023" y="-.012" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".87"/>
-        </filter>
         <linearGradient xlink:href="#s" id="w" x1="120.551" y1="104.433" x2="120.468" y2="238.961" gradientUnits="userSpaceOnUse"/>
-        <filter id="x" x="-.092" width="1.183" y="-.098" height="1.196" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="6.873"/>
-        </filter>
         <radialGradient cx="-1535.304" cy="-853" r="10" fx="-1535.304" fy="-853" id="M" xlink:href="#e" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-3.31574 0 0 -4.65 -3490.73 -4550.95)"/>
         <linearGradient xlink:href="#d" id="C" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.1615 0 0 1 530.745 -391)" x1="-17" y1="-1194.638" x2="144" y2="-1194.638"/>
         <linearGradient xlink:href="#t" id="F" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 -18)" x1="529.25" y1="-1568.638" x2="535.438" y2="-1574.826"/>

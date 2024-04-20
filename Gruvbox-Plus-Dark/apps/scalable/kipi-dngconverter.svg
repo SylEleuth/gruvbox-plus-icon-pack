@@ -21,9 +21,6 @@
       </rdf:RDF>
    </metadata>
    <defs id="defs38">
-      <filter id="h" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
-         <feGaussianBlur stdDeviation="1.2" id="feGaussianBlur2" />
-      </filter>
       <linearGradient id="g" x1="128" x2="185.544" y1="100" y2="133.849" gradientTransform="translate(-26.432 -38.432)"
          gradientUnits="userSpaceOnUse">
          <stop offset="0" stop-opacity="0" id="stop5" />
@@ -51,25 +48,11 @@
             d="M115.031 44C42.383 44 32 54.357 32 126.938v58.124c0 10.166.218 19.071.768 26.938 3.376 48.3 19.79 56 82.263 56h73.938c62.473 0 78.887-7.7 82.263-56 .55-7.867.768-16.772.768-26.938v-58.125C272 54.358 261.617 44 188.969 44z"
             fill="#ebdbb2" id="path29" />
       </clipPath>
-      <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-         <feGaussianBlur stdDeviation="2.32" id="feGaussianBlur32" />
-      </filter>
-      <filter id="a" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-         <feGaussianBlur stdDeviation="1.16" id="feGaussianBlur35" />
-      </filter>
       <linearGradient id="_lgradient_22" x1="0.5" x2="0.5" y1="0" y2="1"
          gradientTransform="matrix(32.273596,0,0,30.198661,32.697992,33.466207)" gradientUnits="userSpaceOnUse">
          <stop offset="0%" style="stop-color:#8ec07c" id="stop80" />
          <stop offset="100%" style="stop-color:#458588" id="stop82" />
       </linearGradient>
-      <filter style="color-interpolation-filters:sRGB" id="filter3872" x="-0.10431927" width="1.2086385" y="-0.11194997"
-         height="1.2238999">
-         <feGaussianBlur stdDeviation="1.4104444" id="feGaussianBlur3874" />
-      </filter>
-      <filter inkscape:collect="always" style="color-interpolation-filters:sRGB" id="filter1412" x="-0.11771652"
-         width="1.235433" y="-0.12732501" height="1.25465">
-         <feGaussianBlur inkscape:collect="always" stdDeviation="1.6023988" id="feGaussianBlur1414" />
-      </filter>
    </defs>
    <g transform="translate(3.834 -1.413) scale(.12974)" id="g74">
       <path transform="matrix(2.0393 0 0 2.0393 -29.555 37.126)"

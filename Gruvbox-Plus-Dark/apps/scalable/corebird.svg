@@ -1,20 +1,11 @@
 <svg width="256" height="256" viewBox="0 0 67.73 67.73" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="a" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
         <clipPath id="e">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
         <clipPath id="c">
             <path d="M115.031 44C42.383 44 32 54.357 32 126.938v58.124c0 13.772.379 25.294 1.482 34.938h237.036c1.103-9.644 1.482-21.166 1.482-34.938v-58.125C272 54.358 261.617 44 188.969 44z" fill="#ebdbb2"/>
         </clipPath>
-        <filter id="d" x="-.01" y="-.03" width="1.015" height="1.053" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".98"/>
-        </filter>
         <linearGradient id="f" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>

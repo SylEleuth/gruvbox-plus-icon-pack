@@ -9,12 +9,6 @@
         <clipPath id="d">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="c" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="b" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
         <linearGradient id="f" x1="70.347" x2="70.347" y1="245.4" y2="269.14" gradientTransform="matrix(2.72727 0 0 2.72727 -48.977 -501.383)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#282828"/>
             <stop offset="1" stop-color="#282828"/>

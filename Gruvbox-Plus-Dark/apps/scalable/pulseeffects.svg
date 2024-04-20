@@ -46,9 +46,6 @@
       <stop stop-color="#d5c4a1" offset="0"/>
       <stop stop-color="#ebdbb2" offset="1"/>
     </linearGradient>
-    <filter id="8dIF3wsDYZaxWD7NX8YrsTyrkzzkSDRh" x="-.2606" y="-.2606" width="1.521" height="1.521" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="4.294"/>
-    </filter>
     <linearGradient id="_lgradient_251" x2="0" y2="1" gradientTransform="matrix(39.54 0 0 39.54 55.5 81.86)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#ebdbb2" offset="0"/>
       <stop stop-color="#a89984" offset="1"/>
@@ -57,9 +54,6 @@
       <stop stop-color="#d5c4a1" offset="0"/>
       <stop stop-color="#ebdbb2" offset="1"/>
     </linearGradient>
-    <filter id="EDnYO0lo7mPofhyimTQCdXNE19yYljPq" x="-.2606" y="-.2606" width="1.521" height="1.521" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="4.294"/>
-    </filter>
     <linearGradient id="_lgradient_253" x2="0" y2="1" gradientTransform="matrix(39.54 0 0 39.54 161 101.6)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#ebdbb2" offset="0"/>
       <stop stop-color="#a89984" offset="1"/>
@@ -68,9 +62,6 @@
       <stop stop-color="#d5c4a1" offset="0"/>
       <stop stop-color="#ebdbb2" offset="1"/>
     </linearGradient>
-    <filter id="7wnWY62zzZJBL6PaXHVBUQnunvF79bKD" x="-.2606" y="-.2606" width="1.521" height="1.521" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="4.294"/>
-    </filter>
     <linearGradient id="_lgradient_255" x2="0" y2="1" gradientTransform="matrix(39.54 0 0 39.54 108.2 128)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#ebdbb2" offset="0"/>
       <stop stop-color="#a89984" offset="1"/>

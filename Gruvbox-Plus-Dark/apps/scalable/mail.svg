@@ -1,19 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#458588" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
- <defs>
-  <filter id="b" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation=".76"/>
-  </filter>
- </defs>
  <path opacity=".1" d="M64.462 52.779c-7.287-.091-12.183 1.545-14.696 4.561-2.639 3.141-3.991 8.294-3.991 15.456v126.769h163.1V72.796c0-7.162-1.352-12.315-3.991-15.456-2.513-3.016-7.484-4.561-14.696-4.561H64.462z" filter="url(#b)"/>
  <path fill="#ebdbb2" d="M64.462 52.779c-7.287-.091-12.183 1.545-14.696 4.561-2.639 3.141-3.991 8.294-3.991 15.456v126.769h163.1V72.796c0-7.162-1.352-12.315-3.991-15.456-2.513-3.016-7.484-4.561-14.696-4.561H64.462z"/>
  <path fill="#458588" opacity=".5" d="M78.395 85.395v8.155h97.86v-8.155h-97.86zm0 24.465v8.155h48.93v-8.155h-48.93z"/>

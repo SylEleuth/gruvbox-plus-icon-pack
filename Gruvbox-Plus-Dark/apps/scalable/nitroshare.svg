@@ -1,13 +1,4 @@
 <svg id="svg59" width="256" height="256" style="isolation:isolate" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs13">
-  <filter id="S00sVjUKtOj7auwqjoMLdNX0t2Vd94vw" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur2" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset id="feOffset4" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood id="feFlood6" flood-opacity=".4"/>
-   <feComposite id="feComposite8" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend id="feBlend10" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <g id="g22" filter="url(#S00sVjUKtOj7auwqjoMLdNX0t2Vd94vw)">
   <linearGradient id="_lgradient_49" x2="0" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.43 11.452)" gradientUnits="userSpaceOnUse">
    <stop id="stop15" stop-color="#504945" offset="0"/>
@@ -28,11 +19,6 @@
   <g id="g39" opacity="1">
    <path id="path37" d="m143 43.5-37.5 45h-22.5v90h30v30l37.5-45h22.5v-90h-30v-30z" fill="#282828"/>
   </g>
-  <defs id="defs44">
-   <filter id="w8NHz0xaLGL6zKdRD4f1CZVOPS4UKgLi" x="-.13741" y="-.17176" width="1.2748" height="1.3435" color-interpolation-filters="sRGB">
-    <feGaussianBlur id="feGaussianBlur41" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g id="g48" filter="url(#w8NHz0xaLGL6zKdRD4f1CZVOPS4UKgLi)" opacity=".4">
    <path id="path46" d="m90.5 99.75v52.5h22.5v-22.5l30 30h22.5v-52.5h-22.5v22.5l-30-30h-22.5z"/>
   </g>

@@ -7,15 +7,6 @@
   </linearGradient>
   <path d="m165.68 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543v-59.251c0-73.987 10.584-84.544 84.639-84.544h75.37z" fill="url(#b)"/>
  </g>
- <defs>
-  <filter id="a" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-   <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset dy="4" result="pf_100_offsetBlur"/>
-   <feFlood flood-opacity=".4"/>
-   <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path d="M80.815 80.641h94.358c.098 0 .178.08.178.178v80.161c0 .099-.08.179-.178.179H80.815a.179.179 0 0 1-.179-.179V80.819c0-.098.08-.178.179-.178z" fill="#ebdbb2"/>
  <path d="m61.331 48.002v13.333h-13.333v133.33h13.333v13.333h133.34v-13.333h13.333v-133.33h-13.333v-13.333zm13.333 13.333h106.67l13.335 13.333v86.672h-13.335v13.333h-106.67v-13.333h-13.333v-86.672z" fill="#a89984" stroke-width="1.4077"/>
  <path d="m74.666 194.67h-13.333v-13.333h-13.333v-106.67h13.333v-13.335h13.333v-13.333h106.67v13.333h13.333v13.335h13.335v106.67h-13.335v13.333h-13.333v13.333h-106.67zm106.67-13.333h13.333v-106.67h-13.333v-13.335h-106.67v13.335h-13.333v106.67h13.333v13.333h106.67zm-86.67-93.337h13.335v46.666h-13.335zm53.337 0h13.333v46.666h-13.333z" fill="#665c54" stroke-width="1.4077"/>

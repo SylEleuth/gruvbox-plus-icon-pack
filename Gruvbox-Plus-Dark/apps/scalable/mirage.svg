@@ -1,8 +1,5 @@
 <svg width="256" height="256" viewBox="0 0 67.73 67.73" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <filter id="e" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.2"/>
-        </filter>
         <linearGradient id="d" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
@@ -12,12 +9,6 @@
         <clipPath id="c">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="a" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="f" x1="28.317" x2="28.308" y1="281.2" y2="284.013" gradientTransform="translate(-4.242 -37.265) scale(1.13323)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#d79921"/>
             <stop offset=".526" stop-color="#d79921"/>

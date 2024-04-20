@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="OoBlnfi7DMJwURjNBRp9xzHzS5eE63SL" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#OoBlnfi7DMJwURjNBRp9xzHzS5eE63SL)">
   <linearGradient id="_lgradient_147" x1=".233" x2=".933" y1="-.071" y2=".924" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" stop-opacity=".996" style="stop-color:#d3869b"/>
@@ -41,11 +32,6 @@
    <path fill="#ebdbb2" d="M 70.929253 81.824561 C 67.418643 81.824561 64.590643 84.600551 64.590643 88.048246 L 64.590643 90.311404 C 64.590643 86.863709 67.418643 84.087719 70.929253 84.087719 L 184.988876 84.087719 C 188.499486 84.087719 191.327485 86.863709 191.327485 90.311404 L 191.327485 88.048246 C 191.327485 84.600551 188.499486 81.824561 184.988876 81.824561 L 70.929253 81.824561 Z"/>
   </g>
  </g>
- <defs>
-  <filter id="nUV8Cl5nvtT9JFRnWVoamsvo0MFh9KCF" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-  </filter>
- </defs>
  <g opacity=".4" filter="url(#nUV8Cl5nvtT9JFRnWVoamsvo0MFh9KCF)">
   <path fill-rule="evenodd" d="M 56 106 L 200 106 L 200 202.6 L 56 202.6 L 56 106 Z M 115.333333 118.933333 L 140.333333 118.933333 C 143.27688 118.933333 145.666667 121.32312 145.666667 124.266667 L 145.666667 124.266667 C 145.666667 127.210213 143.27688 129.6 140.333333 129.6 L 115.333333 129.6 C 112.389787 129.6 110 127.210213 110 124.266667 L 110 124.266667 C 110 121.32312 112.389787 118.933333 115.333333 118.933333 Z"/>
  </g>

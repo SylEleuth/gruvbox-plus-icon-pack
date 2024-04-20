@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="XDpuJMVx2mmftEx3kju284uqW9axBE2C" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#XDpuJMVx2mmftEx3kju284uqW9axBE2C)">
   <linearGradient id="_lgradient_54" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.452)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#504945"/>
@@ -57,11 +48,6 @@
   <path fill="url(#_lgradient_60)" d="M 55.5 148.026 C 56.042 161.213 88.362 171.826 128.05 171.826 C 167.623 171.826 199.764 161.276 200.486 148.142 L 199.911 148.601 C 195.34 160.473 164.919 169.642 128.053 169.642 C 90.845 169.642 60.105 160.403 55.963 148.372 L 55.503 148.027 L 55.5 148.026 Z"/>
   <path fill="#504945" d="M 55.942 187.946 C 60.084 199.976 90.824 209.216 128.031 209.216 C 164.9 209.216 195.32 200.047 199.889 188.175 C 186.952 198.726 159.68 205.996 128.031 205.996 C 96.215 205.996 68.797 198.588 55.942 187.946 Z"/>
  </g>
- <defs>
-  <filter id="MkbKFJItUsYJUWNfHuridO9T8ZkgZ23t" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-  </filter>
- </defs>
  <g opacity=".4" filter="url(#MkbKFJItUsYJUWNfHuridO9T8ZkgZ23t)">
   <path d="M 126.32 240.288 L 126 211.494 C 126 137.507 136.584 126 210.639 126 L 248.648 126"/>
  </g>

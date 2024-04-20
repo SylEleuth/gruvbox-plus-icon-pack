@@ -16,20 +16,9 @@
    <feFlood flood-opacity="0" result="BackgroundImageFix"/>
    <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
    <feOffset dy="4"/>
-   <feGaussianBlur stdDeviation="5"/>
    <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
    <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
    <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-  </filter>
-  <filter id="filter1_i" x="64" y="56" width="128.132" height="149" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-   <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-   <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-   <feOffset dy="4"/>
-   <feGaussianBlur stdDeviation="2"/>
-   <feComposite in2="hardAlpha" k2="-1" k3="1" operator="arithmetic"/>
-   <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-   <feBlend in2="shape" result="effect1_innerShadow"/>
   </filter>
   <linearGradient id="paint0_linear" x1="41.3539" x2="35.8478" y1="240.285" y2="18.0158" gradientUnits="userSpaceOnUse">
    <stop stop-color="#d5c4a1" offset="0"/>

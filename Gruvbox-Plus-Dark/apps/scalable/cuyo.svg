@@ -22,15 +22,9 @@
    <feFlood flood-opacity="0" result="BackgroundImageFix"/>
    <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
    <feOffset dy="4"/>
-   <feGaussianBlur stdDeviation="5"/>
    <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
    <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
    <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-  </filter>
-  <filter id="filter1_f" x="55" y="118.703" width="146.875" height="83.4375" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-   <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-   <feGaussianBlur result="effect1_foregroundBlur" stdDeviation="5"/>
   </filter>
   <linearGradient id="paint0_linear" x1="128" x2="128" y1="245.36" y2="11.947" gradientUnits="userSpaceOnUse">
    <stop stop-color="#d5c4a1" offset=".0217391"/>

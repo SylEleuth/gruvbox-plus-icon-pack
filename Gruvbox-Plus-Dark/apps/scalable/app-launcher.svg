@@ -13,15 +13,6 @@
    <stop id="stop4241" stop-color="#ebdbb2" offset="0"/>
    <stop id="stop4243" stop-color="#ebdbb2" offset="1"/>
   </linearGradient>
-  <filter id="filter4569" x="-.0116" y="-.012429" width="1.0232" height="1.0249" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur4571" stdDeviation="1.16"/>
-  </filter>
-  <filter id="filter939" x="-.0232" y="-.024857" width="1.0464" height="1.0497" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur941" stdDeviation="2.32"/>
-  </filter>
-  <filter id="filter1053" x="-.065778" y="-.065778" width="1.1316" height="1.1316" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur1055" stdDeviation="0.97895991"/>
-  </filter>
  </defs>
  <g id="layer1" transform="translate(0 -229.27)">
   <path id="path937" transform="matrix(.26971 0 0 .26971 -1.9098e-8 231.47)" d="m162.54 5.568c72.649 0 83.031 10.357 83.031 82.938v58.125c0 72.581-10.383 82.938-83.031 82.938h-73.937c-72.649 0-83.031-10.357-83.031-82.938v-58.125c0-72.581 10.383-82.938 83.031-82.938z" enable-background="new" fill="#282828" filter="url(#filter939)" opacity=".2"/>

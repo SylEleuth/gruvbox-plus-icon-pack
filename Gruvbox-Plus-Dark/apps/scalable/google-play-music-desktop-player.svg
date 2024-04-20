@@ -6,15 +6,6 @@
   </linearGradient>
   <path fill="url(#b)" d="M165.689 11.95c74.056 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.583 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.494c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <g filter="url(#c)">
   <circle fill="#fee581" cx="128" cy="127.998" r="82.498" vector-effect="non-scaling-stroke"/>
   <linearGradient id="d" x1=".499" x2=".499" y1="-.005" y2=".997" gradientTransform="matrix(164.996 0 0 163.736 45.502 46.764)" gradientUnits="userSpaceOnUse">
@@ -63,15 +54,6 @@
   </linearGradient>
   <path fill="url(#j)" d="M189.443 180.817l-20.122-17.126 5.133-8.371 4.844-11.251 2.128-8.376.499-7.499-.252-6.375-1.498-6.374-5.483-13.145-4.498-8.624-7.126-6.5-10.369-6.729-10.625-3.873-2.623-1.13 5.894-24.988 11.223 2.492 9.253 4.876s10.374 5.744 10.5 6.374c.126.63 7.499 7.499 7.499 7.499l11.997 14.126 7.252 13.5 4.372 17.62.625 17.266-2.375 11.997-3.733 13.626-4.517 8.731-3.873 6.001-4.125 6.253z"/>
  </g>
- <defs>
-  <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#ebdbb2" opacity=".1" d="M249.643 83.58L44.234 236.61c11.562 2.311 26.426 3.019 45.523 3.019h75.37c74.055 0 84.639-10.558 84.639-84.544V95.834c0-4.303-.041-8.37-.123-12.254z"/>
  <g opacity=".4">
   <linearGradient id="k" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">

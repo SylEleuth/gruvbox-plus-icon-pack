@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="e4HRJwXKLkp4VSUHqflltVIPDCywxUqk" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#e4HRJwXKLkp4VSUHqflltVIPDCywxUqk)">
   <linearGradient id="_lgradient_12" x1=".568" x2=".567" y1="1.005" y2="-.071" gradientTransform="matrix(244.648309,0,0,228.338396,5.619191,11.951604)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#458588"/>
@@ -15,15 +6,6 @@
   </linearGradient>
   <path fill="url(#_lgradient_12)" d="M 165.628109 11.951604 C 239.683817 11.951604 250.2675 22.508801 250.2675 96.495462 L 250.2675 155.746257 C 250.2675 229.732514 239.683817 240.29 165.628109 240.29 L 90.258584 240.29 C 16.20288 240.29 5.619191 229.732514 5.619191 155.746257 L 5.619191 96.495462 C 5.619191 22.508801 16.20288 11.951604 90.258584 11.951604 L 165.628109 11.951604 Z"/>
  </g>
- <defs>
-  <filter id="4tsEjrFTVC0A0aGZrMKBArP7vs12jlx6" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#4tsEjrFTVC0A0aGZrMKBArP7vs12jlx6)">
   <path fill="#ebdbb2" d="M 123.049843 126.408589 L 128.529401 121.142358 L 171.71977 163.662449 C 174.889317 166.813641 179.199902 168.536293 183.679529 168.536293 C 188.159157 168.494277 192.469742 166.72961 195.597029 163.536401 C 198.766576 160.385209 200.541523 156.099587 200.499262 151.645901 C 200.457002 147.192216 198.682055 142.906594 195.470247 139.797418 L 143.795537 88.910321 C 135.509873 80.750944 121.977002 80.670641 113.593965 88.731106 L 60.658821 139.629354 C 57.404752 142.738531 55.587544 146.982136 55.503023 151.435822 C 55.418502 155.889507 57.108927 160.217145 60.236214 163.410353 C 63.363501 166.603562 67.631825 168.452262 72.111453 168.536293 C 76.59108 168.578309 80.943926 166.897673 84.155734 163.788497 L 98.74785 149.764471 L 116.654162 167.737991 C 119.781449 170.9312 124.092034 172.695867 128.571661 172.737883 C 133.051289 172.737883 137.361873 171.015231 140.531421 167.864039 C 143.743229 164.712846 145.518176 160.46924 145.560437 156.015555 C 145.602697 151.56187 143.827751 147.276248 140.658203 144.083039 L 123.049843 126.408589 Z"/>
  </g>

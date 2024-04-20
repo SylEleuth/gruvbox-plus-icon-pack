@@ -16,12 +16,6 @@
             <stop offset="0" stop-color="#427b58"/>
             <stop offset="1" stop-color="#689d6a"/>
         </linearGradient>
-        <filter id="b" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="a" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
     </defs>
     <path d="M188.969 46C261.617 46 272 56.357 272 128.938v58.125c0 72.58-10.383 82.937-83.031 82.937H115.03C42.383 270 32 259.643 32 187.062v-58.125C32 56.358 42.383 46 115.031 46z" transform="matrix(.26453 0 0 .26453 -7.195 -6.994)" opacity=".2" filter="url(#a)"/>
     <path d="M188.969 44C261.617 44 272 54.357 272 126.938v58.124C272 257.644 261.617 268 188.969 268H115.03C42.383 268 32 257.643 32 185.062v-58.125C32 54.358 42.383 44 115.031 44z" transform="matrix(.26453 0 0 .26453 -7.195 -6.994)" opacity=".1" filter="url(#b)"/>

@@ -6,15 +6,6 @@
   </linearGradient>
   <path fill="url(#_lgradient_200)" d="M 166.351 13.28 C 240.407 13.28 250.991 23.837 250.991 97.824 L 250.991 157.075 C 250.991 231.061 240.407 241.619 166.351 241.619 L 90.982 241.619 C 16.926 241.619 6.343 231.061 6.343 157.075 L 6.343 97.824 C 6.343 23.837 16.926 13.28 90.982 13.28 L 166.351 13.28 L 166.351 13.28 Z"/>
  </g>
- <defs>
-  <filter id="P6Pad4EdURggNrJMOmt48fApjxBeLCbh" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <path fill="#3c3836" d="M 70 50 C 81.046 50 90 58.954 90 70 C 90 81.046 81.046 90 70 90 C 58.954 90 50 81.046 50 70 C 50 58.954 58.954 50 70 50 Z"/>
  <path fill="#3c3836" d="M 188 48 C 199.046 48 208 56.954 208 68 C 208 79.046 199.046 88 188 88 C 176.954 88 168 79.046 168 68 C 168 56.954 176.954 48 188 48 Z"/>
  <path fill="#3c3836" d="M 68 168 C 79.046 168 88 176.954 88 188 C 88 199.046 79.046 208 68 208 C 56.954 208 48 199.046 48 188 C 48 176.954 56.954 168 68 168 Z"/>

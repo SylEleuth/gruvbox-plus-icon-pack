@@ -12,13 +12,6 @@
    <stop style="stop-color:#8f3f71" offset="0%"/>
    <stop style="stop-color:#b16286" offset="100%"/>
   </linearGradient>
-  <filter id="Tzcz4vEdmITS7wQ3AsSx9hYNK6Mdtix6" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood flood-opacity=".4"/>
-   <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
   <linearGradient id="linearGradient1050" x1=".044" x2=".745" y1=".988" y2=".089" gradientTransform="matrix(244.64831,0,0,228.3384,5.68,11.95)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient949"/>
   <linearGradient id="linearGradient949-6" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(244.64831,0,0,228.3384,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#8f3f71" offset="0%"/>

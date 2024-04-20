@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="vH5eFmOkNAUinH3JXuAfPQwiExTK9Izl" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#vH5eFmOkNAUinH3JXuAfPQwiExTK9Izl)">
   <path fill="#ebdbb2" d="M 165.688919 11.95 C 239.744626 11.95 250.328309 22.507198 250.328309 96.493859 L 250.328309 155.744653 C 250.328309 229.73091 239.744626 240.288396 165.688919 240.288396 L 90.319393 240.288396 C 16.26369 240.288396 5.68 229.73091 5.68 155.744653 L 5.68 96.493859 C 5.68 22.507198 16.26369 11.95 90.319393 11.95 L 165.688919 11.95 Z"/>
  </g>

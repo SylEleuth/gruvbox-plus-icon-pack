@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="4jRhbiqz9eiGbvgugxLnUMnwT0FmWuH2" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="2.147"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="0" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".65"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#4jRhbiqz9eiGbvgugxLnUMnwT0FmWuH2)">
   <linearGradient id="_lgradient_11" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#fabd2f"/>
@@ -16,11 +7,6 @@
   <path fill="url(#_lgradient_11)" d="M 165.688919 11.95 C 239.744626 11.95 250.328309 22.507198 250.328309 96.493859 L 250.328309 155.744653 C 250.328309 229.73091 239.744626 240.288396 165.688919 240.288396 L 90.319393 240.288396 C 16.26369 240.288396 5.68 229.73091 5.68 155.744653 L 5.68 96.493859 C 5.68 22.507198 16.26369 11.95 90.319393 11.95 L 165.688919 11.95 Z"/>
  </g>
  <g>
-  <defs>
-   <filter id="zPXevTD0MKSXW1fQ47Bf8uXa64CYD1qj" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#zPXevTD0MKSXW1fQ47Bf8uXa64CYD1qj)">
    <path d="M 128 68 L 55.5 119.785714 L 65.857143 119.785714 L 65.857143 187.150301 C 65.857143 189.676926 67.734585 192.285714 70.467625 192.285714 L 185.532375 192.285714 C 188.266656 192.285714 190.162282 189.676854 190.142857 187.150301 L 190.142857 119.785714 L 200.5 119.785714 L 128 68 Z"/>
   </g>

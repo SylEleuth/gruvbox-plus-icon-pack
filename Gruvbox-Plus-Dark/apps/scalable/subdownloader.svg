@@ -6,15 +6,6 @@
   </linearGradient>
   <path fill="url(#_lgradient_430)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 L 165.689 11.95 Z"/>
  </g>
- <defs>
-  <filter id="xgmxfaP06NbmE3AjsiVenpzhvMptXtua" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g style="opacity:0.3">
   <g opacity=".3">
    <linearGradient id="_lgradient_431" x1=".5" x2=".018" y1="1" y2="1" gradientTransform="matrix(181.196,0,0,198.29,42.103,28.855)" gradientUnits="userSpaceOnUse">
@@ -36,16 +27,6 @@
     <path fill="url(#_lgradient_432)" d="M 190.862 188.721 C 198.149 188.812 203.046 187.176 205.559 184.161 C 208.197 181.02 209.549 175.866 209.549 168.704 L 209.549 103.404 C 209.549 96.242 208.197 91.089 205.559 87.948 C 203.046 84.933 198.15 83.387 190.862 83.387 L 173.555 83.387 L 150.73 67.275 L 127.904 83.387 L 65.138 83.387 C 57.85 83.387 52.954 84.933 50.441 87.948 C 47.803 91.089 46.451 96.242 46.451 103.404 L 46.451 168.704 C 46.451 175.866 47.803 181.02 50.441 184.161 C 52.954 187.176 57.85 188.721 65.138 188.721 L 190.862 188.721 L 190.862 188.721 Z"/>
    </g>
   </g>
-  <defs>
-   <filter id="byDPglJ1x3FL7iP5PTGbShiCsrxvLcSL" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="10.766"/>
-   </filter>
-  </defs>
-  <defs>
-   <filter id="BAtODxonABcKrINFVS7JX6FDNzxR9SjK" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="1.346"/>
-   </filter>
-  </defs>
   <g opacity=".1" filter="url(#BAtODxonABcKrINFVS7JX6FDNzxR9SjK)">
    <path d="M 190.862 188.721 C 198.149 188.812 203.046 187.176 205.559 184.161 C 208.197 181.02 209.549 175.866 209.549 168.704 L 209.549 103.404 C 209.549 96.242 208.197 91.089 205.559 87.948 C 203.046 84.933 198.15 83.387 190.862 83.387 L 173.555 83.387 L 150.73 67.275 L 127.904 83.387 L 65.138 83.387 C 57.85 83.387 52.954 84.933 50.441 87.948 C 47.803 91.089 46.451 96.242 46.451 103.404 L 46.451 168.704 C 46.451 175.866 47.803 181.02 50.441 184.161 C 52.954 187.176 57.85 188.721 65.138 188.721 L 190.862 188.721 L 190.862 188.721 Z"/>
   </g>
@@ -83,15 +64,6 @@
   <path fill="#83a598" d="M 176.93 133.37 L 176.93 125.215 L 128 125.215 L 128 133.37 L 176.93 133.37 L 176.93 133.37 Z"/>
   <path fill="#ebdbb2" d="M 190.862 190.454 C 198.149 190.545 203.047 188.825 205.56 185.809 C 208.198 182.668 209.549 177.515 209.549 170.354 L 209.549 168.315 C 209.549 175.477 208.198 180.63 205.56 183.771 C 203.047 186.786 198.149 188.507 190.862 188.416 L 65.138 188.416 C 57.85 188.416 52.953 186.786 50.44 183.771 C 47.802 180.63 46.451 175.477 46.451 168.315 L 46.451 170.354 C 46.451 177.516 47.802 182.668 50.44 185.809 C 52.953 188.825 57.85 190.454 65.138 190.454 L 190.862 190.454 L 190.862 190.454 Z"/>
  </g>
- <defs>
-  <filter id="fkH5pxufOQe6uy7LVPqfKbooxDD6t6Fd" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g opacity=".4">
   <linearGradient id="_lgradient_437" x1=".517" x2=".517" y1="0" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#ebdbb2"/>

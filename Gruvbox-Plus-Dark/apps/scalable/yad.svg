@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="tY4pGm4fOGv7DPBlTPEvKucjI2N4U3JR" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#tY4pGm4fOGv7DPBlTPEvKucjI2N4U3JR)">
   <linearGradient id="_lgradient_810" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#504945"/>
@@ -40,11 +31,6 @@
    <stop offset="100%" style="stop-color:#8ec07c"/>
   </linearGradient>
   <path fill="url(#_lgradient_813)" d="M 95.874 131.816 C 93.593 136.582 92.402 141.795 92.386 147.079 C 92.386 166.748 108.331 182.693 128 182.693 C 147.669 182.693 163.614 166.748 163.614 147.079 C 163.601 141.796 162.413 136.583 160.136 131.816 L 95.874 131.816 Z"/>
-  <defs>
-   <filter id="CyF69h6uVjcEW31B3Z3aDnZLdWdfsAlr" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#CyF69h6uVjcEW31B3Z3aDnZLdWdfsAlr)">
    <path d="M 111.04 58.044 L 144.96 58.044 C 146.831 58.044 148.351 59.563 148.351 61.435 L 148.351 62.284 C 148.351 64.156 146.831 65.675 144.96 65.675 L 111.04 65.675 C 109.169 65.675 107.649 64.156 107.649 62.284 L 107.649 61.435 C 107.649 59.563 109.169 58.044 111.04 58.044 Z"/>
   </g>

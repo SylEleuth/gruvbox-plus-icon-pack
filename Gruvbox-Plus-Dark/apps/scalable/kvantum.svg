@@ -6,15 +6,6 @@
         </linearGradient>
         <path d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544z" fill="url(#b)"/>
     </g>
-    <defs>
-        <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-            <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-            <feOffset dy="4" result="pf_100_offsetBlur"/>
-            <feFlood flood-opacity=".4"/>
-            <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-            <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
-        </filter>
-    </defs>
     <path fill="#ebdbb2" opacity=".1" d="M128.161 11.987c63.054 0 114.17 51.108 114.17 114.152 0 63.044-51.116 114.151-114.17 114.151-63.055 0-114.17-51.107-114.17-114.151S65.106 11.987 128.161 11.987z"/>
     <path fill="#ebdbb2" opacity=".1" d="M128.005 44.565c45.039 0 81.55 36.505 81.55 81.536 0 45.032-36.511 81.537-81.55 81.537-45.039 0-81.55-36.505-81.55-81.537 0-45.031 36.511-81.536 81.55-81.536z"/>
     <ellipse fill="#ebdbb2" opacity=".1" cx="128.005" cy="126.101" rx="47.401" ry="47.393" vector-effect="non-scaling-stroke"/>

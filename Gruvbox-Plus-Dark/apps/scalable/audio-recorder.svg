@@ -6,15 +6,6 @@
   </radialGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#ebdbb2" opacity=".1" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
  <path fill="#fb4934" d="M45.333 128c0-45.625 37.042-82.667 82.667-82.667S210.667 82.375 210.667 128 173.625 210.667 128 210.667 45.333 173.625 45.333 128z"/>
  <path fill="#ebdbb2" d="M83.911 122.489c.026 22.199 16.553 40.917 38.578 43.692V177.6h-11.022v11.022h33.066V177.6h-11.022v-11.408c22.029-2.775 38.558-21.5 38.578-43.703h-11.022c0 18.262-14.805 33.067-33.067 33.067s-33.067-14.805-33.067-33.067H83.911z"/>

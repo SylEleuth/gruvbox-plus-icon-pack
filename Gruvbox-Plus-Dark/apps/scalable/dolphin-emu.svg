@@ -6,24 +6,6 @@
   </linearGradient>
   <path fill="url(#_lgradient_12)" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 L 165.685 11.947 Z"/>
  </g>
- <defs>
-  <filter id="W5SGfOBpm7VRXoq8WwCRxrgA2Prdc1U6" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
- <defs>
-  <filter id="N8oWC2G796jtdge4mYa1Modd4LzqLIVo" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#N8oWC2G796jtdge4mYa1Modd4LzqLIVo)">
   <path fill="#ebdbb2" d="M 192.88 199.5 C 203.742 129.701 174.557 106.872 179.996 97.519 C 183.952 90.735 201.447 93.777 201.447 93.777 C 187.79 82.364 175.612 81.857 163.891 84.837 C 149.615 63.249 91.221 34.764 67.24 74.103 C 67.24 74.103 53.497 78.641 54.618 83.695 C 55.723 88.639 76.345 81.358 105.626 95.188 C 103.894 115.39 112.846 128.298 129.333 136.059 C 124.826 128.009 118.42 120.591 124.926 107.506 C 145.705 121.113 156.319 138.639 165.29 156.221 C 163.281 138.035 145.261 92.88 88.114 79.723 C 133.537 42.624 199.358 125.054 192.88 199.5 Z"/>
  </g>

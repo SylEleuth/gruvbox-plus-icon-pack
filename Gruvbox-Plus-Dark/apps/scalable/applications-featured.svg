@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="U8b29o7VFRiukftgakof0pm48NXFWHR5" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#U8b29o7VFRiukftgakof0pm48NXFWHR5)">
   <linearGradient id="_lgradient_5" x1=".567" x2=".565" y1="1.059" y2="-.265" gradientTransform="matrix(244.648309,0,0,228.338396,5.681691,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#ebdbb2"/>
@@ -29,13 +20,4 @@
   <path fill="#fabd2f" d="M 127 54.5 L 152.375 101.625 L 203.125 108.875 L 166.875 145.125 L 174.125 199.5 L 127 174.125 L 79.875 199.5 L 87.125 145.125 L 50.875 108.875 L 101.625 101.625 L 127 54.5 Z"/>
   <path fill="#fe8019" d="M 127 130.625 L 152.375 101.625 L 127 54.5 L 127 130.625 Z M 203.125 108.875 L 127 130.625 L 166.875 145.125 L 203.125 108.875 Z M 174.125 199.5 L 127 130.625 L 127 174.125 L 174.125 199.5 Z M 87.125 145.125 L 79.875 199.5 L 127 130.625 L 87.125 145.125 Z M 50.875 108.875 L 127 130.625 L 101.625 101.625 L 50.875 108.875 Z"/>
  </g>
- <defs>
-  <filter id="9wiiDv6UvwII4JyrfhFMzDxOVBIRqpYV" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
 </svg>

@@ -6,24 +6,6 @@
   </linearGradient>
   <path fill="url(#b)" d="M165.689 11.95c74.056 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.583 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.494c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
- <defs>
-  <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#ebdbb2" d="M189.14 55.533c-2.21.184-4.427 1.296-6.212 3.02l-39.957 34.733c-1.724 1.665-2.687 4.007-2.687 6.376 0 1.13.259 2.169.672 3.188.02.048-.021.119 0 .167-1.477 3.161-1.007 7.578-1.007 17.115 0 3.514-9.144 7.215-11.417 7.215h-.336c-7.27 0-30.839 1.077-38.111 11.074C82.814 148.418 55.5 193.837 55.5 200.5c10.907 0 90.123-39.565 94.184-43.289 4.916-4.507 2.506-13.58-.671-19.631.022-.028-.013-.135 0-.168.088-.219.114-.534-.168-1.007-1.703-2.854-2.686-5.733-2.686-9.732 0-8.891.934-13.796 2.854-16.611 4.289.74 10.499-1.357 13.263-4.027l35.089-33.39c3.571-3.449 4.412-8.632.839-12.081l-2.854-2.852c-1.784-1.723-4.002-2.366-6.211-2.181l.001.002z" filter="url(#c)"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">

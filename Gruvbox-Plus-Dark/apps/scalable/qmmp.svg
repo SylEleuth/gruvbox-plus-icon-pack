@@ -13,27 +13,6 @@
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="a" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="g" x="-.08" y="-.06" width="1.154" height="1.127" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".766"/>
-        </filter>
-        <filter id="i" x="-.27" y="-.27" width="1.544" height="1.543" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".766"/>
-        </filter>
-        <filter id="h" x="-.27" y="-.27" width="1.544" height="1.544" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".766"/>
-        </filter>
-        <filter id="f" x="-.08" y="-.06" width="1.154" height="1.127" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".766"/>
-        </filter>
-        <filter id="j" x="-.41" width="1.815" height="1.197" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".766"/>
-        </filter>
     </defs>
     <path d="M43.005 4.348c19.221 0 21.968 2.74 21.968 21.944V41.67c0 19.204-2.747 21.944-21.968 21.944H23.442c-19.222 0-21.969-2.74-21.969-21.944V26.292c0-19.204 2.747-21.944 21.969-21.944z" fill="none" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.058" stroke="#282828"/>
     <path transform="matrix(.26458 0 0 .26458 0 3.404)" d="M162.537 3.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V86.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#a)" opacity=".1"/>

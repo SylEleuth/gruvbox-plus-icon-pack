@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="fSBQsOzJgnZZIjIVkv9PCpXVDVfHpaU0" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#fSBQsOzJgnZZIjIVkv9PCpXVDVfHpaU0)">
   <linearGradient id="_lgradient_76" x1=".5" x2=".5" y1="1" y2="0" gradientTransform="matrix(244.648,0,0,228.338,5.43,11.577)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#427b58"/>
@@ -16,11 +7,6 @@
   <path fill="url(#_lgradient_76)" d="M 165.439 11.577 C 239.495 11.577 250.078 22.134 250.078 96.12 L 250.078 155.371 C 250.078 229.358 239.495 239.915 165.439 239.915 L 90.069 239.915 C 16.014 239.915 5.43 229.358 5.43 155.371 L 5.43 96.12 C 5.43 22.134 16.014 11.577 90.069 11.577 L 165.439 11.577 Z"/>
  </g>
  <g>
-  <defs>
-   <filter id="i6p9jbvdjJrtXkreyEjVukKpNkcgvfbn" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#i6p9jbvdjJrtXkreyEjVukKpNkcgvfbn)">
    <path d="M 159.409 59.421 C 158.625 59.373 157.37 59.875 155.077 60.875 C 152.355 62.062 146.173 63.034 141.33 63.034 C 124.194 63.384 110.481 69.255 99.371 80.317 C 84.291 95.433 79.541 114.446 86.42 132.104 C 88.008 136.18 88.975 140.328 88.563 141.32 C 88.151 142.311 85.251 145.057 82.134 147.428 C 75.36 152.578 70.676 160.882 69.504 169.808 C 68.801 175.17 69.286 177.728 72.275 184.106 C 78.694 197.803 93.254 203.67 108.77 198.817 C 117.754 196.007 126.74 186.022 133.937 170.88 C 140.152 157.801 140.415 157.483 147.086 155.128 C 158.333 151.156 165.423 146.774 172.467 139.421 C 184.955 126.385 189.587 109.497 185.112 93.359 C 183.101 86.108 181.406 83.608 172.299 74.377 C 166.53 68.53 161.416 62.609 160.925 61.227 C 160.51 60.063 160.193 59.468 159.409 59.421 Z M 129.099 75.096 C 134.438 75.118 138.566 76.73 139.692 79.934 C 140.062 80.985 138.505 85.943 136.217 90.94 C 130.335 103.793 128.459 110.855 124.905 133.528 C 120.496 161.646 115.68 173.789 106.03 181.09 C 99.946 185.692 92.477 186.082 88.487 182.024 C 85.034 178.513 84.033 174.113 85.639 169.502 C 86.911 165.85 88.139 165.265 97.411 163.899 C 103.862 162.949 108.403 158.481 108.403 152.632 C 108.403 148.952 106.922 146.834 101.912 141.534 C 94.16 133.335 90.773 125.461 90.737 115.525 C 90.68 99.986 98.287 86.772 111.28 79.827 C 117.221 76.651 123.76 75.075 129.099 75.096 Z M 148.954 82.95 C 150.553 82.711 152.586 84.583 155.46 88.491 C 166.814 103.93 165.651 127.299 152.857 140.723 C 147.404 146.445 146.122 146.79 142.341 143.708 C 140.154 141.925 139.736 140.309 139.754 133.788 C 139.78 123.797 142.751 99.333 145.066 90.037 C 146.187 85.533 147.354 83.189 148.954 82.95 Z"/>
   </g>

@@ -12,12 +12,6 @@
         <clipPath id="f">
             <path d="M154.388 236H208l-91.238-99.104-10.144 47.079z" fill="#ebdbb2"/>
         </clipPath>
-        <filter id="g" x="-.11" y="-.13" width="1.222" height="1.261" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="5.884"/>
-        </filter>
-        <filter id="e" x="-.01" y="-.01" width="1.027" height="1.022" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".718"/>
-        </filter>
         <linearGradient id="d" x1="128" x2="208" y1="108" y2="196" gradientTransform="translate(-21.146 11.31)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-opacity="0"/>
             <stop offset=".364"/>
@@ -28,12 +22,6 @@
             <stop offset=".483" stop-color="#fb4934"/>
             <stop offset="1" stop-color="#fb4934"/>
         </linearGradient>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="a" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
     </defs>
     <path d="M167.823 57.31c72.649 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.382 82.937-83.031 82.937H93.886c-72.65 0-83.032-10.356-83.032-82.937v-58.125c0-72.58 10.383-82.938 83.032-82.938z" filter="url(#a)" opacity=".2" transform="translate(0 -44)"/>
     <path d="M167.823 55.31c72.649 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.382 82.937-83.031 82.937H93.886c-72.65 0-83.032-10.356-83.032-82.937v-58.125c0-72.58 10.383-82.938 83.032-82.938z" filter="url(#b)" opacity=".1" transform="translate(0 -44)"/>

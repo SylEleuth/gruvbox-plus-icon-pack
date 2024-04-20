@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="3dbMDrcGRiWjMydRGCPoRSFd778P22ra" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#3dbMDrcGRiWjMydRGCPoRSFd778P22ra)">
   <linearGradient id="_lgradient_206" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#cc241d"/>
@@ -17,20 +8,10 @@
  </g>
  <g>
   <path fill="#fabd2f" d="M 119.883563 135.388819 L 119.883563 240.150884 L 136.116437 240.284156 L 136.116437 135.388819 L 119.883563 135.388819 Z"/>
-  <defs>
-   <filter id="uhqcOIfzWOQQ4uModNtn822XuD3KKgPn" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#uhqcOIfzWOQQ4uModNtn822XuD3KKgPn)">
    <circle cx="128" cy="131.331" r="20.291" vector-effect="non-scaling-stroke"/>
   </g>
   <circle fill="#fabd2f" cx="128" cy="127.272" r="20.291" vector-effect="non-scaling-stroke"/>
-  <defs>
-   <filter id="QndRaTZ6efLbXM2T0oHSVh8Jn2clE0CS" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#QndRaTZ6efLbXM2T0oHSVh8Jn2clE0CS)">
    <path d="M 168.344397 58.758981 L 161.068141 73.311497 C 183.058657 84.293335 196.962902 106.751209 196.989714 131.331339 C 196.977905 155.919365 183.078557 178.391513 161.083993 189.382888 L 168.312694 203.840291 C 195.798818 190.117763 213.181575 162.052555 213.222587 131.331339 C 213.211576 100.594334 195.838615 72.500582 168.344397 58.758981 L 168.344397 58.758981 Z M 87.687306 58.822371 C 60.201177 72.544902 42.818419 100.610118 42.777413 131.331339 C 42.788424 162.068344 60.161385 190.162096 87.655603 203.903697 L 94.931859 189.351181 C 72.941343 178.369343 59.037098 155.911469 59.010286 131.331339 C 59.022095 106.743313 72.921443 84.271165 94.916007 73.27979 L 87.687306 58.822371 Z M 153.823584 87.784735 L 146.56318 102.3214 C 157.558443 107.812322 164.510567 119.041267 164.523966 131.331339 C 164.519563 143.623588 157.573234 154.859214 146.579031 160.357113 L 153.807733 174.830368 C 170.298599 166.598759 180.729233 149.762489 180.75684 131.331339 C 180.750233 112.886581 170.3236 96.028453 153.823584 87.784752 L 153.823584 87.784735 Z M 102.192267 87.832298 C 85.701397 96.063909 75.270762 112.900185 75.24316 131.331339 C 75.249767 149.776097 85.6764 166.634225 102.176416 174.877926 L 109.43682 160.341262 C 98.441562 154.850343 91.489439 143.621405 91.476034 131.331339 C 91.480437 119.03909 98.426766 107.803464 109.420969 102.305565 L 102.192267 87.832298 Z"/>
   </g>

@@ -12,25 +12,13 @@
         <clipPath id="f">
             <path d="M188.969 44C261.617 44 272 54.357 272 126.938v58.124C272 257.644 261.617 268 188.969 268H115.03C42.383 268 32 257.643 32 185.062v-58.125C32 54.358 42.383 44 115.031 44z"/>
         </clipPath>
-        <filter id="g" x="-.03" y="-.01" width="1.056" height="1.015" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".411"/>
-        </filter>
         <clipPath id="d">
             <path d="M188.969 44C261.617 44 272 54.357 272 126.938v58.124C272 257.644 261.617 268 188.969 268H115.03C42.383 268 32 257.643 32 185.062v-58.125C32 54.358 42.383 44 115.031 44z"/>
         </clipPath>
-        <filter id="e" x="-.23" y="-.06" width="1.451" height="1.122" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="3.288"/>
-        </filter>
         <linearGradient id="c" x1="93.46" x2="248" y1="69.921" y2="263.092" gradientTransform="matrix(.26458 0 0 .26458 -6.993 221.973)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#b16286"/>
             <stop offset="1" stop-color="#b16286"/>
         </linearGradient>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="a" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
     </defs>
     <g transform="translate(0 -229.267)">
         <path transform="matrix(.26458 0 0 .26458 0 232.67)" d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.124c0 72.581-10.383 82.938-83.031 82.938H88.599c-72.648 0-83.031-10.357-83.031-82.938V88.505c0-72.58 10.383-82.937 83.031-82.937z" filter="url(#a)" opacity=".2"/>

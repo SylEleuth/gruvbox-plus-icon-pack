@@ -6,9 +6,6 @@
       <stop stop-opacity=".09804" offset=".9"/>
       <stop stop-opacity=".498" offset="1"/>
     </linearGradient>
-    <filter id="wBb1wNSgSQ0c8DHhwpBs3sPy9gWOL0Dc" x="-.08403" y="-.09017" width="1.168" height="1.18" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="4.294"/>
-    </filter>
     <linearGradient id="b-9-6" x1=".6517" x2=".6517" y1=".5002" y2="1" gradientTransform="matrix(244 0 0 228 5.987 14.01)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#83a598" offset="0"/>
       <stop stop-color="#458588" offset="1"/>
@@ -17,9 +14,6 @@
       <stop stop-color="#504945" offset="0"/>
       <stop stop-color="#3c3836" offset="1"/>
     </linearGradient>
-    <filter id="IFhwPeHn75qMBbGmBdc4frxyS2Ranois" x="-.06133" y="-.06133" width="1.123" height="1.123" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="4.294"/>
-    </filter>
     <linearGradient id="_lgradient_26" x1=".5" x2=".5" y2="1" gradientTransform="matrix(168,0,0,168,45,42.33)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#d5c4a1" offset="0"/>
       <stop stop-color="#665c54" offset="1"/>
@@ -28,13 +22,6 @@
       <stop stop-color="#a89984" offset="0"/>
       <stop stop-color="#ebdbb2" offset="1"/>
     </linearGradient>
-    <filter id="SZjG2dOTD35CZHp5UvJHRmrN1mVQNfpM" x="-.07736" y="-.2338" width="1.155" height="1.558" color-interpolation-filters="sRGB">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-      <feOffset dx="0" dy="4" result="pf_100_offsetBlur"/>
-      <feFlood flood-opacity=".4"/>
-      <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-      <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
-    </filter>
   </defs>
   <g transform="translate(.002498 1.882)" filter="url(#a)" style="isolation:isolate">
     <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b-9)"/>

@@ -1,14 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.0" enable-background="new">
     <defs>
-        <filter id="a" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <clipPath id="c">
             <path d="M329.938 16C475.235 16 496 36.713 496 181.875v116.25C496 443.286 475.235 464 329.937 464H182.063C36.766 464 16 443.286 16 298.125v-116.25C16 36.713 36.765 16 182.063 16z" fill="#458588"/>
         </clipPath>
-        <filter id="b" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
         <linearGradient id="e" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>

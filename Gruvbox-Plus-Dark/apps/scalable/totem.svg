@@ -4,9 +4,6 @@
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="h" width="1.026" height="1.023" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.133"/>
-        </filter>
         <linearGradient id="g" x1="256" x2="256" y1="138" y2="375" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-opacity="0"/>
             <stop offset=".505"/>
@@ -21,12 +18,6 @@
         <clipPath id="e">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="b" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="a" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <radialGradient id="c" cx="20.819" cy="231.421" r="31.75" gradientTransform="matrix(.69876 .00225 -.002 .61978 6.733 90.067)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#b16286"/>
             <stop offset="1" stop-color="#d3869b"/>

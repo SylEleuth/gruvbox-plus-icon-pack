@@ -1,20 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256">
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#458588" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z" filter="url(#a)"/>
  <path fill="#ebdbb2" opacity=".1" d="M5.676 126.116v29.626c0 73.986 10.584 84.543 84.639 84.543h75.37c74.055 0 84.639-10.557 84.639-84.543v-29.626H5.676z"/>
- <defs>
-  <filter id="b" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation=".396"/>
-  </filter>
- </defs>
  <path fill-opacity=".996" opacity=".1" d="M128 209.5c45.276 0 82.034-36.758 82.034-82.034S173.276 45.432 128 45.432 45.966 82.19 45.966 127.466 82.724 209.5 128 209.5z" filter="url(#b)"/>
  <g opacity=".4" filter="url(#c)">
   <linearGradient id="d" x2="1" y1=".5" y2=".5" gradientTransform="matrix(0 -164.068 -164.068 0 210.034 209.5)" gradientUnits="userSpaceOnUse">
@@ -24,19 +10,9 @@
   </linearGradient>
   <path fill="url(#d)" d="M128 209.5c45.276 0 82.034-36.758 82.034-82.034S173.276 45.432 128 45.432 45.966 82.19 45.966 127.466 82.724 209.5 128 209.5z"/>
  </g>
- <defs>
-  <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="12.881"/>
-  </filter>
- </defs>
  <path fill="#ebdbb2" d="M128 208.568c45.276 0 82.034-36.758 82.034-82.034S173.276 44.5 128 44.5s-82.034 36.758-82.034 82.034S82.724 208.568 128 208.568z"/>
  <path fill="#ebdbb2" d="M128 202.042c41.16 0 74.576-33.416 74.576-74.576S169.16 52.89 128 52.89s-74.576 33.416-74.576 74.576S86.84 202.042 128 202.042z"/>
  <path fill="#41959a" d="M128 201.11c41.16 0 74.576-33.416 74.576-74.576S169.16 51.958 128 51.958s-74.576 33.416-74.576 74.576S86.84 201.11 128 201.11z"/>
- <defs>
-  <filter id="e" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation=".792"/>
-  </filter>
- </defs>
  <path opacity=".1" d="M128 190.856c34.986 0 63.39-28.404 63.39-63.39 0-34.986-28.404-63.39-63.39-63.39-34.986 0-63.39 28.404-63.39 63.39 0 34.986 28.404 63.39 63.39 63.39z" filter="url(#e)"/>
  <g opacity=".05">
   <radialGradient id="f" cx="-.5" cy=".5" r="96" fx="-.5" fy=".5" gradientTransform="matrix(0 149.154 -149.152 0 53.424 51.957)" gradientUnits="userSpaceOnUse">

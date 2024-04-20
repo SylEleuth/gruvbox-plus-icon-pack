@@ -1,22 +1,6 @@
 <svg width="256" height="256" style="isolation:isolate" version="1.1" viewBox="0 0 256 256"
     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
-        <filter id="LwbAJcc3kJ4B27zwy1oEr4wGtfS3cc0P" x="-.042124" y="-.045133" width="1.0842" height="1.1078"
-            color-interpolation-filters="sRGB">
-            <feGaussianBlur in="SourceGraphic" stdDeviation="4.294" />
-            <feOffset dx="0" dy="4" result="pf_100_offsetBlur" />
-            <feFlood flood-opacity=".4" />
-            <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow" />
-            <feBlend in="SourceGraphic" in2="pf_100_dropShadow" />
-        </filter>
-        <filter id="Br2zqZvr0cqMoDxP3Rh0bPnAwEmvWlO0" x="-.097903" y="-.047168" width="1.1958" height="1.1126"
-            color-interpolation-filters="sRGB">
-            <feGaussianBlur in="SourceGraphic" stdDeviation="4.294" />
-            <feOffset dx="0" dy="4" result="pf_100_offsetBlur" />
-            <feFlood flood-opacity=".4" />
-            <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow" />
-            <feBlend in="SourceGraphic" in2="pf_100_dropShadow" />
-        </filter>
         <linearGradient id="_lgradient_18" x1=".492" x2=".493" y1="-.006" y2=".999"
             gradientTransform="matrix(103.25 0 0 18.347 56.288 100.09)" gradientUnits="userSpaceOnUse">
             <stop stop-color="#928374" offset="0" />
@@ -26,22 +10,6 @@
         <linearGradient id="linearGradient1460" x1=".492" x2=".493" y1="-.006" y2=".999"
             gradientTransform="matrix(103.25 0 0 18.347 56.288 100.09)" gradientUnits="userSpaceOnUse"
             xlink:href="#_lgradient_18" />
-        <filter id="Br2zqZvr0cqMoDxP3Rh0bPnAwEmvWlO0-0" x="-.097903" y="-.10055" width="1.1958" height="1.2401"
-            color-interpolation-filters="sRGB">
-            <feGaussianBlur in="SourceGraphic" stdDeviation="4.294" />
-            <feOffset dx="0" dy="4" result="pf_100_offsetBlur" />
-            <feFlood flood-opacity=".4" />
-            <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow" />
-            <feBlend in="SourceGraphic" in2="pf_100_dropShadow" />
-        </filter>
-        <filter id="Br2zqZvr0cqMoDxP3Rh0bPnAwEmvWlO0-0-6" x="-.097903" y="-.10055" width="1.1958" height="1.2401"
-            color-interpolation-filters="sRGB">
-            <feGaussianBlur in="SourceGraphic" stdDeviation="4.294" />
-            <feOffset dx="0" dy="4" result="pf_100_offsetBlur" />
-            <feFlood flood-opacity=".4" />
-            <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow" />
-            <feBlend in="SourceGraphic" in2="pf_100_dropShadow" />
-        </filter>
     </defs>
     <g filter="url(#LwbAJcc3kJ4B27zwy1oEr4wGtfS3cc0P)">
         <linearGradient id="_lgradient_78" x1=".187" x2=".19" y1=".005" y2=".999"

@@ -1,8 +1,5 @@
 <svg width="256" height="256" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <filter id="a" x="-.0232" y="-.024857" width="1.0464" height="1.0497" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2ebdbb2.16" />
-        </filter>
         <linearGradient id="d" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
             <stop stop-color="#ebdbb2" offset="0" />
             <stop stop-color="#d5c4a1" stop-opacity=".098" offset=".125" />

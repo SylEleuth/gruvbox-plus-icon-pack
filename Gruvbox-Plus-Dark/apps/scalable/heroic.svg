@@ -17,13 +17,6 @@
       <stop style="stop-color:#fe8019;stop-opacity:1;" offset="0" id="stop3643" />
       <stop style="stop-color:#fabd2f;stop-opacity:1;" offset="1" id="stop3645" />
     </linearGradient>
-    <filter id="a" width="1.0842484" height="1.1077841" x="-0.042124196" y="-0.045133094" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="4.294" id="feGaussianBlur11" />
-      <feOffset dy="4" result="pf_100_offsetBlur" id="feOffset13" />
-      <feFlood flood-opacity=".4" id="feFlood15" />
-      <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow" id="feComposite17" />
-      <feBlend in="SourceGraphic" in2="pf_100_dropShadow" id="feBlend19" />
-    </filter>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient3647" id="linearGradient3649" x1="128" y1="170" x2="127.65112" y2="73.650688" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.93887026,0,7.902669)" />
   </defs>
   <path fill="#504945" opacity=".1" d="M87.22 11.83h81.549v228.338H87.22V11.83z" id="path20" />

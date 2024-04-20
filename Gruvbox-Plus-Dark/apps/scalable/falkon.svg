@@ -13,12 +13,6 @@
             <stop stop-color="#b16286" offset="0"/>
             <stop stop-color="#ebdbb2" offset="1"/>
         </linearGradient>
-        <filter id="b" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="a" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <clipPath id="d">
             <path d="M329.938 16C475.235 16 496 36.713 496 181.875v116.25C496 443.286 475.235 464 329.937 464H182.063C36.766 464 16 443.286 16 298.125v-116.25C16 36.713 36.765 16 182.063 16z" fill="#458588"/>
         </clipPath>

@@ -6,24 +6,6 @@
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
- <defs>
-  <filter id="c" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#fabd2f" d="M76.928 92.25a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm51.072 0a5.107 5.107 0 0 0 0 10.214 5.108 5.108 0 0 0 0-10.214zm15.321 0a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm20.429 0a5.107 5.107 0 0 0 0 10.214 5.108 5.108 0 0 0 0-10.214zm15.321 0a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm15.322 0a5.107 5.107 0 1 0-.002 10.214 5.107 5.107 0 0 0 .002-10.214zM61.607 107.571a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm30.643 0a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm25.535 0a5.108 5.108 0 1 0-.142 10.215 5.108 5.108 0 0 0 .142-10.215zm45.965 0a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zM61.607 122.893a5.107 5.107 0 0 0 0 10.214 5.108 5.108 0 0 0 0-10.214zm15.321 0a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm15.322 0a5.107 5.107 0 0 0 0 10.214 5.108 5.108 0 0 0 0-10.214zm35.75 0a5.107 5.107 0 0 0 0 10.214 5.108 5.108 0 0 0 0-10.214zm35.75 0a5.107 5.107 0 0 0 0 10.214 5.108 5.108 0 0 0 0-10.214zm15.321 0a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zM61.607 138.214a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm30.643 0a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm51.071 0a5.108 5.108 0 1 0-.142 10.215 5.108 5.108 0 0 0 .142-10.215zm20.429 0a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zM61.607 153.535a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm30.643 0a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm20.428 0a5.108 5.108 0 1 0 .002 10.216 5.108 5.108 0 0 0-.002-10.216zm15.322 0a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm35.75 0a5.107 5.107 0 1 0 0 10.214 5.107 5.107 0 0 0 0-10.214zm15.321 0a5.108 5.108 0 1 0 .002 10.216 5.108 5.108 0 0 0-.002-10.216zm15.322 0a5.108 5.108 0 1 0 0 10.216 5.108 5.108 0 0 0 0-10.216z" filter="url(#c)"/>
  <g opacity=".4">
   <linearGradient id="d" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">

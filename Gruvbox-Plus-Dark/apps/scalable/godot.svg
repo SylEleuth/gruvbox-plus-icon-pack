@@ -1,13 +1,4 @@
 <svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <filter id="a" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-            <feGaussianBlur in="SourceGraphic" stdDeviation="4.294" />
-            <feOffset dy="4" result="pf_100_offsetBlur" />
-            <feFlood flood-opacity=".4" />
-            <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow" />
-            <feBlend in="SourceGraphic" in2="pf_100_dropShadow" />
-        </filter>
-    </defs>
     <g filter="url(#a)">
         <linearGradient id="b" x1=".187" x2=".19" y1=".005" y2=".999"
             gradientTransform="matrix(244.65 0 0 228.34 5.68 11.952)" gradientUnits="userSpaceOnUse">

@@ -5,13 +5,6 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
    <defs id="defs28">
-      <filter id="a" x="-0.023199999" y="-0.024857142" width="1.0464" height="1.0497143"
-         color-interpolation-filters="sRGB">
-         <feGaussianBlur stdDeviation="2.32" id="feGaussianBlur2" />
-      </filter>
-      <filter id="b" x="-0.0116" y="-0.012428571" width="1.0232" height="1.0248571" color-interpolation-filters="sRGB">
-         <feGaussianBlur stdDeviation="1.16" id="feGaussianBlur5" />
-      </filter>
       <linearGradient id="d" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
          <stop offset="0" stop-color="#ebdbb2" id="stop8" />
          <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098" id="stop10" />
@@ -23,10 +16,6 @@
             d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z"
             fill="#b16286" id="path17" />
       </clipPath>
-      <filter id="e" x="-0.042872853" y="-0.054490405" width="1.0857457" height="1.1089808"
-         color-interpolation-filters="sRGB">
-         <feGaussianBlur stdDeviation="1.101" id="feGaussianBlur20" />
-      </filter>
       <linearGradient id="f" x1="32.35" x2="21.213" y1="28.083" y2="30.293"
          gradientTransform="matrix(1.33444 0 0 1.33444 -3.37 227.1)" gradientUnits="userSpaceOnUse">
          <stop offset="0" id="stop23" />

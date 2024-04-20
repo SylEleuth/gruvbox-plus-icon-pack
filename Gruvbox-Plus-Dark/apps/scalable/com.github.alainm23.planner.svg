@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="BPOSJ7ISk0IdfR31dyDAGm3Qi2Dsb02v" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#BPOSJ7ISk0IdfR31dyDAGm3Qi2Dsb02v)">
   <linearGradient id="_lgradient_40" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.807,12.075)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#076678"/>
@@ -33,13 +24,4 @@
   <path fill="url(#_lgradient_42)" d="M 98.119 172.43 C 106.886 158.263 114.005 154.647 120.596 145.014 C 131.196 130.526 139.414 115.208 143.543 107.289 C 144.579 105.223 135.496 98.186 132.474 99.272 C 125.824 106.444 113.981 119.266 104.54 132.423 C 94.285 145.662 93.888 152.992 84.82 164.035 C 78.135 172.532 72.941 176.371 66.64 181.869 C 67.036 187.141 80.507 197.321 85.987 196.12 C 89.468 188.462 90.047 183.578 98.119 172.43 Z"/>
   <path fill="#d5c4a1" d="M 159.842 85.873 L 147.587 77.261 C 156.418 60.154 149.406 52.683 128.177 57.854 C 125.42 58.304 122.825 58.788 118.952 58.801 C 117.104 58.809 117.085 57.905 118.446 56.9 C 120.848 54.917 133.71 51.757 151.178 48.638 C 157.699 48.61 163.197 51.376 167.02 54.006 C 170.592 56.029 174.843 59.197 178.314 62.229 C 179.123 62.935 179.862 64.376 179.964 65.444 C 180.433 70.364 184.777 74.667 192.397 76.002 L 198.149 79.997 C 199.031 80.61 199.249 81.823 198.637 82.705 L 190.842 93.929 C 190.291 94.723 189.204 94.913 188.416 94.353 L 182.272 89.986 C 177.655 76.934 169.62 74.632 159.842 85.873 Z"/>
  </g>
- <defs>
-  <filter id="GxbYBnFwjPicbmxP2iCbPQapENgUOwTR" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
 </svg>

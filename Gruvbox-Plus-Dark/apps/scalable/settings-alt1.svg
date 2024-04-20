@@ -10,9 +10,6 @@
             <stop offset=".5"/>
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
-        <filter id="i" x="-.02" y="-.02" width="1.048" height="1.048" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.5"/>
-        </filter>
         <linearGradient id="h" x1="152" x2="152" y1="124" y2="236" gradientUnits="userSpaceOnUse">
             <stop offset="0"/>
             <stop offset="1" stop-opacity="0"/>
@@ -30,12 +27,6 @@
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
         <linearGradient id="d" x1="160" x2="160" y1="268" y2="44" gradientTransform="matrix(.26458 0 0 .26458 -6.993 221.973)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-        <filter id="c" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
     </defs>
     <g transform="translate(0 -229.267)">
         <path transform="matrix(.26458 0 0 .26458 0 232.67)" d="M162.537 3.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V86.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#b)" opacity=".1"/>

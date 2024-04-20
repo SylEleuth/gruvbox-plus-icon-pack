@@ -1,11 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" version="1.0" enable-background="new">
     <defs>
-        <filter id="b" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="c" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <clipPath id="d" clipPathUnits="userSpaceOnUse">
             <path d="M64 175.307c-2.045 0-4.09.782-5.656 2.35L5.656 230.343A7.952 7.952 0 0 0 3.314 236h-.002v2h.002a7.952 7.952 0 0 0 2.342 5.656l52.688 52.688a7.981 7.981 0 0 0 11.312 0l52.688-52.688a7.952 7.952 0 0 0 2.342-5.656h.002v-2h-.002a7.95 7.95 0 0 0-2.342-5.656l-52.688-52.688a7.972 7.972 0 0 0-5.656-2.35z" fill="#458588"/>
         </clipPath>

@@ -1,20 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.0" enable-background="new">
     <defs>
-        <filter id="a" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="b" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
         <linearGradient id="f" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
             <stop offset=".925" stop-opacity=".098"/>
             <stop offset="1" stop-opacity=".498"/>
         </linearGradient>
-        <filter id="d" width="1.095" height="1.097" x="-.05" y="-.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation=".283"/>
-        </filter>
         <linearGradient id="c" x1="186.568" x2="55.568" y1="292" y2="56.864" gradientTransform="translate(0 -44)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#fe8019"/>
             <stop offset="1" stop-color="#fb4934"/>

@@ -19,12 +19,6 @@
         <clipPath id="r">
             <path d="M167.47 132c-7.264.184-12.351.786-15.469 2.656-2.11 1.267-3.515 3.045-4.531 6.094-1.017 3.05-1.531 7.357-1.531 13.25s.514 10.201 1.53 13.25c1.017 3.05 2.421 4.827 4.532 6.094 3.166 1.9 8.333 2.485 15.781 2.656h2.22c3.324 0 6-2.676 6-6v-32c0-3.324-2.676-6-6-6h-2.531z" fill="#b16286" opacity=".5"/>
         </clipPath>
-        <filter id="m" x="-.08" y="-.12" width="1.16" height="1.24">
-            <feGaussianBlur stdDeviation="2.4"/>
-        </filter>
-        <filter id="o" x="-.16" y="-.24" width="1.32" height="1.48">
-            <feGaussianBlur stdDeviation="4.8"/>
-        </filter>
         <linearGradient id="f" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>
@@ -34,18 +28,9 @@
         <clipPath id="e">
             <path d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
         </clipPath>
-        <filter id="d" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="l" x="-.05" y="-.9" width="1.101" height="2.793" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.155"/>
-        </filter>
         <clipPath id="i">
             <path d="M96 92c-16 0-24 0-24 8s8 8 24 8h320c16 0 24 0 24-8s-8-8-24-8z" fill="#b16286"/>
         </clipPath>
-        <filter id="j">
-            <feGaussianBlur stdDeviation="1.04"/>
-        </filter>
         <linearGradient id="g" x1="176.65" x2="176.65" y1="75.433" y2="122.95" gradientTransform="matrix(.4845 0 0 .38317 -2.264 255.718)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2"/>

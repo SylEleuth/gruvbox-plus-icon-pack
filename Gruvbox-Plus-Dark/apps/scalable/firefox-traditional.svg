@@ -51,13 +51,6 @@
    <stop offset="1" stop-color="#fabd2f"/>
   </linearGradient>
   <radialGradient id="x" cx="71.144" cy="56.087" r="54.181" fx="71.144" fy="56.087" gradientTransform="matrix(1.36536,-4.3e-4,0,1.39295,-20.745,-15.254)" gradientUnits="userSpaceOnUse" xlink:href="#c"/>
-  <filter id="i" width="270.648" height="254.338" x="-7.32" y="2.95" filterUnits="userSpaceOnUse">
-   <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset dy="4" result="pf_100_offsetBlur"/>
-   <feFlood flood-opacity=".4"/>
-   <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
   <linearGradient id="p-3" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65,0,0,228.34,7.0600035,11.949)" gradientUnits="userSpaceOnUse">
    <stop offset="0" stop-color="#ebdbb2"/>
    <stop offset=".125" stop-color="#ebdbb2" stop-opacity=".098"/>

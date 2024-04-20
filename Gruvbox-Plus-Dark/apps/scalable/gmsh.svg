@@ -13,20 +13,11 @@
    <stop id="stop14" stop-color="#ebdbb2" offset="0"/>
    <stop id="stop16" stop-color="#ebdbb2" offset="1"/>
   </linearGradient>
-  <filter id="b" x="-.0116" y="-.012429" width="1.0232" height="1.0249" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur19" stdDeviation="1.16"/>
-  </filter>
-  <filter id="a" x="-.0232" y="-.024857" width="1.0464" height="1.0497" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur22" stdDeviation="2.32"/>
-  </filter>
   <linearGradient id="g" x1="130" x2="240" y1="206" y2="221" gradientTransform="matrix(.95455 0 0 .95455 .91 10.136)" gradientUnits="userSpaceOnUse">
    <stop id="stop25" stop-color="#d5c4a1" offset="0"/>
    <stop id="stop27" stop-color="#282828" offset=".5"/>
    <stop id="stop29" stop-color="#282828" offset="1"/>
   </linearGradient>
-  <filter id="f" x="-.035349" y="-.036682" width="1.0707" height="1.0734" color-interpolation-filters="sRGB">
-   <feGaussianBlur id="feGaussianBlur32" stdDeviation="3.093"/>
-  </filter>
  </defs>
  <path id="path37" transform="matrix(1.0194 0 0 1.0194 0 8.31)" d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V88.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#a)" opacity=".2"/>
  <path id="path39" d="M165.685 11.947c74.055 0 84.64 10.557 84.64 84.544v59.25c0 73.987-10.585 84.544-84.64 84.544h-75.37c-74.055 0-84.64-10.557-84.64-84.543V96.49c0-73.987 10.585-84.544 84.64-84.544z" fill="none" opacity=".1" stroke="#282828" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.077"/>

@@ -12,41 +12,14 @@
         <clipPath id="d">
             <path d="M188.969 44C261.617 44 272 54.357 272 126.938v58.124C272 257.644 261.617 268 188.969 268H115.03C42.383 268 32 257.643 32 185.062v-58.125C32 54.358 42.383 44 115.031 44z" fill="#fb4934" opacity=".1"/>
         </clipPath>
-        <filter id="e" x="-.81" y="-.81" width="2.62" height="2.62" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.7"/>
-        </filter>
-        <filter id="f" x="-.81" y="-.81" width="2.62" height="2.62" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.7"/>
-        </filter>
-        <filter id="g" x="-.81" y="-.81" width="2.62" height="2.62" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.7"/>
-        </filter>
-        <filter id="h" x="-.81" y="-.81" width="2.62" height="2.62" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.7"/>
-        </filter>
         <linearGradient id="c" x1="24" x2="280" y1="28" y2="284" gradientTransform="matrix(.2697 0 0 .2697 -7.129 220.56)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#8f3f71"/>
             <stop offset="1" stop-color="#b16286"/>
         </linearGradient>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="a" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="m" x="-.02" y="-.03" width="1.042" height="1.055" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.768"/>
-        </filter>
         <radialGradient id="n" cx="345.947" cy="607.442" r="61.944" gradientTransform="matrix(1 0 0 .97463 0 16.084)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>
             <stop offset="1" stop-color="#ebdbb2" stop-opacity="0"/>
         </radialGradient>
-        <filter id="l" x="-.05" y="-.05" width="1.095" height="1.097" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.446"/>
-        </filter>
-        <filter id="k" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.143"/>
-        </filter>
     </defs>
     <path transform="matrix(.2697 0 0 .2697 -7.129 -8.706)" d="M188.969 46C261.617 46 272 56.357 272 128.938v58.125c0 72.58-10.383 82.937-83.031 82.937H115.03C42.383 270 32 259.643 32 187.062v-58.125C32 56.358 42.383 46 115.031 46z" filter="url(#a)" opacity=".2"/>
     <path transform="matrix(.2697 0 0 .2697 -7.129 -8.706)" d="M188.969 44C261.617 44 272 54.357 272 126.938v58.124C272 257.644 261.617 268 188.969 268H115.03C42.383 268 32 257.643 32 185.062v-58.125C32 54.358 42.383 44 115.031 44z" filter="url(#b)" opacity=".1"/>

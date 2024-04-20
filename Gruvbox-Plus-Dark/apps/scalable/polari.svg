@@ -23,20 +23,11 @@
             <stop offset="0" stop-color="#ebdbb2" stop-opacity=".996"/>
             <stop offset="1" stop-color="#ebdbb2"/>
         </linearGradient>
-        <filter id="e" x="-.01" y="-.01" width="1.021" height="1.028" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.346"/>
-        </filter>
         <linearGradient id="d" x1="211.404" x2="232.776" y1="344.742" y2="375.408" gradientTransform="matrix(7.41138 0 0 7.41138 -1355.39 -2406.617)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-opacity="0"/>
             <stop offset=".67"/>
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
-        <filter id="c" x="-.02" y="-.03" width="1.046" height="1.05" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
-        <filter id="b" x="-.01" y="-.01" width="1.023" height="1.025" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
     </defs>
     <path transform="matrix(.26458 0 0 .26458 0 3.404)" d="M162.537 3.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V86.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#b)" opacity=".1"/>
     <path transform="matrix(.26458 0 0 .26458 0 3.404)" d="M162.537 5.568c72.648 0 83.031 10.357 83.031 82.938v58.125c0 72.58-10.383 82.937-83.031 82.937H88.599c-72.648 0-83.031-10.357-83.031-82.937V88.506c0-72.581 10.383-82.938 83.031-82.938z" filter="url(#c)" opacity=".2"/>

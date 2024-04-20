@@ -6,15 +6,6 @@
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#282828" d="M70.494 105.595h115.012v78.395H70.494"/>
  <path fill="#928374" d="M80.95 116.05h94.1v57.506h-94.1"/>
  <path fill="#282828" d="M117.545 95.139h20.91v20.911h-20.91m0-31.366h5.227v10.434h-5.227m0-15.663h5.227v5.229h-5.227m-5.229 0h5.229v5.206h-5.229m-5.227-10.435h5.207v5.229h-5.207M96.634 69h10.455v10.455H96.634m36.699 10.456h5.227v5.228h-5.227m5.122-10.455h5.229v5.206h-5.229m5.229-15.662h10.455v10.456h-10.455M86.178 163.1h20.911v5.227H86.178m47.155-5.227h15.682v5.227h-15.682m-21.017-5.227H128v5.227h-15.684m41.823-5.227h15.683v5.227h-15.683m-67.961-47.05h5.227v20.912h-5.227m5.227-20.912h10.456v5.229H91.405m5.229 0h5.227v15.683h-5.227m-5.229-10.456h5.229v5.228h-5.229m15.684-15.684h5.227v20.912h-5.227m10.456-20.912h5.227v20.912h-5.227m5.227-5.228h10.456v5.228h-10.456m0-20.912h10.456v10.456h-10.456m15.683-10.456h5.229v10.456h-5.229m5.229 5.228h5.227v5.228h-5.227m5.227-20.912h5.228v15.684h-5.228m-10.456-5.228h5.229v5.228h-5.229m20.911-15.684h5.229v20.912h-5.229"/>

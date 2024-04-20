@@ -1,12 +1,5 @@
 <svg width="256" height="256" style="isolation:isolate" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter id="a-3" x="-.04224" y="-.0452" width="1.084" height="1.108" color-interpolation-filters="sRGB">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-      <feOffset dy="4" result="pf_100_offsetBlur"/>
-      <feFlood flood-opacity=".4"/>
-      <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-      <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
-    </filter>
     <linearGradient id="b-5" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12.12)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#83a598" offset="0"/>
       <stop stop-color="#458588" offset="1"/>
@@ -31,11 +24,6 @@
         <path d="m128 64c-14.96 4.547-20.3 5.707-36.25 10.36-4.889 17.29-6.645 30.4-4.288 50.25-0.241 0.958-0.479 2.02-0.728 3.004l-0.163-1.466v2.134c-0.544 2.169-1.09 4.313-1.577 6.595-1.525 3.386-3.602 8.384-3.602 11.99 0 3.897 0.728 6.807 2.934 13.66 0.541 2.345 1.225 4.694 2.245 7.05 1.295 10.48 2.884 13.14 8.982 20.64 12.92 7.431 20.2 13.02 32.45 15.61 10.79-1.874 21.63-8.669 28.27-15.64l2.802 0.111c5.412-5.79 9.001-13.7 10.36-20.72 5.179-20.71 5.179-15.54 5.179-20.71 0-2.753-1.38-9.498-2.752-15.59-0.8-5.3-1.999-10.68-3.519-16.57l0.059-9.274 0.86-1.041c-0.054-6.826-0.624-10.46-1.872-15.97l-0.679-2.214-1.83-1.023c-0.627-4.938-1.846-9.816-4.775-13.93-12.22 0.487-24.41-6.639-32.1-7.253" fill-rule="evenodd"/>
       </g>
     </g>
-    <defs>
-      <filter id="GpxTNZbA3P94JNG0hQSUHPltomTsJGyl" x="-.1106" y="-.07371" width="1.221" height="1.147" color-interpolation-filters="sRGB">
-        <feGaussianBlur stdDeviation="4.294"/>
-      </filter>
-    </defs>
     <linearGradient id="_lgradient_37" x1="-10.85" x2="-10.85" y1="1" gradientTransform="matrix(93.22 0 0 139.8 81.39 60.68)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#282828" offset="0"/>
       <stop stop-color="#665c54" offset="1"/>

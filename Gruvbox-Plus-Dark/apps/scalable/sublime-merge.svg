@@ -11,15 +11,6 @@
   <path fill="url(#paint4_linear)" fill-rule="evenodd" d="M131.193 105.266L131.206 105.247H177.761C178.596 105.247 179.355 105.581 179.909 106.122C179.976 106.185 180.609 106.787 181.538 107.792V107.763L197.094 123.82C198.275 125.039 198.294 126.969 197.094 128.173L182.385 143.408C181.04 144.879 180.045 145.77 179.963 145.855C179.402 146.429 178.624 146.785 177.761 146.785H142.781L82.5466 188.429C81.1576 189.406 79.2363 189.065 78.2631 187.676L58.5588 159.534C57.5824 158.142 57.9226 156.053 59.3116 155.077L129.203 105.811C129.804 105.389 130.51 105.212 131.193 105.266V105.266Z" clip-rule="evenodd"/>
  </g>
  <defs>
-  <filter id="filter0_d" width="264.648" height="248.338" x="-4.32" y="5.95" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-   <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-   <feOffset dy="4"/>
-   <feGaussianBlur stdDeviation="5"/>
-   <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
-   <feBlend in2="BackgroundImageFix" mode="normal" result="effect1_dropShadow"/>
-   <feBlend in="SourceGraphic" in2="effect1_dropShadow" mode="normal" result="shape"/>
-  </filter>
   <linearGradient id="paint0_linear" x1="128" x2="128" y1="11.947" y2="240.285" gradientUnits="userSpaceOnUse">
    <stop stop-color="#504945"/>
    <stop offset="1" stop-color="#3c3836"/>

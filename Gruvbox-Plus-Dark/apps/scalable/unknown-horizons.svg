@@ -20,12 +20,6 @@
             <stop offset=".945" stop-color="#282828"/>
             <stop offset="1" stop-color="#282828"/>
         </linearGradient>
-        <filter id="c" width="1.023" height="1.025" x="-.01" y="-.01" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="1.16"/>
-        </filter>
-        <filter id="b" width="1.046" height="1.05" x="-.02" y="-.03" color-interpolation-filters="sRGB">
-            <feGaussianBlur stdDeviation="2.32"/>
-        </filter>
         <radialGradient id="g" cx="66.488" cy="325.041" r="9.5" gradientTransform="matrix(.20406 0 0 .18258 44.053 204.472)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
         <radialGradient id="a" cx="-1933.419" cy="1161.397" r="9.014" gradientTransform="matrix(-1 0 0 1 -1853.184 -914.229)" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#ebdbb2"/>

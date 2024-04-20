@@ -6,15 +6,6 @@
   </linearGradient>
   <path fill="url(#b)" d="M165.685 11.947c74.055 0 84.639 10.557 84.639 84.544v59.251c0 73.986-10.584 84.543-84.639 84.543h-75.37c-74.055 0-84.639-10.557-84.639-84.543V96.491c0-73.987 10.584-84.544 84.639-84.544h75.37z"/>
  </g>
- <defs>
-  <filter id="a" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <path fill="#3c3836" d="M64.08 91.512A39555.378 39555.378 0 0 1 128.108 55c21.34 12.155 42.708 24.273 64.019 36.474-.028 24.376-.037 48.751.01 73.126-21.302 12.221-42.698 24.254-64.038 36.4-21.396-12.248-42.905-24.301-64.236-36.652 8.51-4.808 17.01-9.625 25.538-14.405 12.896 7.376 25.83 14.704 38.698 22.126 12.839-7.478 25.848-14.666 38.641-22.219-.113-9.756-.009-19.502-.057-29.258a19547.213 19547.213 0 0 1-38.584 22.135c-21.359-12.052-42.651-24.226-64.01-36.297 0-4.976.01-9.952-.009-14.918zm37.916 7.319c8.66 5.041 17.414 9.952 26.103 14.955 8.745-4.975 17.48-9.961 26.244-14.927-8.764-4.939-17.49-9.952-26.244-14.909-8.707 4.948-17.377 9.97-26.103 14.881z"/>
  <g opacity=".4">
   <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65 0 0 228.34 5.68 11.95)" gradientUnits="userSpaceOnUse">

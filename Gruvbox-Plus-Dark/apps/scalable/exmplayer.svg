@@ -5,15 +5,6 @@
   </clipPath>
  </defs>
  <g clip-path="url(#_clipPath_rPMg7An2lmtUeelM85jHIRrTdhevWjuX)">
-  <defs>
-   <filter id="0z6TWGWt20PsI8VGhmeRxRmV7JR5GMN6" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-    <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-    <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-    <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-    <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-   </filter>
-  </defs>
   <g filter="url(#0z6TWGWt20PsI8VGhmeRxRmV7JR5GMN6)">
    <linearGradient id="_lgradient_18" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648,0,0,228.338,5.68,11.95)" gradientUnits="userSpaceOnUse">
     <stop offset="0%" style="stop-color:#504945"/>
@@ -22,11 +13,6 @@
    <path fill="url(#_lgradient_18)" d="M 165.689 11.95 C 239.745 11.95 250.328 22.507 250.328 96.494 L 250.328 155.745 C 250.328 229.731 239.745 240.288 165.689 240.288 L 90.319 240.288 C 16.264 240.288 5.68 229.731 5.68 155.745 L 5.68 96.494 C 5.68 22.507 16.264 11.95 90.319 11.95 L 165.689 11.95 Z"/>
   </g>
   <g>
-   <defs>
-    <filter id="6NONo7mlYmIQdLyBJk5RpvfBYw8LNbes" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-    </filter>
-   </defs>
    <g opacity=".4" filter="url(#6NONo7mlYmIQdLyBJk5RpvfBYw8LNbes)">
     <path d="M 172.202 150.499 C 172.202 158.142 95.822 202.087 89.176 198.265 C 82.534 194.444 82.534 106.551 89.176 102.734 C 95.818 98.913 172.202 142.858 172.202 150.501 L 172.202 150.499 Z"/>
    </g>

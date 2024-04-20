@@ -1,13 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
- <defs>
-  <filter id="oiTO9L4DDRPOuQdUgYGvDhLhdnTpy29l" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g filter="url(#oiTO9L4DDRPOuQdUgYGvDhLhdnTpy29l)">
   <linearGradient id="_lgradient_128" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(244.648309,0,0,228.338396,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop offset="0%" style="stop-color:#8ec07c"/>
@@ -26,19 +17,9 @@
  </g>
  <g>
   <g>
-   <defs>
-    <filter id="l59KOWWLcQ9GcjuEezlNsuZnsWCbHKP7" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-    </filter>
-   </defs>
    <g opacity=".4" filter="url(#l59KOWWLcQ9GcjuEezlNsuZnsWCbHKP7)">
     <path d="M 68.336723 146.63494 C 69.414171 165.459918 84.97787 180.182637 103.833631 180.213783 C 122.430289 180.20724 137.891249 165.893342 139.328504 147.352306 C 139.393807 148.129209 139.43358 148.908047 139.44776 149.687561 C 139.44776 169.356589 123.502863 185.301487 103.833835 185.301487 C 84.164807 185.301486 68.219911 169.356589 68.219911 149.687561 C 68.224147 148.768885 68.263928 147.850716 68.339165 146.935115 L 68.336723 146.63494 Z"/>
    </g>
-   <defs>
-    <filter id="vz30HD8HvB2ZipauPtSe9XEOaAd63Ic1" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-    </filter>
-   </defs>
    <g opacity=".4" filter="url(#vz30HD8HvB2ZipauPtSe9XEOaAd63Ic1)">
     <path d="M 129.389166 161.89805 C 130.466613 180.723028 146.030313 195.445749 164.886074 195.476895 C 183.55721 195.46217 199.047299 181.030272 200.380946 162.406822 C 200.450944 163.253082 200.490654 164.101575 200.499998 164.950674 C 200.499997 184.6197 184.555101 200.564596 164.886074 200.564597 C 145.217047 200.564597 129.27215 184.619701 129.272149 164.950674 C 129.276385 164.031996 129.316167 163.113826 129.391405 162.198225 L 129.389166 161.89805 Z"/>
    </g>
@@ -68,11 +49,6 @@
     <path fill="#ebdbb2" d="M 164.885965 126.792667 C 174.331403 126.792638 183.389989 130.544811 190.068923 137.223744 C 196.747856 143.902678 200.500029 152.961264 200.5 162.406702 C 200.48961 162.789517 200.473047 163.172139 200.450315 163.55442 C 199.700939 144.45182 184.003254 129.348445 164.885965 129.336527 C 145.731811 129.358798 130.025873 144.526937 129.336521 163.668695 C 129.307529 163.248446 129.285995 162.827715 129.27193 162.406702 C 129.271901 152.961264 133.024074 143.902678 139.703007 137.223744 C 146.381941 130.544811 155.440527 126.792638 164.885965 126.792667 L 164.885965 126.792667 Z"/>
    </g>
   </g>
-  <defs>
-   <filter id="d5mJPihVm3CdoVEvKzh2QWAuEciJkRmo" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="4.294"/>
-   </filter>
-  </defs>
   <g opacity=".4" filter="url(#d5mJPihVm3CdoVEvKzh2QWAuEciJkRmo)">
    <path fill-rule="evenodd" d="M 108.420276 58.132585 L 107.19976 58.594157 C 107.19976 58.594157 98.210315 62.021326 87.845969 68.041773 C 77.481624 74.062219 65.647018 82.646089 59.906525 93.399012 C 54.138495 104.203511 54.97758 117.830382 57.11679 128.753075 C 59.256001 139.675767 62.792459 147.998866 62.792459 147.998866 L 63.50793 149.687404 L 65.071146 148.670773 C 65.071146 148.670773 74.033854 142.841005 84.370825 134.426314 C 94.707791 126.011626 106.457907 115.058743 112.153947 104.389093 C 123.601107 82.946633 109.08764 59.231011 109.08764 59.231011 L 108.420276 58.132585 Z"/>
   </g>

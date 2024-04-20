@@ -6,15 +6,6 @@
   </linearGradient>
   <path fill="url(#_lgradient_104)" d="M 165.685 11.947 C 239.74 11.947 250.324 22.504 250.324 96.491 L 250.324 155.742 C 250.324 229.728 239.74 240.285 165.685 240.285 L 90.315 240.285 C 16.26 240.285 5.676 229.728 5.676 155.742 L 5.676 96.491 C 5.676 22.504 16.26 11.947 90.315 11.947 L 165.685 11.947 L 165.685 11.947 L 165.685 11.947 Z"/>
  </g>
- <defs>
-  <filter id="ZlcWoEeBXhrFnHRUvTVczcaoaqhWhHo3" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-   <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset xmlns="http://www.w3.org/2000/svg" dx="0" dy="4" result="pf_100_offsetBlur"/>
-   <feFlood xmlns="http://www.w3.org/2000/svg" flood-opacity=".4"/>
-   <feComposite xmlns="http://www.w3.org/2000/svg" in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" in2="pf_100_dropShadow" mode="normal"/>
-  </filter>
- </defs>
  <g>
   <g style="opacity:0.1" filter="url(#b3ljAhEvFeaCiDSa9VrUFAneErkNhFNT)">
    <g style="opacity:0.1">
@@ -28,11 +19,6 @@
     </g>
    </g>
   </g>
-  <defs>
-   <filter id="b3ljAhEvFeaCiDSa9VrUFAneErkNhFNT" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation=".72"/>
-   </filter>
-  </defs>
   <g style="opacity:0.5">
    <g style="opacity:0.5">
     <g opacity=".5">
@@ -118,11 +104,6 @@
     </g>
    </g>
   </g>
-  <defs>
-   <filter id="zegUtyWKYcGfMmfy2hjpYna9xC9qOFZG" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
-    <feGaussianBlur xmlns="http://www.w3.org/2000/svg" stdDeviation="1.2"/>
-   </filter>
-  </defs>
   <path fill="#ebdbb2" d="M 100.148 97.338 C 116.060814 81.425186 141.899186 81.425186 157.812 97.338 C 173.724814 113.250814 173.724814 139.089186 157.812 155.002 C 141.899186 170.914814 116.060814 170.914814 100.148 155.002 C 84.235186 139.089186 84.235186 113.250814 100.148 97.338 Z"/>
   <path fill="#ebdbb2" d="M 129.575 85.4 C 118.556 85.238 107.94 89.545 100.147 97.337 C 92.341 105.168 88.05 115.834 88.257 126.889 C 88.584 116.541 92.835 106.705 100.147 99.376 C 107.794 91.729 118.166 87.432 128.98 87.432 C 139.795 87.432 150.166 91.729 157.813 99.376 C 165.267 106.854 169.529 116.933 169.703 127.49 C 170.076 116.228 165.773 105.314 157.813 97.337 C 150.312 89.836 140.182 85.554 129.575 85.4 Z"/>
  </g>

@@ -10,15 +10,6 @@
   <path class="cls-3" d="m340.81 138v544.08c150.26 0 272.06-121.81 272.06-272.06s-121.8-272.02-272.06-272.02m53.19 59.55a219.06 219.06 0 0 1 0 424.94v-424.94" fill="#fb4934"/>
   <path class="cls-4" d="m272.79 1.92c-150.26 0-272.06 121.81-272.06 272.08s121.8 272.07 272.06 272.07zm-53.14 59.59v425a219 219 0 0 1-101.65-367.33 217.51 217.51 0 0 1 101.65-57.67" fill="#83a598"/>
  </g>
- <defs>
-  <filter id="a" x="-.042124" y="-.045133" width="1.0842" height="1.1078" color-interpolation-filters="sRGB">
-   <feGaussianBlur in="SourceGraphic" stdDeviation="4.294"/>
-   <feOffset dy="4" result="pf_100_offsetBlur"/>
-   <feFlood flood-opacity=".4"/>
-   <feComposite in2="pf_100_offsetBlur" operator="in" result="pf_100_dropShadow"/>
-   <feBlend in="SourceGraphic" in2="pf_100_dropShadow"/>
-  </filter>
- </defs>
  <g opacity=".4" style="isolation:isolate">
   <linearGradient id="c" x1=".517" x2=".517" y2="1" gradientTransform="matrix(244.65,0,0,228.34,5.68,11.95)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#665c54" offset="0"/>
