@@ -1,1 +1,6 @@
-mimetype-archive.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" fill="currentColor" d="m2 1v14h12v-10l-4-4h-8zm1 1h2v0.5h1v-0.5h3v4h4v8h-10v-12zm3 0.5v1h1v-1h-1zm0 1h-1v1h1v-1zm0 1v1h1v-1h-1zm0 1h-1v1h1v-1zm0 1v1h1v-1h-1zm0 1h-1v1h0.003906l-0.5312 2.619c-0.1973 0.9715 0.5447 1.881 1.537 1.881 0.9894 0 1.73-0.9026 1.539-1.871l-0.5176-2.621c-0.03288-0.1674-0.1801-0.291-0.3535-0.291h-0.6777v-0.7168zm0.01758 3.111c0.5351 0 0.9688 0.3613 0.9688 0.8066 0 0.4454-0.4337 0.8086-0.9688 0.8086-0.5351 0-0.9688-0.3632-0.9688-0.8086 0-0.4454 0.4337-0.8066 0.9688-0.8066z"/>
+</svg>
