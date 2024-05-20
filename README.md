@@ -58,10 +58,11 @@ You could then just use
 to download files added since the latest pull.
 
 #### Arch User Repository
-There is [AUR](https://aur.archlinux.org/) package, maintained by [Diaoul](https://github.com/Diaoul).
-It's a git version and release version will be added soon.
+There are [AUR](https://aur.archlinux.org/) packages, maintained by [Antoine Bertin](https://github.com/Diaoul).
 
-```yay -S gruvbox-plus-icon-theme-git```
+``` yay -S gruvbox-plus-icon-theme ``` - release version
+
+``` yay -S gruvbox-plus-icon-theme-git ``` - git version
 
 Contribution
 ------------
