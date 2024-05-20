@@ -109,7 +109,7 @@ If You are using Inkscape please save icons as "Optimised SVG" with these option
 
 ![Screenshot_20230608_122741](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/ee83e388-bf90-4676-8660-6c6cae86013f)
 ![Screenshot_20230517_162114](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/df3ee07b-0676-4c5f-8db8-46e34507df97)
-![Screenshot_20230517_162122](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/d749eecf-7495-4a03-a2f1-90659f4ff3bc)
+![Screenshot_20240520_121905](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/b388d41f-4721-4edb-b455-6d38d0fa5c96)
 
 If You are not using Inkscape please use [Scour](https://github.com/scour-project/scour) with options below:
 
