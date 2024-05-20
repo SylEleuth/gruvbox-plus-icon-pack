@@ -1,4 +1,5 @@
 *(last template README edit - 2nd December 2023)*
+
 *(last template icons edit - 23rd April 2024)*
 
 If you want to contribute to the project by modifing icons that has broken or outdated
@@ -110,7 +111,9 @@ If You are using Inkscape please save icons as "Optimised SVG" with these option
 ![Screenshot_20230517_162114](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/df3ee07b-0676-4c5f-8db8-46e34507df97)
 ![Screenshot_20230517_162122](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/d749eecf-7495-4a03-a2f1-90659f4ff3bc)
 
-If You are not using Inkscape please use [Scour](https://github.com/scour-project/scour) with above options.
+If You are not using Inkscape please use [Scour](https://github.com/scour-project/scour) with options below:
+
+```--set-precision=4 --renderer-workaround --strip-xml-prolog --remove-metadata --enable-comment-stripping --remove-descriptive-elements --nindent=2 --enable-id-stripping --protect-ids-list="current-color-scheme"```
 
 Other forms of contribution
 ---------------------------
