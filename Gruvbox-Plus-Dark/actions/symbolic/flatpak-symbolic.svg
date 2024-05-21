@@ -1,3 +1,6 @@
-<svg width="16" height="16" style="isolation:isolate" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-  <path transform="matrix(.875 0 0 .875 1 1)" d="m8 0-6.929 4v8l6.929 4 6.929-4v-8l-6.929-4zm0.02232 2.652c0.1963-0.01617 1.727 0.8771 4.596 2.681l-4.618 2.667-4.618-2.667c3.06-1.631 4.599-2.519 4.618-2.665 0.001208-0.009167 0.009236-0.01455 0.02232-0.01562z" fill="#ebdbb2" style="isolation:isolate"/>
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m8 1-6.063 3.5v7l6.063 3.5 6.063-3.5v-7zm0.01953 2.32c0.1718-0.01415 1.511 0.7675 4.022 2.346l-4.041 2.334-4.041-2.334c2.678-1.427 4.024-2.204 4.041-2.332 0.00105-0.00802 0.00808-0.01273 0.01953-0.01367z" fill="currentColor"/>
 </svg>
