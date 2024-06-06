@@ -1,38 +1,34 @@
 <svg width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
-    <linearGradient id="linearGradient746" x1="15" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+    <linearGradient id="linearGradient36" x1="15" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
       <stop stop-color="#98971a" offset="0"/>
       <stop stop-color="#b8bb26" offset=".313"/>
       <stop stop-color="#8ec07c" offset=".563"/>
       <stop stop-color="#689d6a" offset=".75"/>
       <stop stop-color="#458588" offset="1"/>
     </linearGradient>
-    <linearGradient id="linearGradient748" x1="1" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linearGradient37" x1="1" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fb4934" offset="0"/>
       <stop stop-color="#cc241d" offset=".313"/>
       <stop stop-color="#8f3f71" offset=".563"/>
       <stop stop-color="#458588" offset=".75"/>
       <stop stop-color="#83a598" offset="1"/>
     </linearGradient>
-    <linearGradient id="linearGradient750" x1="15" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linearGradient38" x1="15" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse">
       <stop stop-color="#98971a" offset="0"/>
       <stop stop-color="#b8bb26" offset=".313"/>
       <stop stop-color="#fabd2f" offset=".563"/>
       <stop stop-color="#fe8019" offset=".75"/>
       <stop stop-color="#cc241d" offset="1"/>
     </linearGradient>
-    <linearGradient id="linearGradient752" x1="1" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linearGradient39" x1="1" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse">
       <stop stop-color="#b16286" offset="0"/>
       <stop stop-color="#d3869b" offset=".313"/>
       <stop stop-color="#cc241d" offset=".563"/>
       <stop stop-color="#fb4934" offset=".75"/>
       <stop stop-color="#fb4934" offset="1"/>
     </linearGradient>
-    <linearGradient id="linearGradient36" x1="15" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient746"/>
-    <linearGradient id="linearGradient37" x1="1" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient748"/>
-    <linearGradient id="linearGradient38" x1="15" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient750"/>
-    <linearGradient id="linearGradient39" x1="1" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient752"/>
   </defs>
   <g transform="matrix(.8571 0 0 .8571 6.144 4.145)">
     <g transform="rotate(15,8,8)">
