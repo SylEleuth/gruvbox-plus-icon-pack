@@ -1,1 +1,6 @@
-mimetype-theme.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" fill="currentColor" d="m4 1c-0.554 0-1 0.446-1 1 0 0.554 0.446 1 1 1 0.554 0 1-0.446 1-1 0-0.554-0.446-1-1-1zm6 0-2 2 3 3-3 3 2 2 5-5-2-2zm-7.5 6c-0.831 0-1.5 0.669-1.5 1.5 0 0.831 0.669 1.5 1.5 1.5 0.831 0 1.5-0.669 1.5-1.5 0-0.831-0.669-1.5-1.5-1.5zm3.5 4c-1.108 0-2 0.892-2 2s0.892 2 2 2c1.108 0 2-0.892 2-2s-0.892-2-2-2z"/>
+</svg>
