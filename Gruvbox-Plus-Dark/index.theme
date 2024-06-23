@@ -44,7 +44,7 @@
 Name=Gruvbox Plus Dark
 Comment=Icon pack with gruvbox colors for dark themes
 
-Inherits=Breeze Dark, gnome, hicolor
+Inherits=breeze-dark, hicolor
 
 Example=folder
 
