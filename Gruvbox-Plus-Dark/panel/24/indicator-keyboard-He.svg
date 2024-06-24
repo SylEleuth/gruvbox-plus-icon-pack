@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
-  </style>
- </defs>
- <g transform="translate(1,1)">
-  <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round" class="ColorScheme-Text" d="m 4.9999989,10.999998 4.0000022,0 m 0,4.000002 0,-8.0000003 M 4.9999988,15 l 0,-8.0000003 0,0"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 13,14.999898 4,0 m -4,-3.999999 4,0 m -4,-3.9999977 4,0 M 13.0001,15 l 0,-8.0000004"/>
- </g>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NeutralText { color:#fe8019; } .ColorScheme-PositiveText { color:#689d6a; } .ColorScheme-NegativeText { color:#fb4934; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m5 11h4m0 4v-8m-4 8v-8 0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"/>
+  <path class="ColorScheme-Text" d="m13 15h4m-4-4h4m-4-4h4m-4 8v-8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
 </svg>

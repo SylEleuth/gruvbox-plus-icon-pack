@@ -1,12 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
-  </style>
- </defs>
- <g transform="translate(1,1)">
-  <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 9.0003166,13.998697 c 0,1 0,1 -1,0.999552 -0.39877,-1.79e-4 -1.742437,4.48e-4 -2,4.48e-4 -0.462291,0 -0.999999,0 -0.999999,-1 l 1.4e-5,-3.00045 -1.4e-5,-2.9995499 c -5e-6,-0.9999999 0,-0.9999999 0.999999,-0.9999999 0.432209,0 0.81111,-2.531e-4 1.000015,-4.492e-4 0.423096,-4.393e-4 0.45247,4.492e-4 0.999985,4.492e-4 1,0 1,0 1,0.9999999"/>
-  <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="m 13.000054,14.000066 c 0,1 0,1 0.999998,1 0.359093,0 0.425299,2.18e-4 1.00001,3.2e-5 0.454553,-1.11e-4 -1.1e-5,-3.2e-5 0.999991,-3.2e-5 0,0 0.999992,0 0.999999,-1 l 8e-6,-1.00045 c 0,-4.2143841 -3.999999,0.211163 -3.988018,-3.9907041 -0.0025,-0.4205455 -0.01209,-0.7453845 -0.01209,-1.0088458 0,-0.9999999 0.999999,-0.9999999 0.999999,-0.9999999 0.251868,0 0.631706,-4.499e-4 1.00001,-4.492e-4 0.347679,0 0.741252,4.492e-4 0.999991,4.492e-4 0.999999,0 0.999999,0 0.999999,0.9999999"/>
- </g>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NeutralText { color:#fe8019; } .ColorScheme-PositiveText { color:#689d6a; } .ColorScheme-NegativeText { color:#fb4934; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m9 14c0 1 0 1-1 0.9996-0.3988-1.79e-4 -1.742 4.48e-4 -2 4.48e-4 -0.4623 0-1 0-1-1l1.4e-5 -3-1.4e-5 -3c-5e-6 -1 0-1 1-1 0.4322 0 0.8111-2.531e-4 1-4.492e-4 0.4231-4.393e-4 0.4525 4.492e-4 1 4.492e-4 1 0 1 0 1 1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+  <path class="ColorScheme-Text" d="m13 14c0 1 0 1 1 1 0.3591 0 0.4253 2.18e-4 1 3.2e-5 0.4546-1.11e-4 -1.1e-5 -3.2e-5 1-3.2e-5 0 0 1 0 1-1l8e-6 -1c0-4.214-4 0.2112-3.988-3.991-0.0025-0.4205-0.01209-0.7454-0.01209-1.009 0-1 1-1 1-1 0.2519 0 0.6317-4.499e-4 1-4.492e-4 0.3477 0 0.7413 4.492e-4 1 4.492e-4 1 0 1 0 1 1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
 </svg>

@@ -1,10 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
-  </style>
- </defs>
- <rect style="opacity:0" width="22" height="22" x="0" y="0"/>
- <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:bevel" class="ColorScheme-Text" d="m 9.0003166,13.998697 c 0,1 0,1 -1,0.999552 -0.39877,-1.79e-4 -1.742437,4.48e-4 -2,4.48e-4 -0.462291,0 -0.999999,0 -0.999999,-1 l 1.4e-5,-3.00045 -1.4e-5,-2.9995499 c -5e-6,-0.9999999 0,-0.9999999 0.999999,-0.9999999 0.432209,0 0.81111,-2.531e-4 1.000015,-4.492e-4 0.423096,-4.393e-4 0.45247,4.492e-4 0.999985,4.492e-4 1,0 1,0 1,0.9999999"/>
- <path style="fill:none;stroke:currentColor;stroke-width:1.99999976;stroke-linecap:round" class="ColorScheme-Text" d="m 17.00315,14.999823 -2.000001,-3 m -2.000001,-1.000002 1.999982,-4e-6 c 0.423836,-1e-6 0.729048,4.55e-4 1.00001,4.55e-4 0.999998,0 0.999998,0 0.999998,-1.000001 0,-0.2567203 1.5e-5,-0.5997725 1.2e-5,-1.0004477 l -1.2e-5,-0.9995519 c 0,-1 0,-1 -0.999998,-1 -0.224504,0 -0.544112,0.00944 -0.874519,0.00719 -1.12549,-0.00765 -2.125473,-0.00756 -2.125473,-0.00756 M 13.003246,15 l 0,-8.0000003"/>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NeutralText { color:#fe8019; } .ColorScheme-PositiveText { color:#689d6a; } .ColorScheme-NegativeText { color:#fb4934; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m9 14c0 1 0 1-1 0.9996-0.3988-1.79e-4 -1.742 4.48e-4 -2 4.48e-4 -0.4623 0-1 0-1-1l1.4e-5 -3-1.4e-5 -3c-5e-6 -1 0-1 1-1 0.4322 0 0.8111-2.531e-4 1-4.492e-4 0.4231-4.393e-4 0.4525 4.492e-4 1 4.492e-4 1 0 1 0 1 1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+  <path class="ColorScheme-Text" d="m17 15-2-3m-2-1 2-4e-6c0.4238-1e-6 0.729 4.55e-4 1 4.55e-4 1 0 1 0 1-1 0-0.2567 1.5e-5 -0.5998 1.2e-5 -1l-1.2e-5 -0.9996c0-1 0-1-1-1-0.2245 0-0.5441 0.00944-0.8745 0.00719-1.125-0.00765-2.125-0.00756-2.125-0.00756m9.8e-5 8v-8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"/>
 </svg>
