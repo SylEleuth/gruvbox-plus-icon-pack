@@ -1,5 +1,5 @@
 GIMP Palette
-Name: gruvbox_palette.gpl
+Name: Gruvbox
 #
  29  32  33 #1D2021
  40  40  40 #282828
@@ -13,8 +13,8 @@ Name: gruvbox_palette.gpl
 189 174 147 #BDAE93
 213 196 161 #D5C4A1
 235 219 178 #EBDBB2
-249 245 215 #F9F5D7
 251 241 199 #FBF1C7
+249 245 215 #F9F5D7
 157   0   6 #9D0006
 204  36  29 #CC241D
 251  73  52 #FB4934
