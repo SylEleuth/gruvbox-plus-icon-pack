@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
-  </style>
- </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 4.5,4 C 3.437,4 2.473,4.38 1.703,5 H 7.303 C 6.523,4.37 5.547,4 4.5,4 Z M 0.762,11 C 1.569,12.21 2.94,13 4.5,13 6.021,13 7.4,12.22 8.221,11 Z M 12,11 V 12 H 15 V 11 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 3,6 C 1.892,6 1,6.89 1,8 1,9.11 1.892,10 3,10 4.108,10 5,9.11 5,8 5,6.89 4.108,6 3,6 Z M 8,6 C 6.892,6 6,6.89 6,8 6,9.11 6.892,10 8,10 9.108,10 10,9.11 10,8 10,6.89 9.108,6 8,6 Z M 13,6 C 11.892,6 11,6.89 11,8 11,9.11 11.892,10 13,10 14.108,10 15,9.11 15,8 15,6.89 14.108,6 13,6 Z"/>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NeutralText { color:#fe8019; } .ColorScheme-PositiveText { color:#689d6a; } .ColorScheme-NegativeText { color:#fb4934; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m8 1c-1.657 0-3 1.343-3 3v1c-0.554 0-1 0.446-1 1v0.2773c0.3031-0.1788 0.6481-0.2745 1-0.2773 0.5741 1.545e-4 1.12 0.247 1.5 0.6777 0.3796-0.4307 0.9259-0.6776 1.5-0.6777 0.5741 1.545e-4 1.12 0.247 1.5 0.6777 0.3796-0.4307 0.9259-0.6776 1.5-0.6777 0.3512 4.81e-4 0.6961 0.09344 1 0.2695v-0.2695c0-0.554-0.446-1-1-1v-1c0-1.657-1.343-3-3-3zm0 2c0.576 0 1 0.424 1 1v1h-2v-1c0-0.576 0.424-1 1-1zm-1.5 6.322c-0.3796 0.4307-0.9259 0.6776-1.5 0.6777-0.3519-0.00285-0.6969-0.09852-1-0.2773v0.2773c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1v-0.2773c-0.3031 0.1788-0.6481 0.2745-1 0.2773-0.5741-1.544e-4 -1.12-0.247-1.5-0.6777-0.3796 0.4307-0.9259 0.6776-1.5 0.6777-0.5741-1.544e-4 -1.12-0.247-1.5-0.6777zm0.5 2.678v1h-2v2h6v-2h-2v-1zm-6 1c-0.554 0-1 0.446-1 1s0.446 1 1 1h3v-2zm11 0v2h3c0.554 0 1-0.446 1-1s-0.446-1-1-1z" fill="currentColor" opacity=".3"/>
+  <path class="ColorScheme-Text" d="m5 7a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm3 0a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1z" fill="currentColor"/>
 </svg>
