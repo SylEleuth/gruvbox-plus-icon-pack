@@ -1,6 +1,6 @@
 *(last template README edit - 20th May 2024)*
 
-*(last template icons edit - 23rd April 2024)*
+*(last template icons edit - 1st July 2024)*
 
 If you want to contribute to the project by modifing icons that has broken or outdated
 elements or just by creating a new one, You are more than welcome. You would have to clone
