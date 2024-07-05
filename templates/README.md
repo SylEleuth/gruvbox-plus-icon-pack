@@ -113,7 +113,7 @@ If You are using Inkscape please save icons as "Optimised SVG" with these option
 
 If You are not using Inkscape please use [Scour](https://github.com/scour-project/scour) with options below:
 
-```--set-precision=4 --renderer-workaround --strip-xml-prolog --remove-metadata --enable-comment-stripping --remove-descriptive-elements --nindent=2 --enable-id-stripping --protect-ids-list="current-color-scheme"```
+```--set-precision=5 --renderer-workaround --strip-xml-prolog --remove-metadata --enable-comment-stripping --remove-descriptive-elements --nindent=2 --enable-id-stripping --protect-ids-list="current-color-scheme"```
 
 Other forms of contribution
 ---------------------------
