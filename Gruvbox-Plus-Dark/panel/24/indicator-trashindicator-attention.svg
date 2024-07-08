@@ -1,21 +1,6 @@
 <svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
-   <defs>
-      <style type="text/css">
-         .ColorScheme-Text {
-            color: #ebdbb2;
-         }
-
-         .ColorScheme-Highlight {
-            color: #458588;
-         }
-      </style>
-   </defs>
-   <path class="ColorScheme-Text"
-      d="m-90.809 6.8115v5.712c0 1.7089 1.327 4.567 1.327 4.567s0.5441 1.1421 1.1421 1.1421h10.279c0.59846 0 1.1398-1.1421 1.1421-1.1421 0 0 1.2861-2.9989 1.3237-4.567v-5.712z"
-      color="#ebdbb2" fill="currentColor" stroke-width="1.1421" />
-   <path
-      d="m4.9969 7.996v3.5106c0 1.2138 0.067252 2.6107 0.22722 3.6423 0.15993 1.0317 0.91529 3.6408 0.91529 3.6408s0.54847 1.2142 1.1425 1.2142h9.4361c0.59404 0 1.1425-1.2142 1.1425-1.2142s0.75536-2.6089 0.91529-3.6408c0.15994-1.0317 0.22722-2.4287 0.22722-3.6423v-3.5106z"
-      fill="#ebdbb2" stroke-width=".84576" />
-   <path d="m9.9997 3.996c-1 0-1 1-1 1h-3s-1 0-1 1v1h14v-1c0-1-1-1-1-1h-3s0-1-1-1z" color="#ebdbb2"
-      fill="currentColor" />
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NeutralText { color:#fe8019; } .ColorScheme-PositiveText { color:#689d6a; } .ColorScheme-NegativeText { color:#fb4934; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m9.998 5c-0.9999 0-1 1-1 1h-3s-0.998 3.77e-4 -0.998 1v1h13v-1c0-0.9999-1-1-1-1h-2.998s-3.77e-4 -1-1-1zm-5.001 4.001v2.923c0 1.011 0.09113 1.895 0.1984 3.075 0.2611 1.536 1.026 4 2.305 4h8.004c1.276 4.15e-4 2.042-2.586 2.293-4 0.1011-1.107 0.2007-2.065 0.2007-3.075v-2.923z" fill="currentColor"/>
 </svg>
