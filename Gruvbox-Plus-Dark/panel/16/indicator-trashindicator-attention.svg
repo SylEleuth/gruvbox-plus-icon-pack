@@ -1,19 +1,6 @@
 <svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <style type="text/css">
-            .ColorScheme-Text {
-                color: #ebdbb2;
-            }
-
-            .ColorScheme-Highlight {
-                color: #458588;
-            }
-        </style>
-    </defs>
-    <path class="ColorScheme-Text"
-        d="m6.5019 0.9902c-1 0-1 1-1 1h-3s-1.002 0.0035-1.002 1.0039v1.002l13-2e-3v-1c0-1-0.998-1.0039-0.998-1.0039h-3s0-1-1-1z"
-        fill="currentColor" />
-    <path
-        d="m1.4999 5v2.9245c0 1.0111 0.058867 2.1748 0.1989 3.0342 0.14 0.85945 0.80122 3.0328 0.80122 3.0328s0.48011 1.0114 1.0001 1.0114h8.9997c0.52 0 1.0001-1.0114 1.0001-1.0114s0.66122-2.1733 0.80122-3.0328c0.14-0.85945 0.1989-2.0231 0.1989-3.0342v-2.9245z"
-        fill="#ebdbb2" stroke-width=".72223" />
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NeutralText { color:#fe8019; } .ColorScheme-PositiveText { color:#689d6a; } .ColorScheme-NegativeText { color:#fb4934; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m7 1c-0.9999 0-1 1-1 1h-3s-0.998 3.77e-4 -0.998 1v1h12v-1c0-0.9999-1-1-1-1h-2.998s-3.77e-4 -1-1-1zm-5.001 4.001v2.923c0 1.011 0.09095 1.853 0.1982 3.033 0.2611 1.536 0.5217 4.042 1.8 4.042h8.004c1.276 4.15e-4 1.549-2.628 1.8-4.042 0.1011-1.107 0.2005-2.023 0.2005-3.033v-2.923z" fill="currentColor"/>
 </svg>
