@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 6.2851562,4 C 5.0188705,4 4,5.0188706 4,6.2851562 V 17.714844 C 4,18.981129 5.0188706,20 6.2851562,20 H 17.714844 C 18.981129,20 20,18.981129 20,17.714844 V 6.2851562 C 20,5.0186419 18.981129,4 17.714844,4 Z M 7,7 H 17 V 9 H 7 Z m 0,4 h 10 v 2 H 7 Z m 0,4 h 6 v 2 H 7 Z"/>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NeutralText { color:#fe8019; } .ColorScheme-PositiveText { color:#689d6a; } .ColorScheme-NegativeText { color:#fb4934; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m6.285 4c-1.266 0-2.285 1.019-2.285 2.285v11.43c0 1.266 1.019 2.285 2.285 2.285h11.43c1.266 0 2.285-1.019 2.285-2.285v-11.43c0-1.267-1.019-2.285-2.285-2.285zm0.7148 3h10v2h-10zm0 4h10v2h-10zm0 4h6v2h-6z" fill="currentColor"/>
 </svg>
