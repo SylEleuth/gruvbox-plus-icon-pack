@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 10 3 L 10 5 L 10 5.1894531 A 6.5 6.5 0 0 0 5.1796875 10 L 7.265625 10 A 4.5 4.5 0 0 1 11.5 7 A 4.5 4.5 0 0 1 15.732422 10 L 17.808594 10 A 6.5 6.5 0 0 0 13 5.1894531 L 13 4 L 13 3 L 10 3 z M 11.5 8 A 3.5 3.5 0 0 0 8 11.5 A 3.5 3.5 0 0 0 8.0410156 12 L 8.4003906 12 L 9.0546875 12 L 13.949219 12 A 2.5 2.5 0 0 1 11.5 14 A 2.5 2.5 0 0 1 9.5019531 13 L 8.3417969 13 A 3.5 3.5 0 0 0 11.5 15 A 3.5 3.5 0 0 0 15 11.5 A 3.5 3.5 0 0 0 14.958984 11 L 14.400391 11 L 13.945312 11 L 9.0507812 11 A 2.5 2.5 0 0 1 11.5 9 A 2.5 2.5 0 0 1 13.498047 10 L 14.658203 10 A 3.5 3.5 0 0 0 11.5 8 z M 5.1835938 13 A 6.5 6.5 0 0 0 10 17.814453 L 10 19 L 10 20 L 13 20 L 13 19 L 13 17.808594 A 6.5 6.5 0 0 0 17.816406 13 L 15.736328 13 A 4.5 4.5 0 0 1 11.5 16 A 4.5 4.5 0 0 1 7.2636719 13 L 5.1835938 13 z"/>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NeutralText { color:#fe8019; } .ColorScheme-PositiveText { color:#689d6a; } .ColorScheme-NegativeText { color:#fb4934; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m10 3v2 0.1895a6.5 6.5 0 0 0-4.82 4.811h2.086a4.5 4.5 0 0 1 4.234-3 4.5 4.5 0 0 1 4.232 3h2.076a6.5 6.5 0 0 0-4.809-4.811v-1.189-1h-3zm1.5 5a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 0.04102 0.5h0.3594 0.6543 4.895a2.5 2.5 0 0 1-2.449 2 2.5 2.5 0 0 1-1.998-1h-1.16a3.5 3.5 0 0 0 3.158 2 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-0.04102-0.5h-0.5586-0.4551-4.895a2.5 2.5 0 0 1 2.449-2 2.5 2.5 0 0 1 1.998 1h1.16a3.5 3.5 0 0 0-3.158-2zm-6.316 5a6.5 6.5 0 0 0 4.816 4.814v1.186 1h3v-1-1.191a6.5 6.5 0 0 0 4.816-4.809h-2.08a4.5 4.5 0 0 1-4.236 3 4.5 4.5 0 0 1-4.236-3h-2.08z" fill="currentColor"/>
 </svg>
