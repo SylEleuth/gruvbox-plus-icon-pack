@@ -1,1 +1,6 @@
-color-picker-symbolic.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m13.32 1c-0.4455 6.73e-5 -0.8728 0.1771-1.188 0.4922l-2.24 2.24-1.052-1.052-1.12 1.12 0.7241 0.7241-5.141 5.141c-0.4163 0.4163-0.6234 0.9661-0.6234 1.516v1.019l-1.68 1.68 1.12 1.12 1.68-1.68h1.019c0.5498 0 1.1-0.2072 1.516-0.6234l5.141-5.141 0.7241 0.7241 1.12-1.12-1.052-1.052 2.24-2.24c0.3151-0.315 0.4921-0.7423 0.4922-1.188v-0.56c0-0.6186-0.5014-1.12-1.12-1.12zm-4.084 4.316 1.448 1.448-3.196 3.196h-2.896z" fill="currentColor"/>
+</svg>
