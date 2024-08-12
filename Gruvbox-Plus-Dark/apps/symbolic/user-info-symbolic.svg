@@ -1,1 +1,6 @@
-user-symbolic.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m8 1c-1.933-4.82e-6 -3.5 1.567-3.5 3.5 1.46e-5 1.933 1.567 3.5 3.5 3.5 1.933 5.2e-6 3.5-1.567 3.5-3.5s-1.567-3.5-3.5-3.5zm0 7.875c-3.557 0.0042-6.555 2.629-7 6.125h14c-0.4445-3.496-3.443-6.121-7-6.125z" fill="currentColor"/>
+</svg>
