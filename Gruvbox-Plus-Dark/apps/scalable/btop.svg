@@ -1,0 +1,31 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3c3836" offset="0"/>
+      <stop stop-color="#3c3836" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <rect x="93.184" y="53.689" width="69.624" height="29.01" fill="#fb4934" stroke-width="5.802"/>
+  <rect x="93.184" y="82.699" width="23.208" height="29.01" fill="#e33628" stroke-width="5.802"/>
+  <rect x="151.2" y="82.699" width="23.208" height="29.01" fill="#e33628" stroke-width="5.802"/>
+  <rect x="93.184" y="111.71" width="69.624" height="29.01" fill="#cc241d" stroke-width="5.802"/>
+  <rect x="93.184" y="140.72" width="23.208" height="29.01" fill="#b41211" stroke-width="5.802"/>
+  <rect x="151.2" y="140.72" width="23.208" height="29.01" fill="#b41211" stroke-width="5.802"/>
+  <rect x="93.184" y="169.73" width="69.624" height="29.01" fill="#9d0006" stroke-width="5.802"/>
+  <rect x="93.184" y="82.699" width="81.228" height="5.802" fill="#282828" opacity=".3" stroke-width="5.802"/>
+  <rect x="93.184" y="111.71" width="23.208" height="5.802" fill="#282828" opacity=".3" stroke-width="5.802"/>
+  <rect x="151.2" y="111.71" width="23.208" height="5.802" fill="#282828" opacity=".3" stroke-width="5.802"/>
+  <rect x="93.184" y="140.72" width="81.228" height="5.802" fill="#282828" opacity=".3" stroke-width="5.802"/>
+  <rect x="93.184" y="169.73" width="23.208" height="5.802" fill="#282828" opacity=".3" stroke-width="5.802"/>
+  <rect x="151.2" y="169.73" width="23.208" height="5.802" fill="#282828" opacity=".3" stroke-width="5.802"/>
+  <rect x="93.184" y="198.74" width="69.624" height="5.802" fill="#282828" opacity=".4" stroke-width="5.802"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>
