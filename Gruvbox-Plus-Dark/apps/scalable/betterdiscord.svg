@@ -1,1 +1,23 @@
-discord.svg
+<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(0 -.12)" filter="url(#a)">
+    <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12.12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3c3836" offset="0"/>
+      <stop stop-color="#3c3836" offset="1"/>
+    </linearGradient>
+    <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)"/>
+  </g>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#928374" offset="0"/>
+      <stop stop-color="#928374" stop-opacity=".09804" offset=".1"/>
+      <stop stop-opacity=".09804" offset=".9"/>
+      <stop stop-opacity=".498" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(.004996 -.116)" opacity=".4">
+    <path transform="translate(-.004996 .116)" d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
+  </g>
+  <path d="m113.43 63-53.42 0.01953v58.27l29.141 29.141v-58.27h26.67c6.716 0 12.16 5.4452 12.16 12.16 1e-4 6.716-5.4452 12.16-12.16 12.16h-16.961v29.139h16.961c6.694-8e-5 12.119 5.4271 12.119 12.121 1.9e-4 6.694-5.4252 12.119-12.119 12.119h-55.811v29.141h53.42c0.7994 0 1.6016-0.0197 2.3906-0.0586v0.0586c22.82-9.4e-4 41.33-18.5 41.33-41.33-3e-3 -9.776-3.4711-19.229-9.7871-26.689 6.308-7.451 9.7761-16.89 9.7871-26.65-9.3e-4 -22.82-18.5-41.33-41.33-41.33v0.05859c-0.7887-0.03884-1.5916-0.05859-2.3906-0.05859zm33.99 0.01953s19.43 9.7141 19.43 41.33v53.35c0 31.61-19.43 41.33-19.43 41.33h4.8574c24.14 0 43.719-19.569 43.719-43.719v-48.57c0-24.14-19.569-43.721-43.719-43.721z" fill="#282828" opacity=".5" style="isolation:isolate;paint-order:fill markers stroke"/>
+  <path d="m60.006 58.005v58.27l29.14 29.14v-58.27h26.67c6.716 0 12.16 5.445 12.16 12.16 1e-4 6.716-5.445 12.16-12.16 12.16h-16.96v29.14h16.96c6.694-8e-5 12.12 5.426 12.12 12.12 1.9e-4 6.694-5.426 12.12-12.12 12.12h-55.81v29.14h53.42c0.7994 0 1.601-0.0194 2.39-0.0583v0.0583c22.82-9.4e-4 41.33-18.5 41.33-41.33-3e-3 -9.776-3.471-19.23-9.787-26.69 6.308-7.451 9.776-16.89 9.787-26.65-9.4e-4 -22.82-18.5-41.33-41.33-41.33v0.05828c-0.7887-0.03884-1.591-0.05828-2.39-0.05828z" fill="#458588" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.424" style="paint-order:fill markers stroke"/>
+  <path d="m147.42 58.005s19.43 9.714 19.43 41.33v53.35c0 31.61-19.43 41.33-19.43 41.33h4.857c24.14 0 43.72-19.57 43.72-43.72v-48.57c0-24.14-19.57-43.72-43.72-43.72z" fill="#ebdbb2" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.424" style="paint-order:fill markers stroke"/>
+</svg>
