@@ -1,1 +1,49 @@
-camera.svg
+<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d5c4a1" offset="0"/>
+      <stop stop-color="#d5c4a1" stop-opacity=".09804" offset=".1"/>
+      <stop stop-color="#282828" stop-opacity=".1" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".4" offset="1"/>
+    </linearGradient>
+    <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12.12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" offset="0"/>
+      <stop stop-color="#ebdbb2" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(9.09e-6 -.12)" filter="url(#a-5)" style="isolation:isolate">
+    <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)"/>
+  </g>
+  <g transform="translate(9.09e-6 -.12)" opacity=".5" style="isolation:isolate">
+    <path transform="translate(-.004996 .116)" d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
+  </g>
+  <g style="isolation:isolate">
+    <circle cx="217.7" cy="40.18" r="8.155" fill="#fb4934" vector-effect="non-scaling-stroke"/>
+    <path d="m128 216.5c49.51 0 89.7-40.2 89.7-89.7s-40.2-89.7-89.7-89.7-89.7 40.2-89.7 89.7 40.2 89.7 89.7 89.7z" fill-opacity=".996" filter="url(#c)" opacity=".1"/>
+    <g filter="url(#d)" opacity=".4">
+      <linearGradient id="e" x2="1" y1=".5" y2=".5" gradientTransform="matrix(0 -179.4 -179.4 0 217.7 216.5)" gradientUnits="userSpaceOnUse">
+        <stop offset="0"/>
+        <stop offset=".733"/>
+        <stop offset="1"/>
+      </linearGradient>
+      <path d="m128 216.5c49.51 0 89.7-40.2 89.7-89.7s-40.2-89.7-89.7-89.7-89.7 40.2-89.7 89.7 40.2 89.7 89.7 89.7z" fill="url(#e)"/>
+    </g>
+    <path d="m128 215.5c49.51 0 89.7-40.2 89.7-89.7s-40.2-89.7-89.7-89.7-89.7 40.2-89.7 89.7 40.2 89.7 89.7 89.7z" fill="#ebdbb2"/>
+    <path d="m128 208.4c45.01 0 81.55-36.54 81.55-81.55 0-45.01-36.54-81.55-81.55-81.55-45.01 0-81.55 36.54-81.55 81.55 0 45.01 36.54 81.55 81.55 81.55z" fill="#ebdbb2"/>
+    <path d="m128 207.4c45.01 0 81.55-36.54 81.55-81.55 0-45.01-36.54-81.55-81.55-81.55-45.01 0-81.55 36.54-81.55 81.55 0 45.01 36.54 81.55 81.55 81.55z" fill="#504945"/>
+    <g opacity=".1">
+      <radialGradient id="f" cx="-.5" cy=".5" r="96" gradientTransform="matrix(0 163.1 -163.1 0 46.45 44.26)" gradientUnits="userSpaceOnUse">
+        <stop offset="0"/>
+        <stop offset="1"/>
+      </radialGradient>
+      <path d="m128 44.26c-45.04 1e-3 -81.55 36.51-81.55 81.55-1e-3 45.04 36.51 81.55 81.55 81.55a81.54 81.54 0 0 0 81.55-81.55 81.55 81.55 0 0 0-81.55-81.55zm0 29.18c28.92 0 52.37 23.45 52.37 52.37s-23.45 52.37-52.37 52.37-52.37-23.45-52.37-52.37 23.45-52.37 52.37-52.37z" fill="url(#f)"/>
+    </g>
+    <path d="m128 191c36.01 0 65.24-29.23 65.24-65.24s-29.23-65.24-65.24-65.24-65.24 29.23-65.24 65.24 29.23 65.24 65.24 65.24z" fill="#665c54"/>
+    <path d="m128 187c33.76 0 61.16-27.41 61.16-61.16s-27.41-61.16-61.16-61.16-61.16 27.41-61.16 61.16 27.41 61.16 61.16 61.16z" fill="#b16286"/>
+    <path d="m128 166.6c22.5 0 40.78-18.27 40.78-40.78 0-22.5-18.27-40.78-40.78-40.78-22.5 0-40.78 18.27-40.78 40.78 0 22.5 18.27 40.78 40.78 40.78z" fill="#8f3f71"/>
+    <path d="m130.9 146c11.14-1.565 18.92-11.88 17.35-23.02-1.566-11.14-11.88-18.92-23.02-17.35-11.14 1.565-18.92 11.88-17.35 23.02 1.566 11.14 11.88 18.92 23.02 17.35z" fill="#8f3f71"/>
+    <path d="m130.1 118.5a6.119 6.119 0 0 1 5.206-6.908 6.119 6.119 0 0 1 6.908 5.205 6.119 6.119 0 0 1-5.206 6.908 6.119 6.119 0 0 1-6.907-5.205zm-11.99 16.14a2.04 2.04 0 0 1 4.038-0.57 2.04 2.04 0 0 1-4.038 0.57z" fill="#ebdbb2" opacity=".3"/>
+    <circle cx="154.5" cy="99.3" r="24.46" fill="#ebdbb2" opacity=".2" vector-effect="non-scaling-stroke"/>
+    <path d="m128 36.1c-49.54 0-89.7 40.16-89.7 89.7 0.012 0.282 0.026 0.565 0.041 0.846 0.653-49.06 40.6-88.49 89.66-88.51 49.2 0.02 89.2 39.66 89.66 88.86 0.016-0.398 0.03-0.795 0.041-1.193-1e-3 -49.54-40.16-89.7-89.7-89.7z" fill="#ebdbb2" opacity=".4"/>
+  </g>
+</svg>
