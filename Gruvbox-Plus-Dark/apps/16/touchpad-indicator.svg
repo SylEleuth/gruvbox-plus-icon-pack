@@ -1,1 +1,6 @@
-input-touchpad.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m2 1c-0.554 0-1 0.446-1 1v11c0 0.554 0.446 1 1 1h12c0.554 0 1-0.446 1-1v-11c0-0.554-0.446-1-1-1zm10 2h2v1h-2zm0 2h2v1h-2zm0 2h2v1h-2zm-9.26 3h3.52c0.4101 0 0.7402 0.3301 0.7402 0.7402v1.52c0 0.4101-0.3301 0.7402-0.7402 0.7402h-3.52c-0.4101 0-0.7402-0.3301-0.7402-0.7402v-1.52c0-0.4101 0.3301-0.7402 0.7402-0.7402zm7 0h3.52c0.4101 0 0.7402 0.3301 0.7402 0.7402v1.52c0 0.4101-0.3301 0.7402-0.7402 0.7402h-3.52c-0.4101 0-0.7402-0.3301-0.7402-0.7402v-1.52c0-0.4101 0.3301-0.7402 0.7402-0.7402z" fill="currentColor"/>
+</svg>
