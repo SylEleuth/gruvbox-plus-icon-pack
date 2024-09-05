@@ -1,1 +1,6 @@
-xfce-sensors.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m2.801 2c-0.4432 0-0.8008 0.3576-0.8008 0.8008v1.199h-2v2h2v1h-2v2h2v1h-2v2h2v1.199c0 0.4432 0.3576 0.8008 0.8008 0.8008h5.199c-2.197 0-4-1.803-4-4 0.0011-1.402 0.8466-2.751 2.006-3.469v-4.531h-3.205zm5.199 12h5.199c0.4432 0 0.8008-0.3576 0.8008-0.8008v-1.199h2v-2h-2v-1h2v-2h-2v-1h2v-2h-2v-1.199c0-0.4432-0.3576-0.8008-0.8008-0.8008h-3.193v4.539c1.152 0.719 1.992 2.063 1.994 3.459v0.00195c0 2.197-1.803 4-4 4zm-0.9941-10v3.172c-1.201 0.422-2.005 1.555-2.006 2.828 0 1.657 1.343 3 3 3s3-1.343 3-3c-2e-3 -1.268-0.8-2.397-1.994-2.822v-3.178z" fill="currentColor"/>
+</svg>
