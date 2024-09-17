@@ -1,3 +1,6 @@
-<svg width="16" height="16" style="isolation:isolate" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-  <path transform="matrix(.875 0 0 .875 1 1)" d="m7 0v0.616c-0.315 1.678-1.632 3.165-1.837 4.672l-9e-3 10.71h5.692l-8e-3 -10.7c-0.321-1.815-1.385-3.08-1.837-4.684v-0.616z" fill="#ebdbb2" style="isolation:isolate"/>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" fill="currentColor" d="m7.125 1.001v0.539c-0.2756 1.468-1.428 2.77-1.607 4.088l-0.007876 9.372h4.981l-7e-3 -9.363c-0.2809-1.588-1.212-2.695-1.607-4.099v-0.539z"/>
 </svg>
