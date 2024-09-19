@@ -1,1 +1,24 @@
-coin.svg
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#ebdbb2" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#bdae93" stop-opacity=".1" offset=".1"/>
+      <stop stop-color="#d5c4a1" stop-opacity="0" offset=".7022"/>
+      <stop stop-color="#bdae93" stop-opacity=".302" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".3" offset="1"/>
+    </linearGradient>
+    <linearGradient id="b-3" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(205.8 0 0 192.3 25.07 29.84)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fabd2f" offset="0"/>
+      <stop stop-color="#d79921" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <path d="m159.2 29.84c60.74 0 71.7 12.65 71.7 73.39v47.24c0 59.05-10.97 71.7-71.7 71.7h-62.42c-60.74 0-71.7-12.65-71.7-71.7v-47.24c0-60.74 10.97-73.39 71.7-73.39z" fill="url(#b-3)" stroke-width=".8435" style="isolation:isolate"/>
+  <path d="m89.44 62.94v55.09h-27.54v5.509h27.54v11.02h-27.54v5.509h27.54v55.09h16.53v-55.09h4.842l55.09 55.09h0.667l11.02-11.02v-0.667l-43.4-43.4h59.93v-5.509h-65.44l-5.509-5.509 5.509-5.509h65.44v-5.509h-59.93l43.4-43.4v-0.667l-11.02-11.02h-0.667l-55.09 55.09h-4.842v-55.09z" fill="#32302f" opacity=".2" stroke-width="5.509"/>
+  <path d="m89.44 57.43v55.09h-27.54v5.509h27.54v11.02h-27.54v5.509h27.54v55.09h16.53v-55.09h4.842l55.09 55.09h0.667l11.02-11.02v-0.667l-43.4-43.4h59.93v-5.509h-65.44l-5.509-5.509 5.509-5.509h65.44v-5.509h-59.93l43.4-43.4v-0.667l-11.02-11.02h-0.667l-55.09 55.09h-4.842v-55.09z" fill="#ebdbb2" stroke-width="5.509"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>
