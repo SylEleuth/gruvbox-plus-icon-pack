@@ -1,1 +1,19 @@
-codeblocks.svg
+<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(0 -.1044)" filter="url(#a)">
+    <path d="m6 126.1v29.03c0 69.98 13 84.97 84.99 84.97l37.01-0.01562v-114z" fill="#fe8019" stroke-width=".9998" style="isolation:isolate"/>
+    <path d="m128 12.1v114h122v-27c0-72-12.97-87-84.97-87z" fill="#458588" style="isolation:isolate"/>
+    <path d="m128 126.1v114h37.01c71.99 0 84.99-14.98 84.99-84.96v-29.03z" fill="#689d6a" stroke-width=".9998" style="isolation:isolate"/>
+    <path d="m91 12.1c-72 0-85 15-85 87v27h122v-114z" fill="#cc241d" style="isolation:isolate"/>
+  </g>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d5c4a1" offset="0"/>
+      <stop stop-color="#d5c4a1" stop-opacity=".09804" offset=".1"/>
+      <stop stop-color="#282828" stop-opacity=".1" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".4" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(.004996 -.116)" opacity=".5">
+    <path transform="translate(-.004996 .116)" d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
+  </g>
+</svg>
