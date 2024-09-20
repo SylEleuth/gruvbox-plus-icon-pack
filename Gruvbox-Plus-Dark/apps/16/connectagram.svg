@@ -1,58 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }
-  </style>
-  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#d79921; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#b57614; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#83a598; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#b16286; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#8ec07c; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#458588; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#458588; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#928374; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#b8bb26; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#076678; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color: #fe8019; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color: #fabd2f; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color: #83a598; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color: #83a598; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color: #fb4934; stop-opacity:1"/>
-   <stop offset="25%" style="stop-color: #fabd2f; stop-opacity:1"/>
-   <stop offset="50%" style="stop-color: #fe8019; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color: #689d6a; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color: #b16286; stop-opacity:1"/>
-   <stop offset="20%" style="stop-color: #8ec07c; stop-opacity:1"/>
-   <stop offset="50%" style="stop-color: #fabd2f; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color: #458588; stop-opacity:1"/>
-  </linearGradient>
-  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
-    <stop offset="0" style="stop-color:#83a598; stop-opacity:1"/>
-    <stop offset="1" style="stop-color:#b16286; stop-opacity:1"/>
-  </linearGradient>
-  <clipPath id="_clipPath_3bKltcH80cDbirBnMTOUFJzfU0lVU2HC">
-   <rect width="16" height="16"/>
-  </clipPath>
- </defs>
- <g clip-path="url(#_clipPath_3bKltcH80cDbirBnMTOUFJzfU0lVU2HC)">
-  <rect style="fill:currentColor" class="ColorScheme-Text" fill-opacity="0" width="16" height="16"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 14.769 14.853 C 14.016 15.232 13.231 15.518 12.413 15.711 C 11.596 15.904 10.743 16 9.855 16 C 7.204 16 5.104 15.284 3.555 13.851 C 2.005 12.412 1.231 10.464 1.231 8.005 C 1.231 5.54 2.005 3.591 3.555 2.159 C 5.104 0.72 7.204 0 9.855 0 C 10.743 0 11.596 0.096 12.413 0.289 C 13.231 0.482 14.016 0.768 14.769 1.147 L 14.769 4.468 C 14.009 3.965 13.259 3.597 12.52 3.363 C 11.781 3.129 11.15 3.012 10.333 3.012 C 8.869 3.012 7.718 3.466 6.879 4.375 C 6.041 5.284 5.621 6.408 5.621 8.005 C 5.621 9.596 6.041 10.716 6.879 11.625 C 7.718 12.534 8.869 12.988 10.333 12.988 C 11.15 12.988 11.781 12.872 12.52 12.637 C 13.259 12.403 14.009 12.035 14.769 11.532 L 14.769 14.853 Z"/>
- </g>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" fill="currentColor"  d="m13.84 14c-0.6589 0.3316-1.345 0.5819-2.061 0.7507-0.7149 0.1689-1.461 0.2529-2.238 0.2529-2.32 0-4.157-0.6265-5.512-1.88-1.356-1.26-2.033-2.963-2.033-5.115 0-2.157 0.6772-3.863 2.033-5.115 1.355-1.26 3.192-1.889 5.512-1.889 0.7769 0 1.523 0.08399 2.238 0.2529 0.7157 0.1689 1.403 0.4191 2.061 0.7507v2.906c-0.665-0.4401-1.321-0.762-1.967-0.9669-0.6465-0.2047-1.198-0.3071-1.914-0.3071-1.281 0-2.288 0.3972-3.022 1.192-0.7332 0.7953-1.101 1.779-1.101 3.176 0 1.392 0.3675 2.372 1.101 3.168 0.7341 0.7953 1.741 1.192 3.022 1.192 0.7149 0 1.267-0.1015 1.914-0.3071 0.6465-0.2047 1.303-0.5267 1.967-0.9669z"/>
 </svg>
