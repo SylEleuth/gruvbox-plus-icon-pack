@@ -1,1 +1,23 @@
-photo.svg
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#ebdbb2" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#bdae93" stop-opacity=".1" offset=".1"/>
+      <stop stop-color="#d5c4a1" stop-opacity="0" offset=".7022"/>
+      <stop stop-color="#bdae93" stop-opacity=".302" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".3" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <path d="m128 56.07c-51.26 0-88.76 40.69-92.81 74.25 4.051 33.57 41.55 74.25 92.81 74.25 51.26 0 88.76-40.69 92.81-74.25-4.051-33.57-41.55-74.25-92.81-74.25z" fill="#282828" opacity=".3" stroke-width="4.641"/>
+  <path d="m128 51.43c-51.26 0-88.76 40.69-92.81 74.25 4.051 33.57 41.55 74.25 92.81 74.25 51.26 0 88.76-40.69 92.81-74.25-4.051-33.57-41.55-74.25-92.81-74.25z" fill="#b16286" stroke-width="4.641"/>
+  <circle cx="128" cy="130.3" r="55.69" fill="#282828" opacity=".2" stroke-width="4.641"/>
+  <circle cx="128" cy="125.7" r="55.69" fill="#ebdbb2" stroke-width="4.641"/>
+  <path d="m128 51.43c-51.26 0-88.76 40.69-92.81 74.25 0.09282 0.7704 0.2255 1.545 0.3536 2.32 5.447-33.09 42.37-71.93 92.46-71.93 50.09 0 87.01 38.84 92.46 71.93 0.1253-0.775 0.2599-1.55 0.3527-2.32-4.051-33.57-41.55-74.25-92.81-74.25z" fill="#ebdbb2" opacity=".2" stroke-width="4.641"/>
+  <path d="m160.5 102.5a13.92 13.92 0 0 1-13.92 13.92 13.92 13.92 0 0 1-13.92-13.92 13.92 13.92 0 0 1 13.92-13.92 13.92 13.92 0 0 1 13.92 13.92zm-51.05 4.641-23.91 37.13c7.37 16.89 24.04 27.82 42.47 27.84 18.43-0.0232 35.1-10.95 42.47-27.84h-14.63l-13.92-18.56-13.92 13.92z" fill="#665c54" stroke-width="4.641"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>
