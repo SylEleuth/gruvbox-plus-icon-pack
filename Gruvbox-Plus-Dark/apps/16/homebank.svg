@@ -1,1 +1,6 @@
-grisbi.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m8 1-8 7h2v7h4v-5h4v5h4v-7h2z" fill="currentColor"/>
+</svg>
