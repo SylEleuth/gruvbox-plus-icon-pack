@@ -1,12 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
- <defs>
-  <clipPath id="_clipPath_zkZtRWl287zp3xgfsD2j62o2eJZPs44b">
-   <rect width="16" height="16"/>
-  </clipPath>
- </defs>
- <g clip-path="url(#_clipPath_zkZtRWl287zp3xgfsD2j62o2eJZPs44b)">
-  <rect style="fill:#ebdbb2" fill-opacity="0" width="16" height="16"/>
-  <path fill="#ebdbb2" fill-rule="evenodd" 
-     d="M 8,1 0.9375,3.3333334 4.0625,13.833334 8,15 11.9375,13.833334 15.0625,3.3333334 Z M 8,1.875 9.6875,3.242184 9.125,9.5312454 8,10.625 6.875,9.5312454 6.3125,3.242184 Z M 4.75,9.7116023 7,10.111284 7.375,10.889666 7,11.675 4.75,12.060662 4.375,10.889666 Z m 6.44531,0.04452 L 11.5625,10.916638 11.19531,12.08422 8.99219,11.688076 8.625,10.916638 8.99219,10.138258 Z M 8,11.5 8.84143,11.85 9.25464,13.95 8,14.3 6.73779,13.95 7.16614,11.85 Z" />
-  </g>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m8 1-7 2 3 11 4.002 1 3.998-1 3-11zm0.03125 1 1.629 1.32-0.543 6.074-1.086 1.057-1.088-1.057-0.543-6.074zm-3.139 7.568 2.172 0.3867 0.3613 0.752-0.3613 0.7578-2.172 0.373-0.3633-1.131zm6.223 0.04297 0.3555 1.121-0.3555 1.129-2.127-0.3828-0.3555-0.7461 0.3555-0.75zm-3.084 1.684 0.8125 0.3398 0.3984 2.027-1.213 0.3379-1.219-0.3379 0.4141-2.027z" fill="currentColor"/>
 </svg>
