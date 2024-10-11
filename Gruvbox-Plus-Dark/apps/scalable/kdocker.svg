@@ -1,1 +1,24 @@
-dockbarx.svg
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#ebdbb2" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient31-5" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <path d="m203.47 123.67v69.795h-69.795v46.531h31.326c72 0 85-15 85-85v-31.326z" fill="#458588" style="isolation:isolate"/>
+  <path d="m88.675 12c-5.6344 0-13.016 0.27549-13.591 0.28979l49.487 46.242h78.898v46.529h46.531v-6.0606c0-72-13-87-85-87zm-82.107 64.793c-0.38699 5.9123-0.56818 15.043-0.56818 22.207v56c0 70 13 85 85 85h24.063v-46.531h-62.531l-0.09728-73.82z" fill="#076678" style="isolation:isolate"/>
+  <path d="m117.97 115.9 69.696 28.139 46.464 80.088-85.958-43.291z" display="none" fill="#83a598" stroke-width=".2518" style="paint-order:markers stroke fill"/>
+  <path d="m87.766 50.961 30.201 64.938 69.695 28.139-99.896-93.076zm30.201 64.938-69.695-28.139 99.896 93.076-30.201-64.938z" display="none" fill="#458588" stroke-width=".22425" style="paint-order:markers stroke fill"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" display="none" fill="url(#linearGradient31-5)" style="isolation:isolate"/>
+  <path d="m48.885 15.182c-22.795 4.7043-34.027 15.465-39.113 37.23l137.9 128.86 85.904 43.383-46.428-80.272z" fill="#076678" style="isolation:isolate"/>
+  <path d="m117.47 116.16 69.685 28.225 46.428 80.272-85.904-43.383z" fill="#83a598" stroke-width=".25206" style="paint-order:markers stroke fill"/>
+  <path d="m87.279 51.059 30.189 65.098 69.684 28.225-99.873-93.322zm30.189 65.098-69.668-28.209 99.875 93.322-30.207-65.113z" fill="#458588" stroke-width=".22448" style="paint-order:markers stroke fill"/>
+</svg>
