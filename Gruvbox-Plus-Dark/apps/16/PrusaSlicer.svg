@@ -1,9 +1,6 @@
-<svg id="svg67" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs61">
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
- </defs>
- <g id="g1793" transform="matrix(.028241 0 0 .028241 -3.3247 -3.2866)" fill="#ebdbb2">
-  <path id="path4" d="m599.3 186.8c-93.9-93.9-246.1-93.9-340 0s-93.9 246.1 0 340z"/>
-  <path id="path6" d="m202.7 612.5c93.9 93.9 246.1 93.9 340 0s93.9-246.1 0-340"/>
- </g>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" fill="currentColor" d="m4.498 2.741c-2.262 2.262-2.318 5.893-0.1699 8.224l8.394-8.394c-1.135-1.047-2.579-1.57-4.023-1.57-1.52-1e-6 -3.041 0.5801-4.201 1.74zm-1.219 10.69c2.331 2.148 5.961 2.092 8.224-0.1699 2.262-2.262 2.318-5.893 0.1699-8.224z"/>
 </svg>
