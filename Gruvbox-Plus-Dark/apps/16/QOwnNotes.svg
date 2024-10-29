@@ -1,1 +1,6 @@
-notepad.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m2 1c-0.554 0-1 0.446-1 1v12c0 0.554 0.446 1 1 1h8l5-5v-8c0-0.554-0.446-1-1-1zm6 3c1.462 2.984e-4 2.698 1.011 2.891 2.363 1.214 0.1793 2.108 1.155 2.109 2.303 0 1.289-1.119 2.334-2.5 2.334h-5.416c-1.151 0-2.084-0.8714-2.084-1.945 0-1.411 1.406-1.983 2.113-1.941-0.0198-0.1293-0.02958-0.26-0.0293-0.3906 0-1.503 1.305-2.723 2.916-2.723z" fill="currentColor"/>
+</svg>
