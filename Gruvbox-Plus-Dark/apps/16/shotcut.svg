@@ -1,1 +1,6 @@
-film.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" fill="currentColor" d="m5 1v14h2v-14zm-4 1v12h3v-12zm7 0v12h7v-12z"/>
+</svg>
