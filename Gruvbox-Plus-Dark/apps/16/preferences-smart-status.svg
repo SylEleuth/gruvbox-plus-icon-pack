@@ -1,6 +1,1 @@
-<svg width="16" height="16" style="isolation:isolate" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
-  </defs>
-  <path class="ColorScheme-Text" fill="currentColor" d="m4 1c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2h-8zm0 1h8c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1zm4 1.5c-1.933 0-3.5 1.567-3.5 3.5v3.5h3.5c1.933 0 3.5-1.567 3.5-3.5s-1.567-3.5-3.5-3.5zm0 2c0.8284 0 1.5 0.6716 1.5 1.5s-0.6716 1.5-1.5 1.5-1.5-0.6716-1.5-1.5 0.6716-1.5 1.5-1.5z"/>
-</svg>
+disk-usage-analyzer.svg
