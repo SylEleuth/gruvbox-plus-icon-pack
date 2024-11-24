@@ -1,10 +1,6 @@
-<svg id="svg67" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs id="defs61">
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
- </defs>
- <g id="Sketch" transform="matrix(.15035 0 0 .15035 -1.6375 -.75173)" fill="#ebdbb2">
-  <path id="red" d="m36.12 63.3 28.18-58.3h23.35z"/>
-  <path id="green" d="m60.3 65h-23.88l52.03-58.3z"/>
-  <path id="blue" d="m39.59 111.42 29.12-60.32h23.37z"/>
- </g>
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m7.1777 1-3.4199 7 6.2363-7zm3.2695 1-6.2461 7h2.8652zm-1.3047 5-3.8633 8 6.9629-8z" fill="currentColor"/>
 </svg>
