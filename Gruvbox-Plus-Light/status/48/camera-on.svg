@@ -1,0 +1,10 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-44" width="40" height="40" rx="20" ry="20" fill="#282828" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-44" width="40" height="40" rx="20" ry="20" fill="#d5c4a1"/>
+  <circle cx="24" cy="24" r="12" fill="#665c54"/>
+  <circle transform="scale(1,-1)" cx="24" cy="-25" r="9" fill="#282828" opacity=".3"/>
+  <circle transform="scale(1,-1)" cx="24" cy="-24" r="9" fill="#b16286"/>
+  <circle cx="24" cy="25" r="6" fill="#282828" opacity=".3"/>
+  <circle cx="24" cy="24" r="6" fill="#d3869b"/>
+  <path d="m24 4c-11.08 0-20 8.92-20 20 0 0.16787 0.00765 0.33314 0.011719 0.5 0.26467-10.846 9.0762-19.5 19.988-19.5s19.724 8.6539 19.988 19.5c0.004072-0.16686 0.011719-0.33213 0.011719-0.5 0-11.08-8.92-20-20-20z" fill="#ebdbb2" opacity=".2"/>
+</svg>
