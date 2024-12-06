@@ -1,0 +1,7 @@
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#282828; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NegativeText { color:#fb4934; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="M 5.375,5 C 5.1673,5 5,5.1673 5,5.375 v 1.25 C 5,6.8327 5.1673,7 5.375,7 h 1.25 C 6.8327,7 7,6.8327 7,6.625 V 5.375 C 7,5.1673 6.8327,5 6.625,5 Z M 8,5 V 7 H 19 V 5 Z M 5.375,9 C 5.1673,9 5,9.1673 5,9.375 v 1.25 C 5,10.8327 5.1673,11 5.375,11 h 1.25 C 6.8327,11 7,10.8327 7,10.625 V 9.375 C 7,9.1673 6.8327,9 6.625,9 Z M 8,9 v 2 H 19 V 9 Z M 5.375,13 C 5.1673,13 5,13.1673 5,13.375 v 1.25 C 5,14.8328 5.1673,15 5.375,15 h 1.25 C 6.8327,15 7,14.8328 7,14.625 v -1.25 C 7,13.1673 6.8327,13 6.625,13 Z M 8,13 v 2 h 4 V 13 Z M 5.375,17 C 5.1673,17 5,17.1672 5,17.375 v 1.25 C 5,18.8328 5.1673,19 5.375,19 h 1.25 C 6.8327,19 7,18.8328 7,18.625 v -1.25 C 7,17.1672 6.8327,17 6.625,17 Z M 8,17 v 2 h 4 v -2 z" fill="currentColor"/>
+  <path class="ColorScheme-NegativeText" d="M 15.414,13 H 14 v 1.414 L 15.586,16 14,17.586 V 19 h 1.414 L 17,17.414 18.586,19 H 20 V 17.586 L 18.414,16 20,14.414 V 13 H 18.586 L 17,14.586 Z" fill="currentColor"/>
+</svg>
