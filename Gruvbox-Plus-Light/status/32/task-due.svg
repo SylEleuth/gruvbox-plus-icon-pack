@@ -1,0 +1,13 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <rect transform="matrix(0 -1 -1 0 0 -288.53)" x="-319.53" y="-28" width="26" height="24" rx="2" ry="2" fill="#282828" opacity=".2"/>
+  <rect transform="matrix(0 -1 -1 0 0 -288.53)" x="-318.53" y="-28" width="26" height="24" rx="2" ry="2" fill="#fe8019"/>
+  <path transform="translate(0 -288.53)" d="m6 292.53c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h20c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" fill="#ebdbb2" opacity=".2"/>
+  <rect transform="translate(0 -288.53)" x="7" y="295.53" width="18" height="20" fill="#ebdbb2"/>
+  <path transform="translate(0 -288.53)" d="m16 288.53c-1.662 0-3 1.338-3 3v2h-2c-0.554 0-1 0.446-1 1v3h12v-3c0-0.554-0.446-1-1-1h-2v-2c0-1.662-1.338-3-3-3z" fill="#d5c4a1"/>
+  <circle transform="translate(0 -288.53)" cx="16" cy="292.53" r="2" fill="#282828" opacity=".3"/>
+  <circle transform="translate(0 -288.53)" cx="16" cy="291.53" r="2" fill="#ebdbb2"/>
+  <path transform="translate(0 -288.53)" d="m16 288.53c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3s3 1.338 3 3v-1c0-1.662-1.338-3-3-3zm-5 5c-0.554 0-1 0.446-1 1v1c0-0.554 0.446-1 1-1h2v-1zm8 0v1h2c0.554 0 1 0.446 1 1v-1c0-0.554-0.446-1-1-1z" fill="#ebdbb2" opacity=".5"/>
+  <path transform="translate(0 -288.53)" d="m10 296.53v1h12v-1z" fill="#bdae93"/>
+  <path transform="translate(0 -288.53)" d="m17 300.53v8h-2v-8zm-3e-4 10v2h-2v-2z" fill="#fb4934"/>
+  <rect transform="translate(0 -288.53)" x="7" y="315.53" width="18" height="1" fill="#282828" opacity=".3"/>
+</svg>
