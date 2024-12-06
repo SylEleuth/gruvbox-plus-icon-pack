@@ -198,14 +198,14 @@ Type=Fixed
 
 [apps/scalable]
 Context=Applications
-Size=64
+Size=256
 MinSize=64
 MaxSize=512
 Type=Scalable
 
 [apps/scalable@2x]
 Context=Applications
-Size=64
+Size=256
 Scale=2
 MinSize=64
 MaxSize=512
@@ -275,14 +275,14 @@ Type=Fixed
 
 [categories/scalable]
 Context=Categories
-Size=64
+Size=256
 MinSize=64
 MaxSize=512
 Type=Scalable
 
 [categories/scalable@2x]
 Context=Categories
-Size=64
+Size=256
 Scale=2
 MinSize=64
 MaxSize=512
@@ -358,14 +358,14 @@ Type=Scalable
 
 [devices/scalable]
 Context=Devices
-Size=64
+Size=256
 MinSize=64
 MaxSize=512
 Type=Scalable
 
 [devices/scalable@2x]
 Context=Devices
-Size=64
+Size=256
 Scale=2
 MinSize=64
 MaxSize=512
@@ -559,14 +559,14 @@ Type=Fixed
 
 [mimetypes/scalable]
 Context=MimeTypes
-Size=64
+Size=256
 MinSize=64
 MaxSize=512
 Type=Scalable
 
 [mimetypes/scalable@2x]
 Context=MimeTypes
-Size=64
+Size=256
 Scale=2
 MinSize=64
 MaxSize=512
@@ -669,14 +669,14 @@ Type=Fixed
 
 [places/scalable]
 Context=Places
-Size=64
+Size=256
 MinSize=64
 MaxSize=512
 Type=Scalable
 
 [places/scalable@2x]
 Context=Places
-Size=64
+Size=256
 Scale=2
 MinSize=64
 MaxSize=512
