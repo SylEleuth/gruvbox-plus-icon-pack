@@ -1,8 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1" viewBox="0 0 48 48">
- <circle style="fill:#282828" cx="24" cy="24" r="20"/>
- <g transform="translate(0,-1)">
-  <path style="fill:#ebdbb2" d="m 17,14 -5,6 11,0 0,-6 z"/>
-  <path style="fill:#ebdbb2" d="m 25,14 0,6 11,0 -5,-6 z"/>
-  <path style="fill:#ebdbb2" d="m 12,22 0,14 24,0 0,-14 z"/>
- </g>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="24" cy="24" r="20" fill="#504945"/>
+  <path d="m17 13-5 6h10.497v-6zm8.4973 0v6h10.503l-5-6zm-13.497 9v13h24v-13z" fill="#ebdbb2"/>
 </svg>
