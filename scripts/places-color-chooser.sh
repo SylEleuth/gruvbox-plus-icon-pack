@@ -3,8 +3,9 @@ set -euo pipefail
 IFS=$'\n\t'
 
 export FOLDERS_COLOR="${FOLDERS_COLOR:-"plasma"}"
+export ICON_PACK_PATH="${ICON_PACK_PATH:-"${HOME}/.icons/Gruvbox-Plus-Dark"}"
 
-scalable_places_directory="${0%/*}/../Gruvbox-Plus-Dark/places/scalable"
+scalable_places_directory="${ICON_PACK_PATH}/places/scalable"
 
 colors() {
   find "${scalable_places_directory}/" -type f -iname "folder-*-*.svg" | cut --delimiter "-" --fields 4 | sort | uniq | paste -sd " "
@@ -15,7 +16,8 @@ help="Folders color chooser
 Usage: ${0##*/} [-c | --color] FOLDERS_COLOR [-h | --help] [-l | --list] [-n | --dry-run] [-v | --verbose]
 
 Environment:
-  FOLDERS_COLOR  color to change to (default: plasma)
+  FOLDERS_COLOR   color to change to (default: plasma)
+  ICON_PACK_PATH  path to the Gruvbox Plus icon pack (default: ~/.icons/Gruvbox-Plus-Dark)
 
 Options:
   -c, --color=FOLDERS_COLOR   set the new folders color (default: plasma)
