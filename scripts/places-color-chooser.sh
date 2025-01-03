@@ -2,7 +2,7 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-export PLACES_COLOR="${PLACES_COLOR:-"plasma"}"
+export FOLDERS_COLOR="${FOLDERS_COLOR:-"plasma"}"
 
 scalable_places_directory="${0%/*}/../Gruvbox-Plus-Dark/places/scalable"
 
@@ -10,15 +10,15 @@ colors() {
   find "${scalable_places_directory}/" -type f -iname "folder-*-*.svg" | cut --delimiter "-" --fields 4 | sort | uniq | paste -sd " "
 }
 
-help="Places color chooser
+help="Folders color chooser
 
-Usage: ${0##*/} [-c | --color] PLACES_COLOR [-h | --help] [-l | --list] [-n | --dry-run] [-v | --verbose]
+Usage: ${0##*/} [-c | --color] FOLDERS_COLOR [-h | --help] [-l | --list] [-n | --dry-run] [-v | --verbose]
 
 Environment:
-  PLACES_COLOR  color to change to (default: plasma)
+  FOLDERS_COLOR  color to change to (default: plasma)
 
 Options:
-  -c, --color=PLACES_COLOR    set the new places color (default: plasma)
+  -c, --color=FOLDERS_COLOR   set the new folders color (default: plasma)
   -h, --help                  show this help
   -l, --list                  list available colors
   -n, --dry-run               perform a trial run with no changes made
@@ -30,7 +30,7 @@ VERBOSE=0
 # options
 while [[ "$#" -gt 0 && "$1" =~ ^- && ! "$1" == "--" ]]; do case "$1" in
   -c | --color )
-    shift; PLACES_COLOR="$1"
+    shift; FOLDERS_COLOR="$1"
     ;;
   -h | --help )
     echo -e "${help}"
@@ -50,19 +50,19 @@ while [[ "$#" -gt 0 && "$1" =~ ^- && ! "$1" == "--" ]]; do case "$1" in
 esac; shift; done
 if [[ "$#" -gt 0 && "$1" == '--' ]]; then shift; fi
 
-if [[ -f "${scalable_places_directory}/folder-${PLACES_COLOR}.svg" ]]; then
+if [[ -f "${scalable_places_directory}/folder-${FOLDERS_COLOR}.svg" ]]; then
   pushd "${scalable_places_directory}" 1>/dev/null
-  for i in $(realpath "*-${PLACES_COLOR}*.svg"); do
+  for i in $(realpath "*-${FOLDERS_COLOR}*.svg"); do
     filename="${i##*/}"
 
     if [[ ${VERBOSE} -gt 1 ]]; then
       case "${filename}" in
-        "bookmarks-${PLACES_COLOR}.svg")
+        "bookmarks-${FOLDERS_COLOR}.svg")
           echo "${filename} → folder-bookmark.svg"
           ;;
 
         *)
-          echo "${filename} → ${filename/-${PLACES_COLOR}/}"
+          echo "${filename} → ${filename/-${FOLDERS_COLOR}/}"
           ;;
       esac
     elif [[ ${VERBOSE} -eq 1 ]]; then
@@ -71,12 +71,12 @@ if [[ -f "${scalable_places_directory}/folder-${PLACES_COLOR}.svg" ]]; then
 
     if [[ ${DRYRUN} -eq 0 ]]; then
       case "${filename}" in
-        "bookmarks-${PLACES_COLOR}.svg")
+        "bookmarks-${FOLDERS_COLOR}.svg")
           ln -sfn "${filename}" "folder-bookmark.svg"
           ;;
 
         *)
-          ln -sfn "${filename}" "${filename/-${PLACES_COLOR}/}"
+          ln -sfn "${filename}" "${filename/-${FOLDERS_COLOR}/}"
           ;;
       esac
     fi
@@ -95,7 +95,7 @@ if [[ -f "${scalable_places_directory}/folder-${PLACES_COLOR}.svg" ]]; then
     fi
   fi
 else
-  echo "Invalid color: ${PLACES_COLOR}"
+  echo "Invalid color: ${FOLDERS_COLOR}"
   echo "Please peak one of:"
   echo "$(colors)"
   exit 1
