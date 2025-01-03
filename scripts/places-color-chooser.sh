@@ -4,8 +4,10 @@ IFS=$'\n\t'
 
 export PLACES_COLOR="${PLACES_COLOR:-"plasma"}"
 
+scalable_places_directory="${0%/*}/../Gruvbox-Plus-Dark/places/scalable"
+
 colors() {
-  find "${0%/*}" -type f -iname "folder-*-*.svg" | cut --delimiter "-" --fields 2 | sort | uniq | paste -sd " "
+  find "${scalable_places_directory}/" -type f -iname "folder-*-*.svg" | cut --delimiter "-" --fields 4 | sort | uniq | paste -sd " "
 }
 
 help="Places color chooser
@@ -48,7 +50,8 @@ if [[ "$#" -gt 0 && "$1" == '--' ]]; then shift; fi
 DRYRUN="${DRYRUN:-0}"
 VERBOSE="${VERBOSE:-0}"
 
-if [[ -f "folder-${PLACES_COLOR}.svg" ]]; then
+if [[ -f "${scalable_places_directory}/folder-${PLACES_COLOR}.svg" ]]; then
+  pushd "${scalable_places_directory}" 1>/dev/null
   for i in $(realpath "*-${PLACES_COLOR}*.svg"); do
     filename="${i##*/}"
 
@@ -76,6 +79,7 @@ if [[ -f "folder-${PLACES_COLOR}.svg" ]]; then
       esac
     fi
   done
+  popd 1>/dev/null
 
   if [[ ${DRYRUN} -eq 1 ]]; then
     echo "Nothing done."
