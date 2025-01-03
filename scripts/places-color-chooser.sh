@@ -57,7 +57,18 @@ while [[ "$#" -gt 0 && "$1" =~ ^- && ! "$1" == "--" ]]; do case "$1" in
     VERBOSE+=1
     ;;
 esac; shift; done
-if [[ "$#" -gt 0 && "$1" == '--' ]]; then shift; fi
+
+if [[ "$#" -gt 0 ]]; then
+  case "$1" in
+    "--")
+      shift
+      ;;
+    *)
+      echo "Unknown argument: $1"
+      exit 1
+      ;;
+  esac
+fi
 
 if [[ "${FOLDERS_COLOR}" == "$(current_color)" ]]; then
   echo "No changes. It's already ${FOLDERS_COLOR}."
