@@ -11,7 +11,13 @@ colors() {
   find "${scalable_places_directory}/" -type f -iname "folder-*-*.svg" | cut --delimiter "-" --fields 4 | sort | uniq | paste -sd " "
 }
 
+current_color() {
+  readlink "${scalable_places_directory}/folder.svg" | cut --delimiter "-" --fields 2 | cut --delimiter "." --fields 1
+}
+
 help="Folders color chooser
+
+Current color: $(current_color)
 
 Usage: ${0##*/} [-c | --color] FOLDERS_COLOR [-h | --help] [-l | --list] [-n | --dry-run] [-v | --verbose]
 
@@ -28,6 +34,7 @@ Options:
 
 DRYRUN=0
 VERBOSE=0
+OLD_FOLDERS_COLOR="$(current_color)"
 
 # options
 while [[ "$#" -gt 0 && "$1" =~ ^- && ! "$1" == "--" ]]; do case "$1" in
@@ -51,6 +58,11 @@ while [[ "$#" -gt 0 && "$1" =~ ^- && ! "$1" == "--" ]]; do case "$1" in
     ;;
 esac; shift; done
 if [[ "$#" -gt 0 && "$1" == '--' ]]; then shift; fi
+
+if [[ "${FOLDERS_COLOR}" == "$(current_color)" ]]; then
+  echo "No changes. It's already ${FOLDERS_COLOR}."
+  exit
+fi
 
 if [[ -f "${scalable_places_directory}/folder-${FOLDERS_COLOR}.svg" ]]; then
   pushd "${scalable_places_directory}" 1>/dev/null
@@ -93,7 +105,7 @@ if [[ -f "${scalable_places_directory}/folder-${FOLDERS_COLOR}.svg" ]]; then
     if [[ ${DRYRUN} -eq 1 ]]; then
       echo "Nothing done."
     else
-      echo "Done."
+      echo "Changed from ${OLD_FOLDERS_COLOR} to ${FOLDERS_COLOR}."
     fi
   fi
 else
