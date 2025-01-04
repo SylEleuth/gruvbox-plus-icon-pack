@@ -28,7 +28,7 @@ Options:
   -h, --help                  show this help
   -l, --list                  list available colors"
 
-OLD_FOLDERS_COLOR="$(current_color)"
+old_folders_color="$(current_color)"
 
 # options
 while [[ "$#" -gt 0 && "$1" =~ ^- && ! "$1" == "--" ]]; do case "$1" in
@@ -80,7 +80,7 @@ if [[ -f "${scalable_places_directory}/folder-${FOLDERS_COLOR}.svg" ]]; then
   done
   popd 1>/dev/null
 
-  echo "Changed from ${OLD_FOLDERS_COLOR} to ${FOLDERS_COLOR}."
+  echo "Changed from ${old_folders_color} to ${FOLDERS_COLOR}."
 else
   echo "Invalid color: ${FOLDERS_COLOR}"
   echo "Please peak one of:"
