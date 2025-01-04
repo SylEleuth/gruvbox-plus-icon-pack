@@ -19,7 +19,7 @@ help="Folders color chooser
 
 Current color: $(current_color)
 
-Usage: ${0##*/} [-c | --color] FOLDERS_COLOR [-h | --help] [-l | --list] [-v | --verbose]
+Usage: ${0##*/} [-c | --color] FOLDERS_COLOR [-h | --help] [-l | --list]
 
 Environment:
   FOLDERS_COLOR   color to change to (default: plasma)
@@ -28,10 +28,8 @@ Environment:
 Options:
   -c, --color=FOLDERS_COLOR   set the new folders color (default: plasma)
   -h, --help                  show this help
-  -l, --list                  list available colors
-  -v, --verbose               increase verbosity"
+  -l, --list                  list available colors"
 
-VERBOSE=0
 OLD_FOLDERS_COLOR="$(current_color)"
 
 # options
@@ -47,9 +45,6 @@ while [[ "$#" -gt 0 && "$1" =~ ^- && ! "$1" == "--" ]]; do case "$1" in
     echo "Available colors are:"
     echo "$(colors)"
     exit
-    ;;
-  -v | --verbose )
-    VERBOSE+=1
     ;;
 esac; shift; done
 
@@ -75,20 +70,6 @@ if [[ -f "${scalable_places_directory}/folder-${FOLDERS_COLOR}.svg" ]]; then
   for i in $(realpath "*-${FOLDERS_COLOR}*.svg"); do
     filename="${i##*/}"
 
-    if [[ ${VERBOSE} -gt 1 ]]; then
-      case "${filename}" in
-        "bookmarks-${FOLDERS_COLOR}.svg")
-          echo "${filename} → folder-bookmark.svg"
-          ;;
-
-        *)
-          echo "${filename} → ${filename/-${FOLDERS_COLOR}/}"
-          ;;
-      esac
-    elif [[ ${VERBOSE} -eq 1 ]]; then
-      printf "."
-    fi
-
     case "${filename}" in
       "bookmarks-${FOLDERS_COLOR}.svg")
         ln -sfn "${filename}" "folder-bookmark.svg"
@@ -101,13 +82,7 @@ if [[ -f "${scalable_places_directory}/folder-${FOLDERS_COLOR}.svg" ]]; then
   done
   popd 1>/dev/null
 
-  if [[ ${VERBOSE} -eq 1 ]]; then
-    printf "\n"
-  fi
-
-  if [[ ${VERBOSE} -ge 1 ]]; then
-    echo "Changed from ${OLD_FOLDERS_COLOR} to ${FOLDERS_COLOR}."
-  fi
+  echo "Changed from ${OLD_FOLDERS_COLOR} to ${FOLDERS_COLOR}."
 else
   echo "Invalid color: ${FOLDERS_COLOR}"
   echo "Please peak one of:"
