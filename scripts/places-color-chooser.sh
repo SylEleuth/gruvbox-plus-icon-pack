@@ -19,7 +19,7 @@ help="Folders color chooser
 
 Current color: $(current_color)
 
-Usage: ${0##*/} [-c | --color] FOLDERS_COLOR [-h | --help] [-l | --list] [-n | --dry-run] [-v | --verbose]
+Usage: ${0##*/} [-c | --color] FOLDERS_COLOR [-h | --help] [-l | --list] [-v | --verbose]
 
 Environment:
   FOLDERS_COLOR   color to change to (default: plasma)
@@ -29,10 +29,8 @@ Options:
   -c, --color=FOLDERS_COLOR   set the new folders color (default: plasma)
   -h, --help                  show this help
   -l, --list                  list available colors
-  -n, --dry-run               perform a trial run with no changes made
   -v, --verbose               increase verbosity"
 
-DRYRUN=0
 VERBOSE=0
 OLD_FOLDERS_COLOR="$(current_color)"
 
@@ -49,9 +47,6 @@ while [[ "$#" -gt 0 && "$1" =~ ^- && ! "$1" == "--" ]]; do case "$1" in
     echo "Available colors are:"
     echo "$(colors)"
     exit
-    ;;
-  -n | --dry-run )
-    DRYRUN=1
     ;;
   -v | --verbose )
     VERBOSE+=1
@@ -94,17 +89,15 @@ if [[ -f "${scalable_places_directory}/folder-${FOLDERS_COLOR}.svg" ]]; then
       printf "."
     fi
 
-    if [[ ${DRYRUN} -eq 0 ]]; then
-      case "${filename}" in
-        "bookmarks-${FOLDERS_COLOR}.svg")
-          ln -sfn "${filename}" "folder-bookmark.svg"
-          ;;
+    case "${filename}" in
+      "bookmarks-${FOLDERS_COLOR}.svg")
+        ln -sfn "${filename}" "folder-bookmark.svg"
+        ;;
 
-        *)
-          ln -sfn "${filename}" "${filename/-${FOLDERS_COLOR}/}"
-          ;;
-      esac
-    fi
+      *)
+        ln -sfn "${filename}" "${filename/-${FOLDERS_COLOR}/}"
+        ;;
+    esac
   done
   popd 1>/dev/null
 
@@ -113,11 +106,7 @@ if [[ -f "${scalable_places_directory}/folder-${FOLDERS_COLOR}.svg" ]]; then
   fi
 
   if [[ ${VERBOSE} -ge 1 ]]; then
-    if [[ ${DRYRUN} -eq 1 ]]; then
-      echo "Nothing done."
-    else
-      echo "Changed from ${OLD_FOLDERS_COLOR} to ${FOLDERS_COLOR}."
-    fi
+    echo "Changed from ${OLD_FOLDERS_COLOR} to ${FOLDERS_COLOR}."
   fi
 else
   echo "Invalid color: ${FOLDERS_COLOR}"
