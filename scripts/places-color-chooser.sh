@@ -7,9 +7,7 @@ export ICON_PACK_PATH="${ICON_PACK_PATH:-"${HOME}/.icons/Gruvbox-Plus-Dark"}"
 
 scalable_places_directory="${ICON_PACK_PATH}/places/scalable"
 
-colors() {
-  find "${scalable_places_directory}/" -type f -iname "folder-*-*.svg" | cut --delimiter "-" --fields 4 | sort | uniq | paste -sd " "
-}
+colors="black blue citron firebrick gold green grey highland jade lavender lime olive orange pistachio plasma pumpkin purple red rust sapphire tomato violet white yellow"
 
 current_color() {
   readlink "${scalable_places_directory}/folder.svg" | cut --delimiter "-" --fields 2 | cut --delimiter "." --fields 1
@@ -43,7 +41,7 @@ while [[ "$#" -gt 0 && "$1" =~ ^- && ! "$1" == "--" ]]; do case "$1" in
     ;;
   -l | --list )
     echo "Available colors are:"
-    echo "$(colors)"
+    echo "${colors}"
     exit
     ;;
 esac; shift; done
@@ -86,6 +84,6 @@ if [[ -f "${scalable_places_directory}/folder-${FOLDERS_COLOR}.svg" ]]; then
 else
   echo "Invalid color: ${FOLDERS_COLOR}"
   echo "Please peak one of:"
-  echo "$(colors)"
+  echo "${colors}"
   exit 1
 fi
