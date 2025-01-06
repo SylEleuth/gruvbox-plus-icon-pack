@@ -106,3 +106,8 @@ License
 * GPL3 © [One Dark](https://github.com/adhec/one-dark-icons) by [Adhe](https://github.com/adhec)
 * MIT © Icons 8 by Gravit Designer
 * MIT © Twemoji by Twitter Team.
+
+Star History
+-------
+
+[![Star History](https://api.lucabubi.me/chart?username=SylEleuth&repository=gruvbox-plus-icon-pack&color=violet)](https://github.com/lucabubi/star-history)
