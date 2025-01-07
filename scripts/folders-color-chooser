@@ -2,7 +2,6 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-export FOLDERS_COLOR="${FOLDERS_COLOR:-"plasma"}"
 export ICON_PACK_THEME="${ICON_PACK_THEME:-"Gruvbox-Plus-Dark"}"
 
 # Browse icons directories in this order:
@@ -52,18 +51,18 @@ Icon pack path: $(icon_pack_path)
 
 Current color: $(current_color)
 
-Usage: ${0##*/} [-c | --color] FOLDERS_COLOR [-h | --help] [-l | --list]
+Usage: ${0##*/} [-c | --color=<color>] [-h | --help] [-l | --list]
 
 Environment:
-  FOLDERS_COLOR     color to change to (default: plasma)
   ICON_PACK_THEME   name of the Gruvbox Plus icon pack (default: Gruvbox-Plus-Dark)
 
 Options:
-  -c, --color=FOLDERS_COLOR   set the new folders color (default: plasma)
-  -h, --help                  show this help
-  -l, --list                  list available colors"
+  -c, --color=<color>   set the new folders color (default: plasma)
+  -h, --help            show this help
+  -l, --list            list available colors"
 
 old_folders_color="$(current_color)"
+folders_color=""
 
 while getopts c:hl-: OPT; do 
   if [ "$OPT" = "-" ]; then   # long option: reformulate OPT and OPTARG
@@ -76,9 +75,9 @@ while getopts c:hl-: OPT; do
       break ;;
     c | color)
       if [ -z "${OPTARG}" ]; then
-        shift ; FOLDERS_COLOR="$1"
+        shift ; folders_color="$1"
       else
-        FOLDERS_COLOR="${OPTARG}"
+        folders_color="${OPTARG}"
       fi ;;
     h | help)
       echo -e "${help}"
@@ -93,32 +92,36 @@ while getopts c:hl-: OPT; do
 done
 shift $((OPTIND-1)) # remove parsed options and args from $@ list
 
-
-if [[ "${FOLDERS_COLOR}" == "$(current_color)" ]]; then
-  echo "No changes. It's already ${FOLDERS_COLOR}."
+if [[ -z "${folders_color}" ]]; then
+  echo -e "${help}"
   exit
 fi
 
-if [[ -f "${scalable_places_directory}/folder-${FOLDERS_COLOR}.svg" ]]; then
+if [[ "${folders_color}" == "$(current_color)" ]]; then
+  echo "No changes. It's already ${folders_color}."
+  exit
+fi
+
+if [[ -f "${scalable_places_directory}/folder-${folders_color}.svg" ]]; then
   pushd "${scalable_places_directory}" 1>/dev/null
-  for i in $(realpath "*-${FOLDERS_COLOR}*.svg"); do
+  for i in $(realpath "*-${folders_color}*.svg"); do
     filename="${i##*/}"
 
     case "${filename}" in
-      "bookmarks-${FOLDERS_COLOR}.svg")
+      "bookmarks-${folders_color}.svg")
         ln -sfn "${filename}" "folder-bookmark.svg"
         ;;
 
       *)
-        ln -sfn "${filename}" "${filename/-${FOLDERS_COLOR}/}"
+        ln -sfn "${filename}" "${filename/-${folders_color}/}"
         ;;
     esac
   done
   popd 1>/dev/null
 
-  echo "Changed from ${old_folders_color} to ${FOLDERS_COLOR}."
+  echo "Changed from ${old_folders_color} to ${folders_color}."
 else
-  echo "Invalid color: ${FOLDERS_COLOR}"
+  echo "Invalid color: ${folders_color}"
   echo "Please peak one of:"
   echo "${colors}"
   exit 1
