@@ -65,33 +65,34 @@ Options:
 
 old_folders_color="$(current_color)"
 
-# options
-while [[ "$#" -gt 0 && "$1" =~ ^- && ! "$1" == "--" ]]; do case "$1" in
-  -c | --color )
-    shift; FOLDERS_COLOR="$1"
-    ;;
-  -h | --help )
-    echo -e "${help}"
-    exit
-    ;;
-  -l | --list )
-    echo "Available colors are:"
-    echo "${colors}"
-    exit
-    ;;
-esac; shift; done
-
-if [[ "$#" -gt 0 ]]; then
-  case "$1" in
-    "--")
-      shift
-      ;;
+while getopts c:hl-: OPT; do 
+  if [ "$OPT" = "-" ]; then   # long option: reformulate OPT and OPTARG
+    OPT="${OPTARG%%=*}"       # extract long option name
+    OPTARG="${OPTARG#"$OPT"}" # extract long option argument (may be empty)
+    OPTARG="${OPTARG#=}"      # if long option argument, remove assigning `=`
+  fi
+  case "$OPT" in
+    -)
+      break ;;
+    c | color)
+      if [ -z "${OPTARG}" ]; then
+        shift ; FOLDERS_COLOR="$1"
+      else
+        FOLDERS_COLOR="${OPTARG}"
+      fi ;;
+    h | help)
+      echo -e "${help}"
+      exit ;;
+    l | list)
+      echo -e "Available colors are:\n$(colors)" ; exit ;;
     *)
-      echo "Unknown argument: $1"
-      exit 1
-      ;;
+      echo "Unknown argument: $OPT" >&2 ; exit 1 ;;
+    \? )
+      exit 2 ;;  # bad short option (error reported via getopts)
   esac
-fi
+done
+shift $((OPTIND-1)) # remove parsed options and args from $@ list
+
 
 if [[ "${FOLDERS_COLOR}" == "$(current_color)" ]]; then
   echo "No changes. It's already ${FOLDERS_COLOR}."
