@@ -9,7 +9,7 @@ icon_pack_theme="Gruvbox-Plus-Dark"
 help() {
   printf "Folders color chooser
 
-Current color: $(current_color)
+Current color: $(current_color "-")
 
 Usage:
   ${0##*/} [-c | --color=<color>] [-C | --reset-color]
@@ -47,14 +47,24 @@ icon_pack_path() {
   return 1
 }
 
-scalable_places_directory="$(icon_pack_path)/places/scalable"
+scalable_places_directory() {
+  if [[ -d "$(icon_pack_path)" ]]; then
+    echo "$(icon_pack_path)/places/scalable"
+  fi
+}
 
 current_color() {
-  readlink "${scalable_places_directory}/folder.svg" | cut --delimiter "-" --fields 2 | cut --delimiter "." --fields 1
+  if [[ -z "$(scalable_places_directory)" ]]; then
+    if [[ "$#" -gt 0 ]]; then
+      echo "$1"
+    fi
+    return 0
+  fi
+
+  readlink "$(scalable_places_directory)/folder.svg" | cut --delimiter "-" --fields 2 | cut --delimiter "." --fields 1
 }
 
 folders_color=""
-old_folders_color="$(current_color)"
 
 while getopts cChl-: OPT; do 
   if [ "$OPT" = "-" ]; then   # long option: reformulate OPT and OPTARG
@@ -103,7 +113,7 @@ if [[ ! -d "$(icon_pack_path)" ]]; then
   exit 1
 fi
 
-if [[ ! -d "${scalable_places_directory}" ]]; then
+if [[ ! -d "$(scalable_places_directory)" ]]; then
   echo "Folder icons not found. Abort."
   exit 1
 fi
@@ -118,8 +128,10 @@ if [[ "${folders_color}" == "$(current_color)" ]]; then
   exit
 fi
 
-if [[ -f "${scalable_places_directory}/folder-${folders_color}.svg" ]]; then
-  pushd "${scalable_places_directory}" 1>/dev/null
+if [[ -f "$(scalable_places_directory)/folder-${folders_color}.svg" ]]; then
+  old_folders_color="$(current_color)"
+
+  pushd "$(scalable_places_directory)" 1>/dev/null
   for i in $(realpath "*-${folders_color}*.svg"); do
     filename="${i##*/}"
 
