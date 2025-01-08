@@ -108,6 +108,11 @@ if [[ "$#" -gt 0 ]]; then
   exit 1
 fi
 
+if [[ -z "${folders_color}" ]]; then
+  help
+  exit
+fi
+
 if [[ ! -d "$(icon_pack_path)" ]]; then
   echo "Icon pack path not found. Abort." >&2
   exit 1
@@ -116,11 +121,6 @@ fi
 if [[ ! -d "$(scalable_places_directory)" ]]; then
   echo "Folder icons not found. Abort."
   exit 1
-fi
-
-if [[ -z "${folders_color}" ]]; then
-  help
-  exit
 fi
 
 if [[ "${folders_color}" == "$(current_color)" ]]; then
