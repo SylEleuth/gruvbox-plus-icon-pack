@@ -31,20 +31,17 @@ Options:
 icon_pack_path() {
   if [[ -d "${XDG_DATA_HOME:-"${HOME}/.local/share"}/icons/${icon_pack_theme}" ]]; then
     echo "${XDG_DATA_HOME:-"${HOME}/.local/share"}/icons/${icon_pack_theme}"
-    return 0
   elif [[ -d "${HOME}/.icons/${icon_pack_theme}" ]]; then
     echo "${HOME}/.icons/${icon_pack_theme}"
-    return 0
   else
     data_dirs=$(echo "${XDG_DATA_DIRS:-"/usr/local/share:/usr/share"}" | tr ":" "\n")
     for path in $data_dirs; do
       if [[ -d "${path%%/}/icons/${icon_pack_theme}" ]]; then
         echo "${path%%/}/icons/${icon_pack_theme}"
-        return 0
+        break
       fi
     done
   fi
-  return 1
 }
 
 scalable_places_directory() {
