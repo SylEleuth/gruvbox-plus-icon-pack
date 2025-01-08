@@ -5,16 +5,18 @@ title: 'Missing icon: '
 ---
 
 <!--
-If You'll find a missing icon please open a new issue and give as much information as You can:
+Please give as much information as You can:
 
 1. If it's a program, please provide name and link to the website or repository page.
 2. If You can, find a link to the original svg icon.
-3. Output of the xprop and/or link to .desktop file (located in .local/share/applications folder).
+3. Link to .desktop file (located in .local/share/applications or /usr/share/applications folder) and output of the xprop.
+
+Issue should be only for one app. If You found more missing icons please open another issue.
 -->
 
 ## Program
 
-- name: 
+- name:
 - website:
 
 ## Original icon
@@ -22,14 +24,10 @@ If You'll find a missing icon please open a new issue and give as much informati
 
 ## :technologist: Technical details
 
-- Operating System: 
-- Desktop Environment: 
-- Program Installation: 
-
 <!--
-Run xprop in a terminal, then click on the application window, and copy-paste the output here.
+Link to `.desktop` file (located in `.local/share/applications` or `/usr/share/applications` folder).
 -->
 
 <!--
-Additionally, you can link to `.desktop` file (located in `.local/share/applications` folder).
+Additionally, you can run xprop in a terminal, then click on the application window, and copy-paste the output here.
 -->
