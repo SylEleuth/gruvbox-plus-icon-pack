@@ -7,7 +7,7 @@ default_color="plasma"
 icon_pack_theme="Gruvbox-Plus-Dark"
 
 help() {
-  echo -e "Folders color chooser
+  printf "Folders color chooser
 
 Current color: $(current_color)
 
@@ -20,7 +20,8 @@ Options:
   -c, --color=<color>   set the new folders color
   -C, --reset-color     reset folder color to ${default_color}
   -h, --help            show this help
-  -l, --list            list available colors"
+  -l, --list            list available colors
+"
 }
 
 # Browse icons directories in this order:
