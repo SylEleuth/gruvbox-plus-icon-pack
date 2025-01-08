@@ -13,29 +13,26 @@ modifying icons. Those information are related to application icons only.
 Sizes
 -----
 
-There are 3 different app icons. In folders "called" 16 and "symbolic" icons have size,
-as its name suggests, 16x16 pixels. In "scalable" folder icons have 256x256 pixels.
+There are 2 different app icons (3, if You include `symbolic`). In folders `16` icons have size,
+as its name suggests, 16x16 pixels. In `scalable` folder icons have 256x256 pixels.
 In this case "icon" means that the whole front page has that dimensions. Elements within that
 page can be smaller.
 
 Positioning
 -----------
 
-16 icons should have 1px padding around when the element is proportional (if it's round or
+`16` icons should have 1px padding around when the element is proportional (if it's round or
 rectangular) with the exception when the element is wide. Then it can touch the sides of
 the page (left and right), but only if there is large free space on top and bottom. All depends on the
 specific case. The reason behind why 16px icons are actually 14px icons is because often
 they are used in panels and just to be safe it would be better if they are a little bit
-smaller. You might notice that many icons in 16 folder are against that rule. It's because
+smaller. You might notice that many icons in `16` folder are against that rule. It's because
 original Suru++ icon pack that I used to create Gruvbox Plus had already that icons. Some
 of theme were full 16 and some had 1px padding. So I decided to make one rule for all of
 them (or at least a new icons). If You believe that icon You are using doesn't look good
 with padding and should be a full 16, please open an issue and we can discuss it.
 
-Symbolic folder is a copy of the 16 folder. Name should have added "-symbolic" at the end,
-e.g. "icon-symbolic.svg".
-
-Scalable icons don't have specific rules how big elements should be placed or what padding
+`Scalable` icons don't have specific rules how big elements should be placed or what padding
 to use. Everything depends on the specific icon. But elements shouldn't be close to the
 base edges and some padding should be used. Also icon should be centered in relation to
 background.
@@ -62,7 +59,7 @@ Base for scalable icons
 -----------------------
 
 Before You start with a new icon please use one of the base templates. Those bases are
-a little bit different than most of the backgrounds used in icons in "scalable" folder. It's
+a little bit different than most of the backgrounds used in icons in `scalable` folder. It's
 because those icons weren't make with the bright background in thought which will be
 implemented in the future (or maybe it's already live). Old icons would require rework but
 it's too much work at the moment. It's not priority.
@@ -100,12 +97,12 @@ it or change to solid. Also do not modify border, only the main background.
 
 If You want to make different color background You can use dark or bright base, it doesn't
 matter. Both are the same with the exception of the color. Please refer to the other
-icons in "scalable" folder for examples how to use the background base and colors.
+icons in `scalable` folder for examples how to use the background base and colors.
 
 Saving
 ------
 
-If You are using Inkscape please save icons as "Optimised SVG" with these options:
+If You are using Inkscape please save icons as `Optimised SVG` with these options:
 
 ![Screenshot_20230608_122741](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/ee83e388-bf90-4676-8660-6c6cae86013f)
 ![Screenshot_20230517_162114](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/df3ee07b-0676-4c5f-8db8-46e34507df97)
