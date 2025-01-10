@@ -80,6 +80,8 @@ while getopts cChl-: OPT; do
           shift ; folders_color="$1"
         else
           echo "Missing value for '${OPT}' option. Please provide a color." >&2
+          echo "Available colors are:"
+          echo "${colors}"
           exit 1
         fi
       else
