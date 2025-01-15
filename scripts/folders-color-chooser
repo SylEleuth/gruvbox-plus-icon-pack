@@ -2,7 +2,7 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-colors="black blue citron firebrick gold green grey highland jade lavender lime olive orange pistachio plasma pumpkin purple red rust sapphire tomato violet white yellow"
+colors="black blue caramel citron firebrick gold green grey highland jade lavender lime olive orange pistachio plasma pumpkin purple red rust sapphire tomato violet white yellow"
 default_color="plasma"
 icon_pack_theme="Gruvbox-Plus-Dark"
 
@@ -63,7 +63,7 @@ current_color() {
 
 folders_color=""
 
-while getopts cChl-: OPT; do 
+while getopts cChl-: OPT; do
   if [ "$OPT" = "-" ]; then   # long option: reformulate OPT and OPTARG
     OPT="${OPTARG%%=*}"       # extract long option name
     OPTARG="${OPTARG#"$OPT"}" # extract long option argument (may be empty)
