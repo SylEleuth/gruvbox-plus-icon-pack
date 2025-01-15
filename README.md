@@ -25,11 +25,11 @@ You can download Icon pack from different sources:
 
 1. Go to the [releases page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases) and choose the zip file from the latest version.
 
-2. Download the icon pack from Your system's icon manager settings. For example in KDE, open Settings, Appearance/Icons and click "Get New Icons" where You can search for Gruvbox Plus.
+2. Download the icon pack from Your system's icon manager settings. For example in KDE, open System Settings -> Colours & Themes -> Icons and click "Get New..." where You can search for Gruvbox Plus.
 
 3. Download latest package from [Pling](https://www.pling.com/p/1961046/) or [KDE Store](https://store.kde.org/p/1961046)
 
-4. If You want the latest icons You have to clone the whole repository (except few additional files it doesn't contain any extra folders and is/will be similar to official release package).
+4. If You want the latest icons You have to clone the whole repository:
 
     ``` git clone https://github.com/SylEleuth/gruvbox-plus-icon-pack.git ```
 
@@ -59,8 +59,8 @@ to download files added since the latest pull.
 
 <!-- ``` yay -S gruvbox-plus-icon-theme-git ``` - git version -->
 
-Color variant
--------------
+Color variants
+--------------
 
 There are two available variants:
 - Gruvbox Dark - light symbolic icons for dark themes
