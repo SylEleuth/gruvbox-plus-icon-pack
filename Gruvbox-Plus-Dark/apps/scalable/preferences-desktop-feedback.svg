@@ -1,1 +1,22 @@
-feedback.svg
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#689d6a" offset="0"/>
+      <stop stop-color="#427b58" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <path d="m60.403 70c-7.8348-0.0978-13.1 1.751-15.803 4.9941-2.8367 3.3776-4.291 8.9177-4.291 16.619v70.902c0 7.7014 1.4524 13.244 4.2891 16.621 2.7023 3.2421 7.9678 4.9043 15.805 4.9043h18.611l24.543 17.326 24.545-17.326h67.494c7.8369 0 13.102-1.6622 15.805-4.9043 2.8378-3.3776 4.291-8.9197 4.291-16.621v-70.902c0-7.7014-1.4543-13.242-4.291-16.619-2.7023-3.2432-7.9678-4.9941-15.805-4.9941z" fill="#282828" opacity=".3" stroke-width="1.0753" style="isolation:isolate"/>
+  <path d="m40.309 99.768v57.434c0 7.7014 1.4538 13.243 4.2905 16.62 2.7023 3.2421 7.9681 4.9045 15.805 4.9045h18.611l24.543 17.327 24.545-17.327h67.494c7.8369 0 13.102-1.6624 15.804-4.9045 2.8378-3.3776 4.2905-8.9187 4.2905-16.62v-57.434h-175.38z" fill="#fbf1c7" stroke-width="1.0753" style="isolation:isolate"/>
+  <path d="m60.403 64.685c-7.8348-0.09785-13.101 1.7506-15.803 4.9938-2.8367 3.3776-4.2916 8.9187-4.2916 16.62v68.195l38.706 24.227 24.544 17.326 24.544-17.326 87.589-66.508v-25.913c0-7.7014-1.4538-13.243-4.2905-16.62-2.7023-3.2432-7.967-4.9938-15.804-4.9938h-135.19z" fill="#ebdbb2" stroke-width="1.0753" style="isolation:isolate"/>
+  <path d="m75.387 103.29v8.7695h105.23v-8.7695zm0 26.303v8.7695h52.615v-8.7695z" fill="#282828" opacity=".3" stroke-width="1.0753" style="isolation:isolate"/>
+  <path d="m75.387 99.768v8.7695h105.23v-8.7695zm0 26.303v8.7695h52.615v-8.7695z" fill="#427b58" stroke-width="1.0753" style="isolation:isolate"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>
