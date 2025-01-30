@@ -1,4 +1,4 @@
-<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
@@ -12,8 +12,8 @@
       <stop stop-color="#427b58" offset="1"/>
     </linearGradient>
     <linearGradient id="linearGradient12" x1="166.51" x2="150.7" y1="105.31" y2="133.16" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#83a598" offset="0"/>
-      <stop stop-color="#458588" offset="1"/>
+      <stop stop-color="#458588" offset="0"/>
+      <stop stop-color="#076678" offset="1"/>
     </linearGradient>
     <linearGradient id="linearGradient14" x1="166.51" x2="200.35" y1="105.31" y2="45.613" gradientUnits="userSpaceOnUse">
       <stop stop-color="#458588" offset="0"/>
