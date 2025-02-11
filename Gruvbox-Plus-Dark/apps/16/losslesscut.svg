@@ -2,5 +2,5 @@
   <defs>
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
   </defs>
-  <path class="ColorScheme-Text" d="m2 1c-1.108 0-2 0.892-2 2v1h3l1-1.5039-1-1.4961h-1zm3 0 1 1.4961-1 1.5039h2l1-1.5039-1-1.4961h-2zm4 0 1 1.4961-1 1.5039h2l1-1.5039-1-1.4961h-2zm4 0 1 1.4961-1 1.5039h2l1-1.4922-1-1.5078h-2zm-13 4v8c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8h-16zm1 1h1 13v1 6 1h-13-1v-8zm1 1v6h2v-6h-2zm3 0v2h4v-2h-4zm5 0v2h4v-2h-4zm-5 3v3h4v-3h-4zm5 0v3h4v-3h-4z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m2 1c-1.108 0-2 0.892-2 2v1h3l1-1.504-1-1.496h-1zm3 0 1 1.496-1 1.504h2l1-1.504-1-1.496h-2zm4 0 1 1.496-1 1.504h2l1-1.504-1-1.496h-2zm4 0 1 1.496-1 1.504h2l1-1.492-1-1.508h-2zm-13 4v8c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-8h-16zm1 1h14v8h-14v-8zm1 1v6h2v-6h-2zm3 0v2h4v-2h-4zm5 0v2h4v-2h-4zm-5 3v3h4v-3h-4zm5 0v3h4v-3h-4z" fill="currentColor"/>
 </svg>
