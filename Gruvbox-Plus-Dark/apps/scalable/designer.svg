@@ -1,1 +1,20 @@
-qt.svg
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#ebdbb2" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#bdae93" stop-opacity=".1" offset=".1"/>
+      <stop stop-color="#d5c4a1" stop-opacity="0" offset=".7022"/>
+      <stop stop-color="#bdae93" stop-opacity=".302" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".15" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <path d="m54.762 62.311v22.03h11.015v93.629h-11.015v22.03h44.061v-22.03h-11.015v-93.629h11.015v-22.03zm60.583 0v22.03h60.583v-22.03zm44.061 38.553v22.03h49.568v-22.03zm0 38.553v22.03h49.568v-22.03zm-44.061 38.553v22.03h60.583v-22.03z" fill="#282828" opacity=".15" stroke-width="5.5076"/>
+  <path d="m54.762 57.311v22.03h11.015v93.629h-11.015v22.03h44.061v-22.03h-11.015v-93.629h11.015v-22.03zm60.583 0v22.03h60.583v-22.03zm44.061 38.553v22.03h49.568v-22.03zm0 38.553v22.03h49.568v-22.03zm-44.061 38.553v22.03h60.583v-22.03z" fill="#8f3f71" stroke-width="5.5076"/>
+  <path d="m54.763 57.311v5h44.061v-5zm60.582 0v5h60.584v-5zm44.061 38.553v5h49.568v-5zm0 38.553v5h49.568v-5zm-104.64 38.553v5h11.016v-5zm33.045 0v5h11.016v-5zm27.537 0v5h60.584v-5z" fill="#ebdbb2" opacity=".3" stroke-width="5.5076"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>
