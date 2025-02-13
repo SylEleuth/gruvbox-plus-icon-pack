@@ -131,6 +131,11 @@ Support
 
 If You downloaded the icon pack or if You just liked it please star the repository for visibility and as appreciation gesture.
 
+##### WANTED!!!
+
+Icon pack lacks of linux repositories maintainers. Any reposiotory. So if You are willing
+to step up to the task Your service will be much appreciated.
+
 License
 -------
 
@@ -143,5 +148,3 @@ License
 * GPL3 © [Numix](https://github.com/numixproject/numix-icon-theme) by Numix Team.
 * GPL3/MIT © 2015-2019 [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) by [Keefer Rourke](https://github.com/keeferrourke).
 * GPL3 © [One Dark](https://github.com/adhec/one-dark-icons) by [Adhe](https://github.com/adhec)
-* MIT © Icons 8 by Gravit Designer
-* MIT © Twemoji by Twitter Team.
