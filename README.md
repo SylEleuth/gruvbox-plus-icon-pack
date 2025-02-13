@@ -124,17 +124,17 @@ If You'll find a missing icon please open a new issue and give as much informati
 If You want to create new icons Yourself or modify existing ones please read how to do that
 [HERE](https://github.com/SylEleuth/gruvbox-plus-icon-pack/tree/master/templates).
 
-If You have any questions, suggestions or propositions use [Discussions page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/discussions).
-
-Support
--------
-
-If You downloaded the icon pack or if You just liked it please star the repository for visibility and as appreciation gesture.
+If You have any questions, suggestions or propositions please use [Discussions page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/discussions).
 
 ##### WANTED!!!
 
 Icon pack lacks of linux repositories maintainers. Any reposiotory. So if You are willing
 to step up to the task Your service will be much appreciated.
+
+Support
+-------
+
+If You downloaded the icon pack or if You just liked it please star the repository for visibility and as appreciation gesture.
 
 License
 -------
