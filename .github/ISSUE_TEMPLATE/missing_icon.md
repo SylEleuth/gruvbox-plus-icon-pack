@@ -9,7 +9,7 @@ Please give as much information as You can:
 
 1. If it's a program, please provide name and link to the website or repository page.
 2. If You can, find a link to the original svg icon.
-3. Link to .desktop file (located in .local/share/applications or /usr/share/applications folder) and output of the xprop.
+3. Content of the .desktop file (located in .local/share/applications or /usr/share/applications folder).
 
 Issue should be only for one app. If You found more missing icons please open another issue.
 -->
@@ -25,7 +25,7 @@ Issue should be only for one app. If You found more missing icons please open an
 ## :technologist: Technical details
 
 <!--
-Link to `.desktop` file (located in `.local/share/applications` or `/usr/share/applications` folder).
+Content of the .desktop file (located in `.local/share/applications` or `/usr/share/applications` folder).
 -->
 
 <!--
