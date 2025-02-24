@@ -14,15 +14,16 @@ Please give as much information as You can:
 Issue should be only for one app. If You found more missing icons please open another issue.
 -->
 
-## Program
+## Program:
 
 - name:
 - website:
 
-## Original icon
-<!-- copy-paste icon here -->
+## Original icon:
 
-## :technologist: Technical details
+<!-- copy-paste icon here, `.svg` would be the best -->
+
+## Additional information:
 
 <!--
 Content of the .desktop file (located in `.local/share/applications` or `/usr/share/applications` folder).
