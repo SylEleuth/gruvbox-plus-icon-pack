@@ -44,7 +44,7 @@ Unpack it and copy content of the folder to Your home/.local/share/icons/ direct
 
 or soft link git repository:
 
-``` ln -s path/to/repository/Gruvbox-Plus-Dark ~/.local/share/icons/Grubox-Plus-Dark ```
+``` ln -s path/to/repository/Gruvbox-Plus-Dark ~/.local/share/icons/Gruvbox-Plus-Dark ```
 
 You could then just use
 
@@ -128,7 +128,7 @@ If You have any questions, suggestions or propositions please use [Discussions p
 
 ##### WANTED!!!
 
-Icon pack lacks of linux repositories maintainers. Any reposiotory. So if You are willing
+Icon pack lacks of linux repositories maintainers. Any repository. So if You are willing
 to step up to the task Your service will be much appreciated.
 
 Support
