@@ -25,7 +25,7 @@ You can download Icon pack from different sources:
 
 1. Go to the [releases page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases) and choose the zip file from the latest version.
 
-2. Download the icon pack from Your system's icon manager settings. For example in KDE, open System Settings -> Colours & Themes -> Icons and click "Get New..." where You can search for Gruvbox Plus.
+2. Download the icon pack from Your system's icon manager settings. For example in KDE, open System Settings -> Colors & Themes -> Icons and click "Get New..." where You can search for Gruvbox Plus.
 
 3. Download latest package from [Pling](https://www.pling.com/p/1961046/) or [KDE Store](https://store.kde.org/p/1961046)
 
@@ -78,11 +78,11 @@ There are 24 colors that You can choose from:
 
 ![plasma](https://github.com/user-attachments/assets/ba2b2fd0-54b2-4561-bca3-6c9cf6c02241)
 
-**Plasma** is a a special variant for KDE Plasma users. You can change color straight from System Settings: Colours & Themes -> Colours.
+**Plasma** is a a special variant for KDE Plasma users. You can change color straight from System Settings: Colors & Themes -> Colors.
 
 If You are using different Desktop Environment You can easily change the folder's color with special script
 (thanks to [akarzim](https://github.com/akarzim)). Script is located in the `scripts` folder
-of the repository. It does not come with the release package so You would have to download it separately.
+of the repository. You can [download it](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases/download/v6.2.0/folders-color-chooser.sh) from release page as a seperate file.
 
 #### Script's usage
 
