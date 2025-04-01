@@ -13,8 +13,8 @@
     </linearGradient>
   </defs>
   <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
-  <path d="m45.5 64v133h165v-133zm21.522 22.166h50.219v14.779h-50.219zm71.74 0h50.219v14.779h-50.219zm-71.74 36.946h50.219v14.778h-50.219zm71.74 0h50.219v14.778h-50.219zm-71.74 36.945h50.219v14.778h-50.219zm71.74 0h50.219v14.778h-50.219z" fill="#282828" opacity=".3" stroke-width=".98572" style="isolation:isolate"/>
+  <path d="m45.5 64v133h165v-133zm21.522 22.166h50.219v14.779h-50.219zm71.74 0h50.219v14.779h-50.219zm-71.74 36.946h50.219v14.778h-50.219zm71.74 0h50.219v14.778h-50.219zm-71.74 36.945h50.219v14.778h-50.219zm71.74 0h50.219v14.778h-50.219z" fill="#fbf1c7" opacity=".4" stroke-width=".98572" style="isolation:isolate"/>
   <path d="m45.5 59v133h165v-133zm21.522 22.166h50.219v14.779h-50.219zm71.74 0h50.219v14.779h-50.219zm-71.74 36.946h50.219v14.778h-50.219zm71.74 0h50.219v14.778h-50.219zm-71.74 36.945h50.219v14.778h-50.219zm71.74 0h50.219v14.778h-50.219z" fill="#689d6a" stroke-width=".98572" style="isolation:isolate"/>
   <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
-  <path d="m45.5 59v5h165v-5zm21.521 36.945v5h50.219v-5zm71.74 0v5h50.219v-5zm-71.74 36.945v5h50.219v-5zm71.74 0v5h50.219v-5zm-71.74 36.943v5h50.219v-5zm71.74 0v5h50.219v-5z" fill="#ebdbb2" opacity=".3" stroke-width=".98572" style="isolation:isolate"/>
+  <path d="m45.5 59v5h165v-5zm21.521 36.945v5h50.219v-5zm71.74 0v5h50.219v-5zm-71.74 36.945v5h50.219v-5zm71.74 0v5h50.219v-5zm-71.74 36.943v5h50.219v-5zm71.74 0v5h50.219v-5z" fill="#282828" opacity=".15" stroke-width=".98572" style="isolation:isolate"/>
 </svg>
