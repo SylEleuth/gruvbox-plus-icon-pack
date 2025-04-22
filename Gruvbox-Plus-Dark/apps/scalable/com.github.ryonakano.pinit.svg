@@ -1,4 +1,4 @@
-<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
@@ -41,6 +41,10 @@
       <stop stop-color="#282828" stop-opacity=".50178" offset="0"/>
       <stop stop-color="#282828" stop-opacity="0" offset="1"/>
     </radialGradient>
+    <radialGradient id="radialGradient10-2" cx="118.92" cy="129.22" r="35.323" gradientTransform="matrix(1.8311 0 0 .41305 -64.789 157.5)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" offset="0"/>
+      <stop stop-color="#282828" stop-opacity="0" offset="1"/>
+    </radialGradient>
   </defs>
   <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#radialGradient8)" style="isolation:isolate"/>
   <path d="m111.31 42.289h19.223l1.4786 164.55-10.351 2.8617" fill="#928374" stroke="url(#linearGradient6045)" stroke-opacity=".45098" stroke-width="1.4187px"/>
@@ -50,4 +54,5 @@
   <path d="m206.5 101.17c0.66734 58.168-76.188 58.878-76.188 58.878h-12.483v-31.593h12.972s51.581 9.6026 51.581-27.285c0-36.887-53.022-27.285-53.022-27.285h-11.53v-31.593h11.53s76.474 0.70944 77.141 58.878z" fill="url(#linearGradient1284)" opacity=".98" stroke="#282828" stroke-linejoin="round" stroke-opacity=".45" stroke-width="1.4187"/>
   <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
   <path d="m88.285 196.28h60.764v29.18h-60.764z" fill="url(#radialGradient10)" stop-color="#000000" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="0" stroke-width=".36404" style="paint-order:markers fill stroke"/>
+  <path d="m88.285 196.28h129.36v29.18h-129.36z" fill="url(#radialGradient10-2)" opacity=".26077" stop-color="#000000" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="0" stroke-width=".53116" style="paint-order:markers fill stroke"/>
 </svg>
