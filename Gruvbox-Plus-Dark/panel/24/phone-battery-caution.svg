@@ -2,7 +2,7 @@
   <defs>
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NeutralText { color:#fe8019; } .ColorScheme-PositiveText { color:#689d6a; } .ColorScheme-NegativeText { color:#fb4934; }</style>
   </defs>
-  <path class="ColorScheme-Text" d="m13 4c-1 0-1 1-1 1v14s1e-6 1 1 1h8c1 0 1-1 1-1v-14s-1e-6 -1-1-1zm1 2.004h6v9.996h-6zm2.5 11h1c0.277 0 0.5 0.223 0.5 0.5v1c0 0.277-0.223 0.5-0.5 0.5h-1c-0.277 0-0.5-0.223-0.5-0.5v-1c0-0.277 0.223-0.5 0.5-0.5z" fill="currentColor"/>
-  <path class="ColorScheme-NegativeText" d="m4.5 4c-0.277 0-0.5 0.223-0.5 0.5v0.5l-2-2e-3 -2e-5 14.5c0 0.277 0.223 0.4999 0.5 0.5l7 0.0023c0.277 8.9e-5 0.5-0.223 0.5-0.5l2e-5 -14.5-2 2e-3v-0.5c0-0.277-0.223-0.5-0.5-0.5z" fill="currentColor" opacity=".3"/>
-  <path class="ColorScheme-NegativeText" d="m2 17v2.5c0 0.277 0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5v-2.5z" fill="currentColor"/>
+  <path class="ColorScheme-NegativeText" d="m3 6c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h11v-6c0-1.108 0.892-2 2-2h4c1.108 0 2 0.892 2 2v-2h-1v-3c0-0.554-0.446-1-1-1z" fill="currentColor" opacity=".3"/>
+  <path class="ColorScheme-NegativeText" d="m16 11c-0.554 0-1 0.446-1 1v8c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-8c0-0.554-0.446-1-1-1zm0 1h4v6h-4zm1.4746 7c0.0085-4.3e-4 0.01674 0 0.02539 0h1c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-1c-0.277 0-0.5-0.223-0.5-0.5 0-0.26834 0.2097-0.48666 0.47461-0.5z" fill="currentColor" opacity=".3"/>
+  <path class="ColorScheme-NegativeText" d="m3 6c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h1v-12z" fill="currentColor"/>
 </svg>
