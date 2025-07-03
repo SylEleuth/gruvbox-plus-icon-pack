@@ -5,7 +5,7 @@
       <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
       <stop stop-opacity="0" offset=".7036"/>
       <stop stop-opacity=".1" offset=".8975"/>
-      <stop stop-opacity=".2" offset="1"/>
+      <stop stop-opacity=".25" offset="1"/>
     </linearGradient>
     <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
       <stop stop-color="#504945" offset="0"/>
