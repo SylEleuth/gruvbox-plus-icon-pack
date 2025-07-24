@@ -32,8 +32,9 @@
   <g transform="translate(-.0019909 .0457)" style="isolation:isolate">
     <path d="m128.54 239.95-2.542 1e-5 -0.335-29.11c0-74.81 10.64-85.1 85.52-85.1l38.82-0.2723-1e-3 0.532" fill="#32302f" opacity=".3" stroke-width="1.011" style="isolation:isolate"/>
     <path d="m250.01 126-28.95 0.3203c-78.35 0.8665-91.85 4.404-92.94 79.55-0.3323 11.37-0.0757 22.72 0.4277 34.08 1.9e-4 4e-3 36.19 4e-3 36.45 4e-3 72 0 85-15 85-85z" fill="url(#b-9-6)" style="isolation:isolate"/>
-    <path d="m202.7 148.4v31.11h11.67l-23.34 31.11-23.34-31.11h11.67v-31.11zm-38.89 62.23h54.45v7.778h-54.45z" fill="#282828" opacity=".5" stroke-width="1.411" style="isolation:isolate"/>
-    <path d="m202.7 144.45v31.11h11.67l-23.34 31.11-23.34-31.11h11.67v-31.11zm-38.89 62.23h54.45v7.778h-54.45z" fill="#ebdbb2" stroke-width="1.411" style="isolation:isolate"/>
+    <path d="m202.7 149.72v31.11h11.67l-23.34 31.11-23.34-31.11h11.67v-31.11zm-38.89 62.23h54.45v7.778h-54.45z" fill="#282828" opacity=".3" stroke-width="1.411" style="isolation:isolate"/>
+    <path d="m202.7 145.72v31.11h11.67l-23.34 31.11-23.34-31.11h11.67v-31.11zm-38.89 62.23h54.45v7.778h-54.45z" fill="#ebdbb2" stroke-width="1.411" style="isolation:isolate"/>
+    <path d="m179.36 145.72v31.109h-11.67l3.0078 4.0098h8.668v-31.109h23.334v-4.0098zm23.346 31.109v4.0098h8.6562l3.0078-4.0098zm-38.895 31.121v7.7773h4e-3v-3.7676h54.445v-4.0098h-24.225l-3 4-3-4z" fill="#fbf1c7" opacity=".6" style="isolation:isolate"/>
   </g>
   <g transform="translate(9.09e-6 -.12)" opacity=".5" style="isolation:isolate">
     <path transform="translate(-.004996 .116)" d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
