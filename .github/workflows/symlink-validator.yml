@@ -1,0 +1,46 @@
+name: Symlink Validator
+
+on:
+  push:
+    # Run on pushes to all branches
+    branches:
+      - '**'
+  pull_request:
+    # Run for pull requests against all branches
+    branches:
+      - '**'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  validate_symlinks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify Symlinks
+        id: symlink_check
+        run: |
+          # Initialize a flag to track if any invalid symlinks are found
+          INVALID_FOUND=0
+          
+          echo "Starting symlink validation..."
+          
+          # Find all files of type 'l' (symlink) recursively and process them.
+          find . -type l -print0 | while IFS= read -r -d $'\0' symlink; do
+              # Use 'test -e' to check if the file the symlink points to exists.
+              if ! test -e "$symlink"; then
+                  # Report the broken symlink
+                  echo "::error file=$symlink::Broken symlink found: $symlink points to a non-existent target."
+                  INVALID_FOUND=1
+              fi
+          done
+          
+          if [ $INVALID_FOUND -eq 1 ]; then
+              echo "ERROR: One or more broken symlinks were found."
+              # Fail the step if any invalid symlinks were found
+              exit 1
+          else
+              echo "All symlinks are valid. The repository is clean."
+          fi
