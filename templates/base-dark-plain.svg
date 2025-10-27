@@ -3,13 +3,13 @@
     <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
       <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
-      <stop stop-opacity="0" offset=".7036"/>
-      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".1" offset=".7036"/>
+      <stop stop-opacity=".15" offset=".8975"/>
       <stop stop-opacity=".2" offset="1"/>
     </linearGradient>
     <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#282828" offset="0"/>
-      <stop stop-color="#282828" offset="1"/>
+      <stop stop-color="#504945" offset="0"/>
+      <stop stop-color="#3c3836" offset="1"/>
     </linearGradient>
   </defs>
   <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
