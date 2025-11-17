@@ -1,1 +1,34 @@
-application-document.svg
+<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient26" x1="-160" x2="-160" y2="226" gradientTransform="translate(267,15)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#cc241d" offset="0"/>
+      <stop stop-color="#cc241d" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient7-6-0" x1="186" x2="156" y1="45.006" y2="75.012" gradientTransform="matrix(1.0833 0 0 1.0833 -17.998 -1.2506)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fb4934" offset="0"/>
+      <stop stop-color="#cc241d" offset=".3027"/>
+      <stop stop-color="#9d0006" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient14-5" x1="128" x2="128" y1="15.001" y2="241" gradientTransform="translate(0,4.8e-4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".15" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".2"/>
+      <stop stop-opacity="0" offset=".70405"/>
+      <stop stop-opacity=".05" offset=".80473"/>
+      <stop stop-opacity=".1" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m57 15c-9.9393 0-17 7.0595-17 17v192c0 9.9393 7.0595 17 17 17h142c9.9405 0 17-7.0607 17-17v-144l-64.999-64.999z" fill="url(#linearGradient26)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:markers fill stroke"/>
+  <path d="m57 241c-9.9393 0-17-7.0595-17-17v-43h176v43c0 9.9405-7.0607 17-17 17z" fill="#fb4934" opacity=".7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:markers fill stroke"/>
+  <path d="m98.48 199.68c7.1485 0 12.88 2.1678 12.88 9.12 0 2.1895-0.48892 5.6557-5.2 7.6 3.551 4.3964 6.5069 10.532 6.88 11.32h-7c-4.0059-7.1684-5.2516-8.79-6.36-10.12h-3.08v10.12h-6.24v-27.32c3.1191-0.6116 6.3871-0.72 8.12-0.72zm0.36 5.32c-0.74882-0.01-1.4946 0.0599-2.24 0.12v7.52h1.76c4.8398 0 6.56-1.178 6.56-3.88 0-1.4407-0.45697-3.76-6.08-3.76zm38.36-5v5.32h-8.36v22.4h-6.24v-22.4h-8.36v-5.32zm20.96 27.72c-0.95148-1.903-3.0803-5.9231-5.72-9.56-2.4596 3.1624-5.5122 8.7835-5.88 9.56h-7.12c2.4908-4.5853 5.4549-8.9918 9.32-14.36l-8.92-13.36h7.56l5.4 8.64 5.28-8.64h7.12l-8.8 13.44c2.0317 2.6364 5.968 8.0335 9.24 14.28z" fill="#ebdbb2" opacity=".15" aria-label="RTX"/>
+  <path d="m98.48 196.68c7.1485 0 12.88 2.1678 12.88 9.12 0 2.1895-0.48892 5.6557-5.2 7.6 3.551 4.3964 6.5069 10.532 6.88 11.32h-7c-4.0059-7.1684-5.2516-8.79-6.36-10.12h-3.08v10.12h-6.24v-27.32c3.1191-0.6116 6.3871-0.72 8.12-0.72zm0.36 5.32c-0.74882-0.01-1.4946 0.0599-2.24 0.12v7.52h1.76c4.8398 0 6.56-1.178 6.56-3.88 0-1.4407-0.45697-3.76-6.08-3.76zm38.36-5v5.32h-8.36v22.4h-6.24v-22.4h-8.36v-5.32zm20.96 27.72c-0.95148-1.903-3.0803-5.9231-5.72-9.56-2.4596 3.1624-5.5122 8.7835-5.88 9.56h-7.12c2.4908-4.5853 5.4549-8.9918 9.32-14.36l-8.92-13.36h7.56l5.4 8.64 5.28-8.64h7.12l-8.8 13.44c2.0317 2.6364 5.968 8.0335 9.24 14.28z" fill="#9d0006" aria-label="RTX"/>
+  <path d="m98.481 196.68c-1.7329 0-5.002 0.1091-8.1211 0.7207v3c3.1191-0.6116 6.3882-0.7207 8.1211-0.7207 6.6061 0 11.991 1.8612 12.771 7.6289 0.0752-0.53824 0.10743-1.0543 0.10743-1.5078-1e-5 -6.9522-5.7304-9.1211-12.879-9.1211zm15.76 0.32031v3h22.959v-3zm25.6 0 2.0039 3h5.5566l5.4004 8.6406 5.2793-8.6406h5.1543l1.9648-3h-7.1191l-5.2793 8.6406-5.4004-8.6406zm-35.18 10.295c-0.63311 1.6161-2.505 2.3457-6.3008 2.3457h-1.7598v3h1.7598c4.8398 0 6.5605-1.1789 6.5605-3.8808 0-0.4373-0.0439-0.95508-0.25976-1.4648zm43.068 4.5215c-3.3505 4.7074-6.033 8.7511-8.2891 12.904h1.7149c2.1232-3.5627 4.5868-7.1687 7.6055-11.361zm9.7188 0.0254-1.0469 1.5976c1.6967 2.2017 4.7191 6.3421 7.5762 11.281h1.6641c-2.8066-5.358-6.0305-9.977-8.1934-12.879zm-49.674 3.7383c-0.47405 0.29434-1.0076 0.57034-1.6133 0.82031 2.1864 2.707 4.0608 5.9489 5.332 8.3203h1.5469c-0.31444-0.66383-2.4721-5.1221-5.2656-9.1406z" fill="#282828" opacity=".2"/>
+  <path d="m70 48v60h60v-60zm75 50v10h41v-10zm-75 20v10h116v-10zm0 20v10h116v-10zm0 20v10h116v-10z" fill="#ebdbb2" opacity=".1" style="paint-order:markers fill stroke"/>
+  <path d="m70 45v60h60v-60zm75 50v10h41v-10zm-75 20v10h116v-10zm0 20v10h116v-10zm0 20v10h116v-10z" fill="#9d0006" style="paint-order:markers fill stroke"/>
+  <path d="m70 45v3h60v-3zm75 50v3h41v-3zm-75 20v3h116v-3zm0 20v3h116v-3zm0 20v3h116v-3z" fill="#282828" opacity=".2" style="paint-order:markers fill stroke"/>
+  <path d="m115 54c-5.5228 0-10 4.4772-10 10s4.4772 10 10 10 10-4.4772 10-10-4.4772-10-10-10zm-24 16-16 30h50l-13-20-7 10z" fill="#282828" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+  <path d="m115 52c-5.5228 0-10 4.4772-10 10s4.4772 10 10 10 10-4.4772 10-10-4.4772-10-10-10zm-24 16-16 30h50l-13-20-7 10z" fill="#cc241d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+  <path d="m115 52c-5.5228 0-10 4.4772-10 10 0 0.3379 0.0161 0.67071 0.0488 1 0.50227-5.0528 4.7662-9 9.9512-9s9.4489 3.9472 9.9512 9c0.0328-0.32929 0.0489-0.6621 0.0489-1 0-5.5228-4.4772-10-10-10zm-24 16-16 30h1.0664l14.934-28 14 20 7-10 11.699 18h1.3008l-13-20-7 10z" fill="#ebdbb2" opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+  <path d="m57 15c-9.9393 0-17 7.0595-17 17v192c0 9.9393 7.0595 17 17 17h142c9.9405 0 17-7.0607 17-17v-144l-65-64.998zm4.0332 4.9902 89.967 2e-3 60 60.009v139.75c0 9.4999-6.6575 16.248-16.033 16.248h-133.93c-9.3757 0-16.033-6.7481-16.033-16.248v-183.51c0-9.501 6.6586-16.25 16.033-16.25z" fill="url(#linearGradient14-5)" style="paint-order:markers fill stroke"/>
+  <path d="m151 15.002v52.914c0 9.6525 7.8639 17.084 17.518 17.084l47.482-1.34e-4v-5z" fill="#282828" opacity=".3" stroke-width="1.0833"/>
+  <path d="m151 15.001v47.916c0 9.6525 7.8639 17.084 17.518 17.084l47.482-1.34e-4z" fill="url(#linearGradient7-6-0)" stroke-width="1.0833"/>
+</svg>
