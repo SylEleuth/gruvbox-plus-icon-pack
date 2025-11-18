@@ -1,1 +1,30 @@
-application-document-template.svg
+<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient26" x1="-160" x2="-160" y2="226" gradientTransform="translate(267,15)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#665c54" offset="0"/>
+      <stop stop-color="#504945" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient7-6-0" x1="186" x2="156" y1="45.006" y2="75.012" gradientTransform="matrix(1.0833 0 0 1.0833 -17.999 -1.2512)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#bdae93" offset="0"/>
+      <stop stop-color="#928374" offset=".3027"/>
+      <stop stop-color="#665c54" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient14-5" x1="128" x2="128" y1="15.001" y2="241" gradientTransform="translate(0,4.8e-4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".2"/>
+      <stop stop-opacity="0" offset=".70405"/>
+      <stop stop-opacity=".1" offset=".80473"/>
+      <stop stop-opacity=".15" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m57 15c-9.9393 0-17 7.0595-17 17v192c0 9.9393 7.0595 17 17 17h142c9.9405 0 17-7.0607 17-17v-144l-64.999-64.999z" fill="url(#linearGradient26)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:markers fill stroke"/>
+  <path d="m70 58v70h60v-70zm75 40v10h41v-10zm0 20v10h41v-10zm-75 20v10h116v-10zm0 20v10h116v-10zm0 20v10h116v-10zm0 20v10h116v-10z" fill="#282828" opacity=".4" style="paint-order:markers fill stroke"/>
+  <path d="m70 55v70h60v-70zm75 40v10h41v-10zm0 20v10h41v-10zm-75 20v10h116v-10zm0 20v10h116v-10zm0 20v10h116v-10zm0 20v10h116v-10z" fill="#d5c4a1" style="paint-order:markers fill stroke"/>
+  <path d="m70 55v3h60v-3zm75 40v3h41v-3zm0 20v3h41v-3zm-75 20v3h116v-3zm0 20v3h116v-3zm0 20v3h116v-3zm0 20v3h116v-3z" fill="#ebdbb2" opacity=".5" style="paint-order:markers fill stroke"/>
+  <path d="m115 68a10 10 0 0 0-10 10 10 10 0 0 0 10 10 10 10 0 0 0 10-10 10 10 0 0 0-10-10zm-24 20-16 30h50l-13-20-7 10z" fill="#ebdbb2" opacity=".4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+  <path d="m115 65a10 10 0 0 0-10 10 10 10 0 0 0 10 10 10 10 0 0 0 10-10 10 10 0 0 0-10-10zm-24 20-16 30h50l-13-20-7 10-14-20z" fill="#665c54" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+  <path d="m115 65a10 10 0 0 0-10 10 10 10 0 0 0 0.16797 1.5 10 10 0 0 1 9.832-8.5 10 10 0 0 1 9.8516 8.3125 10 10 0 0 0 0.14844-1.3125 10 10 0 0 0-10-10zm-24 20-16 30h1.5996l14.4-27 14 20 7-10 11.051 17h1.9492l-13-20-7 10z" fill="#282828" opacity=".4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+  <path d="m57 15c-9.9393 0-17 7.0595-17 17v192c0 9.9393 7.0595 17 17 17h142c9.9405 0 17-7.0607 17-17v-144l-65-64.998zm4.0332 4.9902 89.967 2e-3 60 60.009v139.75c0 9.4999-6.6575 16.248-16.033 16.248h-133.93c-9.3757 0-16.033-6.7481-16.033-16.248v-183.51c0-9.501 6.6586-16.25 16.033-16.25z" fill="url(#linearGradient14-5)" style="paint-order:markers fill stroke"/>
+  <path d="m151 15.002v52.914c0 9.6525 7.8639 17.084 17.518 17.084l47.482-1.34e-4v-5z" fill="#282828" opacity=".3" stroke-width="1.0833"/>
+  <path d="m151 15v47.916c0 9.6525 7.8639 17.082 17.518 17.082l47.482 0.0019z" fill="url(#linearGradient7-6-0)" stroke-width="1.0833"/>
+</svg>
