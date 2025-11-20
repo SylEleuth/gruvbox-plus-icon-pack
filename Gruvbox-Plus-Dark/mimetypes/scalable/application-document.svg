@@ -1,16 +1,1 @@
-<svg width="256" height="256" fill="none" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
-  <path d="m55.08 15h100.5l60.4 60.15 2e-3 148.9c0 8.911-7.262 16.13-16.17 16.13h-144.8c-8.91 0-16.08-7.174-16.08-16.08v-193c0-8.91 7.173-16.08 16.08-16.08h1e-4z" fill="#ebdbb2"/>
-  <path d="m70 59h74.78v9.26h-74.78v-9.26zm0.463 18.29h74.78v9.26h-74.78v-9.26zm116 18.52h-116v9.26h116v-9.26zm-116 18.52h116v9.26h-116v-9.26zm116 18.52h-116v9.26h116v-9.26zm-116 18.52h116v9.261h-116v-9.261zm116 18.52h-116v9.26h116v-9.26zm-116 18.52h116v9.261h-116v-9.261z" clip-rule="evenodd" fill="url(#paint0_linear)" fill-rule="evenodd"/>
-  <path d="m155.6 17v44.23c0 8.91 7.259 15.93 16.17 15.93l44.23-0.0112v-2l-60.4-58.15z" fill="#282828" opacity=".25"/>
-  <path d="m155.6 15v44.23c0 8.91 7.259 15.93 16.17 15.93l44.23-0.0112-60.4-60.15z" fill="url(#paint1_linear)"/>
-  <defs>
-    <linearGradient id="paint0_linear" x1="128.2" x2="128.2" y1="59" y2="197.7" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#83a598" offset="0"/>
-      <stop stop-color="#458588" offset="1"/>
-    </linearGradient>
-    <linearGradient id="paint1_linear" x1="155.6" x2="155.6" y1="15" y2="75.16" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#bdae93" offset="1e-7"/>
-      <stop stop-color="#bdae93" offset="1"/>
-    </linearGradient>
-  </defs>
-</svg>
+x-office-document.svg
