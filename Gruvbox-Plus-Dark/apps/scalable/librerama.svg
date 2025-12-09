@@ -1,0 +1,21 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#d5c4a1" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient10" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#282828" stop-opacity=".05" offset=".1966"/>
+      <stop stop-color="#282828" stop-opacity="0" offset=".50485"/>
+      <stop stop-color="#282828" stop-opacity=".1" offset=".74636"/>
+      <stop stop-color="#282828" stop-opacity=".2" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <path d="m97.073 46.5-1.7e-4 168h83.998l7.7e-4 -35.393-27.999-0.0183c-14-0.01-20.589-6.5903-20.589-20.59v-85.645z" fill="#ebdbb2" opacity=".6"/>
+  <path d="m97.073 41.5-1.8e-4 168h83.998l7.7e-4 -35.393-27.999-0.0183c-14-0.01-20.589-6.5903-20.589-20.59v-85.645z" fill="#fabd2f"/>
+  <path d="m97.073 41.5v5l35.41 26.354v-5zm35.41 112v5c0 14 6.5901 20.58 20.59 20.59l27.998 0.0195v-5l-27.998-0.0195c-14-0.01-20.59-6.5901-20.59-20.59z" fill="#282828" opacity=".1"/>
+  <path d="m97.072 55.5v7.4118l35.412 26.353v-7.4118zm0 14v21.412l35.412 26.353v-21.412zm0 35.412 7.8e-4 104.59h83.998l7.7e-4 -35.412h-27.999c-14 0-20.589-6.5903-20.589-20.59v-22.234z" fill="#fe8019"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 5h74c35.653 0 55.307 3.9448 65.895 14.965 10.588 11.02 14.105 31.336 14.105 67.035v56c0 34.69-3.4936 54.457-14.07 65.25-10.577 10.793-30.277 14.75-65.93 14.75h-74c-35.653 0-55.353-3.9574-65.93-14.75-10.577-10.793-14.07-30.56-14.07-65.25v-56c0-35.699 3.5176-56.015 14.105-67.035 10.588-11.02 30.242-14.965 65.895-14.965z" fill="url(#linearGradient10)" style="isolation:isolate"/>
+</svg>
