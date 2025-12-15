@@ -1,1 +1,8 @@
-text-x-hex.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m8 0.99977c-3.036 0.0037-5.496 2.464-5.5 5.5 0 4.706 4.9999 8.2612 5.2129 8.4102 0.1725 0.1204 0.40182 0.1204 0.57422 0 0.2129-0.1489 5.2129-3.7042 5.2129-8.4102-0.0035-3.036-2.464-5.496-5.5-5.5zm0 1c2.4852 1.382e-4 4.4999 2.0148 4.5 4.5-1.38e-4 2.4852-2.0148 4.4999-4.5 4.5-2.4852-1.38e-4 -4.4999-2.0148-4.5-4.5 1.382e-4 -2.4852 2.0148-4.4999 4.5-4.5zm1.2168 1.9414c-0.17299 0-0.87197 0.00771-1.5 0.13086v4.9277h1.127v-1.6738h0.35156c2.1607 0 2.3398-1.0733 2.3398-1.7031 0-0.48045-0.0633-1.6816-2.3184-1.6816zm-3.7793 0.058594v5h1.125v-5zm3.7402 0.90234c0.03725-0.00132 0.07401-7.325e-4 0.11133 0 0.89136 0 1.084 0.32486 1.084 0.71484 0 0.40723-0.15843 0.75-1.1777 0.75h-0.35156v-1.4434c0.11163-0.00536 0.22225-0.017538 0.33398-0.021484z" fill="currentColor"/>
+  <text x="14.639503" y="9.8521776" font-family="Sans" font-size="10px" font-weight="bold" letter-spacing="0px" word-spacing="0px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="14.639503" y="9.8521776"/></text>
+  <text x="12.662129" y="-2.9140244" font-family="Sans" font-size="10px" font-weight="bold" letter-spacing="0px" word-spacing="0px" style="font-variant-ligatures:none;line-height:1.25" xml:space="preserve"><tspan x="12.662129" y="-2.9140244"/></text>
+</svg>
