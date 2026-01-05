@@ -1,0 +1,20 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient10" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity="0" offset=".24921"/>
+      <stop stop-color="#1d2021" stop-opacity=".05" offset=".50485"/>
+      <stop stop-color="#1d2021" stop-opacity=".15" offset=".75285"/>
+      <stop stop-color="#1d2021" stop-opacity=".25" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient15" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#689d6a" offset="0"/>
+      <stop stop-color="#427b58" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient15)" style="isolation:isolate"/>
+  <path d="m25.132 101.85v11.43h85.723v-11.43zm91.438 0v11.43h102.87v45.719h11.43v-57.149zm-91.438 17.145v11.43h28.574v28.574h11.43v-40.004zm45.719 0v40.004h11.43v-28.574h28.574v-11.43zm45.719 0v40.004h11.43v-40.004zm17.145 0v40.004h11.43v-28.574h17.145v28.574h11.43v-40.004zm45.719 0v40.004h11.43v-28.574h11.43v28.574h11.43v-40.004z" fill="#282828" opacity=".3" stroke-width="5.7149"/>
+  <path d="m25.132 97.851v11.43h85.723v-11.43zm91.438 0v11.43h102.87v45.719h11.43v-57.149zm-91.438 17.145v11.43h28.574v28.574h11.43v-40.004zm45.719 0v40.004h11.43v-28.574h28.574v-11.43zm45.719 0v40.004h11.43v-40.004zm17.145 0v40.004h11.43v-28.574h17.145v28.574h11.43v-40.004zm45.719 0v40.004h11.43v-28.574h11.43v28.574h11.43v-40.004z" fill="#ebdbb2" stroke-width="5.7149"/>
+  <path d="m25.133 97.851v4h85.723v-4zm91.437 0v4h114.3v-4zm-91.437 17.145v4h40.004v-4zm45.719 0v4h40.004v-4zm45.719 0v4h11.43v-4zm17.145 0v4h40.004v-4zm45.719 0v4h34.289v-4z" fill="#fbf1c7" opacity=".6" stroke-width="5.7149"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 5h74c35.653 0 55.307 3.9448 65.895 14.965 10.588 11.02 14.105 31.336 14.105 67.035v56c0 34.69-3.4936 54.457-14.07 65.25-10.577 10.793-30.277 14.75-65.93 14.75h-74c-35.653 0-55.353-3.9574-65.93-14.75-10.577-10.793-14.07-30.56-14.07-65.25v-56c0-35.699 3.5176-56.015 14.105-67.035 10.588-11.02 30.242-14.965 65.895-14.965z" fill="url(#linearGradient10)" style="isolation:isolate"/>
+</svg>
