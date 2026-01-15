@@ -1,0 +1,32 @@
+<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient21" x1="128" x2="128" y1="15" y2="241" gradientTransform="translate(-9.75e-4,-9.75e-4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" offset="0"/>
+      <stop stop-color="#d5c4a1" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient7-6-0-6" x1="186" x2="156" y1="45.006" y2="75.012" gradientTransform="matrix(1.0833,0,0,1.0833,-17.997,-1.2506)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8ec07c" offset="0"/>
+      <stop stop-color="#689d6a" offset=".3027"/>
+      <stop stop-color="#427b58" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient14-6" x1="128" x2="128" y1="15.001" y2="241" gradientTransform="translate(0,4.8e-4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#427b58" stop-opacity=".099738" offset="0"/>
+      <stop stop-color="#427b58" stop-opacity=".047244" offset=".2"/>
+      <stop stop-color="#427b58" stop-opacity=".047244" offset=".70405"/>
+      <stop stop-color="#282828" stop-opacity=".049869" offset=".80473"/>
+      <stop stop-color="#282828" stop-opacity=".10367" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m56.999 14.999c-9.9393 0-17 7.0595-17 17v149h176v-101l-64.998-64.998z" fill="url(#linearGradient21)" style="paint-order:markers fill stroke"/>
+  <path d="m57 241c-9.9393 0-17-7.0595-17-17v-43h176v43c0 9.9405-7.0607 17-17 17z" fill="#689d6a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:markers fill stroke"/>
+  <path d="m99.24 227.72c-3.1136-6.6069-7.5035-17.11-11.04-27.72h6.88c4.3571 13.071 6.1098 17.669 7.28 20.36 1.2876-3.1173 3.8782-10.155 7.28-20.36h6.64c-4.6877 13.452-7.8315 20.912-11.04 27.72zm31.48 0.56c-7.3373 0-11.24-4.0343-11.24-11.04v-17.24h6.24v16.72c0 4.7482 2.2338 6.16 5.08 6.16 4.071 0 5.12-3.0332 5.12-6.16v-16.72h6.24v17.24c0 4.0123-1.4289 11.04-11.44 11.04zm17.44-0.56v-27.72h18.72v5.24h-12.48v5.44h11.08v5.12h-11.08v6.68h13.4v5.24z" fill="#282828" opacity=".2" aria-label="VUE"/>
+  <path d="m99.24 224.72c-3.1136-6.6069-7.5035-17.11-11.04-27.72h6.88c4.3571 13.071 6.1098 17.669 7.28 20.36 1.2876-3.1173 3.8782-10.155 7.28-20.36h6.64c-4.6877 13.452-7.8315 20.912-11.04 27.72zm31.48 0.56c-7.3373 0-11.24-4.0343-11.24-11.04v-17.24h6.24v16.72c0 4.7482 2.2338 6.16 5.08 6.16 4.071 0 5.12-3.0332 5.12-6.16v-16.72h6.24v17.24c0 4.0123-1.4289 11.04-11.44 11.04zm17.44-0.56v-27.72h18.72v5.24h-12.48v5.44h11.08v5.12h-11.08v6.68h13.4v5.24z" fill="#ebdbb2" aria-label="VUE"/>
+  <path d="m88.199 197c0.33433 1.003 0.68346 2.0021 1.0312 3h5.8496c4.3571 13.071 6.1091 17.668 7.2793 20.359 1.2876-3.1173 3.8794-10.154 7.2812-20.359h5.5781c0.34987-0.98506 0.69242-1.9436 1.0606-3h-6.6387c-3.4018 10.205-5.9937 17.244-7.2812 20.361-1.1702-2.6915-2.9222-7.2902-7.2793-20.361zm31.281 0v3h6.2402v-3zm16.439 0v3h6.2402v-3zm12.24 0v3h18.721v-3zm6.2402 10.68v3h11.08v-3zm-28.68 6.041v3c0 4.7482 2.2339 6.1602 5.0801 6.1602 4.071 0 5.1191-3.0334 5.1191-6.1602v-3c0 3.1268-1.0482 6.1602-5.1191 6.1602-2.8462 0-5.0801-1.412-5.0801-6.1602zm28.68 5.7598v3h13.4v-3z" fill="#fbf1c7" opacity=".6"/>
+  <path class="st0" d="m165.81 56.317h21.512l2.3355 2.3355-61.649 106.35-63.003-108.68h48.2l14.803 25.201 14.491-25.201z" fill="#ebdbb2" opacity=".6" stroke-width=".050402"/>
+  <path class="st0" d="m165.81 51.317h15.344 6.1674l2.3355 2.3355-61.649 106.35-63.003-108.68h48.2l14.803 25.201 14.491-25.201z" fill="#689d6a" stroke-width=".050402"/>
+  <path d="m89.889 51.317 38.114 65.523 37.802-65.523h-23.311l-14.491 25.201-14.803-25.201z" fill="#504945" stroke-width=".050402"/>
+  <path class="st0" d="m65 51.317 2.8984 5h45.301l14.805 25.201 14.49-25.201h44.822l0.50195 0.50195 1.834-3.166-2.3359-2.3359h-44.822l-14.49 25.201-14.805-25.201z" fill="#282828" opacity=".2" stroke-width=".050402"/>
+  <path d="m57 15c-9.9393 0-17 7.0595-17 17v192c0 9.9393 7.0595 17 17 17h142c9.9405 0 17-7.0607 17-17v-144l-65-65zm4.0332 4.9902 89.967 0.01 60 60 2e-4 139.75c1e-5 9.4999-6.6575 16.248-16.033 16.248h-133.93c-9.3757 0-16.033-6.7481-16.033-16.248v-183.51c0-9.501 6.6586-16.25 16.033-16.25z" fill="url(#linearGradient14-6)" style="paint-order:markers fill stroke"/>
+  <path d="m151 15.002v52.914c0 9.6525 7.8639 17.084 17.518 17.084l47.482-1.34e-4v-5z" fill="#282828" opacity=".2" stroke-width="1.0833"/>
+  <path d="m151 15.001v47.916c0 9.6525 7.8639 17.084 17.518 17.084l47.482-1.34e-4z" fill="url(#linearGradient7-6-0-6)" stroke-width="1.0833"/>
+</svg>
