@@ -1,1 +1,6 @@
-application-x-sharedlib.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#282828; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m3 3-1 2 1.5 0.5 1-0.49755 2.5 2.4976 0.5 1.5h1l0.5-1.5 1.5-2.5 2 0.5 1.3781-0.52162-0.87811-1.9784 3 1-1 2-2 1h-1l-3 6h-2l-3-6h-1l-2-1-1-2z" fill="currentColor"/>
+</svg>
