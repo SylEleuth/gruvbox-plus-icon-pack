@@ -1,1 +1,33 @@
-application-x-glade.svg
+<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient21" x1="128" x2="128" y1="15" y2="241" gradientTransform="translate(-9.75e-4,-9.75e-4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" offset="0"/>
+      <stop stop-color="#d5c4a1" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient7-6-0-5" x1="186" x2="156" y1="45.006" y2="75.012" gradientTransform="matrix(1.0833,0,0,1.0833,-17.997,-1.2506)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8ec07c" offset="0"/>
+      <stop stop-color="#689d6a" offset=".3027"/>
+      <stop stop-color="#427b58" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient14-6" x1="128" x2="128" y1="15.001" y2="241" gradientTransform="translate(0,4.8e-4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#427b58" stop-opacity=".099738" offset="0"/>
+      <stop stop-color="#427b58" stop-opacity=".047244" offset=".2"/>
+      <stop stop-color="#427b58" stop-opacity=".047244" offset=".70405"/>
+      <stop stop-color="#282828" stop-opacity=".049869" offset=".80473"/>
+      <stop stop-color="#282828" stop-opacity=".15" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m56.999 14.999c-9.9393 0-17 7.0595-17 17v149h176v-101l-64.998-64.998z" fill="url(#linearGradient21)" style="paint-order:markers fill stroke"/>
+  <path d="m57 241c-9.9393 0-17-7.0595-17-17v-43h176v43c0 9.9405-7.0607 17-17 17z" fill="#689d6a" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" style="paint-order:markers fill stroke"/>
+  <path d="m121.78 228.28c-7.3373 0-11.24-4.0343-11.24-11.04v-17.24h6.24v16.72c0 4.7482 2.2338 6.16 5.08 6.16 4.071 0 5.12-3.0332 5.12-6.16v-16.72h6.24v17.24c0 4.0123-1.4289 11.04-11.44 11.04zm17.44-28.28h6.24v27.72h-6.24z" fill="#282828" opacity=".2" aria-label="UI"/>
+  <path d="m121.78 225.28c-7.3373 0-11.24-4.0343-11.24-11.04v-17.24h6.24v16.72c0 4.7482 2.2338 6.16 5.08 6.16 4.071 0 5.12-3.0332 5.12-6.16v-16.72h6.24v17.24c0 4.0123-1.4289 11.04-11.44 11.04zm17.44-28.28h6.24v27.72h-6.24z" fill="#ebdbb2" aria-label="UI"/>
+  <path d="m110.54 197v3h6.2402v-3zm16.441 0v3h6.2402v-3zm12.24 0v3h6.2402v-3zm-22.441 16.721v3c0 4.7482 2.2339 6.1602 5.0801 6.1602 4.0709 0 5.1211-3.0334 5.1211-6.1602v-3c0 3.1268-1.0502 6.1602-5.1211 6.1602-2.8462 0-5.0801-1.412-5.0801-6.1602z" fill="#fbf1c7" opacity=".6"/>
+  <path d="m134.9 50.641-56.844 15.611 37.168 27.879 19.676-6.0547zm2.5879 0.56641v36.074l39.941-12.291zm-62.492 19.414 2.3164 57.893 34.732-10.279v-19.826zm106 8.873-43.508 13.391v18.875l38.762 27.016zm-46.096 14.188-17.512 5.3887v17.582l17.512-5.1816zm1.0644 20.172-18.576 5.498v45.648l57.559-23.979zm-23.92 7.0801-34.088 10.09 34.088 31.828z" fill="#ebdbb2" opacity=".6" stroke-width="1.2938"/>
+  <path d="m75 65.621 2.3171 57.893 34.732-10.279v-19.826zm37.049 50.313-34.088 10.09 34.088 31.829z" fill="#cc241d" stroke-width="1.2938"/>
+  <path d="m181 74.496-43.508 13.39v18.876l38.762 27.015zm-46.095 14.186-17.511 5.3898v17.582l17.511-5.1826zm1.0638 20.172-18.575 5.4985v45.648l57.557-23.978z" fill="#689d6a" stroke-width="1.2938"/>
+  <path d="m134.9 45.641-56.845 15.611 37.168 27.879 19.677-6.0544zm2.5875 0.56602v36.074l39.942-12.291z" fill="#458588" stroke-width="1.2938"/>
+  <path d="m134.9 45.641-56.844 15.611 4.8789 3.6602 51.965-14.271v-5zm2.5879 0.56641v5l34.406 20.486 5.5352-1.7031-39.941-23.783zm-62.492 19.414 0.20703 5.1543 36.842 27.635v-5l-37.049-27.789zm106 8.875-43.508 13.389v5l43.098-13.264 0.41016-5.125zm-46.096 14.186-17.512 5.3887c-8.4e-4 12.92 0.00195 27.009 0.00195 5l17.51-5.3887v-5z" fill="#282828" opacity=".2" stroke-width="1.2938"/>
+  <path d="m57 15c-9.9393 0-17 7.0595-17 17v192c0 9.9393 7.0595 17 17 17h142c9.9405 0 17-7.0607 17-17v-144l-65-65zm4.0332 4.9902 89.967 0.01 60 60 2e-4 139.75c1e-5 9.4999-6.6575 16.248-16.033 16.248h-133.93c-9.3757 0-16.033-6.7481-16.033-16.248v-183.51c0-9.501 6.6586-16.25 16.033-16.25z" fill="url(#linearGradient14-6)" style="paint-order:markers fill stroke"/>
+  <path d="m151 15.002v52.914c0 9.6525 7.8639 17.084 17.518 17.084l47.482-1.34e-4v-5z" fill="#282828" opacity=".2" stroke-width="1.0833"/>
+  <path d="m151 15.001v47.916c0 9.6525 7.8639 17.084 17.518 17.084l47.482-1.34e-4z" fill="url(#linearGradient7-6-0-5)" stroke-width="1.0833"/>
+</svg>
