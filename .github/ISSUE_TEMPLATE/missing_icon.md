@@ -5,6 +5,9 @@ title: 'Missing icon: '
 ---
 
 <!--
+Before You start please check first that the icon You are going to request is NOT included in the package.
+(It might be under different, but sometimes very similar name.)
+
 Please give as much information as You can:
 
 1. If it's a program, please provide name and link to the website or repository page.
@@ -27,8 +30,4 @@ Issue should be only for one app. If You found more missing icons please open an
 
 <!--
 Content of the .desktop file (located in `.local/share/applications` or `/usr/share/applications` folder).
--->
-
-<!--
-Additionally, you can run xprop in a terminal, then click on the application window, and copy-paste the output here.
 -->
