@@ -44,7 +44,7 @@
 Name=Gruvbox Plus Light
 Comment=Icon pack with gruvbox colors for light themes
 
-Inherits=Gruvbox-Plus-Dark, breeze, hicolor
+Inherits=Gruvbox-Plus-Dark,breeze,hicolor
 
 Example=folder
 
