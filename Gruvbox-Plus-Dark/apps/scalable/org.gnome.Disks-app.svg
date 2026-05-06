@@ -9,7 +9,7 @@
       <stop stop-color="#bdae93" stop-opacity=".1" offset=".1"/>
       <stop stop-color="#d5c4a1" stop-opacity="0" offset=".7022"/>
       <stop stop-color="#bdae93" stop-opacity=".302" offset=".9"/>
-      <stop stop-color="#282828" stop-opacity=".3" offset="1"/>
+      <stop stop-color="#282828" stop-opacity=".15" offset="1"/>
     </linearGradient>
     <linearGradient id="_lgradient_26-3" x1=".5" x2=".5" y2="1" gradientTransform="matrix(168,0,0,168,45,41.936)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#665c54" offset="0"/>
