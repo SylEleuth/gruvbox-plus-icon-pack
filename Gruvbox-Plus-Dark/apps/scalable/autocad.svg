@@ -1,7 +1,7 @@
 <svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
     <stop stop-color="#ebdbb2" offset="0"/>
-    <stop stop-color="#ebdbb2" offset="1"/>
+    <stop stop-color="#d5c4a1" offset="1"/>
   </linearGradient>
   <defs>
     <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12)" gradientUnits="userSpaceOnUse">
@@ -13,9 +13,9 @@
     </linearGradient>
   </defs>
   <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
-  <path d="m198 84h11v123s-90.463-0.0401-135.8 0c-10.149-0.0377-10.226-6.5714-10.197-7.8602-0.01238-4.8498-0.0081-14.837-0.0081-14.837l10.008-6.3032h125z" fill="#282828" opacity=".15" stroke-width="1.0852" style="isolation:isolate"/>
+  <path d="m198 84h11v123s-90.463-0.0401-135.8 0c-10.149-0.0377-10.226-6.5714-10.197-7.8602-0.01238-4.8498-0.0081-14.837-0.0081-14.837l10.008-6.3032h125z" fill="#ebdbb2" opacity=".6" stroke-width="1.0852" style="isolation:isolate"/>
   <path d="m198 79h11v123s-90.463-0.0401-135.8 0c-10.149-0.0377-10.226-6.5714-10.197-7.8602-0.01238-4.8498-0.0081-14.837-0.0081-14.837l10.008-6.3032h125z" fill="#9d0006" stroke-width="1.0852" style="isolation:isolate"/>
-  <path d="m198 79v5h11v-5z" fill="#ebdbb2" opacity=".2" stroke-width="1.0852" style="isolation:isolate"/>
+  <path d="m198 79v5h11v-5z" fill="#282828" opacity=".3" stroke-width="1.0852" style="isolation:isolate"/>
   <path d="m73 55v0.20312l-26.367 17.172v2e-3l0.052735 122.2 26.314-16.572h125v-115.58c0-4.4229-3.9995-7.4238-8.334-7.4238z" fill="#282828" opacity=".2" stroke-width="1.0852" style="isolation:isolate"/>
   <path d="m46.633 67.375 26.492-17.254-0.1252 122.88-26.314 16.573-0.05361-122.2z" fill="#fb4934" stroke-width="1.0852" style="isolation:isolate"/>
   <path d="m189.67 50c4.3345 0 8.3345 3 8.3345 7.4229v115.58h-125v-123" fill="#cc241d" stroke-width="1.0852" style="isolation:isolate"/>
