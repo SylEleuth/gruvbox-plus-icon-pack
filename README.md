@@ -1,50 +1,104 @@
 <!-- ![gruvbox_plus_logo8i](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/a8bdd956-c198-4d7c-abdc-60c22e6c3639) -->
 
-<!-- <br /> -->
-
 <img align="right" src="https://github.com/user-attachments/assets/51b8b510-5e6e-49ac-a952-e3d9e0f49342">
 
-**Gruvbox Plus** is the icon pack for Linux, based on and inspired by:
+<br />
 
-* [Suru++](https://github.com/gusbemacbe/suru-plus)
-* [OneDark](https://github.com/adhec/one-dark-icons)
-* [Gruvbox icon pack](https://store.kde.org/p/1327720/)
-* [GruvboxMateria](https://github.com/FilipeMCruz/dotfiles/tree/master/current/icons/.local/share/icons/MateriaGruvbox)
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-* and original Breeze Dark from KDE.
+<p align="center">
+  <img alt="apps" src="https://img.shields.io/badge/7.7k-apps_count?style=flat-square&label=apps%20icons&labelColor=%23504945&color=%23458588"/>
+  <img alt="actions" src="https://img.shields.io/badge/3.3k-actions_count?style=flat-square&label=actions%20icons&labelColor=%23504945&color=%23689d6a"/>
+  <img alt="panel" src="https://img.shields.io/badge/2.9k-panel_count?style=flat-square&label=panel%20icons&labelColor=%23504945&color=%23d79921"/>
+  <img alt="places" src="https://img.shields.io/badge/3.5k-places_count?style=flat-square&label=places%20icons&labelColor=%23504945&color=%23b16286"/>
+  <img alt="mimetypes" src="https://img.shields.io/badge/2.2k-mimetypes_count?style=flat-square&label=mimetypes%20icons&labelColor=%23504945&color=%23fe8019"/>
+</p>
+
+<br />
+
+**Gruvbox Plus** is the icon pack for Linux, based on and inspired by [Suru++](https://github.com/gusbemacbe/suru-plus), [OneDark](https://github.com/adhec/one-dark-icons), [Gruvbox icon pack](https://store.kde.org/p/1327720/), [GruvboxMateria](https://github.com/FilipeMCruz/dotfiles/tree/master/current/icons/.local/share/icons/MateriaGruvbox), [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), and original Breeze Dark from KDE.
 
 **Gruvbox Plus** is using color scheme from [Gruvbox](https://github.com/morhetz/gruvbox).
 
 <!-- <details><summary><b>Showcase:</b></summary> -->
 <!-- </details> -->
 
-Download
+<br />
+
+Contents
 --------
 
-You can download Icon pack from different sources:
+ - [Previews](#previews)
+ - [Installation](#installation)
+    - [Repositories](#repositories)
+        - [Arch Linux](#arch-linux)
+        - [NixOS](#nixos)
+        - [Store](#store)
+    - [Manual Installation](#manual-installation)
+ - [Color Variants](#color-variants)
+ - [Folder's Color](#folder%E2%80%99s-color)
+    - [Script's Usage](#script%E2%80%99s-usage)
+ - [Contribution](#contribution)
+ - [Support](#support)
+ - [License](#license)
 
-1. Go to the [releases page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases) and choose the zip file from the latest version.
 
-2. Download the icon pack from Your system's icon manager settings. For example in KDE, open System Settings -> Colors & Themes -> Icons and click "Get New..." where You can search for Gruvbox Plus.
+Previews
+--------
 
-3. Download latest package from [Pling](https://www.pling.com/p/1961046/) or [KDE Store](https://store.kde.org/p/1961046)
+#### Apps:
 
-4. If You want the latest icons You have to clone the whole repository:
+![preview-apps](https://github.com/user-attachments/assets/5e9114ab-92ba-4ab4-83b2-125022d5796b)
 
-    ``` git clone https://github.com/SylEleuth/gruvbox-plus-icon-pack.git ```
+#### Mimetypes:
+
+![preview-miemetypes](https://github.com/user-attachments/assets/d0d9a841-5541-4fad-a64c-411f0cc9540e)
 
 Installation
 ------------
 
-If You downloaded the zip file from [releases page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases).
+#### Repositories
 
-Unpack it and copy content of the folder to Your home/.local/share/icons/ directory.
+##### Arch Linux
 
-``` cp -rv Gruvbox-Plus-Dark ~/.local/share/icons ```
+You can install Gruvbox Plus from AUR repository (maintained by [Diaoul](https://github.com/Diaoul)).
 
-or soft link git repository:
+Release version - https://aur.archlinux.org/packages/gruvbox-plus-icon-theme
+
+``` yay -S gruvbox-plus-icon-theme ```
+
+Git version - https://aur.archlinux.org/packages/gruvbox-plus-icon-theme-git
+
+``` yay -S gruvbox-plus-icon-theme-git ```
+
+##### NixOS
+
+Git version (maintained by [Eureka-cpu](https://github.com/eureka-cpu) and [Gliczy](https://github.com/Gliczy))
+
+``` nix-env -iA nixos.gruvbox-plus-icons ```
+
+> [!NOTE]
+> Icon pack lacks of linux repositories maintainers. If You want to become one please create a new issue or make a pull request.
+
+##### Store
+
+Icons are available on [OpenDesktop](https://www.opendesktop.org/p/1961046/) store. You can manually download the archive from there or install it directly from Your system's icon manager settings. For example in KDE, open *System Settings* -> *Colors & Themes* -> *Icons* and click *"Get New..."* where You can search for Gruvbox Plus icons.
+
+#### Manual installation
+
+Go to the [releases page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases) and choose the zip file from the latest version.
+
+Unpack the archive and copy the content to the *.local/share/icons* directory.
+
+``` cp -rv Gruvbox-Plus-Dark Gruvbox-Plus-Light ~/.local/share/icons ```
+
+If You want the latest icons, You would have to clone the whole repository:
+
+``` git clone https://github.com/SylEleuth/gruvbox-plus-icon-pack.git ```
+
+and copy or soft link folders:
 
 ``` ln -s path/to/repository/Gruvbox-Plus-Dark ~/.local/share/icons/Gruvbox-Plus-Dark ```
+
+``` ln -s path/to/repository/Gruvbox-Plus-Light ~/.local/share/icons/Gruvbox-Plus-Light ```
 
 You could then just use
 
@@ -52,12 +106,6 @@ You could then just use
 
 to download files added since the latest pull.
 
-<!-- #### Arch User Repository -->
-<!-- There are [AUR](https://aur.archlinux.org/) packages, maintained by [Diaoul](https://github.com/Diaoul). -->
-
-<!-- ``` yay -S gruvbox-plus-icon-theme ``` - release version -->
-
-<!-- ``` yay -S gruvbox-plus-icon-theme-git ``` - git version -->
 
 Color variants
 --------------
@@ -66,8 +114,7 @@ There are two available variants:
 - Gruvbox Dark - light symbolic icons for dark themes
 - Gruvbox Light - dark symbolic icons for light themes
 
-If You are KDE Plasma user You can safely use `Gruvbox Dark` variant. Monochrome (symbolic) icons
-will change automatically depending on the color scheme.
+If You are KDE Plasma user You can safely use `Gruvbox Dark` variant. Monochrome (symbolic) icons will change automatically depending on the color scheme.
 
 Folder's color
 --------------
@@ -109,9 +156,7 @@ Options:
   -l, --list            list available colors
 ```
 
-If You don't want to use the script, there is a folder called `folders` where You will find
-all color sets grouped separately. Just replace `places/scalable` directory with any chosen
-color.
+If You don't want to use the script, there is a folder called `folders` where You will find all color sets grouped separately. Just replace `places/scalable` directory with any chosen color.
 
 Contribution
 ------------
@@ -126,11 +171,6 @@ If You want to create new icons Yourself or modify existing ones please read how
 
 If You have any questions, suggestions or propositions please use [Discussions page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/discussions).
 
-##### WANTED!!!
-
-Icon pack lacks of linux repositories maintainers. Any repository. So if You are willing
-to step up to the task Your service will be much appreciated.
-
 Support
 -------
 
@@ -138,13 +178,6 @@ If You downloaded the icon pack or if You just liked it please star the reposito
 
 License
 -------
+Gruvbox Plus icon theme is a free and open source project distributed under the terms of the GNU General Public License, version 3. See the [`LICENSE`](LICENSE) file for details.
 
-* GPL3 © 2021-2024 [Gruvbox Plus](https://github.com/SylEleuth/gruvbox-plus-icon-pack) by [Sylwia Ptasinska](https://github.com/SylEleuth).
-* CC BY-SA/GPL3 © 2018-2019 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](https://github.com/snwh).
-* GPL3 © 2018-2019 [Suru++ Ubuntu](https://github.com/Bonandry/suru-plus) by [Andrea Bonanni](https://github.com/Bonandry) and Gustavo Costa.
-* GPL3 © 2018-2019 Suru++ 25 by Gustavo Costa.
-* GPL3 © [Tela](https://github.com/vinceliuice/Tela-icon-theme) by [Vince Liuice](https://github.com/vinceliuice)
-* GPL3 © [Papirus](https://github.com/PapirusDevelopmentTeam/) by [Alexey Varfolomeev](https://github.com/varlesh).
-* GPL3 © [Numix](https://github.com/numixproject/numix-icon-theme) by Numix Team.
-* GPL3/MIT © 2015-2019 [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) by [Keefer Rourke](https://github.com/keeferrourke).
-* GPL3 © [One Dark](https://github.com/adhec/one-dark-icons) by [Adhe](https://github.com/adhec)
+You can find additional licenses [here]().
