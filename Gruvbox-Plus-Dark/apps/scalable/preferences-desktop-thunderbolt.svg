@@ -1,22 +1,20 @@
-<svg width="256" height="256" style="isolation:isolate" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="b-5" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12.12)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#83a598" offset="0"/>
-      <stop stop-color="#458588" offset="1"/>
+    <linearGradient id="linearGradient10" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity="0" offset=".24921"/>
+      <stop stop-color="#1d2021" stop-opacity=".05" offset=".50485"/>
+      <stop stop-color="#1d2021" stop-opacity=".15" offset=".75285"/>
+      <stop stop-color="#1d2021" stop-opacity=".25" offset="1"/>
     </linearGradient>
-    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ebdbb2" offset="0"/>
-      <stop stop-color="#ebdbb2" stop-opacity=".09804" offset=".1"/>
-      <stop stop-color="#282828" stop-opacity=".1" offset=".9"/>
-      <stop stop-color="#282828" stop-opacity=".4" offset="1"/>
+    <linearGradient id="linearGradient15" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#458588" offset="0"/>
+      <stop stop-color="#076678" offset="1"/>
     </linearGradient>
   </defs>
-  <g transform="translate(9.09e-6 -.12)" filter="url(#a-3)" style="isolation:isolate">
-    <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b-5)"/>
-  </g>
-  <g transform="translate(9.09e-6 -.12)" opacity=".5" style="isolation:isolate">
-    <path transform="translate(-.004996 .116)" d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
-  </g>
-  <path d="m126.7 114.2h33.5l-39.35 56.62 15.17 1.579-37.96 32.46 17.82-9.398c2.885 0.345 9.162 0.58 12.13 0.58 16.85-2e-3 33.02-6.699 44.93-18.62 11.92-11.92 18.61-28.08 18.61-44.94-0.145-22.39-11.61-45.42-36.31-57.42l1.451-15.2zm-62.16 18.28c-0.038 23.01 12.4 44.24 32.48 55.46l2.894-33.75 9.162 10.94 16.38-32.79h-33.7l28.67-62.9c-31.9 3.851-55.89 30.92-55.88 63.05" fill="#282828" opacity=".3" style="isolation:isolate"/>
-  <path d="m126.7 105.5h33.5l-39.35 56.62 15.17 1.579-37.96 32.46 17.82-9.398c2.885 0.345 9.162 0.58 12.13 0.58 16.85-2e-3 33.02-6.699 44.93-18.62 11.92-11.92 18.61-28.08 18.61-44.94-0.145-22.39-11.61-45.42-36.31-57.42l1.451-15.2zm-62.16 18.28c-0.038 23.01 12.4 44.24 32.48 55.46l2.894-33.75 9.162 10.94 16.38-32.79h-33.7l28.67-62.9c-31.9 3.851-55.89 30.92-55.88 63.05" fill="#ebdbb2" style="isolation:isolate"/>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient15)" style="isolation:isolate"/>
+  <path d="m127.37 40-38.198 91.5h37.841l-21.92 42.81-10.873-12.973-5.2145 61.663 48.024-40.083-17.989-1.8702 46.677-70.342h-39.735l41.019-70.705z" fill="#282828" opacity=".3" stroke-width="4.1591"/>
+  <path d="m127.37 35-38.198 91.5h37.841l-21.92 42.81-10.873-12.973-5.2145 61.663 48.024-40.083-17.989-1.8702 46.677-70.342h-39.735l41.019-70.705z" fill="#ebdbb2" stroke-width="4.1591"/>
+  <path d="m127.37 35-38.199 91.5h2.0879l36.111-86.5h36.73l2.9004-5zm1.5117 70.705-2.9004 5h36.418l3.3184-5zm-4.4297 25.795-19.359 37.811-10.873-12.973-5.2148 61.662 0.45508-0.37891 4.7598-56.283 10.873 12.973 21.92-42.811zm-2.3086 44.869-3.1035 4.6777 12.66 1.3164 5.3281-4.4473z" fill="#fbf1c7" opacity=".6" stroke-width="4.1591"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 5h74c35.653 0 55.307 3.9448 65.895 14.965 10.588 11.02 14.105 31.336 14.105 67.035v56c0 34.69-3.4936 54.457-14.07 65.25-10.577 10.793-30.277 14.75-65.93 14.75h-74c-35.653 0-55.353-3.9574-65.93-14.75-10.577-10.793-14.07-30.56-14.07-65.25v-56c0-35.699 3.5176-56.015 14.105-67.035 10.588-11.02 30.242-14.965 65.895-14.965z" fill="url(#linearGradient10)" style="isolation:isolate"/>
 </svg>
