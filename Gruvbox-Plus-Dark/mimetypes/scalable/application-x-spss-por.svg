@@ -1,4 +1,4 @@
-<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="linearGradient7-6-0" x1="186" x2="156" y1="45.006" y2="75.012" gradientTransform="matrix(1.0833 0 0 1.0833 -17.998 -1.2506)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fb4934" offset="0"/>
@@ -25,8 +25,8 @@
   <path d="m70 48v60h60v-60zm75 50v10h41v-10zm-75 20v10h116v-10zm0 20v10h116v-10zm0 20v10h116v-10z" fill="#282828" opacity=".15" style="paint-order:markers fill stroke"/>
   <path d="m70 45v60h60v-60zm75 50v10h41v-10zm-75 20v10h116v-10zm0 20v10h116v-10zm0 20v10h116v-10z" fill="#fb4934" style="paint-order:markers fill stroke"/>
   <path d="m70 45v3h60v-3zm75 50v3h41v-3zm-75 20v3h116v-3zm0 20v3h116v-3zm0 20v3h116v-3z" fill="#ebdbb2" opacity=".2" style="paint-order:markers fill stroke"/>
-  <path d="m115 54c-5.5228 0-10 4.4772-10 10s4.4772 10 10 10 10-4.4772 10-10-4.4772-10-10-10zm-24 16-16 30h50l-13-20-7 10z" fill="#ebdbb2" opacity=".2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers fill stroke"/>
-  <path d="m115 52c-5.5228 0-10 4.4772-10 10s4.4772 10 10 10 10-4.4772 10-10-4.4772-10-10-10zm-24 16-16 30h50l-13-20-7 10z" fill="#9d0006" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+  <path d="m115 54c-5.5228 0-10 4.4772-10 10s4.4772 10 10 10 10-4.4772 10-10-4.4772-10-10-10zm-24 16-16 30h50l-13-20-7 10z" fill="#ebdbb2" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers fill stroke"/>
+  <path d="m115 52c-5.5228 0-10 4.4772-10 10s4.4772 10 10 10 10-4.4772 10-10-4.4772-10-10-10zm-24 16-16 30h50l-13-20-7 10z" fill="#cc241d" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers fill stroke"/>
   <path d="m115 52c-5.5228 0-10 4.4772-10 10 0 0.3379 0.0161 0.67071 0.0488 1 0.50227-5.0528 4.7662-9 9.9512-9s9.4489 3.9472 9.9512 9c0.0328-0.32929 0.0489-0.6621 0.0489-1 0-5.5228-4.4772-10-10-10zm-24 16-16 30h1.0664l14.934-28 14 20 7-10 11.699 18h1.3008l-13-20-7 10z" fill="#282828" opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers fill stroke"/>
   <path d="m57 15c-9.9393 0-17 7.0595-17 17v192c0 9.9393 7.0595 17 17 17h142c9.9405 0 17-7.0607 17-17v-144l-65-64.998zm4.0332 4.9902 89.967 2e-3 60 60.009v139.75c0 9.4999-6.6575 16.248-16.033 16.248h-133.93c-9.3757 0-16.033-6.7481-16.033-16.248v-183.51c0-9.501 6.6586-16.25 16.033-16.25z" fill="url(#linearGradient14-5)" style="paint-order:markers fill stroke"/>
   <path d="m151 15.002v52.914c0 9.6525 7.8639 17.084 17.518 17.084l47.482-1.34e-4v-5z" fill="#282828" opacity=".3" stroke-width="1.0833"/>
