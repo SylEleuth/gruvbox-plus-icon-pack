@@ -1,5 +1,3 @@
-<!-- ![gruvbox_plus_logo8i](https://github.com/SylEleuth/gruvbox-plus-icon-pack/assets/33354262/a8bdd956-c198-4d7c-abdc-60c22e6c3639) -->
-
 <img align="right" src="https://github.com/user-attachments/assets/51b8b510-5e6e-49ac-a952-e3d9e0f49342">
 
 <br />
@@ -9,7 +7,7 @@
   <img alt="actions" src="https://img.shields.io/badge/3.3k-actions_count?style=flat-square&label=actions%20icons&labelColor=%23504945&color=%23689d6a"/>
   <img alt="panel" src="https://img.shields.io/badge/2.9k-panel_count?style=flat-square&label=panel%20icons&labelColor=%23504945&color=%23d79921"/>
   <img alt="places" src="https://img.shields.io/badge/3.5k-places_count?style=flat-square&label=places%20icons&labelColor=%23504945&color=%23b16286"/>
-  <img alt="mimetypes" src="https://img.shields.io/badge/2.2k-mimetypes_count?style=flat-square&label=mimetypes%20icons&labelColor=%23504945&color=%23fe8019"/>
+  <img alt="mimetypes" src="https://img.shields.io/badge/2.2k-mimetypes_count?style=flat-square&label=mimetypes&labelColor=%23504945&color=%23fe8019"/>
 </p>
 
 <br />
@@ -17,9 +15,6 @@
 **Gruvbox Plus** is the icon pack for Linux, based on and inspired by [Suru++](https://github.com/gusbemacbe/suru-plus), [OneDark](https://github.com/adhec/one-dark-icons), [Gruvbox icon pack](https://store.kde.org/p/1327720/), [GruvboxMateria](https://github.com/FilipeMCruz/dotfiles/tree/master/current/icons/.local/share/icons/MateriaGruvbox), [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), and original Breeze Dark from KDE.
 
 **Gruvbox Plus** is using color scheme from [Gruvbox](https://github.com/morhetz/gruvbox).
-
-<!-- <details><summary><b>Showcase:</b></summary> -->
-<!-- </details> -->
 
 <br />
 
@@ -46,11 +41,11 @@ Previews
 
 #### Apps:
 
-![preview-apps](https://github.com/user-attachments/assets/5e9114ab-92ba-4ab4-83b2-125022d5796b)
+![preview-apps](https://github.com/user-attachments/assets/3632a44b-241f-4672-b412-11d0addecae9)
 
 #### Mimetypes:
 
-![preview-miemetypes](https://github.com/user-attachments/assets/d0d9a841-5541-4fad-a64c-411f0cc9540e)
+![preview-miemetypes](https://github.com/user-attachments/assets/9176a373-7e9d-4314-8453-4c9c97352b9c)
 
 Installation
 ------------
@@ -121,9 +116,8 @@ Folder's color
 
 There are 24 colors that You can choose from:
 
-![folders](https://github.com/user-attachments/assets/962cc3d0-cf1b-45cd-8d9a-60b44c01fd00)
-
-![plasma](https://github.com/user-attachments/assets/ba2b2fd0-54b2-4561-bca3-6c9cf6c02241)
+![folders](https://github.com/user-attachments/assets/2a80368d-56e8-48b4-aeb4-67230fda428b)
+![plasma](https://github.com/user-attachments/assets/aeb31474-725e-47b3-8218-2029643f4151)
 
 **Plasma** is a a special variant for KDE Plasma users. You can change color straight from System Settings: Colors & Themes -> Colors.
 
