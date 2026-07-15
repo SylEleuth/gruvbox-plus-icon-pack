@@ -1,21 +1,24 @@
-<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(0 -.1185)" filter="url(#a)">
-    <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12.12)" gradientUnits="userSpaceOnUse">
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
       <stop stop-color="#504945" offset="0"/>
       <stop stop-color="#3c3836" offset="1"/>
     </linearGradient>
-    <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)"/>
-  </g>
-  <defs>
-    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12.12)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#928374" offset="0"/>
-      <stop stop-color="#928374" stop-opacity=".09804" offset=".1"/>
-      <stop stop-opacity=".09804" offset=".9"/>
-      <stop stop-opacity=".498" offset="1"/>
+    <linearGradient id="linearGradient10" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity="0" offset=".24728"/>
+      <stop stop-color="#1d2021" stop-opacity=".05" offset=".50485"/>
+      <stop stop-color="#1d2021" stop-opacity=".3961" offset=".75316"/>
+      <stop stop-color="#1d2021" stop-opacity=".6039" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient15" x1="99.901" x2="99.901" y1="49" y2="214" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".6" offset="0"/>
+      <stop stop-color="#ebdbb2" offset="1"/>
     </linearGradient>
   </defs>
-  <g transform="translate(.0005039 -.1185)" opacity=".5">
-    <path d="m91 12.12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
-  </g>
-  <path d="m128 45.5c-45.56 0-82.5 36.94-82.5 82.5s36.94 82.5 82.5 82.5 82.5-36.94 82.5-82.5-36.94-82.5-82.5-82.5zm0 49.5c18.23 0 33 14.77 33 33s-14.77 33-33 33-33-14.77-33-33 14.77-33 33-33z" fill="#282828" stroke-width="1.138" style="isolation:isolate"/>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <path d="m128 49c-45.56 0-82.5 36.94-82.5 82.5s36.94 82.5 82.5 82.5 82.5-36.94 82.5-82.5-36.94-82.5-82.5-82.5zm0 49.5c18.23 0 33 14.77 33 33s-14.77 33-33 33-33-14.77-33-33 14.77-33 33-33z" fill="url(#linearGradient15)" opacity=".05" stroke-width="1.138" style="isolation:isolate"/>
+  <path d="m128 44c-45.56 0-82.5 36.94-82.5 82.5s36.94 82.5 82.5 82.5 82.5-36.94 82.5-82.5-36.94-82.5-82.5-82.5zm0 49.5c18.23 0 33 14.77 33 33s-14.77 33-33 33-33-14.77-33-33 14.77-33 33-33z" fill="#1d2021" stroke-width="1.138" style="isolation:isolate"/>
+  <path d="m128 44c-45.56 0-82.5 36.94-82.5 82.5 0 0.8363 0.01239 1.6697 0.03711 2.5 1.3219-44.404 37.739-80 82.463-80 44.724 0 81.141 35.596 82.463 80 0.0247-0.83031 0.0371-1.6637 0.0371-2.5 1e-5 -45.56-36.94-82.5-82.5-82.5zm-32.906 85c-0.0618 0.82523-0.0937 1.6589-0.0937 2.5 0 18.23 14.77 33 33 33s33-14.77 33-33c0-0.84107-0.032-1.6748-0.0937-2.5-1.277 17.061-15.517 30.5-32.906 30.5s-31.629-13.439-32.906-30.5z" opacity=".5" style="isolation:isolate"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 5h74c35.653 0 55.307 3.9448 65.895 14.965 10.588 11.02 14.105 31.336 14.105 67.035v56c0 34.69-3.4936 54.457-14.07 65.25-10.577 10.793-30.277 14.75-65.93 14.75h-74c-35.653 0-55.353-3.9574-65.93-14.75-10.577-10.793-14.07-30.56-14.07-65.25v-56c0-35.699 3.5176-56.015 14.105-67.035 10.588-11.02 30.242-14.965 65.895-14.965z" fill="url(#linearGradient10)" style="isolation:isolate"/>
 </svg>
