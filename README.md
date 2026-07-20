@@ -174,4 +174,4 @@ License
 -------
 Gruvbox Plus icon theme is a free and open source project distributed under the terms of the GNU General Public License, version 3. See the [`LICENSE`](LICENSE) file for details.
 
-You can find additional licenses [here]().
+You can find additional licenses [here](https://github.com/SylEleuth/gruvbox-plus-icon-pack/blob/master/Licenses).
