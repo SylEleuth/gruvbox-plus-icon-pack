@@ -1,1 +1,6 @@
-scanner.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m2 1c-0.554 0-1 0.446-1 1v1h14v-1c0-0.554-0.446-1-1-1zm0 3c-0.554 0-1 0.446-1 1v9c0 0.554 0.446 1 1 1h7v-3h-2v-7h6v4h2v-4c0-0.554-0.446-1-1-1zm1 1h3v7h-3zm7 5v5h5v-5h-4zm1 1h1v1h1v-1h1v2h-1v1h-1v-1h-1v-1zm-8.5 2h1c0.66667 0 0.66667 1 0 1h-1c-0.66667 0-0.66667-1 0-1z" fill="currentColor"/>
+</svg>
