@@ -156,12 +156,11 @@ Contribution
 ------------
 
 If You'll find a missing icon please open a new issue and give as much information as You can:
-1. If it's a program, please provide name and link to the website or repository page.
+1. If it's a program, please provide a name and a link to the repository page (or webpage if repo doesn't exist).
 2. If You can, find a link to the original svg icon.
-3. Link to .desktop file (located in .local/share/applications or /usr/share/applications folder) and output of the xprop.
+3. Link to .desktop file (located in .local/share/applications or /usr/share/applications folder).
 
-If You want to create new icons Yourself or modify existing ones please read how to do that
-[HERE](https://github.com/SylEleuth/gruvbox-plus-icon-pack/tree/master/templates).
+If You want to create new icons Yourself or modify existing ones please read [THIS](https://github.com/SylEleuth/gruvbox-plus-icon-pack/wiki/How-to-create-icons).
 
 If You have any questions, suggestions or propositions please use [Discussions page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/discussions).
 
