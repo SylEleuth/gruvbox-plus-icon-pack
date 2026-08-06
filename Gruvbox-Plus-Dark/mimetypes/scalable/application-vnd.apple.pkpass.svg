@@ -17,7 +17,7 @@
       <stop stop-color="#282828" stop-opacity=".2" offset="1"/>
     </linearGradient>
   </defs>
-  <path d="m57 15c-9.9393 0-17 7.0595-17 17v149h176v-101l-64.998-64.998-94.002-0.001953z" fill="url(#linearGradient21)" style="paint-order:markers fill stroke"/>
+  <path d="m57 15c-9.9393 0-17 7.0595-17 17v143h176v-95l-64.998-64.998-94.002-0.001953z" fill="url(#linearGradient21)" style="paint-order:markers fill stroke"/>
   <rect x="60" y="95" width="136" height="50" ry="15" fill="#458588" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="2.294" style="paint-order:markers fill stroke"/>
   <rect x="60" y="110" width="136" height="50" ry="15" fill="#282828" opacity=".15" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="2.294" style="paint-order:markers fill stroke"/>
   <rect x="60" y="115" width="136" height="50" ry="15" fill="#fabd2f" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="2.294" style="paint-order:markers fill stroke"/>
