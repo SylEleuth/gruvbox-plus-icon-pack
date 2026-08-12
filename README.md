@@ -70,6 +70,17 @@ Git version (maintained by [Eureka-cpu](https://github.com/eureka-cpu) and [Glic
 
 ``` nix-env -iA nixos.gruvbox-plus-icons ```
 
+##### OpenSUSE
+
+Release version - https://build.opensuse.org/package/show/home:CouldBeMathijs/gruvbox-plus-icon-theme
+(maintained by [MogelijksMathijs](https://github.com/CouldBeMathijs))
+
+```
+zypper addrepo https://download.opensuse.org/repositories/home:CouldBeMathijs/openSUSE_Tumbleweed/home:CouldBeMathijs.repo
+zypper refresh
+zypper install gruvbox-plus-icon-theme
+```
+
 > [!NOTE]
 > Icon pack lacks of linux repositories maintainers. If You want to become one please create a new issue or make a pull request.
 
