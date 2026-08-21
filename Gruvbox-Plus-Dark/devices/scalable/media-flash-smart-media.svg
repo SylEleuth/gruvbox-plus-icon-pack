@@ -1,49 +1,40 @@
-<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g transform="translate(0 -.1185)" filter="url(#a)">
-    <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12.12)" gradientUnits="userSpaceOnUse">
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient10" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity="0" offset=".24921"/>
+      <stop stop-color="#1d2021" stop-opacity=".05" offset=".50485"/>
+      <stop stop-color="#1d2021" stop-opacity=".15" offset=".75285"/>
+      <stop stop-color="#1d2021" stop-opacity=".25" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient15" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
       <stop stop-color="#83a598" offset="0"/>
       <stop stop-color="#458588" offset="1"/>
     </linearGradient>
-    <path d="m165 12.12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)"/>
-  </g>
-  <defs>
-    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12.12)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#d5c4a1" offset="0"/>
-      <stop stop-color="#d5c4a1" stop-opacity=".09804" offset=".1"/>
-      <stop stop-color="#282828" stop-opacity=".1" offset=".9"/>
-      <stop stop-color="#282828" stop-opacity=".4" offset="1"/>
+    <linearGradient id="_lgradient_107" x2="0" y2="1" gradientTransform="matrix(126.25 0 0 156.32 64.856 49.834)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#665c54" offset="0"/>
+      <stop stop-color="#3c3836" offset="1"/>
     </linearGradient>
-    <linearGradient id="a">
-      <stop stop-color="#3c3836" offset="0"/>
-      <stop stop-color="#504945" offset="1"/>
-    </linearGradient>
-    <linearGradient id="_lgradient_106" x2="0" y2="1" gradientTransform="matrix(8.365,0,0,25.1,69.44,85.85)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="_lgradient_106" x2="0" y2="1" gradientTransform="matrix(9.0183 0 0 27.06 64.856 84.711)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fabd2f" offset="0"/>
       <stop stop-color="#fabd2f" offset=".5"/>
       <stop stop-color="#fabd2f" offset="1"/>
     </linearGradient>
-    <linearGradient id="_lgradient_107" x2="0" y2="1" gradientTransform="matrix(117.1,0,0,145,69.44,53.5)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#665c54" offset="0"/>
-      <stop stop-color="#3c3836" offset="1"/>
-    </linearGradient>
-    <linearGradient id="_lgradient_108" x2="0" y2="1" gradientTransform="matrix(99.69,0,0,105.8,78.76,75.91)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#ebdbb2" offset="0"/>
-      <stop stop-color="#d5c4a1" offset="1"/>
-    </linearGradient>
-    <linearGradient id="_lgradient_109" x2="0" y2="1" gradientTransform="matrix(99.68,0,0,23.35,78.77,75.88)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fb4934" offset="0"/>
-      <stop stop-color="#cc241d" offset="1"/>
-    </linearGradient>
+    <radialGradient id="radialGradient21" cx="128.65" cy="127.79" r="53.733" gradientTransform="matrix(1 0 0 1.1203 0 -15.369)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d5c4a1" offset="0"/>
+      <stop stop-color="#bdae93" offset="1"/>
+    </radialGradient>
   </defs>
-  <g transform="translate(.0005039 -.1185)" opacity=".5">
-    <path d="m91 12.12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" opacity="1"/>
-  </g>
-  <g transform="translate(-.009353 1.997)" style="isolation:isolate">
-    <path d="m72.23 85.85c-1.544 0-2.788 1.244-2.788 2.789v19.52c0 1.544 1.244 2.788 2.788 2.788h5.577v-25.1h-5.577z" fill="url(#_lgradient_106)"/>
-    <path d="m69.44 59.38v33.16h5.577v36.25h-4.217s-1.288-0.025-1.36 1.709v60.75c0.222 6.96 6.112 7.252 6.112 7.252h104.5s6.526 0.266 6.526-6.123v-77.01c-2e-3 -0.566-0.558-0.519-0.558-0.519h-2.23v-13.94h1.945s0.862 8e-3 0.843-0.859v-26.2c0.023-0.889-0.524-1.353-0.524-1.353l-18.59-18.59c-0.31-0.433-1.087-0.403-1.087-0.403h-91.36s-5.555 0.187-5.555 5.881z" fill="url(#_lgradient_107)"/>
-    <path d="m82.76 75.91h91.68c2.208 0 4 1.793 4 4v97.76c0 2.207-1.792 4-4 4h-91.68c-2.208 0-4-1.793-4-4v-97.76c0-2.207 1.792-4 4-4z" fill="url(#_lgradient_108)"/>
-    <path d="m82.38 75.88c-2 0-3.611 1.611-3.611 3.611v15.89c0 0.031 0.011 0.061 0.011 0.092h-0.011v3.758h99.68v-3.758h-0.012c1e-3 -0.031 0.012-0.061 0.012-0.092v-15.89c0-2-1.611-3.611-3.611-3.611h-92.46z" fill="url(#_lgradient_109)"/>
-    <path d="m171.5 93.31-4.052-11.16-4.052 11.16z" fill="#ebdbb2" fill-rule="evenodd"/>
-    <path d="m126.2 112.3h3.5c11.04 0 20 8.962 20 20v3.5c0 11.04-8.962 20-20 20h-3.5c-11.04 0-20-8.962-20-20v-3.5c0-11.04 8.962-20 20-20z" fill="#bdae93"/>
-  </g>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient15)" style="isolation:isolate"/>
+  <path d="m67.864 84.711c-1.6646 0-3.0058 1.3412-3.0058 3.0068v21.045c0 1.6646 1.3412 3.0058 3.0058 3.0058h6.0126v-27.06h-6.0126z" fill="url(#_lgradient_106)" stroke-width="1.0781" style="isolation:isolate"/>
+  <path d="m70.869 49.838s-5.9883 0.20308-5.9883 6.3418l-0.02539-0.0059v35.75h6.0137v39.08h-4.5469s-1.3892-0.0256-1.4668 1.8438v65.494c0.23934 7.5036 6.5898 7.8184 6.5898 7.8184h39.592l0.96289-3.4277h32l0.96289 3.4277h39.145s7.0352 0.28642 7.0352-6.6016v-83.023c-2e-3 -0.6102-0.60156-0.56055-0.60156-0.56055h-2.4043v-15.029h2.0977s0.92868 9e-3 0.9082-0.92578v-28.246c0.0248-0.95843-0.56446-1.459-0.56446-1.459l-20.041-20.041c-0.33421-0.46682-1.1738-0.43555-1.1738-0.43555z" fill="url(#_lgradient_107)" stroke-width="1.0781" style="isolation:isolate"/>
+  <path d="m79.226 71.52h98.84c2.3804 0 4.3124 1.933 4.3124 4.3124v107.84c0 2.3794-1.932 4.3124-4.3124 4.3124h-98.84c-2.3804 0-4.3124-1.933-4.3124-4.3124v-107.84c0-2.3794 1.932-4.3124 4.3124-4.3124z" fill="url(#radialGradient21)" stroke-width="1.0781" style="isolation:isolate"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 5h74c35.653 0 55.307 3.9448 65.895 14.965 10.588 11.02 14.105 31.336 14.105 67.035v56c0 34.69-3.4936 54.457-14.07 65.25-10.577 10.793-30.277 14.75-65.93 14.75h-74c-35.653 0-55.353-3.9574-65.93-14.75-10.577-10.793-14.07-30.56-14.07-65.25v-56c0-35.699 3.5176-56.015 14.105-67.035 10.588-11.02 30.242-14.965 65.895-14.965z" fill="url(#linearGradient10)" style="isolation:isolate"/>
+  <rect x="95.5" y="194" width="65" height="5" ry="2.5" fill="#ebdbb2" opacity=".1" stroke-linecap="square" stroke-width="1.5"/>
+  <rect x="95.5" y="193" width="65" height="5" ry="2.5" fill="#282828" stroke-linecap="square" stroke-width="1.5"/>
+  <path d="m98 193c-1.385 0-2.5 1.115-2.5 2.5 0 0.17133 0.0163 0.33853 0.04883 0.5 0.23041-1.1438 1.2375-2 2.4512-2h60c1.2137 0 2.2208 0.8562 2.4512 2 0.0325-0.16147 0.0488-0.32867 0.0488-0.5 0-1.385-1.115-2.5-2.5-2.5z" fill="#1d2021" stroke-linecap="square" stroke-width="1.5"/>
+  <rect x="78.562" y="137.1" width="98.875" height="46.646" ry="6.2344" fill="#ebdbb2" stroke-linecap="square" stroke-width="2.0532"/>
+  <path d="m78.563 160.35v17.162c0 3.4539 2.7805 6.2344 6.2344 6.2344h86.406c3.4539 0 6.2344-2.7805 6.2344-6.2344v-17.162z" fill="#fb4934" stroke-linecap="square" stroke-width="2.0532"/>
+  <rect x="86.617" y="155.79" width="82.767" height=".41661" fill="#282828" stroke-linecap="square" stroke-width=".86602"/>
+  <path d="m104.5 111.79c-3.0786 0-4.943 0.93221-7.1602 2.8633l2.3027 2.7246c2.3591-1.9202 3.7409-2.0508 4.5488-2.0508 0.83037 0 2.4434 0.27215 2.4434 2.3867 0 1.2032-0.42133 2.2112-1.7695 3.7637-2.3996 2.6497-4.9559 5.1522-7.4688 7.6934v2.9492h14.012v-3.5664h-8.7344v-0.19727c1.8885-1.7716 3.8183-3.4999 5.5898-5.3906 2.4414-2.6042 2.582-4.6919 2.582-5.7559 0-2.9276-2.3166-5.4199-6.3457-5.4199zm15.865 0.0273c-2.7488 0-6.4297 1.1748-6.4297 4.8027-0.0176 2.335 1.4298 3.7794 3.2285 5.0254-2.2911 1.1168-3.7025 2.8229-3.8477 5.3926 0 4.8774 5.0402 5.3633 7.0488 5.3633 4.2394 0 7.0195-2.2117 7.0195-5.4766-0.02-2.6164-2.1074-4.2028-4.2109-5.3906 2.1241-1.0154 3.3798-2.5466 3.5938-4.8867 0-3.5471-3.4349-4.8301-6.4023-4.8301zm-32.039 0.25391-6.459 5.1387 2.0488 2.5547c1.3116-1.0142 2.5974-2.051 3.7637-3.2285-0.21944 5.1908-0.11328 10.39-0.11328 15.584h4.2402v-20.049zm32.012 2.8359c1.2455 0 2.4434 0.6139 2.4434 2.0488-0.0493 1.5226-1.2008 2.1641-2.416 2.8086-1.3116-0.6158-2.2224-1.3567-2.4434-2.8086 0-1.628 1.432-2.0488 2.416-2.0488zm13.744 7.7871c-3.1331 0-4.791 1.8807-4.791 4.6992 0 4.0568 2.5678 4.7266 4.2637 4.7266 0.59064 0 1.7498-0.0144 3.2617-0.52734v-4.75h-3.6348v1.6172h1.7344v1.9141c-0.47145 0.0994-0.84195 0.1289-1.2324 0.1289-2.0145 0-2.3887-1.7616-2.3887-3.0703 0-1.974 1.1355-3.1211 2.7734-3.1211 0.38886 0 1.2336 0.0589 2.0938 0.50195l0.64258-1.5547c-1.133-0.50358-2.2505-0.56446-2.7227-0.56446zm4.8535 0.12891v9.168h3.4297c2.1059 0 3.377-0.9836 3.377-2.6582 0-1.3778-0.81539-1.9506-1.7852-2.1445v-0.0644c0.32273-0.071 1.5547-0.44498 1.5547-2.0156 0-1.7009-1.3619-2.2852-3.6094-2.2852zm-18.766 0.56445c2.0765 1.1164 3.0526 1.9566 3.2852 3.4258 0 2.2092-2.1354 2.4707-3.1465 2.4707-2.6188 0-3.0606-1.61-3.0606-2.5 0.0966-1.7679 1.4878-2.6362 2.9219-3.3965zm20.73 0.96289h1.0156c1.1918 0 1.5781 0.41632 1.5781 1.0274-0.1276 0.90829-0.65127 1.0256-1.4883 1.1172h-1.1055zm0 3.6211h1.1816c0.79921 0 1.6192 0.23649 1.6192 1.207-0.12329 0.98568-0.63987 1.1518-1.5547 1.2598h-1.2461z" fill="#fb4934" stroke-width=".70202" style="font-variant-ligatures:none"/>
 </svg>
