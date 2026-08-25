@@ -92,7 +92,7 @@ Icons are available on [OpenDesktop](https://www.opendesktop.org/p/1961046/) sto
 
 Go to the [releases page](https://github.com/SylEleuth/gruvbox-plus-icon-pack/releases) and choose the zip file from the latest version.
 
-Unpack the archive and copy the content to the *.local/share/icons* directory.
+Unpack the archive and copy the content to the `.local/share/icons` directory.
 
 ``` cp -rv Gruvbox-Plus-Dark Gruvbox-Plus-Light ~/.local/share/icons ```
 
@@ -169,7 +169,7 @@ Contribution
 If You'll find a missing icon please open a new issue and give as much information as You can:
 1. If it's a program, please provide a name and a link to the repository page (or webpage if repo doesn't exist).
 2. If You can, find a link to the original svg icon.
-3. Link to .desktop file (located in .local/share/applications or /usr/share/applications folder).
+3. Link to .desktop file (located in `.local/share/applications` or `usr/share/applications` folder).
 
 If You want to create new icons Yourself or modify existing ones please read [THIS](https://github.com/SylEleuth/gruvbox-plus-icon-pack/wiki/How-to-create-icons).
 
