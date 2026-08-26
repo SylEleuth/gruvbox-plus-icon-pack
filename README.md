@@ -43,7 +43,7 @@ Previews
 
 ![preview-apps](https://github.com/user-attachments/assets/3632a44b-241f-4672-b412-11d0addecae9)
 
-#### Mimetypes:
+#### Media types:
 
 ![preview-miemetypes](https://github.com/user-attachments/assets/9176a373-7e9d-4314-8453-4c9c97352b9c)
 
@@ -130,7 +130,7 @@ There are 24 colors that You can choose from:
 ![folders](https://github.com/user-attachments/assets/2a80368d-56e8-48b4-aeb4-67230fda428b)
 ![plasma](https://github.com/user-attachments/assets/aeb31474-725e-47b3-8218-2029643f4151)
 
-**Plasma** is a a special variant for KDE Plasma users. You can change color straight from System Settings: Colors & Themes -> Colors.
+**Plasma** is a a special variant for KDE Plasma users. You can change color straight from System Settings: *Colors & Themes -> Colors*.
 
 If You are using different Desktop Environment You can easily change the folder's color with special script
 (thanks to [akarzim](https://github.com/akarzim)). Script is located in the `scripts` folder
