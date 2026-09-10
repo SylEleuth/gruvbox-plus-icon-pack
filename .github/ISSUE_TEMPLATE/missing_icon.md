@@ -10,9 +10,11 @@ Before You start please check first that the icon You are going to request is NO
 
 Please give as much information as You can:
 
-1. If it's a program, please provide a name and a link to the repository page (or webpage if repo doesn't exist).
+1. If it's a program, please provide a name and a link to the repository page (Github or similar, webpage only if repo doesn't exist).
 2. If You can, find a link to the original svg icon.
 3. Content of the .desktop file (located in .local/share/applications or /usr/share/applications folder).
+
+ISSUES WITHOUT .DESKTOP FILE OUTPUT WILL BE IGNORED
 
 Issue should be only for one app. If You found more missing icons please open another issue.
 -->
