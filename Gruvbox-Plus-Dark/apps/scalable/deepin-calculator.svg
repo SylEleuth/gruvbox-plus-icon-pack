@@ -12,8 +12,8 @@
       <stop stop-opacity=".2" offset="1"/>
     </linearGradient>
     <linearGradient id="linearGradient11" x1="146.5" x2="146.5" y1="11.99" y2="240" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fb4934" offset="0"/>
-      <stop stop-color="#cc241d" offset="1"/>
+      <stop stop-color="#458588" offset="0"/>
+      <stop stop-color="#076678" offset="1"/>
     </linearGradient>
   </defs>
   <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b-3)" style="isolation:isolate"/>
@@ -26,4 +26,5 @@
   <path d="m79.01 172.6h20.97v15.1h-20.97v20.28h-15.1v-20.28h-20.97v-15.1h20.97v-20.63h15.1z" fill="#ebdbb2" stroke-width="1.2" aria-label="+"/>
   <path d="m162.3 100.2v15.1h57.04v-15.1zm0 31.1v15.1h57.04v-15.1z" fill="#ebdbb2" stroke-width="1.2"/>
   <path d="m99.98 64.37v15.1h-57.04v-15.1z" fill="#ebdbb2" stroke-width="1.2" aria-label="+"/>
+  <path d="m42.939 64.369v4.6016h57.039v-4.6016h-57.039zm119.36 35.83v4.6016h57.041v-4.6016h-57.041zm0 31.1v4.6016h57.041v-4.6016h-57.041zm-98.389 20.67v4.6016h15.1v-4.6016h-15.1zm-20.971 20.631v4.6016h20.971v-4.6016h-20.971zm36.07 0v4.6016h20.969v-4.6016h-20.969z" fill="#fbf1c7" opacity=".6"/>
 </svg>
