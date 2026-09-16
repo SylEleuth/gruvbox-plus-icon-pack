@@ -1,1 +1,6 @@
-kali-menu.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m1.001 1v4.2l3.5 2.1s-0.69979 0.7 0.7 2.1c5.5991 3.5 6.2986 5.6 6.2986 5.6l3.4993-2.8s-2.6247-0.7-4.3743-1.575c0 0 0.87489 0.17501 0.175-1.225 0 0-2.0994-3.5-2.7993-4.2-0.69989-0.7-1.7493 0.17501-1.7493 0.17501l-2.45-2.275v0.7zm2.1 0 3.4993 3.5h1.4l-3.4993-3.5zm5.5993 7 1.3993 2.1s-0.69942 0-1.3993-0.7c-0.69989-0.7 0-1.4 0-1.4z" fill="currentColor"/>
+</svg>
