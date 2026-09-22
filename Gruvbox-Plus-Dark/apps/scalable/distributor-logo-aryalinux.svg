@@ -1,0 +1,21 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#665c54" offset="0"/>
+      <stop stop-color="#504945" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient10" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity="0" offset=".24728"/>
+      <stop stop-color="#1d2021" stop-opacity=".05" offset=".50485"/>
+      <stop stop-color="#1d2021" stop-opacity=".3961" offset=".75316"/>
+      <stop stop-color="#1d2021" stop-opacity=".6039" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <path d="m110 59-4.5 11.996v132h22.5v-144h-18zm22.5 0v144h13.5l9-22.5v-121.5h-22.5zm-36 36-40.5 108h22.5l18-51.004v-56.996zm67.5 85.5-9 22.5h45v-22.5h-36z" fill="#282828" opacity=".2" stroke-width="4.5"/>
+  <path d="m110 54-4.5 11.997v132h22.5v-144zm-13.5 36-40.5 108h22.5l18-51.003z" fill="#689d6a" stroke-width="4.5"/>
+  <path d="m132.5 54v144h13.5l9-22.5v-121.5zm31.5 121.5-9 22.5h45v-22.5z" fill="#fe8019" stroke-width="4.5"/>
+  <path d="m110 54-4.5 11.996v5l4.5-11.996h18v-5h-18zm22.5 0v5h22.5v-5h-22.5zm-36 36-40.5 108h1.875l38.625-103v-5zm67.5 85.5-9 22.5h2l7-17.5h36v-5h-36z" fill="#ebdbb2" opacity=".3" stroke-width="4.5"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 5h74c35.653 0 55.307 3.9448 65.895 14.965 10.588 11.02 14.105 31.336 14.105 67.035v56c0 34.69-3.4936 54.457-14.07 65.25-10.577 10.793-30.277 14.75-65.93 14.75h-74c-35.653 0-55.353-3.9574-65.93-14.75-10.577-10.793-14.07-30.56-14.07-65.25v-56c0-35.699 3.5176-56.015 14.105-67.035 10.588-11.02 30.242-14.965 65.895-14.965z" fill="url(#linearGradient10)" style="isolation:isolate"/>
+</svg>
