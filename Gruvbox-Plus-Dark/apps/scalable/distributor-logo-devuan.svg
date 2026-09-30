@@ -1,0 +1,24 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7c6f64" offset="0"/>
+      <stop stop-color="#665c54" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient10" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity="0" offset=".24728"/>
+      <stop stop-color="#1d2021" stop-opacity=".05" offset=".50485"/>
+      <stop stop-color="#1d2021" stop-opacity=".2" offset=".75316"/>
+      <stop stop-color="#1d2021" stop-opacity=".4" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient14" x1="102.68" x2="102.68" y1="54.789" y2="195.12" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" offset="0"/>
+      <stop stop-color="#d5c4a1" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <path d="m63.629 59.79c120.67 16.517 147.01 37.146 147.49 55.697 0.95544 36.952-120.7 83.514-120.7 83.514-6.8812 2.0022-18.209 2.1618-24.731-6.6749-4.987-8.0999-0.9164-19.258 11.334-21.173 0 0 250.05-50.879-13.398-111.36z" color="#ebdbb2" fill="#282828" opacity=".2" stroke-width="15.601"/>
+  <path d="m63.629 54.79c120.67 16.517 147.01 37.146 147.49 55.697 0.95544 36.952-120.7 83.514-120.7 83.514-6.8812 2.0022-18.209 2.1618-24.731-6.6749-4.987-8.0999-0.9164-19.258 11.334-21.173 0 0 250.05-50.879-13.398-111.36z" color="#ebdbb2" fill="url(#linearGradient14)" stroke-width="15.601"/>
+  <path d="m63.633 54.791c18.91 4.3416 35.175 8.6321 49.076 12.859 75.533 14.264 96.2 30.6 98.246 45.727 0.13566-0.9695 0.19273-1.933 0.16797-2.8906-0.47925-18.55-26.825-39.178-147.49-55.695zm120.45 59.98c-5.3355 30.685-107.05 51.381-107.05 51.381-9.9885 1.5617-14.539 9.2681-13.176 16.451 1.0405-5.4276 5.5043-10.252 13.176-11.451 0 0 112.87-22.966 107.05-56.381z" color="#ebdbb2" fill="#fbf1c7" opacity=".6" stroke-width="15.601"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 5h74c35.653 0 55.307 3.9448 65.895 14.965 10.588 11.02 14.105 31.336 14.105 67.035v56c0 34.69-3.4936 54.457-14.07 65.25-10.577 10.793-30.277 14.75-65.93 14.75h-74c-35.653 0-55.353-3.9574-65.93-14.75-10.577-10.793-14.07-30.56-14.07-65.25v-56c0-35.699 3.5176-56.015 14.105-67.035 10.588-11.02 30.242-14.965 65.895-14.965z" fill="url(#linearGradient10)" style="isolation:isolate"/>
+</svg>
