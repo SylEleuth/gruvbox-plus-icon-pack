@@ -2,6 +2,6 @@
   <defs>
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NeutralText { color:#fe8019; } .ColorScheme-PositiveText { color:#689d6a; } .ColorScheme-NegativeText { color:#fb4934; }</style>
   </defs>
-  <path class="ColorScheme-Text" d="m6 3v3h10v-3zm-2 4c-0.5 0-1 0.5-1 1v5c0 0.5 0.5 1 1 1h1v-2h9v-2h4v4c0.5 0 1-0.5 1-1v-5c0-0.5-0.5-1-1-1zm2 6v6h8v-6z" fill="currentColor"/>
-  <path class="ColorScheme-NegativeText" d="m15 11v4.01l0.25 1.99h1.5l0.25-2v-4zm0 7v2h2v-2z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m6 3v3h10v-3zm-2 4c-0.5 0-1 0.5-1 1v5c0 0.5 0.5 1 1 1h1v-2h8c0.86548-0.64911 1.9181-1 3-1s2.1345 0.35089 3 1v-4c0-0.5-0.5-1-1-1zm2 6v6h6c-0.64911-0.86548-1-1.9181-1-3s0.35089-2.1345 1-3z" fill="currentColor"/>
+  <path class="ColorScheme-NegativeText" d="m16 12c-2.2091 2.8e-5 -4 1.7909-4 4 2.8e-5 2.2091 1.7909 4 4 4 2.2091-2.8e-5 4-1.7909 4-4-2.8e-5 -2.2091-1.7909-4-4-4zm-0.5 1h1v4h-1zm0.5 5c0.27614 0 0.5 0.22386 0.5 0.5s-0.22386 0.5-0.5 0.5-0.5-0.22386-0.5-0.5 0.22386-0.5 0.5-0.5z" fill="currentColor"/>
 </svg>
