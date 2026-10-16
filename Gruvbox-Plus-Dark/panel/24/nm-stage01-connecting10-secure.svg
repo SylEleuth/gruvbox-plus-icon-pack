@@ -1,9 +1,0 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; } .ColorScheme-NeutralText { color:#fe8019; } .ColorScheme-PositiveText { color:#689d6a; } .ColorScheme-NegativeText { color:#fb4934; }</style>
-  </defs>
-  <path class="ColorScheme-Text" d="m8 14c-1.933 0-3.5 1.567-3.5 3.5s1.567 3.5 3.5 3.5 3.5-1.567 3.5-3.5-1.567-3.5-3.5-3.5z" fill="currentColor" opacity=".3"/>
-  <path class="ColorScheme-Text" d="m16 3c-1.933 0-3.5 1.567-3.5 3.5s1.567 3.5 3.5 3.5 3.5-1.567 3.5-3.5-1.567-3.5-3.5-3.5z" fill="currentColor" opacity=".3"/>
-  <path class="ColorScheme-Text" d="m19.46 6.998c-0.1089 0.7643-0.465 1.448-0.9844 1.971 0.0095 0.5698-0.04564 1.137-0.166 1.693-0.1864 0.8583-0.4979 1.669-0.8965 2.402 0.1927-0.04067 0.389-0.06226 0.5859-0.06445 1.099 1.96e-4 2.11 0.6011 2.635 1.566 0.26-0.9058 0.3641-1.859 0.3301-2.805-0.04121-1.809-0.6787-3.456-1.504-4.764zm-5.461 8.725c-0.5743 0.2021-1.168 0.3743-1.773 0.5859-0.0111 0.0111-0.4085 0.1431-0.8223 0.4023 0.0585 0.2537 0.08984 0.5176 0.08984 0.7891 0 0.865-0.314 1.657-0.834 2.268 0.5338 0.8766 1.765 1.391 3.34 1.045z" fill="currentColor"/>
-  <path class="ColorScheme-Text" d="m18 14c-1.108 0-2 0.9108-2 2.031v0.9688h-1v4h6v-4h-1v-0.9688c0-1.12-0.892-2.031-2-2.031zm0 1c0.554 0 1 0.4424 1 1v1h-2v-1c0-0.5576 0.446-1 1-1z" fill="currentColor"/>
-</svg>
