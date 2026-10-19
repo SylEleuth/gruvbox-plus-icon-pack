@@ -1,6 +1,0 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
-  </defs>
-  <path class="ColorScheme-Text" d="m4.976 9.826 2.744 1.584v-3.17l-2.746-1.584v3.17zm-1.183 0.6812 3.927 2.265v2.228l-5.857-3.379v-6.761l1.93 1.114zm4.207-5.922-2.744 1.586 2.744 1.584 2.744-1.584-2.744-1.584zm0-1.361 3.302 1.912 1.93-1.114-5.232-3.022-5.849 3.377 1.93 1.112zm4.204 7.283v-2.304l-1.18 0.6812v0.9411l-2.744 1.586v-3.17l5.857-3.379v6.759l-5.857 3.382v-2.226z" fill="currentColor"/>
-</svg>

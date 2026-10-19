@@ -1,7 +1,0 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#282828; } .ColorScheme-Highlight { color:#458588; }</style>
-  </defs>
-  <path class="ColorScheme-Text" d="m7 1h2v2h-2zm3 3h2v2h-2zm-3 0h2v2h-2zm-3 0h2v2h-2zm9 3h2v2h-2zm-3 0h2v2h-2zm-3 0h2v2h-2zm-3 0h2v2h-2zm-3 0h2v2h-2zm9 3h2v2h-2zm-3 0h2v2h-2zm-3 0h2v2h-2zm3 3h2v2h-2z" fill="currentColor" opacity=".3"/>
-  <path class="ColorScheme-Text" d="m4 4h1v1h-1zm0 7h1v1h-1zm7 0h1v1h-1zm0-7h1v1h-1zm-3.5 6.5h1v1h-1zm-3-3h1v1h-1zm6 0h1v1h-1zm-3-3h1v1h-1zm0 3h1v1h-1zm-0.5-6.5h2v1h-2zm0 13h2v1h-2zm-6-7h1v2h-1zm13 0h1v2h-1zm-3.5 3.5h1v1h-1zm-6 0h1v1h-1zm0-6h1v1h-1zm6 0h1v1h-1zm2.5-3.5h2v2h-2zm-3 0h2v2h-2zm-6 0h2v2h-2zm-3 0h2v2h-2zm12 3h2v2h-2zm-12 0h2v2h-2zm12 6h2v2h-2zm-12 0h2v2h-2zm12 3h2v2h-2zm-3 0h2v2h-2zm-6 0h2v2h-2zm-3 0h2v2h-2z" fill="currentColor"/>
-</svg>

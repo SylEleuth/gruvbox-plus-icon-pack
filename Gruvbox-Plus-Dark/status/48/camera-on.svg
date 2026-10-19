@@ -1,9 +1,0 @@
-<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-44" width="40" height="40" rx="20" ry="20" fill="#282828" opacity=".2"/>
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-44" width="40" height="40" rx="20" ry="20" fill="#ebdbb2"/>
-  <circle cx="24" cy="24" r="12" fill="#3c3836"/>
-  <circle transform="scale(1,-1)" cx="24" cy="-25" r="9" fill="#282828" opacity=".5"/>
-  <circle transform="scale(1,-1)" cx="24" cy="-24" r="9" fill="#8f3f71"/>
-  <circle cx="24" cy="25" r="6" fill="#282828" opacity=".3"/>
-  <circle cx="24" cy="24" r="6" fill="#d3869b"/>
-</svg>
