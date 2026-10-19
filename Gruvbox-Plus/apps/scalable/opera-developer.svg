@@ -1,0 +1,32 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#d5c4a1" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#bdae93" stop-opacity=".1" offset=".1"/>
+      <stop stop-color="#d5c4a1" stop-opacity="0" offset=".7022"/>
+      <stop stop-color="#bdae93" stop-opacity=".302" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".15" offset="1"/>
+    </linearGradient>
+    <radialGradient id="radialGradient26" cx="128" cy="210.18" r="79.3" gradientTransform="matrix(1 0 0 .24493 0 156.35)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" offset="0"/>
+      <stop stop-color="#282828" stop-opacity="0" offset="1"/>
+    </radialGradient>
+    <linearGradient id="b-5-3" x2="1" gradientTransform="matrix(0 136 -136 0 154.6 52.62)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#665c54" offset="0"/>
+      <stop stop-color="#928374" offset="1"/>
+    </linearGradient>
+    <linearGradient id="a-2" x2="1" gradientTransform="matrix(0 153.7 -153.7 0 114.8 43.55)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d5c4a1" offset="0"/>
+      <stop stop-color="#a89984" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <ellipse cx="128" cy="207.83" rx="79.3" ry="19.423" fill="url(#radialGradient26)" opacity=".53973" stroke-dashoffset="158" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.9834" style="paint-order:markers fill stroke"/>
+  <path d="m128 40.97c-43.8 0-79.3 35.51-79.3 79.3 0 42.53 33.48 77.24 75.53 79.21 1.255 0.0592 2.511 0.0927 3.778 0.0927 20.3 0 38.82-7.635 52.85-20.18-9.296 6.165-20.16 9.712-31.78 9.712-18.89 0-35.8-9.369-47.17-24.14-8.769-10.35-14.45-25.65-14.84-42.82v-3.735c0.3867-17.17 6.066-32.48 14.83-42.82 11.38-14.77 28.29-24.14 47.17-24.14 11.62 0 22.49 3.547 31.78 9.716-13.96-12.49-32.37-20.11-52.56-20.18-0.1005 0-0.1993-4e-3 -0.2998-4e-3z" fill="url(#a-2)" stroke-width="2.798" style="isolation:isolate"/>
+  <path d="m101.9 75.58c7.278-8.591 16.68-13.77 26.94-13.77 23.09 0 41.8 26.18 41.8 58.46 0 32.29-18.71 58.46-41.8 58.46-10.27 0-19.67-5.179-26.94-13.77 11.38 14.77 28.29 24.14 47.17 24.14 11.62 0 22.48-3.547 31.78-9.712 16.23-14.52 26.45-35.63 26.45-59.12s-10.22-44.6-26.45-59.12c-9.298-6.169-20.17-9.716-31.78-9.716-18.89 0-35.8 9.369-47.17 24.14" fill="url(#b-5-3)" stroke-width="2.798" style="isolation:isolate"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#83a598" offset="0"/>
+      <stop stop-color="#83a598" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <path class="ColorScheme-Text" d="m51.143 63.5 36.552 39.873c-10.275 16.842-10.273 37.914 0 54.753l-36.552 39.873h86.464c37.141 0 67.25-30.109 67.25-67.25s-30.109-67.25-67.25-67.25zm94.796 43.232c13.265 0 24.018 10.753 24.018 24.018s-10.753 24.018-24.018 24.018-24.018-10.753-24.018-24.018 10.753-24.018 24.018-24.018z" color="#ebdbb2" fill="#282828" opacity=".2" stroke-width="9.6072"/>
+  <path class="ColorScheme-Text" d="m51.143 58.5 36.552 39.873c-10.275 16.842-10.273 37.914 0 54.753l-36.552 39.873h86.464c37.141 0 67.25-30.109 67.25-67.25 0-37.141-30.109-67.25-67.25-67.25zm94.796 43.232c13.265 0 24.018 10.753 24.018 24.018s-10.753 24.018-24.018 24.018-24.018-10.753-24.018-24.018 10.753-24.018 24.018-24.018z" color="#ebdbb2" fill="currentColor" stroke-width="9.6072"/>
+  <path class="ColorScheme-Text" d="m51.142 58.5 4.584 5h81.881c36.303 0 65.868 28.769 67.186 64.75 0.0304-0.83098 0.0644-1.6616 0.0644-2.5 0-37.141-30.109-67.25-67.25-67.25zm34.807 42.969c-4.3691 8.3774-6.3125 17.623-5.875 26.783 0.41189-8.6369 2.9356-17.198 7.6211-24.879zm36.104 26.781c-0.0851 0.82221-0.13281 1.6553-0.13281 2.5 0 13.265 10.753 24.018 24.018 24.018s24.02-10.753 24.02-24.018c0-0.8447-0.0477-1.6778-0.13281-2.5-1.251 12.089-11.467 21.518-23.887 21.518s-22.634-9.4285-23.885-21.518zm-36.104 26.781-34.807 37.969h4.584l31.969-34.873c-0.62024-1.0167-1.2007-2.05-1.7461-3.0957z" color="#ebdbb2" fill="#fbf1c7" opacity=".6" stroke-width="9.6072"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>

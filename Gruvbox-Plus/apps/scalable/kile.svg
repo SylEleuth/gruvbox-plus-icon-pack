@@ -1,0 +1,19 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#83a598" offset="0"/>
+      <stop stop-color="#458588" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <path d="m37.64 68.8v124.6h31.16v-37.39l24.93 37.39h31.16l-35.13-62.45 35.13-62.19h-31.16l-24.93 37.39v-37.39zm99.71 18.69v43.62h81.01v-43.62h-18.69v24.93h-12.46v-24.93h-18.69v24.93h-12.46v-24.93zm0 56.09v18.69h81.01v-18.69zm0 31.16v18.7h18.69v-18.7zm24.93 0v18.7h56.09v-18.7z" fill="#282828" opacity=".3" stroke-width="6.232"/>
+  <path d="m37.64 62.57v124.6h31.16v-37.39l24.93 37.39h31.16l-35.13-62.45 35.13-62.19h-31.16l-24.93 37.39v-37.39zm99.71 18.7v43.62h81.01v-43.62h-18.69v24.93h-12.46v-24.93h-18.69v24.93h-12.46v-24.93zm0 56.09v18.69h81.01v-18.69zm0 31.16v18.69h18.69v-18.69zm24.93 0v18.69h56.09v-18.69z" fill="#ebdbb2" stroke-width="6.232"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>

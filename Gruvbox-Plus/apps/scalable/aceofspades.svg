@@ -1,0 +1,32 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#d5c4a1" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#bdae93" stop-opacity=".1" offset=".1"/>
+      <stop stop-color="#d5c4a1" stop-opacity="0" offset=".7022"/>
+      <stop stop-color="#bdae93" stop-opacity=".302" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".15" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <path d="m56.73 59.461v11.877h-11.877v59.393h166.29v-59.393h-11.877v-11.877zm0 71.273v53.451h11.879v-53.451zm130.67 0v53.451h11.877v-53.451zm-112.85 59.387v11.879h106.9v-11.879z" fill="#282828" opacity=".15" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m68.609 126v59.39h118.78v-59.39z" fill="#fabd2f" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m56.73 126v53.451h11.879v-53.451h-11.879zm130.67 0v53.451h11.877v-53.451h-11.877zm-112.85 59.387v11.879h106.9v-11.879h-106.9z" fill="#a89984" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m80.492 130.24v23.758h23.758v-23.758zm71.27 0v23.758h23.756v-23.758z" fill="#ebdbb2" opacity=".3" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m80.492 126v23.758h23.758v-23.758h-23.758zm71.27 0v23.758h23.756v-23.758h-23.756z" fill="#3c3836" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m80.492 126v4.2383h23.758v-4.2383zm71.27 0v4.2383h23.756v-4.2383z" fill="#282828" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m116.12 131.18v17.817h23.755v-17.817z" fill="#282828" opacity=".2" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m116.12 126v17.817h23.755v-17.817z" fill="#fe8019" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m139.87 161.18v4e-3l-5.9356 5.9355h-23.756v11.877h35.635l5.9394-5.9395h-6e-3v-11.877z" fill="#282828" opacity=".2" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m110.18 161.63v11.878h23.757v-11.878z" fill="#7c6f64" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m139.88 155.69-5.9381 5.9396v11.878h11.878l5.9396-5.9396h-11.879z" fill="#504945" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m139.87 155.69h11.878v11.878h-11.878z" fill="#fb4934" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m56.731 54.731v11.878h-11.878v59.391h166.29v-59.391h-11.878v-11.878z" fill="#979617" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m56.731 70.609v59.391h142.54v-59.391z" fill="#282828" opacity=".2" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m56.731 66.609v59.391h142.54v-59.391z" fill="#b8bb26" stroke-width="1.4462" style="isolation:isolate"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>

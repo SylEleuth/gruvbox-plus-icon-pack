@@ -1,0 +1,23 @@
+<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <switch>
+    <g>
+      <path d="m165.7 11.95c74.06 0 84.64 10.56 84.64 84.54v59.25c0 73.99-10.58 84.54-84.64 84.54h-75.37c-74.06 0-84.64-10.56-84.64-84.54v-59.25c0-73.99 10.58-84.54 84.64-84.54h75.37z" fill="#ebdbb2" filter="url(#a)"/>
+      <g opacity=".4">
+        <linearGradient id="b" x1=".517" x2=".517" y2="1">
+          <stop stop-color="#ebdbb2" offset="0"/>
+          <stop stop-color="#ebdbb2" stop-opacity=".098" offset=".125"/>
+          <stop stop-opacity=".098" offset=".925"/>
+          <stop stop-opacity=".498" offset="1"/>
+        </linearGradient>
+        <path d="m165.7 11.95c74.06 0 84.64 10.56 84.64 84.54v59.25c0 73.99-10.58 84.54-84.64 84.54h-75.37c-74.06 0-84.64-10.56-84.64-84.54v-59.25c0-73.99 10.58-84.54 84.64-84.54h75.37z" fill="none" stroke="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.077" vector-effect="non-scaling-stroke"/>
+      </g>
+      <path d="m200.4 128c0 39.54-32.06 71.6-71.6 71.6-39.54 0-71.6-32.06-71.6-71.6 0-39.54 32.06-71.6 71.6-71.6 39.54 0 71.6 32.06 71.6 71.6z" fill="#fabd2f"/>
+      <ellipse cx="128.8" cy="163.8" rx="19.89" ry="23.87" fill="#504945" vector-effect="non-scaling-stroke"/>
+      <path d="m81.06 100.2a3.98 3.98 0 0 1-3.179-6.365c12.98-17.3 30.3-17.5 31.03-17.5a3.98 3.98 0 0 1 3.978 3.978 3.976 3.976 0 0 1-3.962 3.977c-0.617 8e-3 -14.19 0.343-24.68 14.32a3.97 3.97 0 0 1-3.186 1.592zm95.47 0a3.97 3.97 0 0 1-3.186-1.592c-10.5-14-24.11-14.31-24.69-14.32a3.985 3.985 0 0 1-3.942-3.997 3.967 3.967 0 0 1 3.966-3.958c0.732 0 18.05 0.199 31.03 17.5a3.976 3.976 0 0 1-0.796 5.569 3.954 3.954 0 0 1-2.383 0.796z" fill="#504945"/>
+      <path d="m128.8 147.9c-6.591 0-11.93 7.12-11.93 15.91h23.87c0-8.791-5.342-15.91-11.93-15.91z" fill="#ebdbb2"/>
+      <ellipse cx="104.9" cy="114.1" rx="9.944" ry="13.92" fill="#504945" vector-effect="non-scaling-stroke"/>
+      <ellipse cx="152.7" cy="114.1" rx="9.944" ry="13.92" fill="#504945" vector-effect="non-scaling-stroke"/>
+    </g>
+    <foreignObject requiredExtensions="http://ns.gravit.io/"/>
+  </switch>
+</svg>

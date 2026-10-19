@@ -1,0 +1,29 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="b-3" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3c3836" offset="0"/>
+      <stop stop-color="#282828" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient31-7" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient11" x1="146.5" x2="146.5" y1="11.99" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d3869b" offset="0"/>
+      <stop stop-color="#8f3f71" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b-3)" style="isolation:isolate"/>
+  <path transform="translate(0 .01)" d="m128 11.99v228h37c72 0 85-15 85-85v-56c0-72-13-87-85-87z" fill="url(#linearGradient11)" style="isolation:isolate"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31-7)" style="isolation:isolate"/>
+  <path d="m6 124v30.99c0 70.01 13 85.01 85 85.01h74c54 0 74.81-8.439 81.84-42.2-7.031 33.75-27.84 42.19-81.84 42.19h-37v-116z" fill="#ebdbb2" opacity=".1"/>
+  <path d="m162.3 104.8v15.1h57.04v-15.1zm0 31.1v15.1h57.04v-15.1z" fill="#282828" opacity=".3" stroke-width="1.2"/>
+  <path d="m162.3 100.2v15.1h57.04v-15.1zm0 31.1v15.1h57.04v-15.1z" fill="#ebdbb2" stroke-width="1.2"/>
+  <text x="40.816948" y="212" fill="#282828" font-family="'Noto Sans'" font-size="77.19px" font-weight="900" letter-spacing="0px" stroke-width="1.072" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="40.816948" y="212" fill="#282828" stroke-width="1.072">Ω</tspan></text>
+  <path d="m43.67 208v-12.2h10.96q-3.628-2.007-6.021-5.018-2.316-3.011-3.397-6.562-1.081-3.628-1.081-7.256 0-7.333 3.319-12.97 3.397-5.635 9.418-8.8 6.098-3.165 14.13-3.165t14.05 3.242q6.021 3.165 9.418 8.8 3.397 5.558 3.397 12.81 0 5.635-2.47 10.65-2.47 4.94-8.337 8.26h11.27v12.2h-24.01v-13.74q4.709-2.933 6.484-7.333 1.775-4.4 1.775-9.109 0-4.632-1.621-7.642-1.544-3.011-4.169-4.477t-5.79-1.467-5.79 1.467-4.246 4.554q-1.544 3.011-1.544 7.719 0 2.702 0.6176 5.79t2.316 5.867q1.775 2.702 5.095 4.632v13.74z" fill="#ebdbb2" stroke-width="1.072" aria-label="Ω"/>
+  <text x="39.073547" y="104" fill="#282828" font-family="'Noto Serif'" font-size="104.5px" font-style="italic" font-weight="900" letter-spacing="0px" stroke-width="1.451" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="39.073547" y="104" fill="#282828" stroke-width="1.451">x</tspan></text>
+  <path d="m36.67 100 1.254-6.373h1.358q1.985 0 3.448-0.4179 1.567-0.4179 3.343-1.776t4.493-4.075l12.96-13.37-7.522-18.07q-1.358-3.552-3.343-4.493-1.881-1.045-4.91-1.045h-1.149l1.254-6.373h23.82l6.896 18.91 14.94-18.91h12.75l-1.045 6.373h-2.299q-1.985 0-3.448 0.6269-1.463 0.6269-3.134 2.194-1.567 1.567-4.284 4.493l-10.55 11.39 7.94 17.24q2.09 4.179 3.866 5.746 1.881 1.567 4.91 1.567h1.358l-1.149 6.373h-24.97l-7.313-19.75-16.82 19.75z" fill="#ebdbb2" stroke-width="1.451" aria-label="x"/>
+</svg>

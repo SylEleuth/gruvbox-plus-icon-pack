@@ -1,0 +1,25 @@
+<svg id="svg32" width="256" height="256" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs20">
+  <linearGradient id="d" x1="296" x2="296" y1="-212" y2="236" gradientUnits="userSpaceOnUse">
+   <stop id="stop8" stop-color="#ebdbb2" offset="0"/>
+   <stop id="stop10" stop-color="#ebdbb2" stop-opacity=".098" offset=".125"/>
+   <stop id="stop12" stop-opacity=".098" offset=".925"/>
+   <stop id="stop14" stop-opacity=".498" offset="1"/>
+  </linearGradient>
+  <clipPath id="c">
+   <path id="path17" d="M361.938-212C507.235-212 528-191.287 528-46.125v116.25C528 215.286 507.235 236 361.937 236H214.063C68.766 236 48 215.286 48 70.125v-116.25C48-191.287 68.765-212 214.063-212z" fill="#b16286"/>
+  </clipPath>
+ </defs>
+ <g id="g37">
+  <path id="path22" transform="matrix(1.0194 0 0 1.0191 0 -49.582)" d="m162.54 62.432c72.648 0 83.031 10.357 83.031 82.937v58.125c0 72.581-10.383 82.938-83.031 82.938h-73.938c-72.648 0-83.031-10.357-83.031-82.938v-58.124c0-72.58 10.383-82.937 83.031-82.937z" filter="url(#a)" opacity=".2"/>
+  <path id="path24" transform="matrix(1.0194 0 0 1.0191 0 -49.582)" d="m162.54 61.432c72.648 0 83.031 10.357 83.031 82.937v58.125c0 72.581-10.383 82.938-83.031 82.938h-73.938c-72.648 0-83.031-10.357-83.031-82.938v-58.124c0-72.58 10.383-82.937 83.031-82.937z" filter="url(#b)" opacity=".1"/>
+  <path id="path26" d="m165.69 12.006c74.055 0 84.639 10.555 84.639 84.522v59.236c0 73.968-10.584 84.523-84.639 84.523h-75.37c-74.055 0-84.639-10.555-84.639-84.523v-59.235c0-73.967 10.584-84.522 84.639-84.522z" fill="#ebdbb2" stroke-width="1.0192"/>
+  <path id="path28" transform="matrix(.50968 0 0 .50956 -18.789 120.03)" d="m361.94-212c145.3 0 166.06 20.713 166.06 165.88v116.25c0 145.16-20.765 165.88-166.06 165.88h-147.87c-145.3 0-166.06-20.714-166.06-165.88v-116.25c0-145.16 20.765-165.88 166.06-165.88z" clip-path="url(#c)" fill="none" opacity=".4" stroke="url(#d)" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path id="path30" d="m90.316 240.29c-74.057 0-84.64-10.551-84.64-84.49v-29.606h244.65v29.606c0 73.939-10.584 84.49-84.639 84.49z" fill="#ebdbb2" opacity=".25" stroke-width="1.0192"/>
+  <g stroke-width="1.7854">
+   <path id="red" d="m78.046 137.09 50.313-104.09h41.689z" fill="#cc241d"/>
+   <path id="green" d="m121.22 140.12h-42.635l92.894-104.09z" fill="#689d6a"/>
+   <path id="blue" d="m84.241 223 51.991-107.7h41.725z" fill="#076678"/>
+  </g>
+ </g>
+</svg>

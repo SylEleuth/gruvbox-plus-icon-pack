@@ -1,0 +1,28 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3c3836" offset="0"/>
+      <stop stop-color="#3c3836" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <rect x="70.62" y="66.534" width="114.76" height="142.76" rx="7.9311" ry="7.9311" fill="#282828" opacity=".6" stroke-width="3.9656"/>
+  <rect x="70.62" y="62.568" width="114.76" height="142.76" rx="7.9311" ry="7.9311" fill="#665c54" stroke-width="3.9656"/>
+  <path d="m78.552 62.568c-4.3938 0-7.9316 3.5378-7.9316 7.9316v3.9648c0-4.3938 3.5378-7.9316 7.9316-7.9316h98.896c4.3938 0 7.9316 3.5378 7.9316 7.9316v-3.9648c0-4.3938-3.5378-7.9316-7.9316-7.9316z" fill="#ebdbb2" opacity=".1"/>
+  <path d="m82.092 82.395v31.725h91.814v-31.725zm0 39.656v31.725h91.814v-31.725z" fill="#ebdbb2" opacity=".1"/>
+  <path d="m82.092 161.71v31.725h91.814v-31.725z" fill="#282828" opacity=".2"/>
+  <path d="m82.091 157.74v31.725h91.816v-31.725z" fill="#b8bb26" stroke-width="3.7422"/>
+  <path d="m82.091 157.74v3.9655h91.816v-3.9655z" fill="#ebdbb2" opacity=".3" stroke-width="3.7422"/>
+  <path d="m82.09 78.43v31.725h91.816v-31.725zm0 39.66v31.725h91.816v-31.725z" fill="#282828"/>
+  <path d="m82.09 78.434v31.725h2e-3v-27.764h91.814v-3.9609zm0 39.66v31.725h2e-3v-27.764h91.814v-3.9609z" fill="#1d2021"/>
+  <rect x="95.566" y="46.706" width="64.865" height="15.862" fill="#504945" stroke-width="3.9656"/>
+  <path d="m95.566 46.706v3.9656h64.865v-3.9656z" fill="#ebdbb2" opacity=".1" stroke-width="3.5863"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#d5c4a1" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#bdae93" stop-opacity=".1" offset=".1"/>
+      <stop stop-color="#d5c4a1" stop-opacity="0" offset=".7022"/>
+      <stop stop-color="#bdae93" stop-opacity=".302" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".3" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <path class="ColorScheme-Text" d="m61.195 75.61-33.195 33.195 33.195 33.195 33.195-33.195zm33.195 33.195 33.195 33.195 33.195-33.195-33.195-33.195zm66.377 0 33.195 33.195 33.195-33.195-33.195-33.195zm-33.195 33.195-33.195 33.195 33.195 33.195 33.195-33.195z" color="#ebdbb2" fill="#ebdbb2" opacity=".7" stroke-width="12.451" style="isolation:isolate"/>
+  <path class="ColorScheme-Text" d="m61.195 70-33.195 33.195 33.195 33.195 33.195-33.195zm33.195 33.195 33.195 33.195 33.195-33.195-33.195-33.195zm66.377 0 33.195 33.195 33.195-33.195-33.195-33.195zm-33.195 33.195-33.195 33.195 33.195 33.195 33.195-33.195z" color="#ebdbb2" fill="#3c3836" stroke-width="12.451" style="isolation:isolate"/>
+  <path class="ColorScheme-Text" d="m61.196 69.999-33.195 33.195 2.8047 2.8047 30.391-30.389 30.389 30.389 2.8047-2.8047zm33.193 33.195 2.8047 2.8047 30.391-30.389 30.391 30.389 2.7988-2.7988 2.7988 2.7988 30.389-30.389 30.391 30.389 2.8047-2.8047-33.195-33.195-33.188 33.189-33.189-33.189zm30.385 35.992-30.396 30.396 2.8066 2.8066 30.389-30.391 30.389 30.391 2.8066-2.8066-30.385-30.385-2.7988 2.8008z" fill="#282828" style="isolation:isolate"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>

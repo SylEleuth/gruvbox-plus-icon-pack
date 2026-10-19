@@ -1,0 +1,25 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#ebdbb2" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#bdae93" stop-opacity=".1" offset=".1"/>
+      <stop stop-color="#d5c4a1" stop-opacity="0" offset=".7022"/>
+      <stop stop-color="#bdae93" stop-opacity=".302" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".3" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <path d="m116.4 122.2c-29.96 0-54.25 24.29-54.25 54.25v15.5c0 8.56 6.94 15.5 15.5 15.5h85.25c17.17 0 31-13.83 31-31v-23.25c0-17.17-13.83-31-31-31" fill="#282828" opacity=".3" stroke-width="3.875"/>
+  <circle cx="128" cy="83.44" r="31" fill="#282828" opacity=".3" stroke-width="3.875"/>
+  <circle cx="128" cy="79.56" r="31" fill="#076678" stroke-width="3.875"/>
+  <path d="m116.4 118.3a31 31 0 0 1 31 31v23.25a31 31 0 0 1-31 31h-38.75a15.5 15.5 0 0 1-15.5-15.5v-15.5a54.25 54.25 0 0 1 54.25-54.25z" fill="#83a598" stroke-width="3.875"/>
+  <rect x="108.6" y="118.3" width="85.25" height="85.25" rx="31" ry="31" fill="#83a598" stroke-width="3.875"/>
+  <path d="m116.4 118.3h23.25a31 31 0 0 1 31 31v23.25a31 31 0 0 1-31 31h-38.75a15.5 15.5 0 0 1-15.5-15.5v-38.75a31 31 0 0 1 31-31z" fill="#076678" stroke-width="3.875"/>
+  <path d="m116.4 118.3c-29.96 0-54.25 24.29-54.25 54.25v3.875c0-29.96 24.29-54.25 54.25-54.25h46.5c17.17 0 31 13.83 31 31v-3.875c0-17.17-13.83-31-31-31z" fill="#ebdbb2" opacity=".3" stroke-width="3.875"/>
+  <path d="m128 48.56a31 31 0 0 0-31 31 31 31 0 0 0 0.1356 1.938 31 31 0 0 1 30.86-29.06 31 31 0 0 1 30.9 28.59 31 31 0 0 0 0.1046-1.461 31 31 0 0 0-31-31z" fill="#ebdbb2" opacity=".2" stroke-width="3.875"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>

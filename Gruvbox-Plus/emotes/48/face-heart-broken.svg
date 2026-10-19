@@ -1,0 +1,21 @@
+<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <switch>
+    <g>
+      <path d="m165.7 11.95c74.06 0 84.64 10.56 84.64 84.54v59.25c0 73.99-10.58 84.54-84.64 84.54h-75.37c-74.06 0-84.64-10.56-84.64-84.54v-59.25c0-73.99 10.58-84.54 84.64-84.54h75.37z" fill="#ebdbb2" filter="url(#a)"/>
+      <g opacity=".4">
+        <linearGradient id="b" x1=".517" x2=".517" y2="1">
+          <stop stop-color="#ebdbb2" offset="0"/>
+          <stop stop-color="#ebdbb2" stop-opacity=".098" offset=".125"/>
+          <stop stop-opacity=".098" offset=".925"/>
+          <stop stop-opacity=".498" offset="1"/>
+        </linearGradient>
+        <path d="m165.7 11.95c74.06 0 84.64 10.56 84.64 84.54v59.25c0 73.99-10.58 84.54-84.64 84.54h-75.37c-74.06 0-84.64-10.56-84.64-84.54v-59.25c0-73.99 10.58-84.54 84.64-84.54h75.37z" fill="none" stroke="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.077" vector-effect="non-scaling-stroke"/>
+      </g>
+      <g fill="#cc241d">
+        <path d="m110.3 162.1a6.004 6.004 0 0 1 0.14-6.402l17.59-26.6-24-20.57a6.004 6.004 0 0 1-1.241-7.65l17.23-28.71c-6.682-5.208-15.03-8.367-24.16-8.367-21.82 0-39.5 17.68-39.5 39.5 0 3.091 0.392 6.085 1.065 8.971 5.484 34.08 43.38 70.04 70.53 79.91 0.1-0.036 0.208-0.088 0.308-0.128l-17.97-29.95z"/>
+        <path d="m160.1 63.82c-11.07 0-21.01 4.608-28.17 11.94l-16.18 26.97 24.18 20.72a6.007 6.007 0 0 1 1.097 7.871l-18.43 27.87 16.66 27.76c25.37-14.13 54.53-45.09 59.28-74.66 0.681-2.886 1.073-5.88 1.073-8.971-4e-3 -21.83-17.69-39.51-39.5-39.51z"/>
+      </g>
+    </g>
+    <foreignObject requiredExtensions="http://ns.gravit.io/"/>
+  </switch>
+</svg>

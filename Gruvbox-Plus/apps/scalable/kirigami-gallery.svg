@@ -1,0 +1,27 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".05" offset="0"/>
+      <stop stop-color="#bdae93" stop-opacity=".1" offset=".1"/>
+      <stop stop-color="#d5c4a1" stop-opacity="0" offset=".7022"/>
+      <stop stop-color="#bdae93" stop-opacity=".302" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".3" offset="1"/>
+    </linearGradient>
+    <linearGradient id="c-9" x1="5.2917" x2="8.7312" y1="5.0271" y2="8.4667" gradientTransform="matrix(20.472 0 0 20.472 .25355 -5.9839)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" offset="0"/>
+      <stop stop-color="#282828" stop-opacity="0" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient11" x1="164.48" x2="250" y1="98.878" y2="174.28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" offset="0"/>
+      <stop stop-color="#282828" stop-opacity="0" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="#d5c4a1" style="isolation:isolate"/>
+  <path transform="translate(0 .01)" d="m6 124v30.99c0 70.01 13 85.01 85 85.01h74c72 0 85-15 85-85.01v-30.99z" fill="#ebdbb2"/>
+  <path d="m108.58 37.348 32.499 32.499-16.249 54.164 37.915 86.663 16.249 16.249h-54.164l-16.249-16.249 10.833-86.663z" fill="url(#c-9)" opacity=".2" stroke-width="20.472"/>
+  <path d="m108.58 37.348-10.832 86.662 11.219 86.664 10.447-86.664zm86.664 0-64.998 86.662 64.998 86.664-43.332-86.664z" fill="#928374" stroke-width="20.472"/>
+  <path d="m75.697 37.348-10.447 86.662h32.5l10.832-86.662zm22.053 86.662h32.498l64.998-86.662h-32.574z" fill="#ebdbb2" stroke-width="20.472"/>
+  <path d="m65.249 124.01 10.834 86.664h32.885l-11.219-86.664zm32.5 0 64.996 86.664h32.5l-64.998-86.664z" fill="#d5c4a1" stroke-width="20.472"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+  <path d="m195.24 37.348-43.332 86.662 43.332 86.664 17.717 24.818c30.343-8.3792 37.037-30.289 37.037-80.492v-56c0-2.4488-0.058-4.6697-0.0898-6.9883z" fill="url(#linearGradient11)" opacity=".2" style="isolation:isolate"/>
+</svg>

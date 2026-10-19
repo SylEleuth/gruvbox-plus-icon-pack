@@ -1,0 +1,23 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#ebdbb2" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.988,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#bdae93" stop-opacity=".1" offset=".1"/>
+      <stop stop-color="#d5c4a1" stop-opacity="0" offset=".7022"/>
+      <stop stop-color="#bdae93" stop-opacity=".302" offset=".9"/>
+      <stop stop-color="#282828" stop-opacity=".15" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <path d="m200.1 58.998-67.719 0.09766v67.623l67.719-0.0996zm-144.2 0.001953v67.621l67.721 0.0996v-67.623zm144.2 77.277-67.719 0.0996v67.621l67.719-0.0977zm-144.21 2e-3v67.623l67.346 0.0976v-67.621z" fill="#282828" opacity=".1" style="isolation:isolate"/>
+  <path d="m200.1 198.4-67.719 0.098v-67.622l67.719-0.098z" fill="#fabd2f" style="isolation:isolate"/>
+  <path d="m123.24 198.5-67.346-0.098v-67.622l67.346 0.098z" fill="#458588" style="isolation:isolate"/>
+  <path d="m200.1 121.12-67.719 0.098v-67.622l67.719-0.098z" fill="#98971a" style="isolation:isolate"/>
+  <path d="m123.62 121.22-67.72-0.098v-67.622l67.72 0.098z" fill="#fb4934" style="isolation:isolate"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+  <path d="m200.1 53.498-67.719 0.09766v5.5l67.719-0.09766zm-144.2 2e-3v5.5l67.719 0.09766v-5.5zm144.2 77.277-67.719 0.0996v5.5l67.719-0.0996zm-144.21 2e-3v5.5l67.346 0.0996v-5.5z" fill="#ebdbb2" opacity=".2" style="isolation:isolate"/>
+</svg>

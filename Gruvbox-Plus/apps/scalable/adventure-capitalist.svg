@@ -1,0 +1,24 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="b-3" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244 0 0 228 5.981 12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#665c54" offset="0"/>
+      <stop stop-color="#504945" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient31-7" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b-3)" style="isolation:isolate"/>
+  <path d="m100 65c-22.091 0-40 17.909-40 40s17.909 40 40 40h55c5.5228 0 10 4.4772 10 10s-4.4772 10-10 10h-65c-8.31 0-15 6.69-15 15s6.69 15 15 15h65c22.091 0 40-17.909 40-40s-17.909-40-40-40h-55c-5.5228 0-10-4.4772-10-10s4.4772-10 10-10h65c8.31 0 15-6.69 15-15s-6.69-15-15-15h-40z" fill="#282828" opacity=".3" style="paint-order:markers fill stroke"/>
+  <path d="m100 60c-22.091 0-40 17.909-40 40s17.909 40 40 40h55c5.5228 0 10 4.4772 10 10s-4.4772 10-10 10h-65c-8.31 0-15 6.69-15 15s6.69 15 15 15h65c22.091 0 40-17.909 40-40s-17.909-40-40-40h-55c-5.5228 0-10-4.4772-10-10 0-5.5228 4.4772-10 10-10h65c8.31 0 15-6.69 15-15s-6.69-15-15-15h-40z" fill="#fe8019" style="paint-order:markers fill stroke"/>
+  <path d="m120 145v57.5c0 4.155 3.345 7.5 7.5 7.5s7.5-3.345 7.5-7.5v-57.5z" fill="#282828" opacity=".3" style="paint-order:markers fill stroke"/>
+  <path d="m100 60c-22.091 0-40 17.909-40 40 0 0.84037 0.03486 1.6725 0.08594 2.5 1.2916-20.926 18.663-37.5 39.914-37.5h65c7.4559 0 13.592 5.3909 14.777 12.5 0.13583-0.81434 0.22266-1.6459 0.22266-2.5 0-8.31-6.69-15-15-15h-40zm-9.6719 42.5c-0.20637 0.80031-0.32813 1.6352-0.32813 2.5 0 5.5228 4.4772 10 10 10h55c21.251 0 38.622 16.574 39.914 37.5 0.0511-0.82751 0.0859-1.6596 0.0859-2.5 0-22.091-17.909-40-40-40h-55c-4.6581 0-8.5603-3.1891-9.6719-7.5zm74.344 50c-1.1116 4.3109-5.0138 7.5-9.6719 7.5h-65c-8.31 0-15 6.69-15 15 0 0.85407 0.0868 1.6857 0.22266 2.5 1.1858-7.1091 7.3214-12.5 14.777-12.5h65c5.5228 0 10-4.4772 10-10 0-0.86476-0.12177-1.6997-0.32812-2.5z" fill="#ebdbb2" opacity=".2" style="paint-order:markers fill stroke"/>
+  <path d="m120 140v57.5c0 4.155 3.345 7.5 7.5 7.5s7.5-3.345 7.5-7.5v-57.5z" fill="#fabd2f" style="paint-order:markers fill stroke"/>
+  <rect x="120" y="140" width="15" height="5" ry="0" fill="#282828" opacity=".3" style="paint-order:markers fill stroke"/>
+  <path d="m127.5 45c-4.155 0-7.5 3.345-7.5 7.5v57.5h15v-57.5c0-4.155-3.345-7.5-7.5-7.5z" fill="#fabd2f" style="paint-order:markers fill stroke"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31-7)" style="isolation:isolate"/>
+</svg>

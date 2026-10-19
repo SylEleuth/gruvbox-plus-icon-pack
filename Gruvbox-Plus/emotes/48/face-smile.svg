@@ -1,0 +1,21 @@
+<svg width="256" height="256" style="isolation:isolate" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <switch>
+    <g>
+      <path d="m165.7 11.95c74.06 0 84.64 10.56 84.64 84.54v59.25c0 73.99-10.58 84.54-84.64 84.54h-75.37c-74.06 0-84.64-10.56-84.64-84.54v-59.25c0-73.99 10.58-84.54 84.64-84.54h75.37z" fill="#ebdbb2" filter="url(#a)"/>
+      <g opacity=".4">
+        <linearGradient id="b" x1=".517" x2=".517" y2="1">
+          <stop stop-color="#ebdbb2" offset="0"/>
+          <stop stop-color="#ebdbb2" stop-opacity=".098" offset=".125"/>
+          <stop stop-opacity=".098" offset=".925"/>
+          <stop stop-opacity=".498" offset="1"/>
+        </linearGradient>
+        <path d="m165.7 11.95c74.06 0 84.64 10.56 84.64 84.54v59.25c0 73.99-10.58 84.54-84.64 84.54h-75.37c-74.06 0-84.64-10.56-84.64-84.54v-59.25c0-73.99 10.58-84.54 84.64-84.54h75.37z" fill="none" stroke="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.077" vector-effect="non-scaling-stroke"/>
+      </g>
+      <circle cx="128.8" cy="128" r="71.6" fill="#fabd2f" vector-effect="non-scaling-stroke"/>
+      <path d="m99.03 150.4c0.179 0.712 4.646 17.42 29.77 17.42 25.13 0 29.6-16.71 29.77-17.42a1.985 1.985 0 0 0-0.943-2.204 2.01 2.01 0 0 0-2.387 0.307c-0.075 0.075-7.772 7.382-26.44 7.382s-26.37-7.307-26.44-7.378a1.995 1.995 0 0 0-2.379-0.323 1.993 1.993 0 0 0-0.951 2.216z" fill="#504945"/>
+      <ellipse cx="104.9" cy="110.1" rx="9.944" ry="13.92" fill="#504945" vector-effect="non-scaling-stroke"/>
+      <ellipse cx="152.7" cy="110.1" rx="9.944" ry="13.92" fill="#504945" vector-effect="non-scaling-stroke"/>
+    </g>
+    <foreignObject requiredExtensions="http://ns.gravit.io/"/>
+  </switch>
+</svg>

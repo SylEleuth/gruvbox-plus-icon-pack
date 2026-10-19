@@ -1,0 +1,36 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#504945" offset="0"/>
+      <stop stop-color="#3c3836" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient1345-7" x1="20" x2="46" y1="80" y2="71.33" gradientTransform="matrix(1.3846 0 0 1.3846 28.368 11.234)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#458588" offset="0"/>
+      <stop stop-color="#076678" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <path d="m73.968 55.003c-9.972 0-18 8.028-18 18v120h9v-21h9v21h9v-19.619h9v28.619h9v-19.619h9v19.619h9v-19.619h9v19.619h9v-19.619h9v19.619h9v-19.619h9v-19.381h-72v-90c0-9.972-8.028-18-18-18zm90.061 108v39h9v-19.619h9v19.619h9v-19.619h9v-19.381z" fill="#282828" opacity=".6" stroke-width="1.5" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <path d="m73.968 49.997c-9.972 0-18 8.028-18 18v120h9v-21h9v21h9v-19.62h9v-100.38c0-9.972-8.028-18-18-18z" fill="url(#linearGradient1345-7)" stroke-width="13.36" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <path d="m144.65 49.997v0.07035c0.4587-0.03477 0.91665-0.07035 1.3846-0.07035zm1.3846 0c9.972 0 18 8.028 18 18v18h36v-18c0-9.972-8.028-18-18-18z" fill="#458588" stroke-width="16.575" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <rect x="164.03" y="85.997" width="36" height="36" fill="#83a598" stroke-width="21.51" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <rect x="164.03" y="122" width="36" height="36" fill="#458588" stroke-width="21.51" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <path d="m108.62 49.997v0.07035c0.4587-0.03477 0.91665-0.07035 1.3846-0.07035zm1.3846 0c9.972 0 18 8.028 18 18v18h36v-18c0-9.972-8.028-18-18-18-0.46785 0-0.92595 0.03555-1.3846 0.07035v-0.07035z" fill="#83a598" stroke-width="16.575" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <rect x="127.97" y="85.997" width="36" height="36" fill="#458588" stroke-width="21.51" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <path d="m74.002 49.997c9.972 0 18 8.028 18 18v18h36v-18c0-9.972-8.028-18-18-18-0.468 0-0.92595 0.03555-1.3846 0.07035v-0.07035z" fill="#458588" stroke-width="16.575" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <rect x="91.968" y="85.997" width="36" height="36" fill="#83a598" stroke-width="21.51" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <rect x="91.968" y="122" width="36" height="36" fill="#458588" stroke-width="21.51" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <rect x="127.97" y="122" width="36" height="36" fill="#83a598" stroke-width="21.51" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <path d="m164.03 158v39h9v-19.62h9v19.62h9v-19.62h9v-19.38z" fill="#83a598" stroke-width="15.78" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <path d="m127.97 158v39h9v-19.62h9v19.62h9v-19.62h9v-19.38z" fill="#458588" stroke-width="15.78" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <path d="m91.968 158v39h9v-19.62h9v19.62h9v-19.62h9v-19.38z" fill="#83a598" stroke-width="15.78" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <path d="m73.967 49.996c-4.8477 0-9.2252 1.9085-12.455 5.0039h12.455c9.972 0 18 8.028 18 18v-5.0039c0-9.972-8.028-18-18-18z" fill="#282828" opacity=".2" style="isolation:isolate;paint-order:stroke fill markers"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>

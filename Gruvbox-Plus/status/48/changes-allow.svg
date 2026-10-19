@@ -1,0 +1,9 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+  <path d="m8 42v1c0 1.108 0.892 2 2 2h28c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-28c-1.108 0-2-0.892-2-2z" fill="#282828" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-40" width="24" height="32" rx="2" ry="2" fill="#cc241d"/>
+  <path d="m10 20c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h28c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-28z" fill="#ebdbb2" opacity=".2"/>
+  <rect x="8" y="24" width="32" height="14" rx="0" ry="0" fill="#fb4934"/>
+  <path d="m24 5c-5.9457 0-10.878 4.325-11.83 10h4.082c0.88784-3.4508 4.0201-6 7.748-6 4.4183 0 8 3.5817 8 8v4h4v-4c0-6.6274-5.3726-12-12-12z" fill="#282828" opacity=".2" style="paint-order:markers fill stroke"/>
+  <path d="m24 4c-5.9457 0-10.878 4.325-11.83 10h4.082c0.88784-3.4508 4.0201-6 7.748-6 4.4183 0 8 3.5817 8 8v4h4v-4c0-6.6274-5.3726-12-12-12z" fill="#928374" style="paint-order:markers fill stroke"/>
+  <path d="m24 4c-5.9457 0-10.878 4.325-11.83 10h0.20703c1.3324-5.1753 6.0318-9 11.623-9 6.6274 0 12 5.3726 12 12v-1c0-6.6274-5.3726-12-12-12z" fill="#ebdbb2" opacity=".2" style="paint-order:markers fill stroke"/>
+</svg>

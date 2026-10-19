@@ -1,0 +1,25 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#83a598" offset="0"/>
+      <stop stop-color="#458588" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <g transform="translate(3.8147e-6 3.6222)" style="isolation:isolate">
+    <rect x="66.981" y="46.595" width="122.04" height="165.78" ry="8.3588" fill="#282828" opacity=".3" style="isolation:isolate;paint-order:markers fill stroke"/>
+    <rect x="66.981" y="41.486" width="122.04" height="165.78" ry="8.3588" fill="#3c3836" style="paint-order:markers fill stroke"/>
+    <path d="m75.34 41.486c-4.6308 0-8.3594 3.7286-8.3594 8.3594v5.1094c0-4.6308 3.7286-8.3594 8.3594-8.3594h105.32c4.6308 0 8.3594 3.7286 8.3594 8.3594v-5.1094c0-4.6308-3.7286-8.3594-8.3594-8.3594z" fill="#ebdbb2" opacity=".1" style="isolation:isolate;paint-order:markers fill stroke"/>
+    <rect x="73.457" y="48.452" width="109.09" height="136.81" ry="2.6607" fill="#ebdbb2" style="isolation:isolate;paint-order:markers fill stroke"/>
+    <rect x="116.3" y="192.83" width="23.405" height="7.0607" ry="2.1397" fill="#665c54" style="paint-order:markers fill stroke"/>
+    <path d="m91.416 66.651v10.844h5.6797v-10.844h-5.6797zm38.18 0v10.844h4.2832v-10.844h-4.2832zm-30.34 1.918v8.9258h6.5527v-8.9258h-6.5527zm20.084 0v8.9258h4.8262v-8.9258h-4.8262zm17.275 0v8.9258h6.3242v-8.9258h-6.3242zm9.3926 0v8.9258h9.0449v-8.9258h-9.0449zm12.254 0v8.9258h6.3223v-8.9258h-6.3223zm-49.859 0.019531v8.9258h8.2793v-8.9258h-8.2793zm0.04883 16.41v10.846h5.6816v-10.846h-5.6816zm9.0293 1.918v8.9277h12.627v-8.9277h-12.627zm15.977 0v8.9277h14.092v-8.9277h-14.092zm-52.709 27.488v4.2324h4.1992v-4.2324h-4.1992zm8.8125 0v4.2324h19.604v-4.2324h-19.604zm23.242 0v4.2324h25.957v-4.2324h-25.957zm31.137 0v4.2324h14.031v-4.2324h-14.031zm18.629 0v4.2324h12.684v-4.2324h-12.684zm-81.82 6.9043v4.2305h12.836v-4.2305h-12.836zm17.17 0v4.2305h22.461v-4.2305h-22.461zm26.795 0v4.2305h8.334v-4.2305h-8.334zm12.609 0v4.2305h25.246v-4.2305h-25.246zm30.641 0v4.2305h7.2891v-4.2305h-7.2891zm-87.215 7.0488v4.2305h7.2891v-4.2305h-7.2891zm12.684 0v4.2305h25.246v-4.2305h-25.246zm29.521 0v4.2305h8.334v-4.2305h-8.334zm12.668 0v4.2305h22.461v-4.2305h-22.461zm26.795 0v4.2305h12.836v-4.2305h-12.836zm-81.668 7.0488v4.2324h17.17v-4.2324h-17.17zm21.012 0v4.2324h13.102v-4.2324h-13.102zm17.93 0v4.2324h27.248v-4.2324h-27.248zm31.621 0v4.2324h14.016v-4.2324h-14.016zm18.031 0v4.2324h5.9102v-4.2324h-5.9102zm-88.594 6.9024v4.2324h4.1992v-4.2324h-4.1992zm8.8125 0v4.2324h19.604v-4.2324h-19.604zm23.242 0v4.2324h25.957v-4.2324h-25.957zm-32.055 7.0508v4.2324h5.9102v-4.2324h-5.9102zm9.9258 0v4.2324h14.016v-4.2324h-14.016zm18.389 0v4.2324h27.248v-4.2324h-27.248zm32.076 0v4.2324h13.102v-4.2324h-13.102zm16.943 0v4.2324h17.17v-4.2324h-17.17zm-77.334 7.0488v4.2305h12.836v-4.2305h-12.836zm17.17 0v4.2305h22.461v-4.2305h-22.461zm26.795 0v4.2305h8.334v-4.2305h-8.334zm12.609 0v4.2305h25.246v-4.2305h-25.246zm30.641 0v4.2305h7.2891v-4.2305h-7.2891zm-87.215 7.0488v4.2324h19.678v-4.2324h-19.678zm23.52 0v4.2324h10.766v-4.2324h-10.766zm14.41 0v4.2324h16.943v-4.2324h-16.943zm21.967 0v4.2324h17.438v-4.2324h-17.438zm21.771 0v4.2324h12.836v-4.2324h-12.836zm-81.668 6.9043v4.2305h12.684v-4.2305h-12.684zm17.281 0v4.2305h14.031v-4.2305h-14.031zm19.211 0v4.2305h25.957v-4.2305h-25.957zm-36.492 10.467v2.2031h5.6445v-2.2031h-5.6445zm7.0234 0v2.2031h2.9375v-2.2031h-2.9375zm81.836 0v2.2031h5.6445v-2.2031h-5.6445z" fill="#a89984" style="isolation:isolate;paint-order:markers fill stroke"/>
+  </g>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>

@@ -1,0 +1,60 @@
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#ebdbb2; } .ColorScheme-Highlight { color:#458588; }</style>
+    <linearGradient id="linearGradient36" x1="15" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#98971a" offset="0"/>
+      <stop stop-color="#b8bb26" offset=".313"/>
+      <stop stop-color="#8ec07c" offset=".563"/>
+      <stop stop-color="#689d6a" offset=".75"/>
+      <stop stop-color="#458588" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient37" x1="1" x2="8" y1="8" y2="1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fb4934" offset="0"/>
+      <stop stop-color="#cc241d" offset=".313"/>
+      <stop stop-color="#8f3f71" offset=".563"/>
+      <stop stop-color="#458588" offset=".75"/>
+      <stop stop-color="#83a598" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient38" x1="15" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#98971a" offset="0"/>
+      <stop stop-color="#b8bb26" offset=".313"/>
+      <stop stop-color="#fabd2f" offset=".563"/>
+      <stop stop-color="#fe8019" offset=".75"/>
+      <stop stop-color="#cc241d" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient39" x1="1" x2="8" y1="8" y2="15" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b16286" offset="0"/>
+      <stop stop-color="#d3869b" offset=".313"/>
+      <stop stop-color="#cc241d" offset=".563"/>
+      <stop stop-color="#fb4934" offset=".75"/>
+      <stop stop-color="#fb4934" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(.8571 0 0 .8571 3.144 3.145)">
+    <g transform="rotate(15,8,8)">
+      <path d="m8 1v7h7a7 7 0 0 0-7-7z" fill="url(#linearGradient36)"/>
+      <path d="m8 1a7 7 0 0 0-7 7h7z" fill="url(#linearGradient37)"/>
+      <path d="m8 8v7a7 7 0 0 0 7-7z" fill="url(#linearGradient38)"/>
+      <path d="m1 8a7 7 0 0 0 7 7v-7z" fill="url(#linearGradient39)"/>
+    </g>
+    <g opacity=".7">
+      <path d="m8 1v7h7a7 7 0 0 0-7-7z" fill="url(#linearGradient36)"/>
+      <path d="m8 1a7 7 0 0 0-7 7h7z" fill="url(#linearGradient37)"/>
+      <path d="m8 8v7a7 7 0 0 0 7-7z" fill="url(#linearGradient38)"/>
+      <path d="m1 8a7 7 0 0 0 7 7v-7z" fill="url(#linearGradient39)"/>
+    </g>
+    <g transform="rotate(45,8,8)" opacity=".35">
+      <path d="m8 1v7h7a7 7 0 0 0-7-7z" fill="url(#linearGradient36)"/>
+      <path d="m8 1a7 7 0 0 0-7 7h7z" fill="url(#linearGradient37)"/>
+      <path d="m8 8v7a7 7 0 0 0 7-7z" fill="url(#linearGradient38)"/>
+      <path d="m1 8a7 7 0 0 0 7 7v-7z" fill="url(#linearGradient39)"/>
+    </g>
+    <g transform="rotate(60,8,8)" opacity=".3">
+      <path d="m8 1v7h7a7 7 0 0 0-7-7z" fill="url(#linearGradient36)"/>
+      <path d="m8 1a7 7 0 0 0-7 7h7z" fill="url(#linearGradient37)"/>
+      <path d="m8 8v7a7 7 0 0 0 7-7z" fill="url(#linearGradient38)"/>
+      <path d="m1 8a7 7 0 0 0 7 7v-7z" fill="url(#linearGradient39)"/>
+    </g>
+  </g>
+  <path class="ColorScheme-Text" d="m9.995 3.998c-2.972 0.0029-5.431 2.134-5.922 5.004-0.05562 0.3252-0.0803 0.581-0.07227 1 0 0 2 0 2-0.0019-0.00108-2.208 1.788-4 3.996-4.002 2.208-0.00216 4 1.793 4.004 4 3e-6 0.00131 0 4.004 0 4.004h-2l3 4 3-4h-2v-4c-1e-6 -0.0013 2e-6 0.0013 0 0 0.01507-0.3756-0.0238-0.6741-0.07667-0.9996-0.4636-2.855-2.957-5.007-5.929-5.004z" fill="currentColor"/>
+</svg>

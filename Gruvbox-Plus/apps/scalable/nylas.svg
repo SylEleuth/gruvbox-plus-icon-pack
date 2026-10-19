@@ -1,0 +1,21 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#83a598" offset="0"/>
+      <stop stop-color="#076678" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h37v-228z" fill="#ebdbb2" opacity=".1" style="isolation:isolate"/>
+  <path d="m28 150.6 88.888 33.335v22.22l-88.888-33.333zm0-44.446 88.888 33.335v22.223l-88.888-33.335zm0-44.442 88.888 33.33v22.224l-88.888-33.335zm111.11 83.333 88.889 33.334v22.22l-88.889-33.331zm0-44.446 88.889 33.334v22.223l-88.889-33.334zm0-44.443 88.889 33.331v22.223l-88.889-33.334z" fill="#1d2021" opacity=".2" style="isolation:isolate"/>
+  <path d="m28 145.44 88.888 33.335v22.22l-88.888-33.333zm0-44.446 88.888 33.335v22.223l-88.888-33.335zm0-44.442 88.888 33.33v22.224l-88.888-33.335zm111.11 83.333 88.889 33.334v22.22l-88.889-33.331zm0-44.446 88.889 33.334v22.223l-88.889-33.334zm0-44.443 88.889 33.331v22.223l-88.889-33.334z" fill="#ebdbb2" style="isolation:isolate"/>
+  <path d="m139.11 51v5.1562l88.889 33.332v-5.1562zm-111.11 5.5566v5.1562l88.889 33.33v-5.1562zm111.11 38.887v5.1563l88.889 33.334v-5.1562zm-111.11 5.5547v5.1562l88.889 33.336v-5.1562zm111.11 38.891v5.1582l88.889 33.334v-5.1582zm-111.11 5.5566v5.1562l88.889 33.334v-5.1562z" fill="#fbf1c7" opacity=".6" style="isolation:isolate"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>

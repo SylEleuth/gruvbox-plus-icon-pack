@@ -1,0 +1,21 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#504945" offset="0"/>
+      <stop stop-color="#3c3836" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <path d="m128 50.51a38.46 38.46 0 0 0-38.461 38.461 38.46 38.46 0 0 0 38.461 38.459 38.46 38.46 0 0 0 38.459-38.459 38.46 38.46 0 0 0-38.459-38.461zm0 86.57a38.46 38.46 0 0 0-38.461 38.459 38.46 38.46 0 0 0 38.461 38.461 38.46 38.46 0 0 0 38.459-38.461 38.46 38.46 0 0 0-38.459-38.459z" fill="#282828" opacity=".3"/>
+  <circle cx="128" cy="84.715" r="38.46" fill="#83a598" stroke-width="4.808"/>
+  <circle cx="128" cy="171.28" r="38.46" fill="#d79921" stroke-width="4.808"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+  <path d="m128 46.255a38.46 38.46 0 0 0-38.461 38.459 38.46 38.46 0 0 0 0.16797 2.3418 38.46 38.46 0 0 1 38.293-36.547 38.46 38.46 0 0 1 38.354 35.711 38.46 38.46 0 0 0 0.10742-1.5059 38.46 38.46 0 0 0-38.461-38.459zm0 86.568a38.46 38.46 0 0 0-38.461 38.461 38.46 38.46 0 0 0 0.16797 2.3398 38.46 38.46 0 0 1 38.293-36.545 38.46 38.46 0 0 1 38.293 36.555 38.46 38.46 0 0 0 0.16796-2.3496 38.46 38.46 0 0 0-38.461-38.461z" fill="#ebdbb2" opacity=".2"/>
+</svg>

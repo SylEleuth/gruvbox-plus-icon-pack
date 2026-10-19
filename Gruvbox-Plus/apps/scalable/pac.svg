@@ -1,0 +1,37 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3c3836" offset="0"/>
+      <stop stop-color="#3c3836" offset="1"/>
+    </linearGradient>
+    <linearGradient id="_lgradient_162" x2="0" y2="1" gradientTransform="matrix(145,0,0,124.3,55.75,64.56)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d5c4a1" offset="0"/>
+      <stop stop-color="#bdae93" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <g transform="translate(-.75 -.51)" style="isolation:isolate">
+    <g fill="#1d2021" filter="url(#tgydtBw4mcdG78KnWd73nwqMeIZkHP8E)">
+      <path d="m97.18 191.4-10.36-10.36h-20.71c-5.738 0-10.36-4.619-10.36-10.36v-93.21c0-5.738 4.619-10.36 10.36-10.36h124.3c5.738 0 10.36 4.619 10.36 10.36v93.21c0 5.738-4.619 10.36-10.36 10.36h-20.71l-10.36 10.36z" fill="#1d2021"/>
+    </g>
+    <path d="m97.18 188.8-10.36-10.36h-20.71c-5.738 0-10.36-4.619-10.36-10.36v-93.21c0-5.738 4.619-10.36 10.36-10.36h124.3c5.738 0 10.36 4.619 10.36 10.36v93.21c0 5.738-4.619 10.36-10.36 10.36h-20.71l-10.36 10.36z" fill="url(#_lgradient_162)"/>
+    <g opacity=".5">
+      <path d="m107.5 168.1-10.36-10.36h-20.72v-72.5h103.6v72.5h-20.72l-10.36 10.36z"/>
+    </g>
+    <g fill="#fabd2f">
+      <rect transform="rotate(180,97.18,90.46)" x="92" y="85.28" width="10.36" height="10.36"/>
+      <rect transform="rotate(180,112.7,90.46)" x="107.5" y="85.28" width="10.36" height="10.36"/>
+      <rect transform="rotate(180,128.2,90.46)" x="123.1" y="85.28" width="10.36" height="10.36"/>
+      <rect transform="rotate(180,143.8,90.46)" x="138.6" y="85.28" width="10.36" height="10.36"/>
+      <rect transform="rotate(180,159.3,90.46)" x="154.1" y="85.28" width="10.36" height="10.36"/>
+    </g>
+  </g>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+</svg>

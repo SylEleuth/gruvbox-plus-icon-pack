@@ -1,0 +1,38 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradient31" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.986,12)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ebdbb2" stop-opacity=".2" offset="0"/>
+      <stop stop-color="#ebdbb2" stop-opacity=".05" offset=".1"/>
+      <stop stop-opacity="0" offset=".7036"/>
+      <stop stop-opacity=".1" offset=".8975"/>
+      <stop stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#458588" offset="0"/>
+      <stop stop-color="#458588" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#linearGradient6)" style="isolation:isolate"/>
+  <path d="m55.113 134.38v38.818c12.197 6.3934 24.311 12.884 36.443 19.398l36.445 19.4 36.443-19.4c12.132-6.5142 24.247-13.005 36.443-19.398v-38.818c-12.162 6.4583-24.339 12.96-36.443 19.527l-36.443 19.527-0.00195 19.281v-19.281l-36.443-19.527c-12.104-6.5669-24.281-13.069-36.443-19.527z" fill="#282828" opacity=".2" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 4h74c68 0 80 15 80 83v56c0 66-12 81-80 81h-74c-68 0-80-15-80-81v-56c0-68 12-83 80-83z" fill="url(#linearGradient31)" style="isolation:isolate"/>
+  <path d="m55.112 91.211v38.345l36.444 19.528v-38.582z" fill="#ebdbb2" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m128 52.457-36.444 19.377 36.444 19.359 36.445-19.28z" fill="#bdae93" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m128 91.193-36.444 19.309 36.444 19.291 36.444-19.291z" fill="#bdae93" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m91.556 110.5v38.582l36.444 19.528v-38.819z" fill="#d5c4a1" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m55.112 129.56v38.819c12.197 6.3934 24.312 12.885 36.444 19.399v-38.69c-12.104-6.5669-24.282-13.069-36.444-19.528z" fill="#d5c4a1" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m91.556 149.08v38.69l36.444 19.399-7.2e-4 -38.561z" fill="#ebdbb2" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m200.89 129.56-36.444 19.528v-38.582z" fill="#d5c4a1" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m164.44 110.5v38.582l-36.444 19.528v-38.819z" fill="#ebdbb2" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m200.89 129.56v38.819c-12.197 6.3934-24.312 12.885-36.444 19.399v-38.69c12.104-6.5669 24.282-13.069 36.444-19.528z" fill="#ebdbb2" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m164.44 149.08v38.69l-36.444 19.399 7.2e-4 -38.561z" fill="#d5c4a1" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m91.556 71.834 36.444 19.359-36.444 19.309-36.444-19.291z" fill="#d5c4a1" style="isolation:isolate"/>
+  <path d="m128 52.457-72.889 38.754 4.2812 2.2656 68.607-36.477 32.172 17.174 4.2734-2.2617z" fill="#ebdbb2" opacity=".3" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m146.22 81.553 0.43805 19.527-18.661-9.8871z" fill="#d5c4a1" style="isolation:isolate"/>
+  <path d="m182.67 52.221-36.445 18.454v36.334l36.445 19.183 36.443-18.951v-36.566z" fill="#282828" opacity=".15" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m219.11 67.282v36.567l-36.444 18.95v-36.843z" fill="#fe8019" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m219.11 67.283-36.445 18.673v3.3931l36.443-18.675v33.178l2e-3 -2e-3z" fill="#ebdbb2" opacity=".2" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m146.22 67.282v36.335l36.444 19.182v-36.843z" fill="#af3a03" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m146.22 67.282v3.3931l36.443 18.673v-3.3931z" fill="#282828" opacity=".15" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m182.67 48.828-36.444 18.454 36.444 18.674 36.444-18.674z" fill="#d65d0e" stroke-width="1.131" style="isolation:isolate"/>
+  <path d="m182.67 48.827-36.443 18.454 3.329 1.7054 33.114-16.767 33.116 16.767 3.329-1.7054z" fill="#ebdbb2" opacity=".2" stroke-width="1.131" style="isolation:isolate"/>
+</svg>
