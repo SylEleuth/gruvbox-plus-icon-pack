@@ -1,0 +1,26 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#d5c4a1" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient10" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#282828" stop-opacity=".05" offset=".1966"/>
+      <stop stop-color="#282828" stop-opacity="0" offset=".50485"/>
+      <stop stop-color="#282828" stop-opacity=".1" offset=".74636"/>
+      <stop stop-color="#282828" stop-opacity=".2" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <path d="m124.14 44.314v3.888h-3.7303v64.718h-3.7662v3.7644h-3.8289v23.104h3.8289v3.7016h3.7662v22.85h-11.169v-3.958h-7.9141v3.7393h-3.7464v7.846h3.7464v3.7644h3.958v3.863h15.126v18.915h-3.7393v7.717h3.7393v3.7733h15.19v-3.7733h3.7393v-7.717h-3.7393v-18.915h15.126v-3.863h3.958v-3.7644h3.7464v-7.846h-3.7464v-3.7393h-7.9141v3.958h-11.169v-22.85h3.7662v-3.7016h3.8289v-23.104h-3.8289v-3.7644h-3.7662v-64.718h-3.7303v-3.888z" fill="#ebdbb2" opacity=".6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.878" style="paint-order:stroke fill markers"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 5h74c35.653 0 55.307 3.9448 65.895 14.965 10.588 11.02 14.105 31.336 14.105 67.035v56c0 34.69-3.4936 54.457-14.07 65.25-10.577 10.793-30.277 14.75-65.93 14.75h-74c-35.653 0-55.353-3.9574-65.93-14.75-10.577-10.793-14.07-30.56-14.07-65.25v-56c0-35.699 3.5176-56.015 14.105-67.035 10.588-11.02 30.242-14.965 65.895-14.965z" fill="url(#linearGradient10)" style="isolation:isolate"/>
+  <path d="m124.14 42.314v3.888h-3.7303v64.718h-3.7662v3.7644h-3.8289v23.104h3.8289v3.7016h3.7662v22.85h-11.169v-3.958h-7.9141v3.7393h-3.7464v7.846h3.7464v3.7644h3.958v3.863h15.126v18.915h-3.7393v7.717h3.7393v3.7733h15.19v-3.7733h3.7393v-7.717h-3.7393v-18.915h15.126v-3.863h3.958v-3.7644h3.7464v-7.846h-3.7464v-3.7393h-7.9141v3.958h-11.169v-22.85h3.7662v-3.7016h3.8289v-23.104h-3.8289v-3.7644h-3.7662v-64.718h-3.7303v-3.888z" fill="#282828" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.878" style="paint-order:stroke fill markers"/>
+  <rect x="124.14" y="46.21" width="7.7169" height="64.711" fill="#a89984" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5467" style="paint-order:stroke fill markers"/>
+  <path d="m116.58 114.68v23.104h22.916v-23.104zm7.6166 7.7062h7.6829v7.6918h-7.6829z" fill="#83a598" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8356" style="paint-order:stroke fill markers"/>
+  <rect x="124.14" y="141.49" width="7.7169" height="18.892" fill="#458588" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8422" style="paint-order:stroke fill markers"/>
+  <path d="m101.32 164.28v7.6918h3.958v3.7644h18.856v3.863l7.7295 0.0645v-3.863h18.856v-3.7644h3.958v-7.6918h-7.9141v3.8307h-14.9v-3.8307l-7.7295-0.0645v3.8307h-14.9v-3.8307zm19.084 34.234v7.717l15.19 0.0645v-7.7169z" fill="#fabd2f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8356" style="paint-order:stroke fill markers"/>
+  <rect x="124.14" y="179.59" width="7.7169" height="22.813" fill="#458588" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8362" style="paint-order:stroke fill markers"/>
+  <path d="m120.4 141.49v3.7339h3.7303v-3.7339zm11.447 0v3.7339h3.7429v-3.7339z" fill="#ebdbb2" opacity=".12756" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8356" style="paint-order:stroke fill markers"/>
+  <rect x="124.14" y="141.49" width="7.7169" height="3.7344" fill="#282828" opacity=".2574" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8356" style="paint-order:stroke fill markers"/>
+</svg>
