@@ -1,4 +1,4 @@
-<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="linearGradient6" x1="140" x2="140" y1="12" y2="240" gradientUnits="userSpaceOnUse">
       <stop stop-color="#504945" offset="0"/>
@@ -36,6 +36,6 @@
     <path class="ColorScheme-Text" d="m157 206.78v10.168h66.091v-10.168zm66.091-10.168v-11.012l-33.045-33.045-33.045 33.045v11.012z" color="#ebdbb2" fill="#282828" opacity=".3" stroke-width="5.5079" style="isolation:isolate"/>
     <path class="ColorScheme-Text" d="m157 202.79v10.168h66.091v-10.168zm66.091-10.168v-11.012l-33.045-33.045-33.045 33.045v11.012z" color="#ebdbb2" fill="currentColor" stroke-width="5.5079" style="isolation:isolate"/>
     <path class="ColorScheme-Text" d="m190.05 148.56-33.045 33.045v3.9961l33.045-33.045 33.045 33.045v-3.9961zm-33.045 54.225v3.9961h66.09v-3.9961z" fill="#fbf1c7" opacity=".6" style="isolation:isolate"/>
-    <path d="m250.01 126-5 0.0547v28.9c0 34.69-3.4939 54.457-14.07 65.25-10.577 10.793-30.277 14.75-65.93 14.75h-36.666c0.0621 1.6652 0.12932 3.3306 0.20313 4.9961 1.9e-4 4e-3 36.191 4e-3 36.451 4e-3h0.0117c8.9948-2.3e-4 17.07-0.23464 24.312-0.78125 50.723-3.8282 60.676-22.969 60.676-84.219z" fill="url(#linearGradient108)" opacity=".1" style="isolation:isolate"/>
+    <path d="m250.01 126-5 0.0547v28.9c0 34.69-3.4939 54.457-14.07 65.25-10.577 10.793-30.277 14.75-65.93 14.75h-36.666c0.0621 1.6652 0.12932 3.3306 0.20313 4.9961 1.9e-4 4e-3 36.191 4e-3 36.451 4e-3h0.0117c8.9948-2.3e-4 17.07-0.23464 24.312-0.78125 50.723-3.8282 60.676-22.969 60.676-84.219z" fill="url(#linearGradient108)" opacity=".2" style="isolation:isolate"/>
   </g>
 </svg>
