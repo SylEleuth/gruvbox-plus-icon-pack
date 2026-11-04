@@ -16,7 +16,7 @@
 
 **Gruvbox Plus** is using color scheme from [Gruvbox](https://github.com/morhetz/gruvbox).
 
-<br />
+> Only humans were used in creation of those icons. No AI.
 
 Contents
 --------
