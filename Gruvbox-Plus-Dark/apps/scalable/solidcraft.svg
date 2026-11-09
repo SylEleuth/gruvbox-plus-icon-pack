@@ -1,0 +1,32 @@
+<svg width="256" height="256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="b" x1=".5002" x2=".5002" y2="1" gradientTransform="matrix(244,0,0,228,5.981,12)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ebdbb2" offset="0"/>
+    <stop stop-color="#d5c4a1" offset="1"/>
+  </linearGradient>
+  <defs>
+    <linearGradient id="linearGradient10" x1="128" x2="128" y1="12" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#282828" stop-opacity=".1" offset="0"/>
+      <stop stop-color="#282828" stop-opacity=".05" offset=".1966"/>
+      <stop stop-color="#282828" stop-opacity="0" offset=".50485"/>
+      <stop stop-color="#282828" stop-opacity=".1" offset=".74636"/>
+      <stop stop-color="#282828" stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="385.63" x2="522.99" y1="53.364" y2="510.77" gradientTransform="matrix(.18221 0 0 .18221 34.711 33.484)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#83a598" offset="0"/>
+      <stop stop-color="#458588" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient12" x1="107.38" x2="107.38" y1="43.208" y2="213" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fbf1c7" stop-opacity=".6" offset="0"/>
+      <stop stop-color="#ebdbb2" offset="1"/>
+    </linearGradient>
+  </defs>
+  <path d="m165 12c72 0 85 15 85 87v56c0 70-13 85-85 85h-74c-72 0-85-15-85-85v-56c0-72 13-87 85-87z" fill="url(#b)" style="isolation:isolate"/>
+  <path d="m128 48.207-68.807 39.898 68.807 39.658 29.471-16.988-36.01-20.756 39.305-22.926zm36.039 24.57-29.502 17.209 29.502 17.004zm-108.12 21.012v37.76l36.039 20.773v41.795l32.76 18.883v-79.557zm111.4 18.877v33.98l29.477-16.99zm-6.5586 3.7852-29.48 16.992v79.557l68.799-39.654v-38.012l-39.318 22.664z" fill="url(#linearGradient12)" opacity=".6" stroke-width=".18221"/>
+  <path id="Inner___upper_step___36_pt_cutout" d="m134.54 84.987 29.502-17.209v34.213z" fill="#076678" stroke-width=".18221" data-name="Inner • upper step • 36 pt cutout"/>
+  <path id="Top___lower_step___36_pt_cutout" d="m167.32 141.65v-33.979l29.476 16.99z" fill="#458588" stroke-width=".18221" data-name="Top • lower step • 36 pt cutout"/>
+  <path id="Right___milled_recess___36_pt_cutout" d="m131.28 128.44 29.48-16.992v41.546l39.319-22.663v38.011l-68.8 39.655z" fill="#076678" stroke-width=".18221" data-name="Right • milled recess • 36 pt cutout"/>
+  <path id="Left___stepped_face___36_pt_cutout" d="m55.921 126.55v-37.76l68.8 39.655v79.556l-32.76-18.882v-41.796z" fill="#458588" stroke-width=".18221" data-name="Left • stepped face • 36 pt cutout"/>
+  <path id="Top___extruded_profile___36_pt_cutout" d="m59.195 83.105 68.805-39.898 32.766 18.886-39.304 22.927 36.01 20.756-29.472 16.987z" fill="url(#linear-gradient-5)" stroke-width=".18221" data-name="Top • extruded profile • 36 pt cutout"/>
+  <path d="m128 43.207-68.807 39.898 4.3242 2.4922 64.48-37.391 28.455 16.402 4.3125-2.5156-32.766-18.887zm36.039 24.57-29.502 17.209 4.3106 2.4844 25.189-14.693v29.211l0.00196 0.00195v-34.213zm-38.268 19.727-4.3125 2.5156 31.674 18.256 4.3379-2.5-31.699-18.271zm-69.852 1.2852v5.002l68.797 39.652v74.555l0.00195 0.00195v-79.557l-68.799-39.654zm111.4 18.877v5.002l25.139 14.488 4.3379-2.5-29.477-16.99zm-6.5586 3.7852-29.48 16.992v4.998l29.479-16.99v41.547l39.318-22.664v33.014l0.00196-0.00196v-38.012l-39.318 22.664v-41.547z" fill="#282828" opacity=".2" stroke-width=".18221"/>
+  <path d="m91 12c-72 0-85 15-85 87v56c0 70 13 85 85 85h74c72 0 85-15 85-85v-56c0-72-13-87-85-87zm0 5h74c35.653 0 55.307 3.9448 65.895 14.965 10.588 11.02 14.105 31.336 14.105 67.035v56c0 34.69-3.4936 54.457-14.07 65.25-10.577 10.793-30.277 14.75-65.93 14.75h-74c-35.653 0-55.353-3.9574-65.93-14.75-10.577-10.793-14.07-30.56-14.07-65.25v-56c0-35.699 3.5176-56.015 14.105-67.035 10.588-11.02 30.242-14.965 65.895-14.965z" fill="url(#linearGradient10)" style="isolation:isolate"/>
+</svg>
