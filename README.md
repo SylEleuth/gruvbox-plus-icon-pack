@@ -26,7 +26,7 @@ Contents
     - [Repositories](#repositories)
         - [Arch Linux](#arch-linux)
         - [NixOS](#nixos)
-        - [OpenSUSE](#nixos)
+        - [openSUSE](#opensuse)
         - [Store](#store)
     - [Manual Installation](#manual-installation)
  - [Color Variants](#color-variants)
@@ -71,7 +71,7 @@ Git version (maintained by [Eureka-cpu](https://github.com/eureka-cpu) and [Glic
 
 ``` nix-env -iA nixos.gruvbox-plus-icons ```
 
-##### OpenSUSE
+##### openSUSE
 
 Release version - https://build.opensuse.org/package/show/home:CouldBeMathijs/gruvbox-plus-icon-theme
 (maintained by [MogelijksMathijs](https://github.com/CouldBeMathijs))
