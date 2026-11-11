@@ -26,6 +26,7 @@ Contents
     - [Repositories](#repositories)
         - [Arch Linux](#arch-linux)
         - [NixOS](#nixos)
+        - [OpenSUSE](#nixos)
         - [Store](#store)
     - [Manual Installation](#manual-installation)
  - [Color Variants](#color-variants)
